@@ -17,14 +17,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1704tohoku" target="_blank"><img src="/2016/images/top/1704tohokuseikai.jpg"></a>
-<p class="block-date">2017年4月2日〜4月8日</p>
-<p class="block-title"><a href="http://astone.tv/events/1704tohoku" target="_blank">緑の風薫る東北聖会<br>東北宣教の旅<br>(日程：2017年4月4日〜4月8日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/mission/1704usa" target="_blank"><img src="/2016/images/top/1704america.jpg"></a>
 <p class="block-date">2017年4月7日〜9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1704usa" target="_blank">アメリカチーム<br>直前情報写真集<br>(日程：2017年4月10日〜13日)</a></p>
@@ -49,26 +41,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1704gospel" target="_blank"><img src="/2016/images/top/1704giftsmyanmar.jpg"></a>
-<p class="block-date">2017年4月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1704gospel" target="_blank">Gifts<br>ミャンマー人教会の集会で奉仕<br>(日程：2017年4月8日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017healing/201704healing/" target="_blank"><img src="/2016/images/top/1704iyashinotsudoi.jpg"></a>
-<p class="block-date">2017年4月8日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/201704healing/" target="_blank">4月いやしの集いの一日</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1704gracious/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+<a href="http://antiochblog.jp/info/1704gracious/" target="_blank"><img src="/2016/images/top/1704gracioustonai.jpg"></a>
 <p class="block-date">2017年4月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1704gracious/" target="_blank">GRACIOUS  DOORS<br>練馬区のデイサービスでボランティア・コンサート<br>(日程：2017年4月9日)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -76,14 +52,6 @@
 <a href="http://antiochblog.jp/mission/1704event/" target="_blank"><img src="/2016/images/top/1704shingakkizenkoku.jpg"></a>
 <p class="block-date">2017年4月3日-9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1704event/" target="_blank">4月新学期の一週間 <br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/nyugakusiki201704/" target="_blank"><img src="/2016/images/top/1704nyuugakushiki.jpg"></a>
-<p class="block-date">2017年4月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nyugakusiki201704/" target="_blank">うきうきわくわく<br>神学校入学式<br>(日程：2017年4月8日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -132,6 +100,35 @@
 <a href="http://tv.antioch.jp/1703revival/" target="_blank"><img src="/2016/images/top/1703revivalcamp_m_blog.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/1703revival/" target="_blank">動画で見る！<br>感謝と賛美とリバイバルキャンプ<br>動画ブログ<br>(日程：2017年3月27日〜4月1日)</a></p>
 </div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1704tohoku" target="_blank"><img src="/2016/images/top/1704tohokuseikai.jpg"></a>
+<p class="block-date">2017年4月2日〜4月8日</p>
+<p class="block-title"><a href="http://astone.tv/events/1704tohoku" target="_blank">緑の風薫る東北聖会<br>東北宣教の旅<br>(日程：2017年4月4日〜4月8日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1704gospel" target="_blank"><img src="/2016/images/top/1704giftsmyanmar.jpg"></a>
+<p class="block-date">2017年4月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1704gospel" target="_blank">Gifts<br>ミャンマー人教会の集会で奉仕<br>(日程：2017年4月8日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017healing/201704healing/" target="_blank"><img src="/2016/images/top/1704iyashinotsudoi.jpg"></a>
+<p class="block-date">2017年4月8日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/201704healing/" target="_blank">4月いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/nyugakusiki201704/" target="_blank"><img src="/2016/images/top/1704nyuugakushiki.jpg"></a>
+<p class="block-date">2017年4月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/nyugakusiki201704/" target="_blank">うきうきわくわく<br>神学校入学式<br>(日程：2017年4月8日)</a></p>
+</div>
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
