@@ -67,7 +67,7 @@ setcookie($cookie, $count_from_sp, $period);
 <script type="text/javascript">
 $(document).ready(function(){
     $('.bxslider2').bxSlider({
-		auto: true,
+		auto: false,
 		pause:	5000,
 		speed: 1000,
 		pager: false,
@@ -96,7 +96,7 @@ $(document).ready(function(){
       <div id="main-narrow">
         <div id="top-leftarea">
           <div>
-            <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/top_movie_161219.php') ?>
+            <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/top_movie_170414.php') ?>
           </div>
 
           <div id="headline">
@@ -212,15 +212,11 @@ $(document).ready(function(){
               <h3>アンテオケ教会の催し物・集会</h3>
               <dl><?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/next_charisma.php'); ?>
                <!--- 東京カリスマ聖会の日時変更時は、/2016/include/next_charisma.phpファイル内の $next_charisma_date の値を書き換えてください。 --->
-                <!--- <dt>2016年 12月24日(土)</dt>
-                <dd><a href="http://gospelconcert.jp/">こころごすぺる</a><br>
-                時間：19:00〜<br>
-                場所：武蔵野公会堂</dd> --->
-                
+                <!--- 
                 <dt>2017年 4月14日(金)</dt>
                 <dd><a href="http://gospelconcert.jp/" target="_blank">こころごすぺる</a><br>
                 19:00開演 18:30開場<br>
-                亀戸文化センター カメリアホール</dd>
+                亀戸文化センター カメリアホール</dd> --->
                 
                 <dt><?php echo $next_charisma_date;?></dt>
                 <dd><a href="/tcm/">東京カリスマ聖会</a><br>時間：16:15〜20:30<br>場所：ハイアットリージェンシー東京 地下1階<br>講師：パウロ秋元牧師 他</dd>
@@ -249,7 +245,16 @@ $(document).ready(function(){
 
         </div>
       </section>
-
+       
+<!--      <section class="evt-jgospelfes" style="background-color:#cccccc;">
+        <div class="evt-jgospelfes--inner"> <img src="/2016/images/evt/1704kokorogospel.jpg" class="evt-jgospelfes--thumb" width="120">
+          <h3 class="evt-jgospelfes--title">こころごすぺる 26th をライブ配信します。</h3>
+          <p class="evt-jgospelfes--desc" style="font-size:14.4px;">ライブ配信1名 1,000円 5名以上 3,000円<br>
+ライブ配信のお申し込みは、下記メールアドレスまで。<br>
+thevision.gospel@gmail.com</p>
+        </div>
+      </section>
+-->
        <!--<section class="evt-jgospelfes" style="background-color:#C3D7F1">
         <div class="evt-jgospelfes--inner"> <img src="/2016/images/evt/1609prayforjerusalem.jpg" class="evt-jgospelfes--thumb" width="120">
           <h3 class="evt-jgospelfes--title">エルサレムの平和のために祈る集い　Day of Prayer for the Peace of Jerusalem</h3>
@@ -309,10 +314,10 @@ $(document).ready(function(){
         <div id="orphanage--inner">
           <h3>ファミリーホーム設立支援について</h3>
           <p>
-皆様のお祈りとご献金をありがとうございます。
+<!--皆様のお祈りとご献金をありがとうございます。
 
 ファミリーホームの常駐スタッフとなります養育者に、星名悠葵(ほしなゆうき)さん、養育補助者に真栄城勝彦(まえしろかつひこ)さん、真栄城悦美(まえしろえつみ)さん夫妻が決まりました。<!--現在、設置母体であります社会福祉法人からし種の会より、ホーム内外に必要な設備の準備が進められております。<br>礎の石孤児院に届いておりますファミリーホーム(アーモンドの枝)支援献金残額は2,087,344円(2016年5月6日現在)です。<br>
-5月末に行われる里親審議会という審査を経てファミリーホームとしての認可取得となります。さらに養育者、養育補助者となる方々は里親研修を受けます。<!--さらに認可取得のため、無事に開所がなされますよう-->引き続き、お祈りとご支援をよろしくお願いいたします。<br><br>
+5月末に行われる里親審議会という審査を経てファミリーホームとしての認可取得となります。さらに養育者、養育補助者となる方々は里親研修を受けます。<!--さらに認可取得のため、無事に開所がなされますよう引き続き、-->お祈りとご支援をよろしくお願いいたします。<br><br>
 ■銀行口座<br>
 口座名/特定非営利活動法人礎の石孤児院　日本での孤児院設立及び支援のため<br>
 みずほ銀行 五反田支店　(普通) 2915961<br>
