@@ -17,22 +17,103 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/1704usa" target="_blank"><img src="/2016/images/top/1704america.jpg"></a>
-<p class="block-date">2017年4月7日〜9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1704usa" target="_blank">アメリカチーム<br>直前情報写真集<br>(日程：2017年4月10日〜13日)</a></p>
+<a href="http://antiochblog.jp/praise/1703yokosuka/" target="_blank"><img src="/2016/images/top/1704yokosuka.jpg"></a>
+<p class="block-date">2017年4月14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1703yokosuka/" target="_blank">気持ちのいい海風にふかれながら<br>横須賀聖会<br>(日程：2017年4月14日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/blog1704/" target="_blank"><img src="/2016/images/top/1704hanayoridangoantioch.jpg"></a>
+<p class="block-date">2017年4月10日〜16日</p>
+<p class="block-title"><a href="http://astone.tv/events/blog1704/" target="_blank">花より団子<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/revival2017/0415night/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
+<p class="block-date">2017年4月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0415night/" target="_blank">4月Revival Nightの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年4月15日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年4月15日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/201704daycare/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+<p class="block-date">2017年4月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/201704daycare/" target="_blank">エルサレム<br>埼玉ディケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/event1704" target="_blank"><img src="/2016/images/top/1704hanayoridangozenkoku.jpg"></a>
+<p class="block-date">2017年4月10日〜16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/event1704" target="_blank">花より団子<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/cornerstone170415/" target="_blank"><img src="/2016/images/top/1704rijikainoichinichi.jpg"></a>
+<p class="block-date">2017年4月15日</p>
+<p class="block-title"><a href="http://astone.tv/events/cornerstone170415/" target="_blank">礎の石孤児院<br>理事会の一日<br>(日程：2017年4月15日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/mission/1704concert" target="_blank"><img src="/2016/images/top/1704kokorogospelnimukatte.jpg"></a>
-<p class="block-date">2017年4月3日〜9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1704concert" target="_blank">こころごすぺる直前<br>2週間前の大忙し<br>(日程：2017年4月14日)</a></p>
+<p class="block-date">2017年4月10日〜14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1704concert" target="_blank">いよいよ今日本番！<br>こころごすぺる<br>どたばた大忙し<br>(日程：2017年4月14日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
+<a href="http://blog.antioch.jp/1704america/" target="_blank"><img src="/2016/images/top/1704america.jpg"></a>
+<p class="block-date">2017年4月10日〜13日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1704america/" target="_blank">アメリカチーム<br>最新情報写真集<br>(日程：2017年4月10日〜13日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1704truevine/" target="_blank"><img src="/2016/images/top/1704true.jpg"></a>
+<p class="block-date">2017年4月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1704truevine/" target="_blank">The VisionとTrue Vine飯田橋ヘ<br>ショッピングセンターでゴスペルコンサート<br>(日程：2017年4月13日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1704utunomiya" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
+<p class="block-date">2017年4月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1704utunomiya" target="_blank">GRACEと宝石<br>宇都宮駅前の広場でゴスペルライブ</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1704praise/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+<p class="block-date">2017年4月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/1704praise/" target="_blank">Gifts<br>飯田橋のショッピングセンターでゴスペルコンサート<br>(日程：2017年4月12日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/20170410misato/" target="_blank"><img src="/2016/images/top/1703jerumisato.jpg"></a>
+<p class="block-date">2017年4月11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20170410misato/" target="_blank">エルサレム<br>三郷でゴスペルコンサート<br>(日程：2017年4月11日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/1704event" target="_blank"><img src="/2016/images/top/1704shingakiantioch.jpg"></a>
 <p class="block-date">2017年4月3日〜9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1704event" target="_blank">4月新学期の一週間<br>アンテオケ教会</a></p>
@@ -40,7 +121,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/1704gracious/" target="_blank"><img src="/2016/images/top/1704gracioustonai.jpg"></a>
 <p class="block-date">2017年4月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1704gracious/" target="_blank">GRACIOUS  DOORS<br>練馬区のデイサービスでボランティア・コンサート<br>(日程：2017年4月9日)</a></p>
@@ -48,7 +128,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/mission/1704event/" target="_blank"><img src="/2016/images/top/1704shingakkizenkoku.jpg"></a>
 <p class="block-date">2017年4月3日-9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1704event/" target="_blank">4月新学期の一週間 <br>全国各教会</a></p>
@@ -56,34 +135,24 @@
 
 <div class="column-inner">
 <span class="label-2">映像</span>
-<span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201703revivalcamp/" target="_blank"><img src="/2016/images/top/1704revivalcampdigest_m.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201703revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェスト映像<br>(日程：2017年3月27日〜4月1日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://blog.antioch.jp/1703revival/category/dst/" target="_blank"><img src="/2016/images/top/1704revivalcampdigest_b.jpg"></a>
 <p class="block-title"><a href="http://blog.antioch.jp/1703revival/category/dst/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェスト写真集<br>(短く全てを知りたい人のために)<br>(日程：2017年3月27日〜4月1日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
-<span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201703marline/" target="_blank"><img src="/2016/images/top/1704merlinshinobukai_m.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201703marline/" target="_blank">マーリンさんを偲ぶ会映像<br>(日程：2017年3月30日)</a></p>
 </div>
 
 <div class="column-inner">
-<span>NEW</span>
-<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1703kokorogospelinfo.jpg"></a>
-<p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 26th<br>コンサートのご案内<br>2017年4月14日(金)19:00開演<br>亀戸文化センターカメリアホール</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
-<span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201703gospel-showcase/" target="_blank"><img src="/2016/images/top/1704gospelshowcase_m.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201703gospel-showcase/" target="_blank">GOSPEL SHOWCASE<br>映像保存版<br>(日程：2017年3月31日)</a></p>
 </div>
@@ -174,7 +243,6 @@
 
 <div class="column-inner">
 <span class="label-2">映像</span>
-<span>NEW</span>
 <a href="http://movie.antioch.jp/2017hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
 <p class="block-title"><a href="http://movie.antioch.jp/2017hcff/" target="_blank">第7回 白馬クリスチャンフィルムフェスティバル<br>受賞作品とその他全作品</a></p>
 </div>
@@ -201,7 +269,6 @@
 </div>
 
 <div class="column-inner">
-<span>NEW</span>
 <a href="http://tokyo.antioch.jp/yorimichi/result-presence.html" target="_blank"><img src="/2016/images/top/1702yorimichi25kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-presence.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.25<br>今回は「神様の存在を感じた時」のお話しの人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
@@ -241,14 +308,6 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年3月25日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br> (日程：2017年3月25日 18:30スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年3月18日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年3月18日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
