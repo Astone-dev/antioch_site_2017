@@ -106,8 +106,8 @@
               <li><a href="/muti-lang/eng/contents/onsei/">インターナショナルサービス</a></li>
               <li><a href="http://young-antioch.blogspot.jp/" target="_blank">ヤング礼拝</a></li>
               <li><a href="/internet-tv/">GLTV</a></li>
-              <li><a href="/movie/keypoint_download.html">クリスチャンのキーポイント</a></li>
-              <li><a href="/movie/movie_d.html">過去の動画</a></li>
+              <li><a href="http://movie.antioch.jp/keypoint/download/">クリスチャンのキーポイント</a></li>
+              <li><a href="http://tv.antioch.jp/digest/download/">過去の動画</a></li>
             </ul>
           </div>
         </li>
