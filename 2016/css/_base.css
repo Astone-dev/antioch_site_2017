@@ -462,9 +462,9 @@ div#content div.column3 .column-inner{
   float:left;
   position:relative;
   z-index:1;
-  width:408px;
+  width:402px;
   height:335px;
-  margin:20px 9px 15px 9px;
+  margin:20px 12px 15px 12px;
   padding:5px 0px 20px 0px;
   background-color:#FFF;
 }
@@ -743,12 +743,11 @@ div#content3 .column4 .column-inner .block-detail{
   background-color:#FFF;
 }
 
-div#content3 div.column4 .column-inner div#akimoto{
-  width:167px;
-  height:167px;
+div#content3 div.column4 .column-inner div.pastor{
+  width:152px;
+  height:152px;
   border-radius:50%;
   background-repeat: no-repeat;
-  background-image:url("/_pastor/images/paulakimoto2.jpg");
   background-position: center center;
   margin:0 auto;
 }
