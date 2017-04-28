@@ -6,18 +6,19 @@ var mygallery=new simpleGallery({
 	dimensions: ["100%", "auto"], //width/height of gallery in pixels. Should reflect dimensions of the images exactly
 	imagearray: [
 				/* [?摜URL?A?????N??RL?A_new] */
-				["/images/gallery/praise.jpg","/features/praise/index.html",""],
-				["/images/gallery/healing.jpg","/features/healing/index.html",""],
-				["/images/gallery/gift.jpg","/features/blessing/index.html",""],
-				["/images/gallery/mission.jpg","/features/mission/index.html",""],
-				["/images/gallery/women.jpg","/features/women/index.html",""],
-				["/images/gallery/ophanage.jpg","/features/orphanage/index.html",""],
-				["/images/gallery/israel.jpg","/features/israel/index.html",""],
-				["/images/gallery/media.jpg","/features/media/index.html",""],
-				["/images/gallery/revival.jpg","/features/revival/",""],
-				["/images/gallery/socialservice.jpg","",""]
+				["/2016/images/top/slide/1612ad_jerusalem.jpg","",""],
+				//["/images/gallery/praise.jpg","/features/praise/index.html",""],
+				//["/images/gallery/healing.jpg","/features/healing/index.html",""],
+				//["/images/gallery/gift.jpg","/features/blessing/index.html",""],
+				//["/images/gallery/mission.jpg","/features/mission/index.html",""],
+				//["/images/gallery/women.jpg","/features/women/index.html",""],
+				//["/images/gallery/ophanage.jpg","/features/orphanage/index.html",""],
+				//["/images/gallery/israel.jpg","/features/israel/index.html",""],
+				//["/images/gallery/media.jpg","/features/media/index.html",""],
+				//["/images/gallery/revival.jpg","/features/revival/",""],
+				//["/images/gallery/socialservice.jpg","",""]
 	],
-	autoplay: [true, 4000, 10], //[auto_play_boolean, delay_btw_slide_millisec, cycles_before_stopping_int]
+	autoplay: [false, 4000, 10], //[auto_play_boolean, delay_btw_slide_millisec, cycles_before_stopping_int]
 	persist: false, //remember last viewed slide and recall within same session?
 	fadeduration: 1000, //transition duration (milliseconds)
 	oninit:function(){ //event that fires when gallery has initialized/ ready to run

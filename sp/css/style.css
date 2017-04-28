@@ -614,3 +614,9 @@ a {
 #js_news_mod .news__article-title {
   color: #333;
 }
+
+
+.flexbox {
+    display: -webkit-flex;
+    display: flex;
+}
