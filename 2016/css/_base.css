@@ -752,6 +752,55 @@ div#content3 div.column4 .column-inner div.pastor{
   margin:0 auto;
 }
 
+div#content div.column8{
+	overflow:hidden;
+}
+
+div#content div.column8 .column-inner{
+  float:left;
+  position:relative;
+  z-index:1;
+  width:136px;
+  height:77px;
+  margin:20px 12px 15px 12px;
+  padding:5px 0px 20px 0px;
+  background-color:#FFF;
+}
+
+div#content div.column8 .column-inner img{
+	border:solid 1px #dcdcdc;
+}
+
+div#content div.column8 .column-inner a{
+  text-decoration:none;
+}
+
+div#content div.column8 .column-inner a:hover{
+	filter:alpha(opacity=70);
+	-moz-opacity: 0.7;
+	opacity: 0.7;
+	-webkit-transition: all .3s;
+	transition: all .3s;
+}
+
+
+div#content .column8 .column-inner .block-title{
+  color:#00529C;
+  font-size:18px;
+  padding:5px 20px 10px 0px;
+  line-height:1.8em;
+  background-color:#FFF;
+}
+
+div#content .column8 .column-inner .block-detail{
+  color:#000;
+  font-size:14px;
+  padding:5px 0px 0px 0px;
+  line-height:1.6em;
+  background-color:#FFF;
+}
+
+
 section#head {
 	background:#00529C;
 }
