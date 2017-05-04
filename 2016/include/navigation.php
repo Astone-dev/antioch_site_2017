@@ -114,18 +114,18 @@
 
         <!-- nav04 -->
         <li class="header--nav__item navn04">
-          <a href="/s_akashi.html" class="t-bold">体験談</a>
+          <a href="/testimonies/" class="t-bold">体験談</a>
           <div class="header--nav--sub__wrap">
             <ul class="header--nav--sub__ul">
-              <li><a href="/testimony/">神によるいやしの体験談</a></li>
+              <li><a href="/testimonies/healing/">神によるいやしの体験談</a></li>
               <li>&nbsp;</li>
-              <li><a href="/s_akashi.html">体験談（証し）</a></li>
+              <li><a href="/testimonies/">体験談（証し）</a></li>
               <li><a href="http://astone-blog.jp/solution/">問題の解決</a></li>
-              <li><a href="/faith/">感謝の証し</a></li>
-              <li><a href="/testimony/">神によるいやし</a></li>
-              <li><a href="/2004family/">うるおいのある家族</a></li>
-              <li><a href="/chdk/">チャールズ・デュークさんの証し</a></li>
-              <li><a href="/chdk/dotty.html">ドッティー・デュークさんの証し</a></li>
+              <li><a href="/praise-works/">感謝の証し</a></li>
+              <li><a href="/testimonies/healing/">神によるいやし</a></li>
+              <li><a href="/testimonies/families/">うるおいのある家族</a></li>
+              <li><a href="/testimonies/charles-duke/">チャールズ・デュークさんの証し</a></li>
+              <li><a href="/testimonies/dotty-duke/">ドッティー・デュークさんの証し</a></li>
             </ul>
 
             <ul class="header--nav--sub__ul">

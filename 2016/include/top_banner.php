@@ -49,12 +49,12 @@
   <p class="block-title"><span><a href="/books/digitalbooks/">主の十字架クリスチャンセンターの電子出版物</a></span></p>
 </div>
 
-<div class="column-inner"> <a href="/s_akashi.html"><img src="/2016/images/top/bt_sukuitaiken.jpg"></a>
-  <p class="block-title"><span><a href="/s_akashi.html">神の救いと神に助けられた体験談</a></span></p>
+<div class="column-inner"> <a href="/testimonies/"><img src="/2016/images/top/bt_sukuitaiken.jpg"></a>
+  <p class="block-title"><span><a href="/testimonies/">神の救いと神に助けられた体験談</a></span></p>
 </div>
 
-<div class="column-inner"><a href="/testimony/"><img src="/2016/images/top/bt_iyashitaiken.jpg"></a>
-  <p class="block-title"><span><a href="/testimony/">神によるいやしの体験談</a></span></p>
+<div class="column-inner"><a href="/testimonies/healing/"><img src="/2016/images/top/bt_iyashitaiken.jpg"></a>
+  <p class="block-title"><span><a href="/testimonies/healing/">神によるいやしの体験談</a></span></p>
 </div>
 
 <div class="column-inner"> <a href="http://mission-news-jpn.blogspot.jp/" target="_blank"><img src="/2016/images/top/bt_oveseamissioninfo.jpg"></a>
@@ -91,6 +91,6 @@
   <p class="block-title"><span><a href="https://tokyo.antioch.jp/paypal/">献金</a></span></p>
 </div>
 
-<div class="column-inner"> <a href="http://tokyo.antioch.jp/orchestra/"><img src="/2016/images/top/bt_tlcccorchestra.jpg"></a>
-  <p class="block-title"><span><a href="http://tokyo.antioch.jp/orchestra/">礼拝のオーケストラ楽団員募集</a></span></p>
+<div class="column-inner"> <a href="/orchestra/"><img src="/2016/images/top/bt_tlcccorchestra.jpg"></a>
+  <p class="block-title"><span><a href="/orchestra/">礼拝のオーケストラ楽団員募集</a></span></p>
 </div>
