@@ -16,10 +16,17 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1705meeting" target="_blank"><img src="/2016/images/top/1705yamatomachida.jpg"></a>
+<p class="block-date">2017年5月5日〜5月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1705meeting" target="_blank">爽やかな風の中<br>大和・町田宣教の旅<br>(日程：2017年5月5日〜6日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/1705antioch" target="_blank"><img src="/2016/images/top/1705antioch.jpg"></a>
 <p class="block-date">2017年5月1日〜5月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1705antioch" target="_blank">アンテオケ教会の<br>ゴールデンウイーク<br><br>(日程：2017年4月30日-5月7日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1705antioch" target="_blank">アンテオケ教会の<br>ゴールデンウイーク<br>(日程：2017年4月30日-5月7日)</a></p>
 </div>
 
 <div class="column-inner">
