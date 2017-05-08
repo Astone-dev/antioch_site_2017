@@ -17,49 +17,47 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1705meeting" target="_blank"><img src="/2016/images/top/1705yamatomachida.jpg"></a>
-<p class="block-date">2017年5月5日〜5月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1705meeting" target="_blank">爽やかな風の中<br>大和・町田宣教の旅<br>(日程：2017年5月5日〜6日)</a></p>
+<a href="http://antiochblog.jp/praise/chugoku1705/" target="_blank"><img src="/2016/images/top/1705chugokuseikai.jpg"></a>
+<p class="block-date">2017年5月7日〜11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1705/" target="_blank">青葉薫る中国地方を行く<br>中国地方宣教の旅<br>(日程：2017年5月8日〜10日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/tcm201705/" target="_blank"><img src="/2016/images/top/1705tokari.jpg"></a>
+<p class="block-date">2017年5月6日〜7日</p>
+<p class="block-title"><a href="http://astone.tv/events/tcm201705/" target="_blank">春の東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2017年5月7日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/1705antioch" target="_blank"><img src="/2016/images/top/1705antioch.jpg"></a>
-<p class="block-date">2017年5月1日〜5月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1705antioch" target="_blank">アンテオケ教会の<br>ゴールデンウイーク<br>(日程：2017年4月30日-5月7日)</a></p>
+<p class="block-date">2017年5月1日〜7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1705antioch" target="_blank">アンテオケ教会の<br>ゴールデンウイーク</a></p>
 </div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1705gifts" target="_blank"><img src="/2016/images/top/1705giftsmanyuki.jpg"></a>
-<p class="block-date">2017年4月30日〜5月6日</p>
-<p class="block-title"><a href="http://astone.tv/events/1705gifts" target="_blank">Gifts漫遊記<br>中国・四国・関西・柏を行く<br>(日程：2017年5月1日〜6日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0506misato/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
-<p class="block-date">2017年5月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0506misato/" target="_blank">エルサレム<br>三郷でゴスペルコンサート</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/1705praise" target="_blank"><img src="/2016/images/top/1705sanbi.jpg"></a>
-<p class="block-date">2017年5月1日〜5月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1705praise" target="_blank">全国の賛美隊<br>ゴールデンウイーク大爆発<br>(日程：2017年4月30日-5月7日)</a></p>
+<p class="block-date">2017年5月1日〜7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1705praise" target="_blank">全国の賛美隊<br>ゴールデンウイーク大爆発</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1705nation" target="_blank"><img src="/2016/images/top/1705nation.jpg"></a>
-<p class="block-date">2017年5月1日〜5月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1705nation" target="_blank">全国各教会の<br>ゴールデンウイーク<br>(日程：2017年4月30日-5月7日)</a></p>
+<p class="block-date">2017年5月1日〜7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1705nation" target="_blank">全国各教会の<br>ゴールデンウイーク</a></p>
+</div>
+
+<div class="column-inner">
+<span>NEW</span>
+<a href="http://tokyo.antioch.jp/hakuba-summer/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
+<p class="block-title"><a href="http://tokyo.antioch.jp/hakuba-summer/" target="_blank">白馬キャンプご案内<br>お申込みスタート<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -80,6 +78,35 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1705meeting" target="_blank"><img src="/2016/images/top/1705yamatomachida.jpg"></a>
+<p class="block-date">2017年5月5日〜5月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1705meeting" target="_blank">爽やかな風の中<br>大和・町田宣教の旅<br>(日程：2017年5月5日〜6日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1705kashiwa/" target="_blank"><img src="/2016/images/top/1705giftskashiwa.jpg"></a>
+<p class="block-date">2017年5月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1705kashiwa/" target="_blank">Gifts柏を行く<br>柏でゴスペルコンサート<br>(日程：2017年5月6日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1705asagaya" target="_blank"><img src="/2016/images/top/1705joyasagaya.jpg"></a>
+<p class="block-date">2017年5月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1705asagaya" target="_blank">JOY<br>阿佐ヶ谷のコンサートに出演<br>(日程：2017年5月6日)</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1705gifts" target="_blank"><img src="/2016/images/top/1705giftsmanyuki.jpg"></a>
+<p class="block-date">2017年4月30日〜5月6日</p>
+<p class="block-title"><a href="http://astone.tv/events/1705gifts" target="_blank">Gifts漫遊記<br>中国・四国・関西・柏を行く<br>(日程：2017年5月1日〜6日)</a></p>
 </div>
 
 <div class="column-inner">

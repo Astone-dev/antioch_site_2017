@@ -121,7 +121,7 @@
               <li>&nbsp;</li>
               <li><a href="/testimonies/">体験談（証し）</a></li>
               <li><a href="http://astone-blog.jp/solution/">問題の解決</a></li>
-              <li><a href="/praise-works/">感謝の証し</a></li>
+              <li><a href="/testimonies/praise-works/">感謝の証し</a></li>
               <li><a href="/testimonies/healing/">神によるいやし</a></li>
               <li><a href="/testimonies/families/">うるおいのある家族</a></li>
               <li><a href="/testimonies/charles-duke/">チャールズ・デュークさんの証し</a></li>
@@ -141,7 +141,7 @@
           </div>
         </li>
         
-        <li class="header--nav__item navn05" style="font-weight:bold;"><a href="http://tokyo.antioch.jp/contact/">お問い合わせ</a></li>
+        <li class="header--nav__item navn05" style="font-weight:bold;"><a href="/contact/">お問い合わせ</a></li>
         
         <li class="header--nav__item"><?php include($_SERVER['DOCUMENT_ROOT'] . '/include/language_form.inc') ?></li>
       </ul>
