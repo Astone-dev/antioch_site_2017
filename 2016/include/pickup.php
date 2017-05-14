@@ -38,6 +38,15 @@
 <p class="block-title"><a href="http://antiochblog.jp/mission/hahanohi1705/" target="_blank">アンテオケ教会<br>おのおのの母の日</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1705joy" target="_blank"><img src="/2016/images/top/1705hahanohiantioch.jpg"></a>
+<p class="block-date">2017年5月15日〜21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1705joy" target="_blank">風のひびき4集<br>作詞・作曲賞受賞 喜びの一週間</a></p>
+</div>-->
+
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>

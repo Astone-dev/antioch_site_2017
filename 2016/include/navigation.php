@@ -41,8 +41,8 @@
               <li><a href="/contact/">お問い合わせ</a></li>
               <li><a href="/link/">リンク</a></li>
               <li>&nbsp;</li>
-              <li><a href="https://tokyo.antioch.jp/tlccc/registration.html">オンライン会員登録ページ</a></li>
-              <li><a href="https://tokyo.antioch.jp/tlccc/login.php">オンライン会員専用ページ</a></li>
+              <li><a href="/tlccc/registration.html">オンライン会員登録ページ</a></li>
+              <li><a href="/tlccc/login.php">オンライン会員専用ページ</a></li>
            </ul>
           </div>
         </li>

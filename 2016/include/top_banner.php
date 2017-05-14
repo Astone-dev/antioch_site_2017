@@ -14,8 +14,8 @@
   <p class="block-title"><span><a href="/blog/">教会員、賛美グループのブログコーナー</a></span></p>
 </div>
 
-<div class="column-inner"> <a href="/event.html"><img src="/2016/images/top/bt_sunerugoicamp.jpg"></a>
-  <p class="block-title"><span><a href="/hakuba-summer">白馬キャンプ（夏）</a><br><a href="/hakuba-synerugoi/">白馬スネルゴイキャンプ（冬）</a></span></p>
+<div class="column-inner"> <a href="/hakuba/"><img src="/2016/images/top/bt_sunerugoicamp.jpg"></a>
+  <p class="block-title"><span><a href="/hakuba/">白馬キャンプ（夏）</a><br><a href="/hakuba-synerugoi/">白馬スネルゴイキャンプ（冬）</a></span></p>
 </div>
 
 <div class="column-inner"> <a href="http://gospelconcert.jp/" target="_blank"><img src="/2016/images/top/bt_kokoro.jpg"></a>
