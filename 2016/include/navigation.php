@@ -1,5 +1,5 @@
     <nav role="navigation" aria-label="カテゴリのナビゲーション">
-      <ul>
+      <ul style="float:left;">
         <!-- nav01 -->
         <li class="header--nav__item navn01">
           <a href="#" class="t-bold">東京アンテオケ教会について</a>
@@ -143,6 +143,7 @@
         
         <li class="header--nav__item navn05" style="font-weight:bold;"><a href="/contact/">お問い合わせ</a></li>
         
-        <li class="header--nav__item"><?php include($_SERVER['DOCUMENT_ROOT'] . '/include/language_form.inc') ?></li>
       </ul>
+      <a href="/choose-your-language/"><p id="language-btn">Language</p></a>
+      <a href="/paypal/"><p id="give-btn">献金</p></a>
     </nav>

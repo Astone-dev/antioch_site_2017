@@ -424,3 +424,55 @@ Text
 	background:url(../images/common/e-link_ov.svg) top 10px right 38px no-repeat;
 	background-color: #777;
 }
+
+#give-btn{
+    float: right;
+    background:linear-gradient(#0375db,#00529C);
+    margin-top: 27px;
+    margin-right: 8px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    padding: 12px 18px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+#give-btn:hover{
+	filter:alpha(opacity=70);
+	-moz-opacity: 0.7;
+	opacity: 0.7;
+	-webkit-transition: all .3s;
+	transition: all .3s;
+}
+
+#language-btn{
+    float: right;
+    margin-top: 27px;
+    width: 58px;
+    background: linear-gradient(#aaaaaa,#777777);
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    padding: 12px 18px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+#language-btn:hover{
+	filter:alpha(opacity=70);
+	-moz-opacity: 0.7;
+	opacity: 0.7;
+	-webkit-transition: all .3s;
+	transition: all .3s;
+}

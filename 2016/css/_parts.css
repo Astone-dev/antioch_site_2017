@@ -655,3 +655,40 @@ a.btnT03:hover {
 	margin-top: -10px;
 	font-weight: normal;
 }
+
+#give-btn{
+    float: right;
+    margin-top: 27px;
+    margin-right: 8px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid ##004671;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    padding: 12px 18px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+#language-btn{
+    float: right;
+    margin-top: 27px;
+    width: 58px;
+    background: linear-gradient(#aaaaaa,#777777);
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid ##004671;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    padding: 12px 18px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 0.8em;
+}

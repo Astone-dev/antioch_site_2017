@@ -87,10 +87,6 @@
   <p class="block-title"><span><a href="/link/">リンク</a></span></p>
 </div>
 
-<div class="column-inner"> <a href="https://tokyo.antioch.jp/paypal/"><img src="/2016/images/top/bt_kenkin.png"></a>
-  <p class="block-title"><span><a href="https://tokyo.antioch.jp/paypal/">献金</a></span></p>
-</div>
-
 <div class="column-inner"> <a href="/orchestra/"><img src="/2016/images/top/bt_tlcccorchestra.jpg"></a>
   <p class="block-title"><span><a href="/orchestra/">礼拝のオーケストラ楽団員募集</a></span></p>
 </div>
