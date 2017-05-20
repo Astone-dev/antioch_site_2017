@@ -74,7 +74,7 @@
 
         <!-- nav03 -->
         <li class="header--nav__item navn03">
-          <a href="#" class="t-bold">AntiochTV</a>
+          <a href="/antiochtv/" class="t-bold">AntiochTV</a>
           <div class="header--nav--sub__wrap">
             <ul class="header--nav--sub__ul">
               <li class="t-bold">オンライン中継</li>
