@@ -17,18 +17,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1706atsugi/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
-<p class="block-date">2017年6月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/1706atsugi/" target="_blank">青葉の季節の厚木を行く<br>厚木宣教の旅<br>(聖会日程：2017年6月3日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/mission/1706okinawa/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
 <p class="block-date">2017年6月4日〜8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1706okinawa/" target="_blank">梅雨明け間近の沖縄を行く<br>沖縄宣教の旅<br>(聖会日程：2017年6月5日〜7日)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -124,6 +116,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1706atsugi/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
+<p class="block-date">2017年6月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/1706atsugi/" target="_blank">青葉の季節の厚木を行く<br>厚木宣教の旅<br>(聖会日程：2017年6月3日)</a></p>
 </div>
 
 <div class="column-inner">
