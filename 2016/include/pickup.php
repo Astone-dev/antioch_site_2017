@@ -342,7 +342,7 @@
 </div>
 
            
-<?php include($_SERVER['DOCUMENT_ROOT'] . '2016/include/pyrayer_time_banner.php') ?>          
+<?php include($_SERVER['DOCUMENT_ROOT'] . '2016/include/pyrayer_time_banner.php') ?>
  
 <!--<div class="column-inner">
 <span>NEW</span>
