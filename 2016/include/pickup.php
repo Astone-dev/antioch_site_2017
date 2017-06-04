@@ -112,7 +112,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/1706day/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
 <p class="block-date">2017年6月3日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1706day/" target="_blank">GRACIOUS DOORS<br>都内の施設でコンサート<br>(日程：2017年6月3日)</a></p>
