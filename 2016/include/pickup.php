@@ -41,9 +41,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/best1705/" target="_blank"><img src="/2016/images/top/1705arechiweek.jpg"></a>
+<a href="http://antiochblog.jp/praise/river1706/" target="_blank"><img src="/2016/images/top/1705arechiweek.jpg"></a>
 <p class="block-date">2017年6月5日〜6月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/best1705/" target="_blank">風のひびき4ベスト盤制作に向って<br>荒地に川ミュージックの一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/river1706/" target="_blank">まだまだ続く 風のひびき4ベスト盤制作に向かって<br>荒地に川ミュージックの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -51,7 +51,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/kumoniji1706/" target="_blank"><img src="/2016/images/top/1706kumoniji.jpg"></a>
 <p class="block-date">2017年6月5日〜6月11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kumoniji1706/" target="_blank">雲の間にある虹出版の一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kumoniji1706/" target="_blank">今週、雲虹新刊発送大忙し<br>雲の間にある虹出版の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -114,6 +114,14 @@
 <a href="http://antiochblog.jp/info/1705rain" target="_blank"><img src="/2016/images/top/1705tsuyumaeantioch.jpg"></a>
 <p class="block-date">2017年5月29日〜6月4日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1705rain" target="_blank">梅雨前のアンテオケ教会一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/best1705/" target="_blank"><img src="/2016/images/top/1705arechiweek.jpg"></a>
+<p class="block-date">2017年6月5日〜6月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/best1705/" target="_blank">風のひびき4ベスト盤制作に向って<br>荒地に川ミュージックの一週間</a></p>
 </div>
 
 <div class="column-inner">
