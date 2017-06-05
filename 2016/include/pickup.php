@@ -118,7 +118,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/best1705/" target="_blank"><img src="/2016/images/top/1705arechiweek.jpg"></a>
 <p class="block-date">2017年6月5日〜6月11日</p>
 <p class="block-title"><a href="http://astone.tv/events/best1705/" target="_blank">風のひびき4ベスト盤制作に向って<br>荒地に川ミュージックの一週間</a></p>
