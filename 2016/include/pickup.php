@@ -41,7 +41,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/river1706/" target="_blank"><img src="/2016/images/top/1705arechiweek.jpg"></a>
+<a href="http://antiochblog.jp/praise/river1706/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
 <p class="block-date">2017年6月5日〜6月11日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/river1706/" target="_blank">まだまだ続く 風のひびき4ベスト盤制作に向かって<br>荒地に川ミュージックの一週間</a></p>
 </div>
@@ -53,6 +53,14 @@
 <p class="block-date">2017年6月5日〜6月11日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/kumoniji1706/" target="_blank">今週、雲虹新刊発送大忙し<br>雲の間にある虹出版の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/fuchu1706/" target="_blank"><img src="/2016/images/top/1706kumoniji.jpg"></a>
+<p class="block-date">2017年6月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/fuchu1706/" target="_blank">GRACEと宝石<br>府中市の特別養護老人ホームでゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
