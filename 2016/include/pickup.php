@@ -59,7 +59,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/fuchu1706/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
 <p class="block-date">2017年6月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/fuchu1706/" target="_blank">GRACEと宝石<br>府中市の特別養護老人ホームでゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/fuchu1706/" target="_blank">GRACEと宝石<br>府中市の特別養護老人ホームでゴスペルコンサート　</a></p>
 </div>
 
 <div class="column-inner">
