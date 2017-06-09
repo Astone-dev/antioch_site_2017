@@ -62,6 +62,13 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://blog.antioch.jp/1706america/category/dst/" target="_blank"><img src="/2016/images/top/1706americadigest_p.jpg"></a>
+<p class="block-title"><a href="http://blog.antioch.jp/1706america/category/dst/" target="_blank">アメリカチーム<br>ダイジェスト写真集<br>(チーム日程：2017年5月29日〜6月1日)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201705patmoscm/" target="_blank"><img src="/2016/images/top/1705patomscm_m.jpg"></a>
