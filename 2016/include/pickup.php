@@ -38,6 +38,30 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/river1706/" target="_blank">まだまだ続く 風のひびき4ベスト盤制作に向かって<br>荒地に川ミュージックの一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017healing/0610healing/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
+<p class="block-date">2017年6月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/0610healing/" target="_blank">6月 いやしの集い</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/euqaristias/20170610day/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
+<p class="block-date">2017年6月6月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170610day/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1706arakawa/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
+<p class="block-date">2017年6月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/1706arakawa/" target="_blank">ラベイユ<br>荒川の施設でゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
