@@ -41,6 +41,14 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/1706young/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
+<p class="block-date">2017年6月10日〜6月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1706young/" target="_blank">ヤング、小学生以下喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/2017healing/0610healing/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
 <p class="block-date">2017年6月10日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/0610healing/" target="_blank">6月 いやしの集い</a></p>
