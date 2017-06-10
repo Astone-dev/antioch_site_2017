@@ -19,7 +19,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/shikoku1706/" target="_blank"><img src="/2016/images/top/1706shikoku.jpg"></a>
 <p class="block-date">2017年6月11日〜6月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/shikoku1706/" target="_blank">四国聖会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/shikoku1706/" target="_blank">向暑季節四国を行く<br>四国宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
