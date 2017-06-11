@@ -33,7 +33,7 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank"><img src="/2016/images/top/1706antioch.jpg"></a>
+<a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
 <p class="block-date">2017年6月12日〜6月18日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank">父の日<br>アンテオケ教会</a></p>
 </div>-->
@@ -41,9 +41,9 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/ikebukuro1706/" target="_blank"><img src="/2016/images/top/1706antioch.jpg"></a>
+<a href="http://astone.tv/events/ikebukuro1706/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
 <p class="block-date">2017年6月12日〜6月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/ikebukuro1706/" target="_blank">J.GOSPEL LIVE 池袋に向って</a></p>
+<p class="block-title"><a href="http://astone.tv/events/ikebukuro1706/" target="_blank">J.GOSPEL LIVE 池袋に向かって</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -77,6 +77,14 @@
 <p class="block-date">2017年6月5日〜6月11日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/river1706/" target="_blank">まだまだ続く 風のひびき4ベスト盤制作に向かって<br>荒地に川ミュージックの一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1706patlis" target="_blank"><img src="/2016/images/top/1706kawaguchi.jpg"></a>
+<p class="block-date">2017年6月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1706patlis" target="_blank">パトリス<br>川口の病院の音楽会でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -113,7 +121,7 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/titinohi1706/" target="_blank"><img src="/2016/images/top/1706antioch.jpg"></a>
+<a href="http://astone.tv/events/titinohi1706/" target="_blank"><img src="/2016/images/top/1706chichizenkoku.jpg"></a>
 <p class="block-date">2017年6月12日〜6月18日</p>
 <p class="block-title"><a href="http://astone.tv/events/titinohi1706/" target="_blank">父の日<br>全国各教会</a></p>
 </div>-->
