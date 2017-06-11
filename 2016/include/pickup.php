@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/ikebukuro1706/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
 <p class="block-date">2017年6月12日〜6月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/ikebukuro1706/" target="_blank">J.GOSPEL LIVE 池袋に向かって</a></p>
+<p class="block-title"><a href="http://astone.tv/events/ikebukuro1706/" target="_blank">J.GOSPEL LIVE<br>池袋に向かって</a></p>
 </div>-->
 
 <div class="column-inner">
