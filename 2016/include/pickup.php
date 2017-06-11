@@ -78,14 +78,6 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/river1706/" target="_blank">まだまだ続く 風のひびき4ベスト盤制作に向かって<br>荒地に川ミュージックの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/1706patlis" target="_blank"><img src="/2016/images/top/1706kawaguchi.jpg"></a>
-<p class="block-date">2017年6月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1706patlis" target="_blank">パトリス<br>川口の病院の音楽会でゴスペルコンサート</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -101,6 +93,14 @@
 <p class="block-date">2017年6月11日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20170611concert/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1706patlis" target="_blank"><img src="/2016/images/top/1706kawaguchi.jpg"></a>
+<p class="block-date">2017年6月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1706patlis" target="_blank">パトリス<br>川口の病院の音楽会でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
