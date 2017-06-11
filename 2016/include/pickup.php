@@ -30,6 +30,22 @@
 <p class="block-title"><a href="http://astone.tv/events/1706rainy" target="_blank">賛美隊梅雨の東京に展開<br>路上ライブの一週間 アンテオケ教会</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank"><img src="/2016/images/top/1706antioch.jpg"></a>
+<p class="block-date">2017年6月12日〜6月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank">父の日<br>アンテオケ教会</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/ikebukuro1706/" target="_blank"><img src="/2016/images/top/1706antioch.jpg"></a>
+<p class="block-date">2017年6月12日〜6月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/ikebukuro1706/" target="_blank">J.GOSPEL LIVE 池袋に向って</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -93,6 +109,14 @@
 <p class="block-date">2017年6月5日〜6月11日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1706rainy" target="_blank">賛美隊梅雨の路上ライブに展開<br>全国各教会</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/titinohi1706/" target="_blank"><img src="/2016/images/top/1706antioch.jpg"></a>
+<p class="block-date">2017年6月12日〜6月18日</p>
+<p class="block-title"><a href="http://astone.tv/events/titinohi1706/" target="_blank">父の日<br>全国各教会</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
