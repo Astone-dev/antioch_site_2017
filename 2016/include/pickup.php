@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1706gospel/" target="_blank"><img src="/2016/images/top/1706sanbisyutujyo.jpg"></a>
 <p class="block-date">2017年6月10日〜6月11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1706gospel/" target="_blank">いよいよ次点枠決定！<br>ドキドキの2日間<br>(日曜日の夜発表)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1706gospel/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬<br>次点枠決定！<br>喜びの一週間</a></p>
 </div>
 
 <div class="column-inner">
