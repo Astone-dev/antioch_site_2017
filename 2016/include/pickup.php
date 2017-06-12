@@ -19,15 +19,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/shikoku1706/" target="_blank"><img src="/2016/images/top/1706shikoku.jpg"></a>
 <p class="block-date">2017年6月11日〜6月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/shikoku1706/" target="_blank">向暑季節四国を行く<br>四国宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1706rainy" target="_blank"><img src="/2016/images/top/1706antioch.jpg"></a>
-<p class="block-date">2017年6月5日〜6月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/1706rainy" target="_blank">賛美隊梅雨の東京に展開<br>路上ライブの一週間 アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/shikoku1706/" target="_blank">向暑季節四国を行く<br>四国宣教の旅<br>(聖会日程：2017年6あ月12日〜14日)</a></p>
 </div>
 
 <<div class="column-inner">
@@ -43,7 +35,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/ikebukuro1706/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
 <p class="block-date">2017年6月12日〜6月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/ikebukuro1706/" target="_blank">J.GOSPEL LIVE<br>池袋に向かって</a></p>
+<p class="block-title"><a href="http://astone.tv/events/ikebukuro1706/" target="_blank">J.GOSPEL LIVE<br>池袋に向かって<br>てんやわんやの一週間<br>(日程：2017年6月17日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -68,14 +60,6 @@
 <a href="http://antiochblog.jp/mission/1706patlis" target="_blank"><img src="/2016/images/top/1706kawaguchi.jpg"></a>
 <p class="block-date">2017年6月12日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1706patlis" target="_blank">PATOLIS<br>川口の病院の音楽会でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/kumoniji1706/" target="_blank"><img src="/2016/images/top/1706kumoniji.jpg"></a>
-<p class="block-date">2017年6月5日〜6月11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kumoniji1706/" target="_blank">今週、雲虹新刊発送大忙し<br>雲の間にある虹出版の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -146,6 +130,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1706rainy" target="_blank"><img src="/2016/images/top/1706antioch.jpg"></a>
+<p class="block-date">2017年6月5日〜6月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/1706rainy" target="_blank">賛美隊梅雨の東京に展開<br>路上ライブの一週間 アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/kumoniji1706/" target="_blank"><img src="/2016/images/top/1706kumoniji.jpg"></a>
+<p class="block-date">2017年6月5日〜6月11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kumoniji1706/" target="_blank">今週、雲虹新刊発送大忙し<br>雲の間にある虹出版の一週間</a></p>
 </div>
 
 <div class="column-inner">
