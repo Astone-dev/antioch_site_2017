@@ -30,28 +30,20 @@
 <p class="block-title"><a href="http://astone.tv/events/1706rainy" target="_blank">賛美隊梅雨の東京に展開<br>路上ライブの一週間 アンテオケ教会</a></p>
 </div>
 
-<!--<div class="column-inner">
+<<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
 <p class="block-date">2017年6月12日〜6月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank">父の日<br>アンテオケ教会</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank">アンテオケ教会<br>それぞれの父の日<br></a></p>
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/ikebukuro1706/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
 <p class="block-date">2017年6月12日〜6月17日</p>
 <p class="block-title"><a href="http://astone.tv/events/ikebukuro1706/" target="_blank">J.GOSPEL LIVE<br>池袋に向かって</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/hope1706/" target="_blank"><img src="/2016/images/top/1706ebisutenmadoowatte.jpg"></a>
-<p class="block-date">2017年6月3日〜6月11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/hope1706/" target="_blank">J.Gospel Live Hope<br>終わったあとのホッと一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -73,34 +65,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/river1706/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
-<p class="block-date">2017年6月5日〜6月11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/river1706/" target="_blank">まだまだ続く 風のひびき4ベスト盤制作に向かって<br>荒地に川ミュージックの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/category/1706nerima/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
-<p class="block-date">2017年6月11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/category/1706nerima/" target="_blank">ウラノス<br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/20170611concert/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
-<p class="block-date">2017年6月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20170611concert/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/mission/1706patlis" target="_blank"><img src="/2016/images/top/1706kawaguchi.jpg"></a>
 <p class="block-date">2017年6月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1706patlis" target="_blank">パトリス<br>川口の病院の音楽会でゴスペルコンサート</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/mission/1706patlis" target="_blank">PATOLIS<br>川口の病院の音楽会でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -118,13 +86,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1706rainy" target="_blank">賛美隊梅雨の路上ライブに展開<br>全国各教会</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/titinohi1706/" target="_blank"><img src="/2016/images/top/1706chichizenkoku.jpg"></a>
 <p class="block-date">2017年6月12日〜6月18日</p>
-<p class="block-title"><a href="http://astone.tv/events/titinohi1706/" target="_blank">父の日<br>全国各教会</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/titinohi1706/" target="_blank">全国各教会<br>それぞれの父の日</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -178,6 +146,34 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/hope1706/" target="_blank"><img src="/2016/images/top/1706ebisutenmadoowatte.jpg"></a>
+<p class="block-date">2017年6月3日〜6月11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/hope1706/" target="_blank">J.Gospel Live Hope<br>終わったあとのホッと一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/river1706/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
+<p class="block-date">2017年6月5日〜6月11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/river1706/" target="_blank">まだまだ続く 風のひびき4ベスト盤制作に向かって<br>荒地に川ミュージックの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/uranos2017/category/1706nerima/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
+<p class="block-date">2017年6月11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/category/1706nerima/" target="_blank">ウラノス<br>練馬のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/20170611concert/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
+<p class="block-date">2017年6月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20170611concert/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
