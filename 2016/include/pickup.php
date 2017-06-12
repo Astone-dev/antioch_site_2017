@@ -22,7 +22,7 @@
 <p class="block-title"><a href="http://antiochblog.jp/mission/shikoku1706/" target="_blank">向暑季節四国を行く<br>四国宣教の旅<br>(聖会日程：2017年6あ月12日〜14日)</a></p>
 </div>
 
-<<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
