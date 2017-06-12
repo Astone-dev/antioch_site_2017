@@ -65,14 +65,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1706rainy" target="_blank"><img src="/2016/images/top/1706nations.jpg"></a>
-<p class="block-date">2017年6月5日〜6月11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1706rainy" target="_blank">賛美隊梅雨の路上ライブに展開<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/titinohi1706/" target="_blank"><img src="/2016/images/top/1706chichizenkoku.jpg"></a>
 <p class="block-date">2017年6月12日〜6月18日</p>
 <p class="block-title"><a href="http://astone.tv/events/titinohi1706/" target="_blank">全国各教会<br>それぞれの父の日</a></p>
@@ -172,6 +164,13 @@
 <a href="http://astone.tv/events/2017byhisspirit/20170611concert/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
 <p class="block-date">2017年6月11日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20170611concert/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1706rainy" target="_blank"><img src="/2016/images/top/1706nations.jpg"></a>
+<p class="block-date">2017年6月5日〜6月11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1706rainy" target="_blank">賛美隊梅雨の路上ライブに展開<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
