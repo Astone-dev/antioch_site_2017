@@ -65,20 +65,6 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201705-usa/" target="_blank"><img src="/2016/images/top/1706americadigest_m.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201705-usa/" target="_blank">アメリカチーム<br>ダイジェスト映像<br>(チーム日程：2017年5月29日〜6月1日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1706america/category/dst/" target="_blank"><img src="/2016/images/top/1706americadigest_p.jpg"></a>
-<p class="block-title"><a href="http://blog.antioch.jp/1706america/category/dst/" target="_blank">アメリカチーム<br>ダイジェスト写真集<br>(チーム日程：2017年5月29日〜6月1日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201705patmoscm/" target="_blank"><img src="/2016/images/top/1705patomscm_m.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201705patmoscm/" target="_blank">パトモスチーム<br>紹介映像<br>(チーム日程：2017年7月11日〜20日)</a></p>
 </div>
@@ -114,6 +100,18 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201705-usa/" target="_blank"><img src="/2016/images/top/1706americadigest_m.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201705-usa/" target="_blank">アメリカチーム<br>ダイジェスト映像<br>(チーム日程：2017年5月29日〜6月1日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1706america/category/dst/" target="_blank"><img src="/2016/images/top/1706americadigest_p.jpg"></a>
+<p class="block-title"><a href="http://blog.antioch.jp/1706america/category/dst/" target="_blank">アメリカチーム<br>ダイジェスト写真集<br>(チーム日程：2017年5月29日〜6月1日)</a></p>
 </div>
 
 <div class="column-inner">
