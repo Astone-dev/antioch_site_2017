@@ -62,6 +62,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0615hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/day1706/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">2017年6月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/day1706/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
