@@ -14,13 +14,13 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELチャリティーコンサート生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年5月20日 11:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/1706meetings" target="_blank"><img src="/2016/images/top/1706shikoku.jpg"></a>
+<a href="http://antiochblog.jp/mission/1706meetings" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
 <p class="block-date">2017年6月16日〜6月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1706meetings" target="_blank">柏・横須賀聖会<br>(聖会日程：2017年6月16日〜17日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/mission/1706meetings" target="_blank">梅雨晴れの関東を行く<br>柏・横須賀聖会<br>(聖会日程：2017年6月16日〜17日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -62,13 +62,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0615hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/day1706/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<a href="http://antiochblog.jp/praise/day1706/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
 <p class="block-date">2017年6月16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/day1706/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
