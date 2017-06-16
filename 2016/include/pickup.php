@@ -38,6 +38,22 @@
 <p class="block-title"><a href="http://astone.tv/events/ikebukuro1706/" target="_blank">J.GOSPEL LIVE<br>池袋に向かって<br>てんやわんやの一週間<br>(日程：2017年6月17日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/revival2017/0617night/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
+<p class="block-date">2017年6月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0617night/" target="_blank">Revival Night<br>(日程：2017年6月17日)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年6月17日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年6月17日 18:30スタート)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
