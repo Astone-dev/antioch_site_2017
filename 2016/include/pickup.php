@@ -38,6 +38,14 @@
 <p class="block-title"><a href="http://astone.tv/events/ikebukuro1706/" target="_blank">いよいよ今日！<br>J.GOSPEL LIVE池袋<br>てんやわんやの一日<br>(日程：2017年6月17日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1706amami/" target="_blank"><img src="/2016/images/top/1706amamiwoiku.jpg"></a>
+<p class="block-date">2017年6月18日〜6月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1706amami/" target="_blank">奄美大島を行く</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -85,6 +93,22 @@
 <p class="block-date">2017年6月16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/day1706/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/women1706/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
+<p class="block-date">2017年6月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/women1706/" target="_blank">婦人会</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1706nerima/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
+<p class="block-date">2017年6月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1706nerima/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサービスボランティアコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
