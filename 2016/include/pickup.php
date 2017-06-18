@@ -17,90 +17,42 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
-<p class="block-date">2017年6月12日〜6月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank">アンテオケ教会<br>それぞれの父の日<br></a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
-<p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank">白馬に向かって<br>アンテオケ教会<br></a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/1706amami/" target="_blank"><img src="/2016/images/top/1706amamiwoiku.jpg"></a>
 <p class="block-date">2017年6月18日〜6月22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1706amami/" target="_blank">ファミリーホームに向って<br>奄美大島を行く<br>(日程：2017年6月19日〜21日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/nominate1706/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
+<a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank"><img src="/2016/images/top/1706hakubajyunbi.jpg"></a>
 <p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nominate1706/" target="_blank">白馬出場チームも一週間<br></a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank">夏の白馬キャンプに向かって<br>ワクワクの一週間<br>アンテオケ教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/radio1706/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
+<a href="http://antiochblog.jp/praise/nominate1706/" target="_blank"><img src="/2016/images/top/1706jgospelzenkokukettei.jpg"></a>
 <p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://astone.tv/events/radio1706/" target="_blank">ラジオパーソナリティの一週間<br></a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1706gospel/" target="_blank"><img src="/2016/images/top/1706sanbisyutujyo.jpg"></a>
-<p class="block-date">2017年6月10日〜6月11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1706gospel/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬<br>次点枠決定！<br>喜びの一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/nominate1706/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬<br>出場チーム決定<br>ときめきの一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1706young/" target="_blank"><img src="/2016/images/top/1706sanbisyutujyou21kids.jpg"></a>
-<p class="block-date">2017年6月10日〜6月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1706young/" target="_blank">J.GOSPELコンテスト U21・KIDS ファイナル in 白馬<br>出場決定喜びの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/women1706/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
-<p class="block-date">2017年6月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/women1706/" target="_blank">6月の婦人会<br>うどんを食べる</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1706nerima/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
-<p class="block-date">2017年6月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1706nerima/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサービスボランティアコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/titinohi1706/" target="_blank"><img src="/2016/images/top/1706chichizenkoku.jpg"></a>
-<p class="block-date">2017年6月12日〜6月18日</p>
-<p class="block-title"><a href="http://astone.tv/events/titinohi1706/" target="_blank">全国各教会<br>それぞれの父の日</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank"><img src="/2016/images/top/1706chichizenkoku.jpg"></a>
+<a href="http://astone.tv/events/radio1706/" target="_blank"><img src="/2016/images/top/1706radioweek.jpg"></a>
 <p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank">白馬に向かって<br>全国各教会</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/radio1706/" target="_blank">ゴスペル風のひびき<br>ラジオパーソナリティのゆったりまったり一週間<br></a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank"><img src="/2016/images/top/1706zenkokuhakuba.jpg"></a>
+<p class="block-date">2017年6月19日〜6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank">夏の白馬キャンプに向かって<br>ワクワクの一週間<br>全国各教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -140,6 +92,50 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
+<p class="block-date">2017年6月12日〜6月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank">アンテオケ教会<br>それぞれの父の日<br></a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1706gospel/" target="_blank"><img src="/2016/images/top/1706sanbisyutujyo.jpg"></a>
+<p class="block-date">2017年6月10日〜6月11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1706gospel/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬<br>次点枠決定！<br>喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1706young/" target="_blank"><img src="/2016/images/top/1706sanbisyutujyou21kids.jpg"></a>
+<p class="block-date">2017年6月10日〜6月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1706young/" target="_blank">J.GOSPELコンテスト U21・KIDS ファイナル in 白馬<br>出場決定喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/women1706/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
+<p class="block-date">2017年6月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/women1706/" target="_blank">6月の婦人会<br>うどんを食べる</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1706nerima/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
+<p class="block-date">2017年6月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1706nerima/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサービスボランティアコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/titinohi1706/" target="_blank"><img src="/2016/images/top/1706chichizenkoku.jpg"></a>
+<p class="block-date">2017年6月12日〜6月18日</p>
+<p class="block-title"><a href="http://astone.tv/events/titinohi1706/" target="_blank">全国各教会<br>それぞれの父の日</a></p>
 </div>
 
 <div class="column-inner">
