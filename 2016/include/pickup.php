@@ -22,6 +22,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/titinohi1706a/" target="_blank">アンテオケ教会<br>それぞれの父の日<br></a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
+<p class="block-date">2017年6月19日〜6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank">白馬に向かって<br>アンテオケ教会<br></a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -29,6 +37,22 @@
 <p class="block-date">2017年6月18日〜6月22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1706amami/" target="_blank">ファミリーホームに向って<br>奄美大島を行く<br>(日程：2017年6月19日〜21日)</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/nominate1706/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
+<p class="block-date">2017年6月19日〜6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/nominate1706/" target="_blank">白馬出場チームも一週間<br></a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/radio1706/" target="_blank"><img src="/2016/images/top/1706chichiantioch.jpg"></a>
+<p class="block-date">2017年6月19日〜6月25日</p>
+<p class="block-title"><a href="http://astone.tv/events/radio1706/" target="_blank">ラジオパーソナリティの一週間<br></a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -69,6 +93,14 @@
 <p class="block-date">2017年6月12日〜6月18日</p>
 <p class="block-title"><a href="http://astone.tv/events/titinohi1706/" target="_blank">全国各教会<br>それぞれの父の日</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank"><img src="/2016/images/top/1706chichizenkoku.jpg"></a>
+<p class="block-date">2017年6月19日〜6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank">白馬に向かって<br>全国各教会</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
