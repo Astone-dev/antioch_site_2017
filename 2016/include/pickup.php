@@ -35,7 +35,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/nominate1706/" target="_blank"><img src="/2016/images/top/1706jgospelzenkokukettei.jpg"></a>
 <p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nominate1706/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬 出場チーム決定<br>ときめきの一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/nominate1706/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬 出場チーム決定！<br>ときめきの一週間<br>(大会日程：2017年7月26、27日)</a></p>
 </div>
 
 <div class="column-inner">
