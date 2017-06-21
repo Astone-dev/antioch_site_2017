@@ -17,14 +17,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1706amami/" target="_blank"><img src="/2016/images/top/1706amamiwoiku.jpg"></a>
-<p class="block-date">2017年6月18日〜6月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1706amami/" target="_blank">ファミリーホームに向って<br>奄美大島を行く<br>(日程：2017年6月19日〜21日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank"><img src="/2016/images/top/1706hakubajyunbi.jpg"></a>
 <p class="block-date">2017年6月19日〜6月25日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank">夏の白馬キャンプに向かって<br>ワクワクの一週間<br>アンテオケ教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
@@ -46,13 +38,13 @@
 <p class="block-title"><a href="http://astone.tv/events/radio1706/" target="_blank">ゴスペル風のひびき<br>ラジオパーソナリティのゆったりまったり一週間<br></a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/suginami1706/" target="_blank"><img src="/2016/images/top/1704immberasuginami.jpg"></a>
 <p class="block-date">2017年6月22日</p>
 <p class="block-title"><a href="http://astone.tv/events/suginami1706/" target="_blank">ImmanuelとBeracha<br>杉並区の特別養護老人施設でコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -100,6 +92,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1706amami/" target="_blank"><img src="/2016/images/top/1706amamiwoiku.jpg"></a>
+<p class="block-date">2017年6月18日〜6月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1706amami/" target="_blank">ファミリーホームに向って<br>奄美大島を行く<br>(日程：2017年6月19日〜21日)</a></p>
 </div>
 
 <div class="column-inner">
