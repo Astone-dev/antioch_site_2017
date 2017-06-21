@@ -46,6 +46,14 @@
 <p class="block-title"><a href="http://astone.tv/events/radio1706/" target="_blank">ゴスペル風のひびき<br>ラジオパーソナリティのゆったりまったり一週間<br></a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/suginami1706/" target="_blank"><img src="/2016/images/top/1704immberasuginami.jpg"></a>
+<p class="block-date">2017年6月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/suginami1706/" target="_blank">ImmanuelとBeracha<br>杉並区の特別養護老人施設でコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
