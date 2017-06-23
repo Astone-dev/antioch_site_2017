@@ -72,6 +72,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0624kawaguchi/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">2017年6月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0624kawaguchi/" target="_blank">エルサレム<br>川口のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/mission/1706gospel/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
 <p class="block-date">2017年6月24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1706gospel/" target="_blank">The Gate of Praise<br>練馬区の介護老人保健施設でゴスペルコンサート</a></p>
