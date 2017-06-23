@@ -56,6 +56,14 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank"><img src="/2016/images/top/1704gospel.jpg"></a>
+<p class="block-date">2017年6月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank">光くん<br>九州オーディオ映像ぶらり旅</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/mission/1706gospel/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
 <p class="block-date">2017年6月24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1706gospel/" target="_blank">The Gate of Praise<br>練馬区の介護老人保健施設でゴスペルコンサート</a></p>
