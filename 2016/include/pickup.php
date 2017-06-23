@@ -16,7 +16,7 @@
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/1706chiba/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
+<a href="http://antiochblog.jp/mission/1706chiba/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
 <p class="block-date">2017年6月24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1706chiba/" target="_blank">梅雨晴れの関東を行く<br>千葉聖会<br>(聖会日程：2017年6月24日)</a></p>
 </div>-->
@@ -45,7 +45,13 @@
 <p class="block-title"><a href="http://astone.tv/events/radio1706/" target="_blank">ゴスペル風のひびき<br>ラジオパーソナリティのゆったりまったり一週間<br></a></p>
 </div>
 
-
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gospel2017/category/0624gospel/" target="_blank"><img src="/2016/images/top/1704gospel.jpg"></a>
+<p class="block-date">2017年6月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/0624gospel/" target="_blank">ゴスペルの集い</a></p>
+</div>-->
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
