@@ -14,6 +14,13 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELチャリティーコンサート生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年5月20日 11:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1706chiba/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
+<p class="block-date">2017年6月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1706chiba/" target="_blank">梅雨晴れの関東を行く<br>千葉聖会<br>(聖会日程：2017年6月24日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -45,6 +52,14 @@
 <p class="block-date">2017年6月22日</p>
 <p class="block-title"><a href="http://astone.tv/events/suginami1706/" target="_blank">ImmanuelとBeracha<br>杉並区の特別養護老人施設でコンサート</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1706gospel/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+<p class="block-date">2017年6月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1706gospel/" target="_blank">The Gate of Praise<br>練馬区の介護老人保健施設でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
