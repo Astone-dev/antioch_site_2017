@@ -21,6 +21,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/mission/1706chiba/" target="_blank">紫陽花の季節の関東を行く<br>千葉聖会<br>(聖会日程：2017年6月24日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
+<p class="block-date">2017年6月25日〜28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank"><br>東北聖会<br>(聖会日程：2017年6月26日-28日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -45,6 +52,14 @@
 <p class="block-title"><a href="http://astone.tv/events/radio1706/" target="_blank">ゴスペル風のひびき<br>ラジオパーソナリティのゆったりまったり一週間<br></a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/students17/201706/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
+<p class="block-date">2017年6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/students17/201706/" target="_blank">学生会</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -68,6 +83,14 @@
 <p class="block-date">2017年6月24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank">光くん<br>九州オーディオ・映像ぶらり旅</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1706tochigi/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">2017年6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1706tochigi/" target="_blank">Graceと宝石<br>栃木の道の駅でゴスペル</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
