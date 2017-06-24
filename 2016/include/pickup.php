@@ -16,6 +16,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
 <p class="block-date">2017年6月25日〜28日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank"><br>梅雨の東北を行く<br>東北宣教の旅<br>(聖会日程：2017年6月26日-28日)</a></p>
