@@ -19,63 +19,39 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
 <p class="block-date">2017年6月25日〜28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank"><br>梅雨の東北を行く<br>東北宣教の旅<br>(聖会日程：2017年6月26日-28日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank">梅雨の東北を行く<br>東北宣教の旅<br>(聖会日程：2017年6月26日-28日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank"><img src="/2016/images/top/1706hakubajyunbi.jpg"></a>
-<p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank">夏の白馬キャンプに向かって<br>ワクワクの一週間<br>アンテオケ教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+<a href="http://astone.tv/events/bosyuu1706/" target="_blank"><img src="/2016/images/top/1706sakushiyorokobiantioch.jpg"></a>
+<p class="block-date">2017年6月26日〜7月2日</p>
+<p class="block-title"><a href="http://astone.tv/events/bosyuu1706/" target="_blank">風のひびき5集<br>作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服<br>アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/nominate1706/" target="_blank"><img src="/2016/images/top/1706jgospelzenkokukettei.jpg"></a>
-<p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nominate1706/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬 出場チーム決定！<br>ときめきの一週間<br>(大会日程：2017年7月26、27日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/radio1706/" target="_blank"><img src="/2016/images/top/1706radioweek.jpg"></a>
-<p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://astone.tv/events/radio1706/" target="_blank">ゴスペル風のひびき<br>ラジオパーソナリティのゆったりまったり一週間<br></a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/students17/201706/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
-<p class="block-date">2017年6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/students17/201706/" target="_blank">6月の学生会<br>タコスを食べる！</a></p>
+<a href="http://antiochblog.jp/mission/1706yorimichi" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
+<p class="block-date">2017年6月26日〜7月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1706yorimichi" target="_blank">もうすぐ新シリーズ始まる！<br>クリスチャンの寄り道<br>血も涙もない一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank"><img src="/2016/images/top/1706hikarunagasaki.jpg"></a>
-<p class="block-date">2017年6月24日</p>
+<p class="block-date">2017年6月24日〜</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank">光くん<br>九州オーディオ・映像ぶらり旅</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1706tochigi/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">2017年6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1706tochigi/" target="_blank">Graceと宝石<br>栃木の道の駅でゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank"><img src="/2016/images/top/1706zenkokuhakuba.jpg"></a>
-<p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank">夏の白馬キャンプに向かって<br>ワクワクの一週間<br>全国各教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+<a href="http://astone.tv/events/songs1706/" target="_blank"><img src="/2016/images/top/1706sakushiyorokobizenkoku.jpg"></a>
+<p class="block-date">2017年6月26日〜7月2日</p>
+<p class="block-title"><a href="http://astone.tv/events/songs1706/" target="_blank">風のひびき5集<br>作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -116,6 +92,48 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank"><img src="/2016/images/top/1706hakubajyunbi.jpg"></a>
+<p class="block-date">2017年6月19日〜6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank">夏の白馬キャンプに向かって<br>ワクワクの一週間<br>アンテオケ教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/nominate1706/" target="_blank"><img src="/2016/images/top/1706jgospelzenkokukettei.jpg"></a>
+<p class="block-date">2017年6月19日〜6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/nominate1706/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬 出場チーム決定！<br>ときめきの一週間<br>(大会日程：2017年7月26、27日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/radio1706/" target="_blank"><img src="/2016/images/top/1706radioweek.jpg"></a>
+<p class="block-date">2017年6月19日〜6月25日</p>
+<p class="block-title"><a href="http://astone.tv/events/radio1706/" target="_blank">ゴスペル風のひびき<br>ラジオパーソナリティのゆったりまったり一週間<br></a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/students17/201706/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
+<p class="block-date">2017年6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/students17/201706/" target="_blank">6月の学生会<br>タコスを食べる！</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1706tochigi/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">2017年6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1706tochigi/" target="_blank">Graceと宝石<br>栃木の道の駅でゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank"><img src="/2016/images/top/1706zenkokuhakuba.jpg"></a>
+<p class="block-date">2017年6月19日〜6月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank">夏の白馬キャンプに向かって<br>ワクワクの一週間<br>全国各教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <div class="column-inner">
