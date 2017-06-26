@@ -78,20 +78,26 @@
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank"><img src="/2016/images/top/1706hakusorji_cm.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank">映画<br>ハクソー・リッジ<br>紹介映像</a></p>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank">映画『ハクソー・リッジ』<br>紹介映像</a></p>
 </div>
 
 <div class="column-inner">
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/katararetekoto/" target="_blank"><img src="/2016/images/top/1704yorimichi27.jpg"></a>
+<a href="http://antiochblog.jp/info/standup/" target="_blank"><img src="/2016/images/top/1706yorimichi28.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/katararetekoto/" target="_blank">クリスチャンの寄り道 Vol.27<br>今回は「失敗した時に主に語られたこと」のお話です</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/standup/" target="_blank">クリスチャンの寄り道 Vol.28<br>今回は「倒れて立ち上がった経験」のお話です</a></p>
 </div>
 
 <div class="column-inner">
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/yorimichi/result-prayeranswers.html" target="_blank"><img src="/2016/images/top/1704yorimichi26kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-prayeranswers.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.26<br>「思い出深い祈りの答え」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+</div>
+
+<div class="column-inner">
+<a href="http://antiochblog.jp/info/katararetekoto/" target="_blank"><img src="/2016/images/top/1704yorimichi27.jpg"></a>
+<p class="block-date">毎日7:00更新</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/katararetekoto/" target="_blank">クリスチャンの寄り道 Vol.27<br>今回は「失敗した時に主に語られたこと」のお話です</a></p>
 </div>
 
 <div class="column-inner">
