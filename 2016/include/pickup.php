@@ -38,29 +38,30 @@
 <p class="block-title"><a href="http://antiochblog.jp/mission/1706yorimichi" target="_blank">もうすぐ新シリーズ始まる！<br>クリスチャンの寄り道<br>血も涙もない一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1706kagoshima" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
+<a href="http://antiochblog.jp/info/1706kagoshima" target="_blank"><img src="/2016/images/top/1706familyhomekagoshima.jpg"></a>
 <p class="block-date">2017年6月28日〜29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1706kagoshima" target="_blank">鹿児島県庁にあいさつ手順をききにいく</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1706kagoshima" target="_blank">ファミリーホームに向って<br>礎の石孤児院<br>鹿児島県庁にあいさつ手順をききにいく<br>(日程：2017年6月28日〜29日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1706tech/" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
-<p class="block-date">2017年6月28日〜29日</p>
-<p class="block-title"><a href="http://astone.tv/events/1706tech/" target="_blank">IT 最新技術リサーチ隊が行く</a></p>
+<a href="http://astone.tv/events/1706tech/" target="_blank"><img src="/2016/images/top/1706aiitresearch.jpg"></a>
+<p class="block-date">2017年6月28日〜30日</p>
+<p class="block-title"><a href="http://astone.tv/events/1706tech/" target="_blank">AI・IT最新技術展示会<br>リサーチ隊が行く</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/nerima1706/" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
+<a href="http://antiochblog.jp/praise/nerima1706/" target="_blank"><img src="/2016/images/top/1706patolisnerima.jpg"></a>
 <p class="block-date">2017年6月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nerima1706/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でコンサート</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/nerima1706/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でコンサート<br>(日程：2017年6月28日)
+</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
