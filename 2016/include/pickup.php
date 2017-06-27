@@ -77,7 +77,7 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank"><img src="/2016/images/top/1706hakusorji_cm.jpg"></a>
+<a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『ハクソー・リッジ』');"><img src="/2016/images/top/1706hakusorji_cm.jpg"></a>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank">映画『ハクソー・リッジ』<br>紹介映像</a></p>
 </div>
 
