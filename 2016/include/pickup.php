@@ -17,14 +17,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
-<p class="block-date">2017年6月25日〜28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank">梅雨の東北を行く<br>東北宣教の旅<br>(聖会日程：2017年6月26日-28日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/bosyuu1706/" target="_blank"><img src="/2016/images/top/1706sakushiyorokobiantioch.jpg"></a>
 <p class="block-date">2017年6月26日〜7月2日</p>
 <p class="block-title"><a href="http://astone.tv/events/bosyuu1706/" target="_blank">風のひびき5集<br>作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服<br>アンテオケ教会</a></p>
@@ -43,23 +35,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1706tech/" target="_blank"><img src="/2016/images/top/1706aiitresearch.jpg"></a>
 <p class="block-date">2017年6月28日〜30日</p>
-<p class="block-title"><a href="http://astone.tv/events/1706tech/" target="_blank">AI・IT最新技術展示会<br>リサーチ隊が行く</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1706kagoshima" target="_blank"><img src="/2016/images/top/1706familyhomekagoshima.jpg"></a>
-<p class="block-date">2017年6月28日〜29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1706kagoshima" target="_blank">ファミリーホームに向って<br>礎の石孤児院<br>鹿児島県庁にあいさつ手順をききにいく<br>(日程：2017年6月28日〜29日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank"><img src="/2016/images/top/1706hikarunagasaki.jpg"></a>
-<p class="block-date">2017年6月24日〜</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank">光くん<br>九州オーディオ・映像ぶらり旅</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1706tech/" target="_blank">今日もまだ続く！<br>AI・IT最新技術展示会<br>リサーチ隊が行く</a></p>
 </div>
 
 <div class="column-inner">
@@ -128,6 +104,27 @@
 <a href="http://antiochblog.jp/info/katararetekoto/" target="_blank"><img src="/2016/images/top/1704yorimichi27.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/katararetekoto/" target="_blank">クリスチャンの寄り道 Vol.27<br>今回は「失敗した時に主に語られたこと」のお話です</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
+<p class="block-date">2017年6月25日〜28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank">梅雨の東北を行く<br>東北宣教の旅<br>(聖会日程：2017年6月26日-28日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1706kagoshima" target="_blank"><img src="/2016/images/top/1706familyhomekagoshima.jpg"></a>
+<p class="block-date">2017年6月28日〜29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1706kagoshima" target="_blank">ファミリーホームに向って<br>礎の石孤児院<br>鹿児島県庁にあいさつ手順をききにいく<br>(日程：2017年6月28日〜29日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank"><img src="/2016/images/top/1706hikarunagasaki.jpg"></a>
+<p class="block-date">2017年6月24日〜</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank">光くん<br>九州オーディオ・映像ぶらり旅</a></p>
 </div>
 
 <div class="column-inner">
