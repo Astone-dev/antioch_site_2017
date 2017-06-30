@@ -14,6 +14,14 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELチャリティーコンサート生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年5月20日 11:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1707charisma/" target="_blank"><img src="/2016/images/top/1706tokari.jpg"></a>
+<p class="block-date">2017年7月1日〜2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707charisma/" target="_blank">7月 東京カリスマ聖会</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -37,6 +45,30 @@
 <p class="block-date">2017年6月28日〜30日</p>
 <p class="block-title"><a href="http://astone.tv/events/1706tech/" target="_blank">今日もまだ続く！<br>AI・IT最新技術展示会<br>リサーチ隊が行く</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0701kawaguchi/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">2017年7月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0701kawaguchi/" target="_blank">エルサレム<br>川口市のリハビリセンターのゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1707urawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
+<p class="block-date">2017年7月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1707urawa/" target="_blank">ラベイユ<br>武蔵浦和の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1707freedom/" target="_blank"><img src="/2016/images/top/1706aiitresearch.jpg"></a>
+<p class="block-date">2017年7月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707freedom/" target="_blank">FREEDOM<br>施設でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
