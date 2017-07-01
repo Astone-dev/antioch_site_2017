@@ -14,13 +14,13 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELチャリティーコンサート生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年5月20日 11:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/chubu1707/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
 <p class="block-date">2017年7月1日〜6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chubu1707/" target="_blank">中部聖会</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/chubu1707/" target="_blank">初夏の緑の香りの中を<br>中部宣教の旅<br>(聖会日程：2017年7月3日〜6日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -78,7 +78,7 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1707freedom/" target="_blank">FREEDOM<br>施設でゴスペルコンサート</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/doors1707/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
@@ -91,8 +91,8 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/grace1707/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
 <p class="block-date">2017年7月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/grace1707/" target="_blank">Graceと宝石 <br>宇都宮でコンサート</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/grace1707/" target="_blank">Graceと宝石<br>宇都宮でコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
