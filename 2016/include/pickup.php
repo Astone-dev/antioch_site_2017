@@ -57,30 +57,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0701kawaguchi/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">2017年7月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0701kawaguchi/" target="_blank">エルサレム<br>川口市のリハビリセンターのゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1707urawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
-<p class="block-date">2017年7月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1707urawa/" target="_blank">ラベイユ<br>武蔵浦和の福祉施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1707freedom/" target="_blank"><img src="/2016/images/top/1707freedomshisetsu.jpg"></a>
-<p class="block-date">2017年7月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1707freedom/" target="_blank">FREEDOM<br>施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/doors1707/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
 <p class="block-date">2017年7月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/doors1707/" target="_blank">GRACIOUS DOORS<br>練馬でゴスペルコンサート</a></p>
@@ -160,6 +136,28 @@
 <a href="http://antiochblog.jp/info/katararetekoto/" target="_blank"><img src="/2016/images/top/1704yorimichi27.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/katararetekoto/" target="_blank">クリスチャンの寄り道 Vol.27<br>今回は「失敗した時に主に語られたこと」のお話です</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0701kawaguchi/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">2017年7月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0701kawaguchi/" target="_blank">エルサレム<br>川口市のリハビリセンターのゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1707urawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
+<p class="block-date">2017年7月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1707urawa/" target="_blank">ラベイユ<br>武蔵浦和の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1707freedom/" target="_blank"><img src="/2016/images/top/1707freedomshisetsu.jpg"></a>
+<p class="block-date">2017年7月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707freedom/" target="_blank">FREEDOM<br>施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
