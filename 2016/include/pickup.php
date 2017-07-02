@@ -27,7 +27,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1707rainy" target="_blank"><img src="/2016/images/top/1707tokari.jpg"></a>
 <p class="block-date">2017年7月3日〜9日</p>
-<p class="block-title"><a href="http://astone.tv/events/1707rainy" target="_blank">梅雨の一週間<br>東京カリスマ聖会<br></a></p>
+<p class="block-title"><a href="http://astone.tv/events/1707rainy" target="_blank">梅雨明け？の一週間<br>東京カリスマ聖会<br></a></p>
 </div>-->
 
 <!--<div class="column-inner">
@@ -99,7 +99,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1707rainy/" target="_blank"><img src="/2016/images/top/1707tokari.jpg"></a>
 <p class="block-date">2017年7月3日〜9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1707rainy/" target="_blank">梅雨の一週間<br>全国各教会<br></a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707rainy/" target="_blank">梅雨明け？の一週間<br>全国各教会<br></a></p>
 </div>-->
 
 <div class="column-inner">
