@@ -33,7 +33,7 @@
               <li><a href="/FAQ/buddhism.html">仏教とキリスト教の違い</a></li>
               <li><a href="/FAQ/religion.html">宗教とは何か？</a></li>
               <li><a href="/manga/0909madoka-sukui/">漫画 救いって何？どうしたら救われるの？</a></li>
-              <li><a href="http://fumihashi5011.wix.com/japanese-tokyoan">日本語を学ぶ</a></li>
+              <!-- <li><a href="http://fumihashi5011.wix.com/japanese-tokyoan">日本語を学ぶ</a></li> -->
             </ul>
             <ul class="header--nav--sub__ul">
               <li><a href="http://astone-blog.jp/photonews/">最新写真ニュース</a></li>
