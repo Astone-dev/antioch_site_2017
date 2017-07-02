@@ -22,6 +22,22 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/chubu1707/" target="_blank">初夏の緑の香りの中を<br>中部宣教の旅<br>(聖会日程：2017年7月3日〜6日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1707rainy" target="_blank"><img src="/2016/images/top/1707tokari.jpg"></a>
+<p class="block-date">2017年7月3日〜9日</p>
+<p class="block-title"><a href="http://astone.tv/events/1707rainy" target="_blank">梅雨の一週間<br>東京カリスマ聖会<br></a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://blog.antioch.jp/1707patmos/" target="_blank"><img src="/2016/images/top/1707tokari.jpg"></a>
+<p class="block-date">2017年7月3日〜9日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br></a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -77,6 +93,14 @@
 <p class="block-date">2017年6月26日〜7月2日</p>
 <p class="block-title"><a href="http://astone.tv/events/songs1706/" target="_blank">風のひびき5集<br>作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服<br>全国各教会</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1707rainy/" target="_blank"><img src="/2016/images/top/1707tokari.jpg"></a>
+<p class="block-date">2017年7月3日〜9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707rainy/" target="_blank">梅雨の一週間<br>全国各教会<br></a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
