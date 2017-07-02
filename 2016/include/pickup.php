@@ -22,85 +22,37 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/chubu1707/" target="_blank">初夏の緑の香りの中を<br>中部宣教の旅<br>(聖会日程：2017年7月3日〜6日)</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1707rainy" target="_blank"><img src="/2016/images/top/1707tokari.jpg"></a>
-<p class="block-date">2017年7月3日〜9日</p>
-<p class="block-title"><a href="http://astone.tv/events/1707rainy" target="_blank">梅雨明け？の一週間<br>東京カリスマ聖会<br></a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1707patmos/" target="_blank"><img src="/2016/images/top/1707tokari.jpg"></a>
-<p class="block-date">2017年7月3日〜9日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br></a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1707charisma/" target="_blank"><img src="/2016/images/top/1707tokari.jpg"></a>
-<p class="block-date">2017年7月1日〜2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1707charisma/" target="_blank">梅雨空を吹きとばせ<br>東京カリスマ聖会<br>スタッフ大忙し<br>(聖会日程：2017年7月2日)</a></p>
+<a href="http://blog.antioch.jp/1707patmos/" target="_blank"><img src="/2016/images/top/1706ptomosu.jpg"></a>
+<p class="block-date">2017年7月3日〜9日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br>直前情報写真集<br>(日程：2017年7月11日〜20日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/bosyuu1706/" target="_blank"><img src="/2016/images/top/1706sakushiyorokobiantioch.jpg"></a>
-<p class="block-date">2017年6月26日〜7月2日</p>
-<p class="block-title"><a href="http://astone.tv/events/bosyuu1706/" target="_blank">風のひびき5集<br>作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服<br>アンテオケ教会</a></p>
+<a href="http://astone.tv/events/1707rainy" target="_blank"><img src="/2016/images/top/1707tsuyuakeantioch.jpg"></a>
+<p class="block-date">2017年7月3日〜9日</p>
+<p class="block-title"><a href="http://astone.tv/events/1707rainy" target="_blank">梅雨明け？の一週間<br>東京アンテオケ教会<br></a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/sanbi1707/" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
+<a href="http://astone.tv/events/sanbi1707/" target="_blank"><img src="/2016/images/top/1707jgosfinalteam.jpg"></a>
 <p class="block-date">2017年7月2日〜9日</p>
 <p class="block-title"><a href="http://astone.tv/events/sanbi1707/" target="_blank">賛美グループ出場順決まる<br>いよいよ大会直前の緊張の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/1706yorimichi" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
-<p class="block-date">2017年6月26日〜7月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1706yorimichi" target="_blank">もうすぐ新シリーズ始まる！<br>クリスチャンの寄り道<br>血も涙もない一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/doors1707/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
-<p class="block-date">2017年7月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/doors1707/" target="_blank">GRACIOUS DOORS<br>練馬でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/grace1707/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
-<p class="block-date">2017年7月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/grace1707/" target="_blank">Graceと宝石<br>宇都宮でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/songs1706/" target="_blank"><img src="/2016/images/top/1706sakushiyorokobizenkoku.jpg"></a>
-<p class="block-date">2017年6月26日〜7月2日</p>
-<p class="block-title"><a href="http://astone.tv/events/songs1706/" target="_blank">風のひびき5集<br>作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服<br>全国各教会</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1707rainy/" target="_blank"><img src="/2016/images/top/1707tokari.jpg"></a>
+<a href="http://antiochblog.jp/praise/1707rainy/" target="_blank"><img src="/2016/images/top/1707tsuyuakezenkoku.jpg"></a>
 <p class="block-date">2017年7月3日〜9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1707rainy/" target="_blank">梅雨明け？の一週間<br>全国各教会<br></a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -160,6 +112,48 @@
 <a href="http://antiochblog.jp/info/katararetekoto/" target="_blank"><img src="/2016/images/top/1704yorimichi27.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/katararetekoto/" target="_blank">クリスチャンの寄り道 Vol.27<br>今回は「失敗した時に主に語られたこと」のお話です</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1707charisma/" target="_blank"><img src="/2016/images/top/1707tokari.jpg"></a>
+<p class="block-date">2017年7月1日〜2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707charisma/" target="_blank">梅雨空を吹きとばせ<br>東京カリスマ聖会<br>スタッフ大忙し<br>(聖会日程：2017年7月2日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/bosyuu1706/" target="_blank"><img src="/2016/images/top/1706sakushiyorokobiantioch.jpg"></a>
+<p class="block-date">2017年6月26日〜7月2日</p>
+<p class="block-title"><a href="http://astone.tv/events/bosyuu1706/" target="_blank">風のひびき5集<br>作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服<br>アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1706yorimichi" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
+<p class="block-date">2017年6月26日〜7月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1706yorimichi" target="_blank">もうすぐ新シリーズ始まる！<br>クリスチャンの寄り道<br>血も涙もない一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/doors1707/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
+<p class="block-date">2017年7月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/doors1707/" target="_blank">GRACIOUS DOORS<br>練馬でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/grace1707/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
+<p class="block-date">2017年7月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/grace1707/" target="_blank">Graceと宝石<br>宇都宮でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/songs1706/" target="_blank"><img src="/2016/images/top/1706sakushiyorokobizenkoku.jpg"></a>
+<p class="block-date">2017年6月26日〜7月2日</p>
+<p class="block-title"><a href="http://astone.tv/events/songs1706/" target="_blank">風のひびき5集<br>作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
