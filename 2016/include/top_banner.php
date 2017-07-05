@@ -83,10 +83,16 @@
   <p class="block-title"><span><a href="/orphanage/">世界の孤児の情報</a></span></p>
 </div>
 
+<div class="column-inner"> <a href="/orchestra/"><img src="/2016/images/top/bt_tlcccorchestra.jpg"></a>
+  <p class="block-title"><span><a href="/orchestra/">礼拝のオーケストラ楽団員募集</a></span></p>
+</div>
+
+<div class="column-inner"> <a href="http://atv.antioch.jp/pt-leon/"><img src="/2016/images/top/bt_revleonmessage.jpg"></a>
+  <p class="block-title"><span><a href="http://atv.antioch.jp/pt-leon/">ユダヤ人牧師のメッセージ</a></span></p>
+</div>
+
 <div class="column-inner"> <a href="/link/"><img src="/2016/images/top/bt_link.jpg"></a>
   <p class="block-title"><span><a href="/link/">リンク</a></span></p>
 </div>
 
-<div class="column-inner"> <a href="/orchestra/"><img src="/2016/images/top/bt_tlcccorchestra.jpg"></a>
-  <p class="block-title"><span><a href="/orchestra/">礼拝のオーケストラ楽団員募集</a></span></p>
-</div>
+
