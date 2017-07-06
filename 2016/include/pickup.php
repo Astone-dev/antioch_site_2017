@@ -30,6 +30,22 @@
 <p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br>直前情報写真集<br>(日程：2017年7月11日〜20日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/mynmar1707/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
+<p class="block-date">2017年7月7日-8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/mynmar1707/" target="_blank">ミャンマー人教会で奉仕<br>賛美チームも</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1707concert/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
+<p class="block-date">2017年7月7日-8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1707concert/" target="_blank">婦人会とオーケストラ<br>道の駅でコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
