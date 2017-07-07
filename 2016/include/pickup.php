@@ -154,12 +154,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1706tokari_digest_p.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">6月東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)<br>(聖会日程：2017年6月4日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/mission/1706yorimichi" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
 <p class="block-date">2017年6月26日〜7月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1706yorimichi" target="_blank">もうすぐ新シリーズ始まる！<br>クリスチャンの寄り道<br>血も涙もない一週間</a></p>
@@ -186,13 +180,6 @@
 <p class="block-title"><a href="http://astone.tv/events/songs1706/" target="_blank">風のひびき5集<br>作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服<br>全国各教会</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0701kawaguchi/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">2017年7月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0701kawaguchi/" target="_blank">エルサレム<br>川口市のリハビリセンターのゴスペルコンサート</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/1707urawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
@@ -213,105 +200,6 @@
 <a href="http://astone.tv/events/1706tech/" target="_blank"><img src="/2016/images/top/1706aiitresearch.jpg"></a>
 <p class="block-date">2017年6月28日〜30日</p>
 <p class="block-title"><a href="http://astone.tv/events/1706tech/" target="_blank">今日もまだ続く！<br>AI・IT最新技術展示会<br>リサーチ隊が行く</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
-<p class="block-date">2017年6月25日〜28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1706/" target="_blank">梅雨の東北を行く<br>東北宣教の旅<br>(聖会日程：2017年6月26日-28日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1706kagoshima" target="_blank"><img src="/2016/images/top/1706familyhomekagoshima.jpg"></a>
-<p class="block-date">2017年6月28日〜29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1706kagoshima" target="_blank">ファミリーホームに向って<br>礎の石孤児院<br>鹿児島県庁にあいさつ手順をききにいく<br>(日程：2017年6月28日〜29日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank"><img src="/2016/images/top/1706hikarunagasaki.jpg"></a>
-<p class="block-date">2017年6月24日〜</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1706kyusyu/" target="_blank">光くん<br>九州オーディオ・映像ぶらり旅</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/nerima1706/" target="_blank"><img src="/2016/images/top/1706patolisnerima.jpg"></a>
-<p class="block-date">2017年6月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nerima1706/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でコンサート<br>(日程：2017年6月28日)
-</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank"><img src="/2016/images/top/1706hakubajyunbi.jpg"></a>
-<p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1706/" target="_blank">夏の白馬キャンプに向かって<br>ワクワクの一週間<br>アンテオケ教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/nominate1706/" target="_blank"><img src="/2016/images/top/1706jgospelzenkokukettei.jpg"></a>
-<p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nominate1706/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬 出場チーム決定！<br>ときめきの一週間<br>(大会日程：2017年7月26、27日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/radio1706/" target="_blank"><img src="/2016/images/top/1706radioweek.jpg"></a>
-<p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://astone.tv/events/radio1706/" target="_blank">ゴスペル風のひびき<br>ラジオパーソナリティのゆったりまったり一週間<br></a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/students17/201706/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
-<p class="block-date">2017年6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/students17/201706/" target="_blank">6月の学生会<br>タコスを食べる！</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1706tochigi/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">2017年6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1706tochigi/" target="_blank">Graceと宝石<br>栃木の道の駅でゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank"><img src="/2016/images/top/1706zenkokuhakuba.jpg"></a>
-<p class="block-date">2017年6月19日〜6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1706z/" target="_blank">夏の白馬キャンプに向かって<br>ワクワクの一週間<br>全国各教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/1706chiba/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
-<p class="block-date">2017年6月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1706chiba/" target="_blank">紫陽花の季節の関東を行く<br>千葉聖会<br>(聖会日程：2017年6月24日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gospel2017/category/0624gospel/" target="_blank"><img src="/2016/images/top/1704gospel.jpg"></a>
-<p class="block-date">2017年6月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/0624gospel/" target="_blank">6月ゴスペルの集いの一日</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0624kawaguchi/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">2017年6月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0624kawaguchi/" target="_blank">エルサレム<br>川口のデイケアでゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/1706gospel/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-<p class="block-date">2017年6月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1706gospel/" target="_blank">The Gate of Praise<br>練馬区の介護老人保健施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
