@@ -38,6 +38,22 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/mynmar1707/" target="_blank">ミャンマー人教会で奉仕<br>賛美チームも歌う<br>(日程：2017年7月8日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017healing/0708healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+<p class="block-date">2017年7月8日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/0708healing/" target="_blank">いやしの集い</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年7月8日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年7月8日 18:30スタート)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -53,6 +69,14 @@
 <p class="block-date">2017年7月7日-8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1707concert/" target="_blank">婦人会とオーケストラ<br>道の駅でコンサート<br>(日程：2017年7月8日)</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017labeille/category/0708itabashi/" target="_blank"><img src="/2016/images/top/1706arakawa.jpg"></a>
+<p class="block-date">2017年7月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/0708itabashi/" target="_blank">ラベイユ<br>板橋区でゴスペルコンサート<br>(日程：2017年7月8日)</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -246,14 +270,6 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2017年6月17日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年6月17日 18:30スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年6月10日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年6月10日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
