@@ -70,6 +70,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/0708itabashi/" target="_blank">ラベイユ<br>板橋区でゴスペルコンサート<br>(日程：2017年7月8日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/0709concert/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
+<p class="block-date">2017年7月9日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0709concert/" target="_blank">By His Spirit<br>世田谷高齢者施設でコンサート<br>(日程：2017年7月9日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
