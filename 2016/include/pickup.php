@@ -18,8 +18,8 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1707patmos/" target="_blank"><img src="/2016/images/top/1706ptomosu.jpg"></a>
-<p class="block-date">2017年7月3日〜9日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br>直前情報写真集<br>(日程：2017年7月11日〜20日)</a></p>
+<p class="block-date">2017年7月11日〜20日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br>最新情報写真集<br>(チーム日程：2017年7月11日〜20日)</a></p>
 </div>
 
 <div class="column-inner">
