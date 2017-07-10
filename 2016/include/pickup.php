@@ -24,6 +24,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/hakuba1707bf/" target="_blank"><img src="/2016/images/top/1707hakubajyunbi.jpg"></a>
 <p class="block-date">2017年7月10日〜16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/hakuba1707bf/" target="_blank">白馬キャンプ2週間前のときめき<br>東京アンテオケ教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
@@ -31,6 +32,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/hakuba1707before/" target="_blank"><img src="/2016/images/top/1707zenkokuhakuba.jpg"></a>
 <p class="block-date">2017年7月10日〜16日</p>
 <p class="block-title"><a href="http://astone.tv/events/hakuba1707before/" target="_blank">白馬キャンプ2週間前のときめき<br>全国各教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
