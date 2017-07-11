@@ -33,6 +33,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0711orange/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">2017年7月11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0711orange/" target="_blank">エルサレム<br>三郷のカフェでゴスペルコンサート<br>(日程：2017年7月11日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/hakuba1707before/" target="_blank"><img src="/2016/images/top/1707zenkokuhakuba.jpg"></a>
 <p class="block-date">2017年7月10日〜16日</p>
 <p class="block-title"><a href="http://astone.tv/events/hakuba1707before/" target="_blank">白馬キャンプ2週間前のときめき<br>全国各教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
@@ -112,12 +120,12 @@
 <p class="block-title"><a href="http://astone.tv/events/sanbi1707/" target="_blank">J.GOSPELコンテストファイナルin白馬<br>賛美グループ出場順決まる<br>いよいよ大会直前の緊張の一週間<br>(大会日程：2017年7月26日、27日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/0709gospel/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">2017年7月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0709gospel/" target="_blank">エルサレム<br>他教会でゴスペル教室<br>(日程：2017年7月9日)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
