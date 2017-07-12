@@ -30,6 +30,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/hakuba1707bf/" target="_blank">白馬キャンプ2週間前のときめき<br>東京アンテオケ教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/fuchu1707/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
+<p class="block-date">2017年7月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/fuchu1707/" target="_blank">GRACEと宝石 <br>府中市と調布市デイサービスでゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
