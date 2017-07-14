@@ -33,9 +33,9 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<a href="http://astone.tv/events/1707live/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
 <p class="block-date">2017年7月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank">Revival Night</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1707live/" target="_blank">エルサレム、JOY<br>ラムラ飯田橋でミニライブ</a></p>
 </div>-->
 
 <!--<div class="column-inner">
