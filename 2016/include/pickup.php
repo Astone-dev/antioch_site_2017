@@ -30,21 +30,29 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/hakuba1707bf/" target="_blank">白馬キャンプ2週間前のときめき<br>東京アンテオケ教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1707live/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<a href="http://astone.tv/events/1707live/" target="_blank"><img src="/2016/images/top/1707live.jpg"></a>
 <p class="block-date">2017年7月15日</p>
 <p class="block-title"><a href="http://astone.tv/events/1707live/" target="_blank">エルサレム、JOY<br>ラムラ飯田橋でミニライブ</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<p class="block-date">2017年7月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank">Revival Night</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年6月17日</p>
+<p class="block-date">2017年7月15日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年6月17日 18:30スタート)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
