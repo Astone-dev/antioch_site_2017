@@ -54,6 +54,22 @@
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年6月17日 18:30スタート)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1707women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
+<p class="block-date">2017年7月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1707women/" target="_blank">婦人会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/0716concert/" target="_blank"><img src="/2016/images/top/1705byhisnerima.jpg"></a>
+<p class="block-date">2017年7月16日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0716concert/" target="_blank">By His Spirit<br>施設でコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
