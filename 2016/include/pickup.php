@@ -51,7 +51,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
 <p class="block-date">2017年7月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank">Revival Night</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank">7月Revival Nightの一日</a></p>
 </div>
 
 <div class="column-inner">
