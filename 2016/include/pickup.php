@@ -22,13 +22,13 @@
 <p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br>最新情報写真集<br>(チーム日程：2017年7月11日〜20日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('パトモスチーム生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2017年7月16日</p>
-<p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('パトモスチーム生中継');">パトモスチーム生中継<br>16:00頃スタート<br>（現地時間10:00頃スタート)</a></p>
-</div>-->
+<p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('パトモスチーム生中継');">パトモスチーム生中継<br>15:30頃スタート<br>（現地時間9:30頃スタート)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -39,30 +39,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1707live/" target="_blank"><img src="/2016/images/top/1707live.jpg"></a>
-<p class="block-date">2017年7月15日</p>
-<p class="block-title"><a href="http://astone.tv/events/1707live/" target="_blank">エルサレム、JOY<br>ラムラ飯田橋でミニライブ</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">2017年7月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank">Revival Night</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年7月15日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年6月17日 18:30スタート)</a></p>
-</div>
-
-<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/1707women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
@@ -76,7 +52,7 @@
 <a href="http://astone.tv/events/2017byhisspirit/0716concert/" target="_blank"><img src="/2016/images/top/1705byhisnerima.jpg"></a>
 <p class="block-date">2017年7月16日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0716concert/" target="_blank">By His Spirit<br>施設でコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -144,6 +120,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1707live/" target="_blank"><img src="/2016/images/top/1707live.jpg"></a>
+<p class="block-date">2017年7月15日</p>
+<p class="block-title"><a href="http://astone.tv/events/1707live/" target="_blank">エルサレム、JOY<br>ラムラ飯田橋でミニライブ</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<p class="block-date">2017年7月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank">Revival Night</a></p>
 </div>
 
 <div class="column-inner">
@@ -289,4 +279,12 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年7月8日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年7月8日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年7月15日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年6月17日 18:30スタート)</a></p>
 </div>-->
