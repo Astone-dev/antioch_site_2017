@@ -25,9 +25,9 @@
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('パトモスチーム生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2017年7月16日</p>
-<p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('パトモスチーム');">パトモスチーム生中継<br>16:00頃スタート<br>（現地時間10:00頃スタート)</a></p>
+<p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('パトモスチーム生中継');">パトモスチーム生中継<br>16:00頃スタート<br>（現地時間10:00頃スタート)</a></p>
 </div>-->
 
 <div class="column-inner">
