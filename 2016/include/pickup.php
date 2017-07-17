@@ -22,44 +22,29 @@
 <p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br>最新情報写真集<br>(チーム日程：2017年7月11日〜20日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('パトモスチーム生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2017年7月16日</p>
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('パトモスチーム生中継');">パトモスチーム生中継<br>15:30頃スタート<br>（現地時間9:30頃スタート)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/hakuba1707bf/" target="_blank"><img src="/2016/images/top/1707hakubajyunbi.jpg"></a>
-<p class="block-date">2017年7月10日〜16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/hakuba1707bf/" target="_blank">白馬キャンプ2週間前のときめき<br>東京アンテオケ教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+<a href="http://antiochblog.jp/praise/1707hakuba/" target="_blank"><img src="/2016/images/top/1707hakubajyunbi.jpg"></a>
+<p class="block-date">2017年7月17日〜24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707hakuba/" target="_blank">白馬キャンプ直前一週間<br>ワクワク、バタバタな直前一週間<br>東京アンテオケ教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
-
+ 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/1707women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
-<p class="block-date">2017年7月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1707women/" target="_blank">7月婦人会の一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/0716concert/" target="_blank"><img src="/2016/images/top/1705byhisnerima.jpg"></a>
-<p class="block-date">2017年7月16日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0716concert/" target="_blank">By His Spirit<br>施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/hakuba1707before/" target="_blank"><img src="/2016/images/top/1707zenkokuhakuba.jpg"></a>
-<p class="block-date">2017年7月10日〜16日</p>
-<p class="block-title"><a href="http://astone.tv/events/hakuba1707before/" target="_blank">白馬キャンプ2週間前のときめき<br>全国各教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+<a href="http://astone.tv/events/1707hakubaz/" target="_blank"><img src="/2016/images/top/1707zenkokuhakuba.jpg"></a>
+<p class="block-date">2017年7月17日〜24日</p>
+<p class="block-title"><a href="http://astone.tv/events/1707hakubaz/
+" target="_blank">白馬キャンプ直前一週間<br>全国各教会のワクワク直前一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -120,6 +105,34 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/hakuba1707bf/" target="_blank"><img src="/2016/images/top/1707hakubajyunbi.jpg"></a>
+<p class="block-date">2017年7月10日〜16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/hakuba1707bf/" target="_blank">白馬キャンプ2週間前のときめき<br>東京アンテオケ教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1707women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
+<p class="block-date">2017年7月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1707women/" target="_blank">7月婦人会の一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/0716concert/" target="_blank"><img src="/2016/images/top/1705byhisnerima.jpg"></a>
+<p class="block-date">2017年7月16日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0716concert/" target="_blank">By His Spirit<br>施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/hakuba1707before/" target="_blank"><img src="/2016/images/top/1707zenkokuhakuba.jpg"></a>
+<p class="block-date">2017年7月10日〜16日</p>
+<p class="block-title"><a href="http://astone.tv/events/hakuba1707before/" target="_blank">白馬キャンプ2週間前のときめき<br>全国各教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <div class="column-inner">
