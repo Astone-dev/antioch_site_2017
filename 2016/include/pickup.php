@@ -54,13 +54,6 @@
 </div>-->
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1707tokaridigest_p.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">7月東京カリスマ聖会<br>ダイジェスト写真集<br>(聖会日程：2017年7月2日)</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/hakuba-summer/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/hakuba-summer/" target="_blank">白馬キャンプご案内<br>お申込みスタート<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
@@ -77,13 +70,6 @@
 <span>NEW</span>
 <a href="http://thevision.co.jp/jgospel/" target="_blank"><img src="/2016/images/top/1707jgospelcontest_info.jpg"></a>
 <p class="block-title"><a href="http://thevision.co.jp/jgospel/" target="_blank">J.GOSPELコンテスト2017<br>ファイナル in 白馬<br>ご案内<br>(日程：2017年7月26日、27日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『ハクソー・リッジ』');"><img src="/2016/images/top/1706hakusorji_cm.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『ハクソー・リッジ』');">映画『ハクソー・リッジ』<br>紹介映像</a></p>
 </div>
 
 <div class="column-inner">
@@ -104,6 +90,18 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1707tokaridigest_p.jpg"></a>
+<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">7月東京カリスマ聖会<br>ダイジェスト写真集<br>(聖会日程：2017年7月2日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『ハクソー・リッジ』');"><img src="/2016/images/top/1706hakusorji_cm.jpg"></a>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『ハクソー・リッジ』');">映画『ハクソー・リッジ』<br>紹介映像</a></p>
 </div>
 
 <div class="column-inner">
