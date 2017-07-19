@@ -60,6 +60,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1707grace/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
+<p class="block-date">2017年7月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707grace/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201705hakubacm/" target="_blank"><img src="/2016/images/top/1705hakubacampcm_m.jpg"></a>
