@@ -63,7 +63,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1707grace/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
-<p class="block-date">2017年7月19日</p>
+<p class="block-date">2017年7月20日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1707grace/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
 </div>
 
