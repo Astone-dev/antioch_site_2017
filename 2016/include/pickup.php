@@ -28,27 +28,27 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1707hakuba/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenantioch.jpg"></a>
 <p class="block-date">2017年7月17日〜24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1707hakuba/" target="_blank">来週いよいよ白馬キャンプ<br>ワクワク、バタバタな直前一週間<br>東京アンテオケ教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="
-http://astone.tv/events/1707jgospelcontest/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenantioch.jpg"></a>
-<p class="block-date">2017年7月22日～</p>
-<p class="block-title"><a href="
-http://astone.tv/events/1707jgospelcontest/" target="_blank">J.GOSPELコンテスト<br> ファイナル in <br>白馬決戦に向かって</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707hakuba/" target="_blank">いよいよ白馬キャンプ<br>ワクワク、バタバタな3日前<br>東京アンテオケ教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="
-http://astone.tv/events/contest1707/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenantioch.jpg"></a>
+http://astone.tv/events/1707jgospelcontest/" target="_blank"><img src="/2016/images/top/1707jgospelfinal.jpg"></a>
 <p class="block-date">2017年7月22日～</p>
 <p class="block-title"><a href="
-http://astone.tv/events/contest1707/" target="_blank">J.GOSPELコンテスト<br>U21・KIDS ファイナル<br> in 白馬決戦に向かってブログ</a></p>
+http://astone.tv/events/1707jgospelcontest/" target="_blank">いざ勝負！<br>J.GOSPELコンテスト<br>ファイナル in 白馬<br>7.27決戦に向かって</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="
+http://astone.tv/events/contest1707/" target="_blank"><img src="/2016/images/top/1707jgospelu21kidsfinal.jpg"></a>
+<p class="block-date">2017年7月22日～</p>
+<p class="block-title"><a href="
+http://astone.tv/events/contest1707/" target="_blank">いざ勝負<br>J.GOSPELコンテスト<br>U21・KIDS ファイナル in 白馬<br>7.26決戦に向かって</a></p>
 </div>
 
 
@@ -56,18 +56,17 @@ http://astone.tv/events/contest1707/" target="_blank">J.GOSPELコンテスト<br
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年6月24日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年6月24日 18:30スタート)</a></p>
+<p class="block-date">2017年7月22日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年7月22日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="
-http://antiochblog.jp/praise/gospel2017/category/0722gospel/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenantioch.jpg"></a>
+http://antiochblog.jp/praise/gospel2017/category/0722gospel/" target="_blank"><img src="/2016/images/top/1707gospelnotsudoi.jpg"></a>
 <p class="block-date">2017年7月22日</p>
-<p class="block-title"><a href="
-http://antiochblog.jp/praise/gospel2017/category/0722gospel/" target="_blank">7月 ゴスペルの集い</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/0722gospel/" target="_blank">7月ゴスペルの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -84,15 +83,14 @@ http://antiochblog.jp/praise/gospel2017/category/0722gospel/" target="_blank">7�
 <a href="http://antiochblog.jp/praise/hyssop1707/" target="_blank"><img src="/2016/images/top/1703hisop.jpg"></a>
 <p class="block-date">2017年7月22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/hyssop1707/" target="_blank">ヒソプ<br>練馬区のデイサービスでコンサート</a></p>
-</div>-->
+</div>
 
- 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1707hakubaz/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
 <p class="block-date">2017年7月17日〜24日</p>
-<p class="block-title"><a href="http://astone.tv/events/1707hakubaz/" target="_blank">来週いよいよ白馬キャンプ<br>ワクワク直前一週間<br>全国各教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1707hakubaz/" target="_blank">いよいよ白馬キャンプ<br>ワクワクの3日前<br>全国各教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <!--<div class="column-inner">
