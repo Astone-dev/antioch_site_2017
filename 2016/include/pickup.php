@@ -14,13 +14,6 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年5月20日 11:00〜)</a></p>
 </div>-->
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1707patmos/" target="_blank"><img src="/2016/images/top/1706ptomosu.jpg"></a>
-<p class="block-date">2017年7月11日〜20日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br>最新情報写真集<br>(チーム日程：2017年7月11日〜20日)</a></p>
-</div>
 
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
@@ -60,14 +53,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1707grace/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
-<p class="block-date">2017年7月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1707grace/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201705hakubacm/" target="_blank"><img src="/2016/images/top/1705hakubacampcm_m.jpg"></a>
@@ -98,6 +83,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1707patmos/" target="_blank"><img src="/2016/images/top/1706ptomosu.jpg"></a>
+<p class="block-date">2017年7月11日〜20日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br>最新情報写真集<br>(チーム日程：2017年7月11日〜20日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1707grace/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
+<p class="block-date">2017年7月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707grace/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
