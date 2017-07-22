@@ -51,6 +51,21 @@ http://astone.tv/events/contest1707/" target="_blank"><img src="/2016/images/top
 http://astone.tv/events/contest1707/" target="_blank">いざ勝負<br>J.GOSPELコンテスト<br>U21・KIDS ファイナル in 白馬<br>7.26決戦に向かって</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017students/category/0723students/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
+<p class="block-date">2017年7月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/0723students/" target="_blank">7月 学生会</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/euqaristias/20170723center/" target="_blank"><img src="/2016/images/top/1703hisop.jpg"></a>
+<p class="block-date">2017年7月23日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170723center/" target="_blank">エウカリスティアス<br>施設でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
