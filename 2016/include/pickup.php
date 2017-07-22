@@ -62,7 +62,7 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負<br>J.GOSPEL�
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20170723center/" target="_blank"><img src="/2016/images/top/1703hisop.jpg"></a>
+<a href="http://astone.tv/events/euqaristias/20170723center/" target="_blank"><img src="/2016/images/top/1707euqcari.jpg"></a>
 <p class="block-date">2017年7月23日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20170723center/" target="_blank">エウカリスティアス<br>施設でゴスペルコンサート</a></p>
 </div>-->
