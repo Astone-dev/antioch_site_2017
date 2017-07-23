@@ -104,8 +104,8 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負<br>J.GOSPEL�
 <div class="column-inner">
 <span>NEW</span>
 <a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1707kokorocm.jpg"></a>
-<p class="block-date">日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール</p>
-<p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺるCM</a></p>
+<p class="block-date"></p>
+<p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺるCM<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
 </div>
 
 <div class="column-inner">
