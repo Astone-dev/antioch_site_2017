@@ -113,6 +113,13 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPE
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1707patmos/" target="_blank"><img src="/2016/images/top/1706ptomosu.jpg"></a>
+<p class="block-date">2017年7月11日〜20日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br>写真集<br>(じっくり全てを知りたい人のために)<br>(チーム日程：2017年7月11日〜20日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/2017students/category/0723students/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
 <p class="block-date">2017年7月23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/0723students/" target="_blank">7月 学生会<br>キーマカレーとナンを食べる</a></p>
@@ -123,13 +130,6 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPE
 <a href="http://astone.tv/events/euqaristias/20170723center/" target="_blank"><img src="/2016/images/top/1707euqcari.jpg"></a>
 <p class="block-date">2017年7月23日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20170723center/" target="_blank">エウカリスティアス<br>施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://blog.antioch.jp/1707patmos/" target="_blank"><img src="/2016/images/top/1706ptomosu.jpg"></a>
-<p class="block-date">2017年7月11日〜20日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1707patmos/" target="_blank">パトモスチーム<br>写真集<br>(じっくり全てを知りたい人のために)<br>(チーム日程：2017年7月11日〜20日)</a></p>
 </div>
 
 <div class="column-inner">
