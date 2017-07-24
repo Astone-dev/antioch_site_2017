@@ -31,13 +31,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1707hakuba/" target="_blank">いよいよ白馬キャンプ<br>ワクワク、バタバタな本番<br>東京アンテオケ教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1707trip/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenantioch.jpg"></a>
-<p class="block-date">2017年7月25日〜28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1707trip/" target="_blank">さあ白馬キャンプ<br>設営、映像スタッフ珍道中<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>-->
+<a href="http://antiochblog.jp/info/1707trip/" target="_blank"><img src="/2016/images/top/1707hakubasetsuei.jpg"></a>
+<p class="block-date">2017年7月25日〜</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1707trip/" target="_blank">さあ行くぞ！白馬キャンプ<br>設営、映像スタッフ珍道中<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -67,12 +67,12 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPE
 <p class="block-title"><a href="http://astone.tv/events/1707hakubaz/" target="_blank">いよいよ白馬キャンプ<br>ワクワクの本番<br>全国各教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201705patmoscm/" target="_blank"><img src="/2016/images/top/1705patomscm_m.jpg"></a>
+<a href="http://tv.antioch.jp/digest/201705patmoscm/" target="_blank"><img src="/2016/images/top/1707patmosdigest_m.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201705patmoscm/" target="_blank">パトモスチーム<br>紹介映像<br>(チーム日程：2017年7月11日〜20日)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span>NEW</span>
