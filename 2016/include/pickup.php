@@ -34,14 +34,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1707trip/" target="_blank"><img src="/2016/images/top/1707hakubasetsuei.jpg"></a>
-<p class="block-date">2017年7月25日〜</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1707trip/" target="_blank">さあ行くぞ！白馬キャンプ<br>設営、映像スタッフ珍道中<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="
 http://astone.tv/events/1707jgospelcontest/" target="_blank"><img src="/2016/images/top/1707jgospelfinal.jpg"></a>
 <p class="block-date">2017年7月22日～</p>
@@ -65,6 +57,14 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPE
 <a href="http://astone.tv/events/1707hakubaz/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
 <p class="block-date">2017年7月17日〜24日</p>
 <p class="block-title"><a href="http://astone.tv/events/1707hakubaz/" target="_blank">いよいよ白馬キャンプ<br>ワクワクの本番<br>全国各教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1707trip/" target="_blank"><img src="/2016/images/top/1707hakubasetsuei.jpg"></a>
+<p class="block-date">2017年7月25日〜</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1707trip/" target="_blank">さあ行くぞ！白馬キャンプ<br>設営、映像スタッフ珍道中<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <div class="column-inner">
