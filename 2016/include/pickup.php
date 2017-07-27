@@ -41,6 +41,27 @@ http://astone.tv/events/1707jgospelcontest/" target="_blank"><img src="/2016/ima
 http://astone.tv/events/1707jgospelcontest/" target="_blank">いざ勝負！<br>J.GOSPELコンテスト<br>ファイナル in 白馬<br>7.27決戦に向かって</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="
+http://astone.tv/events/1707jgospel/" target="_blank"><img src="/2016/images/top/1707jgospelfinal.jpg"></a>
+<p class="block-date">2017年7月28日～</p>
+<p class="block-title"><a href="
+http://astone.tv/events/1707jgospel/" target="_blank">J.GOSPELコンテストファイナル in 白馬<br> 喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="
+http://antiochblog.jp/praise/yorokobiy1707/" target="_blank"><img src="/2016/images/top/1707jgospelfinal.jpg"></a>
+<p class="block-date">2017年7月28日～</p>
+<p class="block-title"><a href="
+http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテスト U21・KIDSファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
+</div>-->
+
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
