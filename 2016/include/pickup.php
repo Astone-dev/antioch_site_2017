@@ -28,7 +28,43 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1707hakuba/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenantioch.jpg"></a>
 <p class="block-date">2017年7月17日〜24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1707hakuba/" target="_blank">いよいよ白馬キャンプ<br>ワクワク、バタバタな本番<br>東京アンテオケ教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1707hakuba/" target="_blank">白馬キャンプ<br>ワクワク、バタバタな本番<br>東京アンテオケ教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1707trip/" target="_blank"><img src="/2016/images/top/1707hakubasetsuei.jpg"></a>
+<p class="block-date">2017年7月25日〜</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1707trip/" target="_blank">もう最終日！白馬キャンプ<br>設営、映像スタッフ珍道中<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="
+http://astone.tv/events/1707jgospel/" target="_blank"><img src="/2016/images/top/1707contestyorokobi.jpg"></a>
+<p class="block-date">2017年7月28日～</p>
+<p class="block-title"><a href="
+http://astone.tv/events/1707jgospel/" target="_blank">J.GOSPELコンテストファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="
+http://antiochblog.jp/praise/yorokobiy1707/" target="_blank"><img src="/2016/images/top/1707contestu21kidsyorokobi.jpg"></a>
+<p class="block-date">2017年7月28日～</p>
+<p class="block-title"><a href="
+http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテスト U21・KIDSファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1707hakubaz/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
+<p class="block-date">2017年7月17日〜24日</p>
+<p class="block-title"><a href="http://astone.tv/events/1707hakubaz/" target="_blank">白馬キャンプ<br>ワクワクの本番<br>全国各教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -41,35 +77,6 @@ http://astone.tv/events/1707jgospelcontest/" target="_blank"><img src="/2016/ima
 http://astone.tv/events/1707jgospelcontest/" target="_blank">いざ勝負！<br>J.GOSPELコンテスト<br>ファイナル in 白馬<br>7.27決戦に向かって</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="
-http://astone.tv/events/1707jgospel/" target="_blank"><img src="/2016/images/top/1707jgospelfinal.jpg"></a>
-<p class="block-date">2017年7月28日～</p>
-<p class="block-title"><a href="
-http://astone.tv/events/1707jgospel/" target="_blank">J.GOSPELコンテストファイナル in 白馬<br> 喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="
-http://antiochblog.jp/praise/yorokobiy1707/" target="_blank"><img src="/2016/images/top/1707jgospelfinal.jpg"></a>
-<p class="block-date">2017年7月28日～</p>
-<p class="block-title"><a href="
-http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテスト U21・KIDSファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
-</div>-->
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1707hakubaz/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
-<p class="block-date">2017年7月17日〜24日</p>
-<p class="block-title"><a href="http://astone.tv/events/1707hakubaz/" target="_blank">いよいよ白馬キャンプ<br>ワクワクの本番<br>全国各教会<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -77,14 +84,6 @@ http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテ�
 <p class="block-date">2017年7月22日～</p>
 <p class="block-title"><a href="
 http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPELコンテスト<br>U21・KIDS ファイナル in 白馬<br>7.26決戦に向かって</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1707trip/" target="_blank"><img src="/2016/images/top/1707hakubasetsuei.jpg"></a>
-<p class="block-date">2017年7月25日〜</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1707trip/" target="_blank">さあ行くぞ！白馬キャンプ<br>設営、映像スタッフ珍道中<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <div class="column-inner">
