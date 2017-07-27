@@ -52,18 +52,18 @@ http://astone.tv/events/1707jgospelcontest/" target="_blank">いざ勝負！<br>
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1707trip/" target="_blank"><img src="/2016/images/top/1707hakubasetsuei.jpg"></a>
-<p class="block-date">2017年7月25日〜</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1707trip/" target="_blank">さあ行くぞ！白馬キャンプ<br>設営、映像スタッフ珍道中<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
+<a href="http://astone.tv/events/contest1707/" target="_blank"><img src="/2016/images/top/1707jgospelu21kidsfinal.jpg"></a>
+<p class="block-date">2017年7月22日～</p>
+<p class="block-title"><a href="
+http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPELコンテスト<br>U21・KIDS ファイナル in 白馬<br>7.26決戦に向かって</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/contest1707/" target="_blank"><img src="/2016/images/top/1707jgospelu21kidsfinal.jpg"></a>
-<p class="block-date">2017年7月22日～</p>
-<p class="block-title"><a href="
-http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPELコンテスト<br>U21・KIDS ファイナル in 白馬<br>7.26決戦に向かって</a></p>
+<a href="http://antiochblog.jp/info/1707trip/" target="_blank"><img src="/2016/images/top/1707hakubasetsuei.jpg"></a>
+<p class="block-date">2017年7月25日〜</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1707trip/" target="_blank">さあ行くぞ！白馬キャンプ<br>設営、映像スタッフ珍道中<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <div class="column-inner">
