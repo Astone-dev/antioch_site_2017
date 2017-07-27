@@ -93,11 +93,11 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPE
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201705patmoscm/" target="_blank">パトモスチーム<br>紹介映像<br>(チーム日程：2017年7月11日〜20日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/hakuba-summer/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/hakuba-summer/" target="_blank">白馬キャンプご案内<br>お申込みスタート<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>
+</div>-->
 
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
@@ -106,11 +106,11 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPE
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201705hakubacm/" target="_blank">白馬キャンプ<br>紹介映像<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
 </div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span>NEW</span>
 <a href="http://thevision.co.jp/jgospel/" target="_blank"><img src="/2016/images/top/1707jgospelcontest_info.jpg"></a>
 <p class="block-title"><a href="http://thevision.co.jp/jgospel/" target="_blank">J.GOSPELコンテスト2017<br>ファイナル in 白馬<br>ご案内<br>(日程：2017年7月26日、27日)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
