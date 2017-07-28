@@ -100,13 +100,6 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPE
 </div>-->
 
 <!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201705hakubacm/" target="_blank"><img src="/2016/images/top/1705hakubacampcm_m.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201705hakubacm/" target="_blank">白馬キャンプ<br>紹介映像<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
 <span>NEW</span>
 <a href="http://thevision.co.jp/jgospel/" target="_blank"><img src="/2016/images/top/1707jgospelcontest_info.jpg"></a>
 <p class="block-title"><a href="http://thevision.co.jp/jgospel/" target="_blank">J.GOSPELコンテスト2017<br>ファイナル in 白馬<br>ご案内<br>(日程：2017年7月26日、27日)</a></p>
@@ -182,13 +175,6 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPE
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1707grace/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
-<p class="block-date">2017年7月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1707grace/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
 <a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1707tokaridigest_p.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">7月東京カリスマ聖会<br>ダイジェスト写真集<br>(聖会日程：2017年7月2日)</a></p>
 </div>
@@ -197,60 +183,6 @@ http://astone.tv/events/contest1707/" target="_blank">いざ勝負！<br>J.GOSPE
 <span class="label-2">映像</span>
 <a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『ハクソー・リッジ』');"><img src="/2016/images/top/1706hakusorji_cm.jpg"></a>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=nQOeAo02v-8" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『ハクソー・リッジ』');">映画『ハクソー・リッジ』<br>紹介映像</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/hakuba1707bf/" target="_blank"><img src="/2016/images/top/1707hakubajyunbi.jpg"></a>
-<p class="block-date">2017年7月10日〜16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/hakuba1707bf/" target="_blank">白馬キャンプ2週間前のときめき<br>東京アンテオケ教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/1707women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
-<p class="block-date">2017年7月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1707women/" target="_blank">7月婦人会の一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017byhisspirit/0716concert/" target="_blank"><img src="/2016/images/top/1705byhisnerima.jpg"></a>
-<p class="block-date">2017年7月16日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0716concert/" target="_blank">By His Spirit<br>施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/hakuba1707before/" target="_blank"><img src="/2016/images/top/1707zenkokuhakuba.jpg"></a>
-<p class="block-date">2017年7月10日〜16日</p>
-<p class="block-title"><a href="http://astone.tv/events/hakuba1707before/" target="_blank">白馬キャンプ2週間前のときめき<br>全国各教会の一週間<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1707live/" target="_blank"><img src="/2016/images/top/1707live.jpg"></a>
-<p class="block-date">2017年7月15日</p>
-<p class="block-title"><a href="http://astone.tv/events/1707live/" target="_blank">エルサレム、JOY<br>ラムラ飯田橋でミニライブ</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">2017年7月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0715night/" target="_blank">Revival Night</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://tv.antioch.jp/digest/201705-usa/" target="_blank"><img src="/2016/images/top/1706americadigest_m.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201705-usa/" target="_blank">アメリカチーム<br>ダイジェスト映像<br>(チーム日程：2017年5月29日〜6月1日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://blog.antioch.jp/1706america/category/dst/" target="_blank"><img src="/2016/images/top/1706americadigest_p.jpg"></a>
-<p class="block-title"><a href="http://blog.antioch.jp/1706america/category/dst/" target="_blank">アメリカチーム<br>ダイジェスト写真集<br>(チーム日程：2017年5月29日〜6月1日)</a></p>
 </div>
 
 <div class="column-inner">
