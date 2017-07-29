@@ -52,7 +52,7 @@ http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテ�
 
 <div class="column-inner">
 <span>NEW</span>
-<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1707kokorocm.jpg"></a>
+<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1707kokorogospel.jpg"></a>
 <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 27thのご案内<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
 </div>
 
