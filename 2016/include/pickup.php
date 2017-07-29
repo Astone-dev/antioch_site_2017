@@ -50,6 +50,13 @@ http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテ�
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201707patmos/" target="_blank">パトモスチーム<br>ダイジェスト映像<br>(チーム日程：2017年7月11日〜20日)</a></p>
 </div>
 
+<div class="column-inner">
+<span>NEW</span>
+<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1707kokorocm.jpg"></a>
+<p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 27thのご案内<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
+</div>
+
+
 <!--<div class="column-inner">
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/hakuba-summer/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
@@ -63,6 +70,7 @@ http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテ�
 </div>-->
 
 <div class="column-inner">
+<span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1707kokorocm.jpg"></a>
 <p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺるCM<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
