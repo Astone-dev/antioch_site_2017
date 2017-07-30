@@ -31,6 +31,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/kansai1708/" target="_blank">夏真っ盛りの関西を行く<br>関西宣教の旅<br>(聖会日程：2017年7月31日〜8月2日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1708antioch/" target="_blank"><img src="/2016/images/top/1707summer.jpg"></a>
+<p class="block-date">2017年7月31日～8月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1708antioch/" target="_blank">猛烈な夏<br>アンテオケ教会</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -47,12 +55,19 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテスト U21・KIDSファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/happyday2017/201707" target="_blank"><img src="/2016/images/top/1707ohhappyday.jpg"></a>
-<p class="block-date">2017年7月30日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/201707" target="_blank">Oh Happy Day!の一日</a></p>
+<a href="http://astone.tv/events/1708nation/" target="_blank"><img src="/2016/images/top/1707summerz.jpg"></a>
+<p class="block-date">2017年7月31日～8月6日</p>
+<p class="block-title"><a href="http://astone.tv/events/1708nation/" target="_blank">猛烈な夏<br>全国各教会</a></p>
+</div>-->
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201707-hakuba/" target="_blank"><img src="/2016/images/top/1707hakuba.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201707-hakuba/" target="_blank">白馬キャンプ<br>ダイジェスト映像<br>(チーム日程：2017年7月25日〜28日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -106,6 +121,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/happyday2017/201707" target="_blank"><img src="/2016/images/top/1707ohhappyday.jpg"></a>
+<p class="block-date">2017年7月30日</p>
+<p class="block-title"><a href="http://astone.tv/events/happyday2017/201707" target="_blank">Oh Happy Day!の一日</a></p>
 </div>
 
 <div class="column-inner">
