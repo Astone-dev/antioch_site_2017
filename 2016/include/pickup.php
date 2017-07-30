@@ -31,13 +31,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/kansai1708/" target="_blank">夏真っ盛りの関西を行く<br>関西宣教の旅<br>(聖会日程：2017年7月31日〜8月2日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1708antioch/" target="_blank"><img src="/2016/images/top/1707summer.jpg"></a>
 <p class="block-date">2017年7月31日～8月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1708antioch/" target="_blank">猛烈な夏<br>アンテオケ教会</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/1708antioch/" target="_blank">猛烈な夏<br>アンテオケ教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -55,13 +55,21 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテスト U21・KIDSファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/euqaristias/20170731shinjuku/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
+<p class="block-date">2017年7月31日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170731shinjuku/" target="_blank">エウカリスティアス<br>新宿の福祉施設でゴスペル</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1708nation/" target="_blank"><img src="/2016/images/top/1707summerz.jpg"></a>
 <p class="block-date">2017年7月31日～8月6日</p>
-<p class="block-title"><a href="http://astone.tv/events/1708nation/" target="_blank">猛烈な夏<br>全国各教会</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/1708nation/" target="_blank">猛烈な夏<br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
