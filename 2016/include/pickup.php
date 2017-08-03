@@ -56,6 +56,19 @@
 </div>
 
 <div class="column-inner">
+<span>NEW</span>
+<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1707kokorogospel.jpg"></a>
+<p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 27thのご案内<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1707kokorocm.jpg"></a>
+<p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺるCM<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201707-hakuba/" target="_blank"><img src="/2016/images/top/1707hakuba.jpg"></a>
@@ -70,9 +83,10 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
 <span>NEW</span>
-<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1707kokorogospel.jpg"></a>
-<p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 27thのご案内<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
+<a href="http://blog.antioch.jp/1707patmos/category/dst/" target="_blank"><img src="/2016/images/top/1708patmosudigest_p.jpg"></a>
+<p class="block-title"><a href="http://blog.antioch.jp/1707patmos/category/dst/" target="_blank">パトモスチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のため)<br>(チーム日程：2017年7月11日〜20日)</a></p>
 </div>
 
 
@@ -87,13 +101,6 @@
 <a href="http://thevision.co.jp/jgospel/" target="_blank"><img src="/2016/images/top/1707jgospelcontest_info.jpg"></a>
 <p class="block-title"><a href="http://thevision.co.jp/jgospel/" target="_blank">J.GOSPELコンテスト2017<br>ファイナル in 白馬<br>ご案内<br>(日程：2017年7月26日、27日)</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1707kokorocm.jpg"></a>
-<p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺるCM<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
-</div>
 
 <div class="column-inner">
 <span>NEW</span>
