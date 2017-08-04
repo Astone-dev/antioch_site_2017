@@ -28,6 +28,14 @@
 <a href="http://antiochblog.jp/info/machida1708/" target="_blank"><img src="/2016/images/top/1708machida.jpg"></a>
 <p class="block-date">2017年8月5日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/machida1708/" target="_blank">夏真っ盛りの町田を行く<br>町田宣教の旅<br>(聖会日程：2017年8月5日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1708charisma/" target="_blank"><img src="/2016/images/top/1707summer.jpg"></a>
+<p class="block-date">2017年8月5日～8月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1708charisma/" target="_blank">8月の東京カリスマ聖会</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -70,6 +78,21 @@
 <p class="block-date">2017年8月4日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank">エルサレム<br>福島相馬でゴスペル</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20170805saitama/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
+<p class="block-date">2017年8月5日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170805saitama/" target="_blank">エウカリスティアス<br>埼玉の老人ホームでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017labeille/category/0804arakawa/" target="_blank"><img src="/2016/images/top/1706arakawa.jpg"></a>
+<p class="block-date">2017年8月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/0804arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -158,14 +181,14 @@
 <a href="http://antiochblog.jp/info/jerusalem2017/1708kawaguchi/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">2017年8月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1708kawaguchi/" target="_blank">エルサレム<br>川口市のリハビリセンターでゴスペル</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/euqaristias/20170731shinjuku/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
 <p class="block-date">2017年7月31日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20170731shinjuku/" target="_blank">エウカリスティアス<br>新宿の福祉施設でゴスペル</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
