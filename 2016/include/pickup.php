@@ -23,6 +23,13 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('パトモスチーム生中継');">パトモスチーム生中継<br>15:30頃スタート<br>（現地時間9:30頃スタート)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/machida1708/" target="_blank"><img src="/2016/images/top/1708machida.jpg"></a>
+<p class="block-date">2017年8月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/machida1708/" target="_blank">夏真っ盛りの町田を行く<br>町田宣教の旅<br>(聖会日程：2017年8月5日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -54,6 +61,14 @@
 <a href="http://antiochblog.jp/praise/yorokobiy1707/" target="_blank"><img src="/2016/images/top/1707contestu21kidsyorokobi.jpg"></a>
 <p class="block-date">2017年7月28日～</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテスト U21・KIDSファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">2017年8月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank">エルサレム<br>福島相馬でゴスペル</a></p>
 </div>
 
 <div class="column-inner">
