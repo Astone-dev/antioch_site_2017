@@ -153,12 +153,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/kansai1708/" target="_blank">夏真っ盛りの関西を行く<br>関西宣教の旅<br>(聖会日程：2017年7月31日〜8月2日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1708kawaguchi/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">2017年8月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1708kawaguchi/" target="_blank">エルサレム<br>川口市のリハビリセンターでゴスペル</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
