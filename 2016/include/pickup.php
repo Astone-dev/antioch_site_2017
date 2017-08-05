@@ -31,6 +31,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/machida1708/" target="_blank">ひまわりの季節の関東を行く<br>町田宣教の旅<br>(聖会日程：2017年8月5日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/kyusyu1708/" target="_blank"><img src="/2016/images/top/1708machida.jpg"></a>
+<p class="block-date">2017年8月6日～8月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/kyusyu1708/" target="_blank">ひまわりの季節の九州を行く<br>九州宣教の旅<br>(聖会日程：2017年8月5日～8月9日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
