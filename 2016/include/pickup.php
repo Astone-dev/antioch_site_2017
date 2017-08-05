@@ -26,18 +26,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/machida1708/" target="_blank"><img src="/2016/images/top/1708machida.jpg"></a>
-<p class="block-date">2017年8月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/machida1708/" target="_blank">ひまわりの季節の関東を行く<br>町田宣教の旅<br>(聖会日程：2017年8月5日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/kyusyu1708/" target="_blank"><img src="/2016/images/top/1708machida.jpg"></a>
+<a href="http://astone.tv/events/kyusyu1708/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
 <p class="block-date">2017年8月6日～8月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/kyusyu1708/" target="_blank">ひまわりの季節の九州を行く<br>九州宣教の旅<br>(聖会日程：2017年8月5日～8月9日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/kyusyu1708/" target="_blank">真夏の光の中<br>九州宣教の旅<br>(聖会日程：2017年8月7日～8月9日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -69,30 +61,6 @@
 <a href="http://antiochblog.jp/praise/yorokobiy1707/" target="_blank"><img src="/2016/images/top/1707contestu21kidsyorokobi.jpg"></a>
 <p class="block-date">2017年7月28日～</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテスト U21・KIDSファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">2017年8月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank">エルサレム<br>福島相馬でゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20170805saitama/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
-<p class="block-date">2017年8月5日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170805saitama/" target="_blank">エウカリスティアス<br>埼玉の老人ホームでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017labeille/category/0804arakawa/" target="_blank"><img src="/2016/images/top/1706arakawa.jpg"></a>
-<p class="block-date">2017年8月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/0804arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -168,6 +136,34 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/machida1708/" target="_blank"><img src="/2016/images/top/1708machida.jpg"></a>
+<p class="block-date">2017年8月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/machida1708/" target="_blank">ひまわりの季節の関東を行く<br>町田宣教の旅<br>(聖会日程：2017年8月5日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">2017年8月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank">エルサレム<br>福島相馬でゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20170805saitama/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
+<p class="block-date">2017年8月5日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170805saitama/" target="_blank">エウカリスティアス<br>埼玉の老人ホームでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017labeille/category/0804arakawa/" target="_blank"><img src="/2016/images/top/1706arakawa.jpg"></a>
+<p class="block-date">2017年8月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/0804arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
