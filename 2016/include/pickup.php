@@ -72,6 +72,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20170805saitama/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
 <p class="block-date">2017年8月5日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20170805saitama/" target="_blank">エウカリスティアス<br>埼玉の老人ホームでゴスペル</a></p>
