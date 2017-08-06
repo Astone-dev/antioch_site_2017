@@ -50,17 +50,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/day1708/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
-<p class="block-date">2017年8月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/day1708/" target="_blank">GRACEと宝石<br>練馬デイサービスでゴスペルコンサート</a></p>
+<a href="http://antiochblog.jp/praise/event1708/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
+<p class="block-date">2017年8月7日～8月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/event1708/" target="_blank">全国各教会<br>それぞれの夏休み一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/event1708/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
-<p class="block-date">2017年8月7日～8月13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/event1708/" target="_blank">全国各教会<br>それぞれの夏休み一週間</a></p>
+<a href="http://antiochblog.jp/info/day1708/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
+<p class="block-date">2017年8月7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/day1708/" target="_blank">GRACEと宝石<br>練馬デイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
