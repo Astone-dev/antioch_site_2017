@@ -31,6 +31,30 @@
 <p class="block-title"><a href="http://astone.tv/events/kyusyu1708/" target="_blank">真夏の光の中<br>九州宣教の旅<br>(聖会日程：2017年8月7日～8月9日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/kokogos1708/" target="_blank"><img src="/2016/images/top/1707summer.jpg"></a>
+<p class="block-date">2017年8月7日～8月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/kokogos1708/" target="_blank">こころごすぺる一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/event1708b/" target="_blank"><img src="/2016/images/top/1707summer.jpg"></a>
+<p class="block-date">2017年8月7日～8月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/event1708b/" target="_blank">アンテオケ教会<br>夏休みの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/event1708/" target="_blank"><img src="/2016/images/top/1707summer.jpg"></a>
+<p class="block-date">2017年8月7日～8月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/event1708/" target="_blank">全国各教会<br>夏休みの一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
