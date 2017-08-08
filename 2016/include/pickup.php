@@ -58,9 +58,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/day1708/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
-<p class="block-date">2017年8月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/day1708/" target="_blank">GRACEと宝石<br>練馬デイサービスでゴスペルコンサート</a></p>
+<a href="http://antiochblog.jp/info/jerusalem2017/0808misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">2017年8月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank">エルサレム<br>三郷のカフェでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -132,6 +132,13 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/day1708/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
+<p class="block-date">2017年8月7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/day1708/" target="_blank">GRACEと宝石<br>練馬デイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/1708charisma/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
 <p class="block-date">2017年8月5日～8月6日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1708charisma/" target="_blank">真夏の東京カリスマ聖会<br>スタッフてんやわんや<br>(聖会日程：2017年8月6日)</a></p>
@@ -172,12 +179,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/machida1708/" target="_blank">ひまわりの季節の関東を行く<br>町田宣教の旅<br>(聖会日程：2017年8月5日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">2017年8月4日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank">エルサレム<br>福島相馬でゴスペル</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
