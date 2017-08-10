@@ -28,7 +28,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/kokogos1708/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
 <p class="block-date">2017年8月7日～8月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/kokogos1708/" target="_blank">いよいよ明日！<br>こころごすぺるに向ってドタバタ一週間<br>(日程2017年8月11日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/kokogos1708/" target="_blank">いよいよ当日！<br>こころごすぺるのドキドキわくわくな一日<br>(日程2017年8月11日)</a></p>
 </div>
 
 <div class="column-inner">
