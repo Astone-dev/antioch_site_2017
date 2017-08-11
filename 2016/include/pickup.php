@@ -14,7 +14,6 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年5月20日 11:00〜)</a></p>
 </div>-->
 
-
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
@@ -23,35 +22,42 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('パトモスチーム生中継');">パトモスチーム生中継<br>15:30頃スタート<br>（現地時間9:30頃スタート)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1708toyohashifuji/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
+<a href="http://astone.tv/events/1708toyohashifuji/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
 <p class="block-date">2017年8月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/1708toyohashifuji/" target="_blank">真夏の光の中<br>豊橋・富士宣教の旅<br>(聖会日程：2017年8月7日～8月9日)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1708kofu/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
-<p class="block-date">2017年8月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/1708kofu/" target="_blank">Gifts,キブツ、<br>Truevineとチャリティーコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017healing/0812healing/
-" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
-<p class="block-date">2017年8月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/0812healing/" target="_blank">8月 いやしの集い</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/1708toyohashifuji/" target="_blank">夏のまぶしい光の中を<br>豊橋・富士宣教の旅<br>(聖会日程：2017年8月12日)</a></p>
+</div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1708kofu/" target="_blank"><img src="/2016/images/top/1708giftskofu.jpg"></a>
+<p class="block-date">2017年8月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/1708kofu/" target="_blank">Gifts、キブツ<br>TrueVineと甲府でチャリティーコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017healing/0812healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
+<p class="block-date">2017年8月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/0812healing/" target="_blank">8月いやしの集いの一日<br>(日程：2017年8月12日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年7月8日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年7月8日 18:30スタート)</a></p>
+</div>
+
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/kokogos1708/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
 <p class="block-date">2017年8月7日～8月11日</p>
 <p class="block-title"><a href="http://astone.tv/events/kokogos1708/" target="_blank">いよいよ当日！<br>こころごすぺるのドキドキわくわくな一日<br>(日程2017年8月11日)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -69,7 +75,7 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/event1708/" target="_blank">全国各教会<br>それぞれの夏休み一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span>NEW</span>
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1707kokorogospel.jpg"></a>
 <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 27thのご案内<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
@@ -80,7 +86,7 @@
 <span>NEW</span>
 <a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1707kokorocm.jpg"></a>
 <p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺるCM<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
