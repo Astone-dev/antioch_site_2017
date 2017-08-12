@@ -24,6 +24,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/1708toyohashifuji/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
 <p class="block-date">2017年8月12日</p>
 <p class="block-title"><a href="http://astone.tv/events/1708toyohashifuji/" target="_blank">夏のまぶしい光の中を<br>豊橋・富士宣教の旅<br>(聖会日程：2017年8月12日)</a></p>
