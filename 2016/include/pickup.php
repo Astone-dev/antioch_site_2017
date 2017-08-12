@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1708kofu/" target="_blank"><img src="/2016/images/top/1708giftskofu.jpg"></a>
 <p class="block-date">2017年8月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/1708kofu/" target="_blank">Gifts、キブツ<br>TrueVineと甲府でチャリティーコンサート</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1708kofu/" target="_blank">Gifts、キブツ<br>TrueVineと甲府でチャリティーコンサート<br>(日程：2017年8月12日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -58,8 +58,8 @@
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年7月8日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年7月8日 18:30スタート)</a></p>
+<p class="block-date">2017年8月12日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年8月12日 18:30スタート)</a></p>
 </div>
 
 <!--<div class="column-inner">
