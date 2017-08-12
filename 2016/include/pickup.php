@@ -31,6 +31,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/1708kofu/" target="_blank"><img src="/2016/images/top/1708giftskofu.jpg"></a>
 <p class="block-date">2017年8月12日</p>
 <p class="block-title"><a href="http://astone.tv/events/1708kofu/" target="_blank">Gifts、キブツ<br>TrueVineと甲府でチャリティーコンサート</a></p>
@@ -38,6 +39,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/2017healing/0812healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
 <p class="block-date">2017年8月12日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/0812healing/" target="_blank">8月いやしの集いの一日<br>(日程：2017年8月12日)</a></p>
