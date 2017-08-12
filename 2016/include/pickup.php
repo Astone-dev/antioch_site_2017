@@ -30,6 +30,14 @@
 <p class="block-title"><a href="http://astone.tv/events/1708toyohashifuji/" target="_blank">夏のまぶしい光の中を<br>豊橋・富士宣教の旅<br>(聖会日程：2017年8月12日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1708hokuriku/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
+<p class="block-date">2017年8月13日～8月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1708hokuriku/" target="_blank">夏のまぶしい光の中を<br>北陸宣教の旅<br>(聖会日程：2017年8月14日～8月16日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -69,6 +77,30 @@
 <p class="block-date">2017年8月7日～8月13日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/event1708b/" target="_blank">アンテオケ教会<br>それぞれの夏休み一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/kokogos1708/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
+<p class="block-date">8月13日</p>
+<p class="block-title"><a href="http://astone.tv/events/kokogos1708/" target="_blank">Euqaristias<br>練馬デイサービスでコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/0813concert/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
+<p class="block-date">2017年8月13日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0813concert/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1708gracious/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
+<p class="block-date">2017年8月13日</p>
+<p class="block-title"><a href="http://astone.tv/events/1708gracious/" target="_blank">GRACIOUS  DOORS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
