@@ -22,26 +22,22 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1708hokuriku/" target="_blank">真夏の光の中を<br>北陸宣教の旅<br>(聖会日程：2017年8月14日～8月16日)</a></p>
 </div>
 
-<!--
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/kazenohibiki1708/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
 <p class="block-date">2017年8月14日～8月20日</p>
-<p class="block-title"><a href="http://astone.tv/events/kazenohibiki1708/" target="_blank">作詞作曲の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/kazenohibiki1708/" target="_blank">息も絶え絶え、猫の手もかりたい<br>風のひびき5集作詞、作曲者の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1708cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
-<p class="block-date">日程 2017年8月21日～8月24日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1708cambodia/" target="_blank">カンボジアチーム直前の一週間</a></p>
+<p class="block-date">日程 2017年8月14日～8月20日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1708cambodia/" target="_blank">カンボジアチーム<br>直前の一週間<br>(チーム日程：2017年8月21日〜24日)</a></p>
 </div>
-
--->
-
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -54,33 +50,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0813other/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">2017年8月13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0813other/" target="_blank">エルサレム<br>他教会で奉仕</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/kokogos1708/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
+<a href="http://astone.tv/events/kokogos1708/" target="_blank"><img src="/2016/images/top/1706patolisnerima.jpg"></a>
 <p class="block-date">8月13日</p>
 <p class="block-title"><a href="http://astone.tv/events/kokogos1708/" target="_blank">Euqaristias<br>練馬デイサービスでコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/0813concert/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
-<p class="block-date">2017年8月13日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0813concert/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1708gracious/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
-<p class="block-date">2017年8月13日</p>
-<p class="block-title"><a href="http://astone.tv/events/1708gracious/" target="_blank">GRACIOUS  DOORS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -134,6 +106,27 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0813other/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">2017年8月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0813other/" target="_blank">エルサレム<br>他教会で奉仕</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/0813concert/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
+<p class="block-date">2017年8月13日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0813concert/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1708gracious/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
+<p class="block-date">2017年8月13日</p>
+<p class="block-title"><a href="http://astone.tv/events/1708gracious/" target="_blank">GRACIOUS  DOORS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
