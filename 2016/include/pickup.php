@@ -50,9 +50,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/kokogos1708/" target="_blank"><img src="/2016/images/top/1706patolisnerima.jpg"></a>
+<a href="http://antiochblog.jp/mission/patolis1708/" target="_blank"><img src="/2016/images/top/1706patolisnerima.jpg"></a>
 <p class="block-date">8月13日</p>
-<p class="block-title"><a href="http://astone.tv/events/kokogos1708/" target="_blank">Euqaristias<br>練馬デイサービスでコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/patolis1708/" target="_blank">PATOLIS<br>練馬デイサービスでコンサート</a></p>
 </div>
 
 <div class="column-inner">
