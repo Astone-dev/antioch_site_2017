@@ -40,7 +40,8 @@
 <p class="block-title"><a href="http://blog.antioch.jp/1708cambodia/" target="_blank">カンボジアチーム直前の一週間</a></p>
 </div>
 
-</div>-->
+-->
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
