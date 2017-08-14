@@ -65,6 +65,13 @@
 全国各教会の一週間</a></p>
 </div>
 
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href=" http://tv.antioch.jp/digest/201708-kokoro/" target="_blank"><img src="/2016/images/top/1708concert_m.jpg"></a>
+<p class="block-title"><a href=" http://tv.antioch.jp/digest/201708-kokoro/" target="_blank">こころごすぺるダイジェスト映像<br></a></p>
+</div>
+
 <!--<div class="column-inner">
 <span>NEW</span>
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1707kokorogospel.jpg"></a>
