@@ -35,7 +35,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1708cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
-<p class="block-date">日程 2017年8月14日～8月20日</p>
+<p class="block-date">日程：2017年8月21日〜24日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1708cambodia/" target="_blank">カンボジアチーム<br>直前の一週間<br>(チーム日程：2017年8月21日〜24日)</a></p>
 </div>
 
