@@ -44,7 +44,8 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/event1708b/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
 <p class="block-date">2017年8月7日～8月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/event1708b/" target="_blank">アンテオケ教会<br>それぞれの夏休み一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/event1708b/" target="_blank">ワクワクの夏休み<br />
+アンテオケ教会一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -60,7 +61,8 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/event1708/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
 <p class="block-date">2017年8月7日～8月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/event1708/" target="_blank">全国各教会<br>それぞれの夏休み一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/event1708/" target="_blank">ウキウキの夏休み<br />
+全国各教会の一週間</a></p>
 </div>
 
 <!--<div class="column-inner">
