@@ -153,6 +153,13 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/kokogos1708/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
+<p class="block-date">2017年8月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/kokogos1708/" target="_blank">いよいよ当日！<br>こころごすぺるの一日<br>(日程：2017年8月11日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/2017healing/0812healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
 <p class="block-date">2017年8月12日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/0812healing/" target="_blank">8月いやしの集いの一日<br>(日程：2017年8月12日)</a></p>
