@@ -48,6 +48,14 @@
 アンテオケ教会一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/uranos2017/category/08kodaira/" target="_blank"><img src="/2016/images/top/1708uranos.jpg"></a>
+<p class="block-date">2017年8月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/category/08kodaira/" target="_blank">ウラノス<br />小平市の国立病院</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
