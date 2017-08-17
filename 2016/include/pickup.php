@@ -14,12 +14,12 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年5月20日 11:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1708funabashi/" target="_blank"><img src="/2016/images/top/1708hokuriku.jpg"></a>
+<a href="http://astone.tv/events/1708funabashi/" target="_blank"><img src="/2016/images/top/1708funabashi.jpg"></a>
 <p class="block-date">2017年8月8月18日</p>
-<p class="block-title"><a href="http://astone.tv/events/1708funabashi/" target="_blank">真夏の光の中を<br>船橋宣教の旅<br>(聖会日程：2017年8月18日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/1708funabashi/" target="_blank">ひまわりの季節の関東を行く<br>船橋宣教の旅<br>Giftsもミニコンサート<br>(聖会日程：2017年8月18日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
