@@ -63,31 +63,6 @@
 <p class="block-title"><a href=" http://tv.antioch.jp/digest/201708-kokoro/" target="_blank">こころごすぺるダイジェスト映像<br></a></p>
 </div>
 
-<!--<div class="column-inner">
-<span>NEW</span>
-<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1707kokorogospel.jpg"></a>
-<p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 27thのご案内<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1707kokorocm.jpg"></a>
-<p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺるCM<br>(日程：2017年8月11日 19:00開演 18:30開場 会場:なかのZEROホール)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/hakuba-summer/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/hakuba-summer/" target="_blank">白馬キャンプご案内<br>お申込みスタート<br>(キャンプ日程：2017年7月25日〜28日)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span>NEW</span>
-<a href="http://thevision.co.jp/jgospel/" target="_blank"><img src="/2016/images/top/1707jgospelcontest_info.jpg"></a>
-<p class="block-title"><a href="http://thevision.co.jp/jgospel/" target="_blank">J.GOSPELコンテスト2017<br>ファイナル in 白馬<br>ご案内<br>(日程：2017年7月26日、27日)</a></p>
-</div>-->
-
 <div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/standup/" target="_blank"><img src="/2016/images/top/1706yorimichi28.jpg"></a>
@@ -194,98 +169,6 @@
 <span class="label-2">映像</span>
 <a href="http://blog.antioch.jp/1707patmos/category/dst/" target="_blank"><img src="/2016/images/top/1708patmosudigest_p.jpg"></a>
 <p class="block-title"><a href="http://blog.antioch.jp/1707patmos/category/dst/" target="_blank">パトモスチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のため)<br>(チーム日程：2017年7月11日〜20日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/kyusyu1708/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
-<p class="block-date">2017年8月6日～8月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/kyusyu1708/" target="_blank">真夏の光の中<br>九州宣教の旅<br>(聖会日程：2017年8月7日～8月9日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0808misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">2017年8月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank">エルサレム<br>三郷のカフェでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/day1708/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
-<p class="block-date">2017年8月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/day1708/" target="_blank">GRACEと宝石<br>練馬デイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1708charisma/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
-<p class="block-date">2017年8月5日～8月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1708charisma/" target="_blank">真夏の東京カリスマ聖会<br>スタッフてんやわんや<br>(聖会日程：2017年8月6日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1708antioch/" target="_blank"><img src="/2016/images/top/1707summer.jpg"></a>
-<p class="block-date">2017年7月31日～8月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1708antioch/" target="_blank">猛烈な夏<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1707jgospel/" target="_blank"><img src="/2016/images/top/1707contestyorokobi.jpg"></a>
-<p class="block-date">2017年7月28日～</p>
-<p class="block-title"><a href="http://astone.tv/events/1707jgospel/" target="_blank">J.GOSPELコンテストファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/yorokobiy1707/" target="_blank"><img src="/2016/images/top/1707contestu21kidsyorokobi.jpg"></a>
-<p class="block-date">2017年7月28日～</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yorokobiy1707/" target="_blank">J.GOSPELコンテスト U21・KIDSファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1708nation/" target="_blank"><img src="/2016/images/top/1707summerz.jpg"></a>
-<p class="block-date">2017年7月31日～8月6日</p>
-<p class="block-title"><a href="http://astone.tv/events/1708nation/" target="_blank">猛烈な夏<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/machida1708/" target="_blank"><img src="/2016/images/top/1708machida.jpg"></a>
-<p class="block-date">2017年8月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/machida1708/" target="_blank">ひまわりの季節の関東を行く<br>町田宣教の旅<br>(聖会日程：2017年8月5日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">2017年8月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0804soma/" target="_blank">エルサレム<br>福島相馬でゴスペル</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/euqaristias/20170805saitama/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
-<p class="block-date">2017年8月5日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170805saitama/" target="_blank">エウカリスティアス<br>埼玉の老人ホームでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2017labeille/category/0804arakawa/" target="_blank"><img src="/2016/images/top/1706arakawa.jpg"></a>
-<p class="block-date">2017年8月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/0804arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/lamula1708/" target="_blank"><img src="/2016/images/top/1708giftsiidabashi.jpg"></a>
-<p class="block-date">2017年8月4日</p>
-<p class="block-title"><a href="http://astone.tv/events/lamula1708/" target="_blank">Gifts飯田橋のショッピングセンターでコンサート<br>夜は韓国教会で歌う<br>(テヒリームとNAOMIも出演)
-</a></p>
 </div>
 
 <div class="column-inner">
