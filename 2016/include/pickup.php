@@ -43,8 +43,8 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/revival2017/0819night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">日程：2017年8月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0819night/" target="_blank">8月Revival Nightの一日<br>(チーム日程：2017年8月18日)</a></p>
+<p class="block-date">日程：2017年8月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0819night/" target="_blank">8月Revival Nightの一日<br>(チーム日程：2017年8月19日)</a></p>
 </div>
 
 <div class="column-inner">
