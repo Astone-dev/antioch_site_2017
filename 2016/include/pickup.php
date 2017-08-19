@@ -42,32 +42,16 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/revival2017/0819night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">日程：2017年8月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0819night/" target="_blank">8月Revival Nightの一日<br>(チーム日程：2017年8月19日)</a></p>
-</div>
+<a href="http://astone.tv/events/1708woman/" target="_blank"><img src="/2016/images/top/1705fujinkai.jpg"></a>
+<p class="block-date">2017年8月20日</p>
+<p class="block-title"><a href="http://astone.tv/events/1708woman/" target="_blank">婦人会<br />ミートソーススパゲッティーを食べる</a></p></div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年8月19日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年8月19日 18:30スタート)</a></p>
-</div>
-
-<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20170820nerima/" target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
 <p class="block-date">2017年8月20日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170820nerima/" target="_blank">エウカリスティアス<br />練馬のデイサービスでゴスペル</a></p></div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1708woman/" target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
-<p class="block-date">2017年8月20日</p>
-<p class="block-title"><a href="http://astone.tv/events/1708woman/" target="_blank">婦人会<br />ミートソーススパゲッティーを食べる</a></p></div>-->
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170820nerima/" target="_blank">エウカリスティアス<br />練馬のデイサービスでゴスペル</a></p></div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -103,6 +87,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/revival2017/0819night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<p class="block-date">日程：2017年8月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0819night/" target="_blank">8月Revival Nightの一日<br>(チーム日程：2017年8月19日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -248,4 +239,13 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年7月22日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年7月22日 18:30スタート)</a></p>
+</div>-->
+
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年8月19日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年8月19日 18:30スタート)</a></p>
 </div>-->
