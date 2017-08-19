@@ -59,8 +59,15 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20170820nerima/" target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
-<p class="block-date">2017年8月8月20日</p>
+<p class="block-date">2017年8月20日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20170820nerima/" target="_blank">エウカリスティアス<br />練馬のデイサービスでゴスペル</a></p></div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1708woman/" target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
+<p class="block-date">2017年8月20日</p>
+<p class="block-title"><a href="http://astone.tv/events/1708woman/" target="_blank">婦人会<br />ミートソーススパゲッティーを食べる</a></p></div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
