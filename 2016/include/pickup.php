@@ -38,13 +38,13 @@
 <p class="block-title"><a href="http://astone.tv/events/songs1708/" target="_blank">いよいよ最後<br>本当の締め切り<br>風のひびき5集作詞、作曲者の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1708newp/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
+<a href="http://antiochblog.jp/info/1708newp/" target="_blank"><img src="/2016/images/top/1708shinbokushi.jpg"></a>
 <p class="block-date">日程：2017年8月21日〜27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1708newp/" target="_blank">新牧師の一週間</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/1708newp/" target="_blank">新しい牧師の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
