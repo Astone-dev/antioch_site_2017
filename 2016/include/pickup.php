@@ -17,43 +17,25 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/event1708b/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
-<p class="block-date">2017年8月7日～8月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/event1708b/" target="_blank">ワクワクの夏休み<br />
-アンテオケ教会一週間</a></p>
+<a href="http://blog.antioch.jp/1708cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
+<p class="block-date">日程：2017年8月21日〜24日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1708cambodia/" target="_blank">カンボジアチーム<br>最新情報写真新<br>(チーム日程：2017年8月21日〜24日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1708antioch" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
 <p class="block-date">2017年8月21日～8月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1708antioch" target="_blank">夏休み<br />
-アンテオケ教会一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/kazenohibiki1708/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
-<p class="block-date">2017年8月14日～8月20日</p>
-<p class="block-title"><a href="http://astone.tv/events/kazenohibiki1708/" target="_blank">息も絶え絶え、猫の手もかりたい<br>風のひびき5集作詞、作曲者の一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1708antioch" target="_blank">まだまだ続く<br>アンテオケの夏休み</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/songs1708/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
 <p class="block-date">2017年8月21日～8月27日</p>
-<p class="block-title"><a href="http://astone.tv/events/songs1708/" target="_blank"><br>風のひびき5集作詞、作曲者の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1708cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
-<p class="block-date">日程：2017年8月21日〜24日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1708cambodia/" target="_blank">カンボジアチーム<br>直前の一週間<br>(チーム日程：2017年8月21日〜24日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/songs1708/" target="_blank">いよいよ最後<br>本当の締め切り<br>風のひびき5集作詞、作曲者の一週間</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -67,34 +49,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1708woman/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
-<p class="block-date">2017年8月20日</p>
-<p class="block-title"><a href="http://astone.tv/events/1708woman/" target="_blank">婦人会<br />ミートソーススパゲッティーを食べる</a></p></div>
+<a href="http://astone.tv/events/euqaristias/20170821shinjuku/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
+<p class="block-date">2017年8月21日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170821shinjuku/" target="_blank">エウカリスティアス<br />新宿のデイサービスでゴスペル</a></p></div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20170820nerima/" target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
-<p class="block-date">2017年8月20日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170820nerima/" target="_blank">エウカリスティアス<br />練馬のデイサービスでゴスペル</a></p></div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/event1708/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
-<p class="block-date">2017年8月7日～8月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/event1708/" target="_blank">ウキウキの夏休み<br />
-全国各教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1708nation" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
 <p class="block-date">2017年8月21日～8月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1708nation" target="_blank">夏休み<br />
-全国各教会の一週間</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/1708nation" target="_blank">まだまだ続く<br>全国各教会の夏休み</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -121,6 +86,41 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/event1708b/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
+<p class="block-date">2017年8月7日～8月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/event1708b/" target="_blank">ワクワクの夏休み<br />
+アンテオケ教会一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/kazenohibiki1708/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
+<p class="block-date">2017年8月14日～8月20日</p>
+<p class="block-title"><a href="http://astone.tv/events/kazenohibiki1708/" target="_blank">息も絶え絶え、猫の手もかりたい<br>風のひびき5集作詞、作曲者の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20170820nerima/" target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
+<p class="block-date">2017年8月20日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170820nerima/" target="_blank">エウカリスティアス<br />練馬のデイサービスでゴスペル</a></p></div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1708woman/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
+<p class="block-date">2017年8月20日</p>
+<p class="block-title"><a href="http://astone.tv/events/1708woman/" target="_blank">婦人会<br />ミートソーススパゲッティーを食べる</a></p></div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/event1708/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
+<p class="block-date">2017年8月7日～8月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/event1708/" target="_blank">ウキウキの夏休み<br />
+全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
