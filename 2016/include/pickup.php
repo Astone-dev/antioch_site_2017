@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1708newp/" target="_blank"><img src="/2016/images/top/1708shinbokushi.jpg"></a>
 <p class="block-date">日程：2017年8月21日〜27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1708newp/" target="_blank">新しい牧師の一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1708newp/" target="_blank">新しい牧師の一週間<br>(ヨハネ牧師はカンボジアチームに参加中)</a></p>
 </div>
 
 <div class="column-inner">
