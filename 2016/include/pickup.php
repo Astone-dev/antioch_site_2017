@@ -38,13 +38,13 @@
 <p class="block-title"><a href="http://astone.tv/events/songs1708/" target="_blank">いよいよ最後<br>本当の締め切り<br>風のひびき5集作詞、作曲者の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/rejoice1708/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
+<a href="http://astone.tv/events/rejoice1708/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
 <p class="block-date">2017年8月23日～8月24日</p>
-<p class="block-title"><a href="http://astone.tv/events/rejoice1708/" target="_blank">秋川渓谷<br>ファミリーディキャンプ</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/rejoice1708/" target="_blank">秋川渓谷で大暴れ！<br>ファミリーディキャンプ<br>(日程：2017年8月24日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
