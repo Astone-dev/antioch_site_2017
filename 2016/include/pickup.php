@@ -57,13 +57,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20170821shinjuku/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
-<p class="block-date">2017年8月21日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170821shinjuku/" target="_blank">エウカリスティアス<br />新宿のデイサービスでゴスペル</a></p></div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/1708nation" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
 <p class="block-date">2017年8月21日～8月27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1708nation" target="_blank">まだまだ続く<br>全国各教会の夏休み</a></p>
@@ -95,6 +88,12 @@
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
 </div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20170821shinjuku/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
+<p class="block-date">2017年8月21日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170821shinjuku/" target="_blank">エウカリスティアス<br />新宿のデイサービスでゴスペル</a></p></div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
