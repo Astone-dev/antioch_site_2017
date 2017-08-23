@@ -46,13 +46,13 @@
 <p class="block-title"><a href="http://astone.tv/events/rejoice1708/" target="_blank">秋川渓谷で大暴れ！<br>ファミリーディキャンプ<br>(日程：2017年8月24日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/1708live/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
+<a href="http://antiochblog.jp/mission/1708live/" target="_blank"><img src="/2016/images/top/1708nakanoibentosanbitai.jpg"></a>
 <p class="block-date">2017年8月24日～8月26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1708live/" target="_blank">賛美隊中野区のイベントで<br>ゴスペルを歌う <br>（Gifts、PATOLIS、ラベイユ、Gospel Seed）(日程：2017年8月25日～8月26日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/mission/1708live/" target="_blank">賛美隊中野区のイベントで<br>ゴスペルを歌う<br>（Gifts、PATOLIS、ラベイユ、Gospel Seed）(日程：2017年8月25日～8月26日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -62,13 +62,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/1708newp/" target="_blank">新しい牧師の一週間<br>(ヨハネ牧師はカンボジアチームに参加中)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1708grace/" target="_blank"><img src="/2016/images/top/1708shinbokushi.jpg"></a>
+<a href="http://antiochblog.jp/praise/1708grace/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
 <p class="block-date">日程：2017年8月24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1708grace/" target="_blank">GRACEと宝石<br>府中市のデイサービスでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
