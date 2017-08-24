@@ -14,13 +14,13 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1708meetings" target="_blank"><img src="/2016/images/top/1708kofuyokosuka.jpg"></a>
 <p class="block-date">日程：2017年8月25日〜26日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1708meetings" target="_blank">まだまだ暑い関東を行く<br>甲府、横須賀宣教の旅<br>(チーム日程：2017年8月25日〜26日)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -41,9 +41,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/rejoice1708/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
-<p class="block-date">2017年8月23日～8月24日</p>
-<p class="block-title"><a href="http://astone.tv/events/rejoice1708/" target="_blank">秋川渓谷で大暴れ！<br>ファミリーディキャンプ<br>(日程：2017年8月24日)</a></p>
+<a href="http://antiochblog.jp/mission/1708live/" target="_blank"><img src="/2016/images/top/1708nakanoibentosanbitai.jpg"></a>
+<p class="block-date">2017年8月24日～8月26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1708live/" target="_blank">賛美隊中野区のイベントで<br>ゴスペルを歌う<br>（Gifts、PATOLIS、ラベイユ、Gospel Seed）(日程：2017年8月25日～8月26日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -57,25 +57,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/1708live/" target="_blank"><img src="/2016/images/top/1708nakanoibentosanbitai.jpg"></a>
-<p class="block-date">2017年8月24日～8月26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1708live/" target="_blank">賛美隊中野区のイベントで<br>ゴスペルを歌う<br>（Gifts、PATOLIS、ラベイユ、Gospel Seed）(日程：2017年8月25日～8月26日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/1708newp/" target="_blank"><img src="/2016/images/top/1708shinbokushi.jpg"></a>
 <p class="block-date">日程：2017年8月21日〜27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1708newp/" target="_blank">新しい牧師の一週間<br>(ヨハネ牧師はカンボジアチームに参加中)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1708grace/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">日程：2017年8月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1708grace/" target="_blank">GRACEと宝石<br>府中市のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -111,6 +95,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/rejoice1708/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
+<p class="block-date">2017年8月23日～8月24日</p>
+<p class="block-title"><a href="http://astone.tv/events/rejoice1708/" target="_blank">秋川渓谷で大暴れ！<br>ファミリーディキャンプ<br>(日程：2017年8月24日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1708grace/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">日程：2017年8月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1708grace/" target="_blank">GRACEと宝石<br>府中市のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
