@@ -25,14 +25,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://blog.antioch.jp/1708cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
-<p class="block-date">日程：2017年8月21日〜24日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1708cambodia/" target="_blank">カンボジアチーム<br>最新情報写真新<br>(チーム日程：2017年8月21日〜24日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/1708antioch" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
 <p class="block-date">2017年8月21日～8月27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1708antioch" target="_blank">まだまだ続く<br>アンテオケの夏休み</a></p>
@@ -43,7 +35,8 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/1708live/" target="_blank"><img src="/2016/images/top/1708nakanoibentosanbitai.jpg"></a>
 <p class="block-date">2017年8月24日～8月26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1708live/" target="_blank">賛美隊中野区のイベントで<br>ゴスペルを歌う<br>（Gifts、PATOLIS、ラベイユ、Gospel Seed）(日程：2017年8月25日～8月26日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1708live/" target="_blank">賛美隊中野区のイベントで<br>ゴスペルを歌う<br>(ラベイユ、Gospel Seed)<br>
+(日程：2017年8月25日～8月26日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -60,6 +53,22 @@
 <a href="http://antiochblog.jp/info/1708newp/" target="_blank"><img src="/2016/images/top/1708shinbokushi.jpg"></a>
 <p class="block-date">日程：2017年8月21日〜27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1708newp/" target="_blank">新しい牧師の一週間<br>(ヨハネ牧師はカンボジアチームに参加中)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">2017年8月26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank">エルサレム<br>川口市のリハビリセンターでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gate1708/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+<p class="block-date">2017年8月26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gate1708/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -95,6 +104,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1708cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
+<p class="block-date">日程：2017年8月21日〜24日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1708cambodia/" target="_blank">カンボジアチーム<br>写真集<br>(チーム日程：2017年8月21日〜24日)<br>(じっくり全てを知りたい方のために)</a></p>
 </div>
 
 <div class="column-inner">
