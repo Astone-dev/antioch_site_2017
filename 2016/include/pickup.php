@@ -44,7 +44,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/songs1708/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
 <p class="block-date">2017年8月21日～8月27日</p>
-<p class="block-title"><a href="http://astone.tv/events/songs1708/" target="_blank">いよいよ最後<br>本当の締め切り<br>風のひびき5集作詞、作曲者の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/songs1708/" target="_blank">本当の締め切り最終日！<br>風のひびき5集作詞、作曲者の一週間</a></p>
 </div>
 
 <div class="column-inner">
