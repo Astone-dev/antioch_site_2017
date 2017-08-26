@@ -79,13 +79,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href=" http://tv.antioch.jp/digest/201708-kokoro/" target="_blank"><img src="/2016/images/top/1708concert_m.jpg"></a>
-<p class="block-title"><a href=" http://tv.antioch.jp/digest/201708-kokoro/" target="_blank">こころごすぺるダイジェスト映像<br></a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/standup/" target="_blank"><img src="/2016/images/top/1706yorimichi28.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
@@ -153,6 +146,12 @@
 <a href="http://astone.tv/events/rejoice1708/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
 <p class="block-date">2017年8月23日～8月24日</p>
 <p class="block-title"><a href="http://astone.tv/events/rejoice1708/" target="_blank">秋川渓谷で大暴れ！<br>ファミリーディキャンプ<br>(日程：2017年8月24日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href=" http://tv.antioch.jp/digest/201708-kokoro/" target="_blank"><img src="/2016/images/top/1708concert_m.jpg"></a>
+<p class="block-title"><a href=" http://tv.antioch.jp/digest/201708-kokoro/" target="_blank">こころごすぺるダイジェスト映像<br></a></p>
 </div>
 
 <div class="column-inner">
