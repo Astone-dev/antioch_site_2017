@@ -33,6 +33,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/selection1708/" target="_blank"><img src="/2016/images/top/1708shinsainweek.jpg"></a>
+<p class="block-date">日程：2017年8月28日〜9月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/selection1708/" target="_blank">風のひびき5集 応募曲421曲<br>審査員激闘の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/newsemester1708/" target="_blank"><img src="/2016/images/top/1708mousugushingakizenkoku.jpg"></a>
 <p class="block-date">日程：2017年8月28日〜9月3日</p>
 <p class="block-title"><a href="http://astone.tv/events/newsemester1708/" target="_blank">もう少しで新学期<br>全国各教会の一週間</a></p>
