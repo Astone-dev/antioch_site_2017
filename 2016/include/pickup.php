@@ -25,57 +25,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1708antioch" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
-<p class="block-date">2017年8月21日～8月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1708antioch" target="_blank">まだまだ続く<br>アンテオケの夏休み</a></p>
+<a href="http://antiochblog.jp/praise/newsemester1708a/" target="_blank"><img src="/2016/images/top/1708mousugushingakiantioch.jpg"></a>
+<p class="block-date">日程：2017年8月28日〜9月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/newsemester1708a/" target="_blank">もう少しで新学期<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/songs1708/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
-<p class="block-date">2017年8月21日～8月27日</p>
-<p class="block-title"><a href="http://astone.tv/events/songs1708/" target="_blank">本当の締め切り最終日！<br>風のひびき5集作詞、作曲者の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1708ebisu/" target="_blank"><img src="/2016/images/top/1708giftsjoyebisu.jpg"></a>
-<p class="block-date">2017年8月8月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1708ebisu/" target="_blank">Gifts、JOY<br>恵比寿ガーデンプレイスのイベントでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017students/category/0827students/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
-<p class="block-date">2017年8月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/0827students/" target="_blank">学生会<br>ピザを食べて映画を見る<br></a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/0827concert/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
-<p class="block-date">2017年8月27日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0827concert/" target="_blank">By His spirit<br>練馬デイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1708newp/" target="_blank"><img src="/2016/images/top/1708shinbokushi.jpg"></a>
-<p class="block-date">日程：2017年8月21日〜27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1708newp/" target="_blank">新しい牧師の一週間<br>(ヨハネ牧師はカンボジアチームに参加中)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1708nation" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
-<p class="block-date">2017年8月21日～8月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1708nation" target="_blank">まだまだ続く<br>全国各教会の夏休み</a></p>
+<a href="http://astone.tv/events/newsemester1708/" target="_blank"><img src="/2016/images/top/1708mousugushingakizenkoku.jpg"></a>
+<p class="block-date">日程：2017年8月28日〜9月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/newsemester1708/" target="_blank">もう少しで新学期<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -96,6 +56,55 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1708antioch" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
+<p class="block-date">2017年8月21日～8月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1708antioch" target="_blank">まだまだ続く<br>アンテオケの夏休み</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/songs1708/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
+<p class="block-date">2017年8月21日～8月27日</p>
+<p class="block-title"><a href="http://astone.tv/events/songs1708/" target="_blank">本当の締め切り最終日！<br>風のひびき5集作詞、作曲者の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1708ebisu/" target="_blank"><img src="/2016/images/top/1708giftsjoyebisu.jpg"></a>
+<p class="block-date">2017年8月8月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1708ebisu/" target="_blank">Gifts、JOY<br>恵比寿ガーデンプレイスのイベントでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017students/category/0827students/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
+<p class="block-date">2017年8月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/0827students/" target="_blank">学生会<br>ピザを食べて映画を見る<br></a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/0827concert/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
+<p class="block-date">2017年8月27日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0827concert/" target="_blank">By His spirit<br>練馬デイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1708newp/" target="_blank"><img src="/2016/images/top/1708shinbokushi.jpg"></a>
+<p class="block-date">日程：2017年8月21日〜27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1708newp/" target="_blank">新しい牧師の一週間<br>(ヨハネ牧師はカンボジアチームに参加中)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1708nation" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
+<p class="block-date">2017年8月21日～8月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1708nation" target="_blank">まだまだ続く<br>全国各教会の夏休み</a></p>
 </div>
 
 <div class="column-inner">
