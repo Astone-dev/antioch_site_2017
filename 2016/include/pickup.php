@@ -41,6 +41,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank"><img src="/2016/images/top/1708ukraineteam.jpg"></a>
+<p class="block-date">日程：2017年8月28日〜9月3日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>直前情報写真集<br>（チーム日程：2017年9月4日～9月9日）</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/newsemester1708/" target="_blank"><img src="/2016/images/top/1708mousugushingakizenkoku.jpg"></a>
 <p class="block-date">日程：2017年8月28日〜9月3日</p>
 <p class="block-title"><a href="http://astone.tv/events/newsemester1708/" target="_blank">もう少しで新学期<br>全国各教会の一週間</a></p>
