@@ -55,6 +55,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201708cambodia/" target="_blank"><img src="/2016/images/top/1708cambodiadigest_m.jpg"></a>
+<p class="block-date">日程：2017年8月21日〜24日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201708cambodia/" target="_blank">カンボジアチーム<br>ダイジェスト映像<br>(再生時間 5:14)</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/standup/" target="_blank"><img src="/2016/images/top/1706yorimichi28.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
