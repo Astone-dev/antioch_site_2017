@@ -22,6 +22,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1708hokkaido/" target="_blank">秋暑の北海道を行く<br>北海道宣教の旅<br>(日程：2017年8月28日〜9月1日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1708event/" target="_blank"><img src="/2016/images/top/1708mousugushingakiantioch.jpg"></a>
+<p class="block-date">日程：2017年9月2日〜9月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1708event/" target="_blank">東京カリスマ聖会</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
