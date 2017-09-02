@@ -85,6 +85,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/standup/" target="_blank">クリスチャンの寄り道 Vol.28<br>今回は「倒れて立ち上がった経験」のお話です</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/important/" target="_blank"><img src="/2016/images/top/1706yorimichi28.jpg"></a>
+<p class="block-date">毎日7:00更新</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/important/" target="_blank">クリスチャンの寄り道 Vol.29<br>今回は「倒れて立ち上がった経験」のお話です</a></p>
+</div>-->
+
 <div class="column-inner">
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/yorimichi/result-disappoint2.html" target="_blank"><img src="/2016/images/top/1707yorimichi27kekka.jpg"></a>
