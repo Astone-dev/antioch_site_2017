@@ -62,6 +62,14 @@
 <p class="block-title"><a href="http://astone.tv/events/1709doors/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1709grace/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">日程：2017年9月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1709grace/" target="_blank">GRACEと宝石<br>栃木県のイベントでゴスペル</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
