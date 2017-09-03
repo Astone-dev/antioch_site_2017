@@ -30,6 +30,22 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/newsemester1708a/" target="_blank">もう少しで新学期<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/new1709/" target="_blank"><img src="/2016/images/top/1708mousugushingakiantioch.jpg"></a>
+<p class="block-date">日程：2017年9月4日〜11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/new1709/" target="_blank">始まった新学期<br>東京アンテオケ教会の一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/songs1709/" target="_blank"><img src="/2016/images/top/1708mousugushingakiantioch.jpg"></a>
+<p class="block-date">日程：2017年9月4日〜11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/songs1709/" target="_blank">風のひびき5集作詞・作曲<br>採用者喜びの一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -77,6 +93,14 @@
 <p class="block-date">日程：2017年8月28日〜9月3日</p>
 <p class="block-title"><a href="http://astone.tv/events/newsemester1708/" target="_blank">もう少しで新学期<br>全国各教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/faith1709/" target="_blank"><img src="/2016/images/top/1708mousugushingakiantioch.jpg"></a>
+<p class="block-date">日程：2017年9月4日〜11日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1709/" target="_blank">始まった新学期<br>全国各教会の一週間</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
