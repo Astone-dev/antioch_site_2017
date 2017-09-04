@@ -38,6 +38,22 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/songs1709/" target="_blank">風のひびき5集<br>作詞・作曲 採用者喜びの一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1709gracious" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
+<p class="block-date">日程：2017年9月5日</p>
+<p class="block-title"><a href="http://astone.tv/events/1709gracious" target="_blank">GRACIOUS DOORS<br>家族介護者の集いでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/treeoflife1709/" target="_blank"><img src="/2016/images/top/1709sakushiyorokobi.jpg"></a>
+<p class="block-date">日程：2017年9月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/treeoflife1709/" target="_blank">Tree of Life<br>横浜デイサービスでゴスペル</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
