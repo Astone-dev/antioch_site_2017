@@ -70,7 +70,6 @@
 </div>
 
 <div class="column-inner">
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/standup/" target="_blank"><img src="/2016/images/top/1706yorimichi28.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/standup/" target="_blank">クリスチャンの寄り道 Vol.28<br>今回は「倒れて立ち上がった経験」のお話です</a></p>
@@ -119,7 +118,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/1709doors/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
 <p class="block-date">日程：2017年9月3日</p>
 <p class="block-title"><a href="http://astone.tv/events/1709doors/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
@@ -127,7 +125,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/1709grace/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
 <p class="block-date">日程：2017年9月3日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1709grace/" target="_blank">GRACEと宝石<br>栃木県のイベントでゴスペル</a></p>
