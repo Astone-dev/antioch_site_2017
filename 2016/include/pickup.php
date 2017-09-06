@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1709facility/" target="_blank"><img src="/2016/images/top/1702immberasuginami.jpg"></a>
 <p class="block-date">日程：2017年9月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1709facility/" target="_blank">ImmanuelとBeracha<br>杉並区の特別養護老人施設にコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1709facility/" target="_blank">ImmanuelとBeracha<br>croix杉並区の特別養護老人施設にコンサート</a></p>
 </div>
 
 <div class="column-inner">
