@@ -38,13 +38,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/songs1709/" target="_blank">風のひびき5集<br>作詞・作曲 採用者喜びの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1709facility/" target="_blank"><img src="/2016/images/top/1702immberasuginami.jpg"></a>
 <p class="block-date">日程：2017年9月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1709facility/" target="_blank">ImmanuelとBeracha<br>杉並区の特別養護老人施設にコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
