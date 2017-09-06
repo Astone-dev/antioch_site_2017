@@ -41,22 +41,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1709gracious" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
-<p class="block-date">日程：2017年9月5日</p>
-<p class="block-title"><a href="http://astone.tv/events/1709gracious" target="_blank">GRACIOUS DOORS<br>家族介護者の集いでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/treeoflife1709/" target="_blank"><img src="/2016/images/top/1709treeoflife.jpg"></a>
-<p class="block-date">日程：2017年9月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/treeoflife1709/" target="_blank">Tree of Life<br>横浜デイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/faith1709/" target="_blank"><img src="/2016/images/top/1709shingakkizenkoku.jpg"></a>
 <p class="block-date">日程：2017年9月4日〜11日</p>
 <p class="block-title"><a href="http://astone.tv/events/faith1709/" target="_blank">始まった新学期<br>全国各教会の一週間</a></p>
@@ -86,6 +70,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1709gracious" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
+<p class="block-date">日程：2017年9月5日</p>
+<p class="block-title"><a href="http://astone.tv/events/1709gracious" target="_blank">GRACIOUS DOORS<br>家族介護者の集いでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/treeoflife1709/" target="_blank"><img src="/2016/images/top/1709treeoflife.jpg"></a>
+<p class="block-date">日程：2017年9月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/treeoflife1709/" target="_blank">Tree of Life<br>横浜デイサービスでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
