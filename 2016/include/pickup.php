@@ -40,6 +40,13 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/170910other/" target="_blank"><img src="/2016/images/top/1703jerusoma.jpg"></a>
+<p class="block-date">日程：2017年9月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/170910other/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/uranos2017/category/0909nerima/" target="_blank"><img src="/2016/images/top/1702uranosuconcert.jpg"></a>
 <p class="block-date">日程：2017年9月10日</p>
@@ -101,12 +108,12 @@
 <p class="block-title"><a href="http://astone.tv/events/2017healing/0909healing/" target="_blank">9月 いやしの集いの一日</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/0909kawaguchi/" target="_blank"><img src="/2016/images/top/1703jerusoma.jpg"></a>
 <p class="block-date">日程：2017年9月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0909kawaguchi/" target="_blank">エルサレム<br>川口のデイサービスでゴスペル</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
