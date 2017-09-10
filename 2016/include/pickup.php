@@ -76,15 +76,9 @@
 </div>
 
 <div class="column-inner">
-<a href="http://antiochblog.jp/info/standup/" target="_blank"><img src="/2016/images/top/1706yorimichi28.jpg"></a>
-<p class="block-date">毎日7:00更新</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/standup/" target="_blank">クリスチャンの寄り道 Vol.28<br>今回は「倒れて立ち上がった経験」のお話です</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
-<a href="http://tokyo.antioch.jp/yorimichi/result-disappoint2.html" target="_blank"><img src="/2016/images/top/1707yorimichi27kekka.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-disappoint2.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.27<br>「失敗した時に主に語られたこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+<a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
+<p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
 
 <div class="column-inner">
