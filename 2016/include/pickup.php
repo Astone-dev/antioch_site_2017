@@ -35,7 +35,8 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/nagano1709/" target="_blank"><img src="/2016/images/top/1611giftsgospel.jpg"></a>
 <p class="block-date">日程：2017年9月12日〜13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nagano1709/" target="_blank">Gifts <br>長野を行く<br>ショッピングセンターでコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/nagano1709/" target="_blank">Gifts <br>長野を行く<br>ショッピングセンターでコンサート<br>
+(コンサート日程：2017年9月13日)</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -58,7 +59,7 @@
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank"><img src="/2016/images/top/1709suroukudigest_m.jpg"></a>
 <p class="block-date">チーム日程：2017年9月4日〜9日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト映像<br>（再生時間 6:03)</a></p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト映像<br>(再生時間 6:03)</a></p>
 </div>
 
 <div class="column-inner">
