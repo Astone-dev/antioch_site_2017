@@ -39,15 +39,6 @@
 (コンサート日程：2017年9月13日)</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0912miasato/" target="_blank"><img src="/2016/images/top/1703jerusoma.jpg"></a>
-<p class="block-date">日程：2017年9月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0912miasato/" target="_blank">エルサレム<br>三郷でゴスペル<br>
-(コンサート日程：2017年9月12日)</a></p>
-</div>
-
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -98,6 +89,15 @@
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
 </div>
 
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0912miasato/" target="_blank"><img src="/2016/images/top/1703jerusoma.jpg"></a>
+<p class="block-date">日程：2017年9月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0912miasato/" target="_blank">エルサレム<br>三郷でゴスペル<br>
+(コンサート日程：2017年9月12日)</a></p>
+</div>
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/new1709/" target="_blank"><img src="/2016/images/top/1709shingakkiantioch.jpg"></a>
@@ -118,13 +118,6 @@
 <p class="block-date">日程：2017年9月4日〜11日</p>
 <p class="block-title"><a href="http://astone.tv/events/faith1709/" target="_blank">始まった新学期<br>全国各教会の一週間</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/170910other/" target="_blank"><img src="/2016/images/top/1703jerusoma.jpg"></a>
-<p class="block-date">日程：2017年9月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/170910other/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
