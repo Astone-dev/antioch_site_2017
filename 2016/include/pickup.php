@@ -35,7 +35,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/nagano1709/" target="_blank"><img src="/2016/images/top/1611giftsgospel.jpg"></a>
 <p class="block-date">日程：2017年9月12日〜13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nagano1709/" target="_blank">Gifts <br>長野を行く<br>ショッピングセンターでコンサート<br>
+<p class="block-title"><a href="http://antiochblog.jp/praise/nagano1709/" target="_blank">Gifts秋の長野を行く<br>ショッピングセンターでコンサート<br>
 (コンサート日程：2017年9月13日)</a></p>
 </div>
 
