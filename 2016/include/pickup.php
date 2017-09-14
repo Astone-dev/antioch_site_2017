@@ -14,13 +14,6 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/chugoku1709/" target="_blank"><img src="/2016/images/top/1705chugokuseikai.jpg"></a>
-<p class="block-date">日程：2017年9月10日〜14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1709/" target="_blank">秋風の季節中国地方を行く<br>中国地方宣教の旅<br>(日程：2017年9月10日〜9月14日)</a></p>
-</div>
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -38,14 +31,6 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/week1709/" target="_blank">アンテオケ教会<br>秋の一週間</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/nagano1709/" target="_blank"><img src="/2016/images/top/1611giftsgospel.jpg"></a>
-<p class="block-date">日程：2017年9月12日〜13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nagano1709/" target="_blank">Gifts秋の長野を行く<br>ショッピングセンターでコンサート<br>
-(コンサート日程：2017年9月13日)</a></p>
-</div>
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -105,6 +90,20 @@
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
 </div>
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/chugoku1709/" target="_blank"><img src="/2016/images/top/1705chugokuseikai.jpg"></a>
+<p class="block-date">日程：2017年9月10日〜14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1709/" target="_blank">秋風の季節中国地方を行く<br>中国地方宣教の旅<br>(日程：2017年9月10日〜9月14日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/nagano1709/" target="_blank"><img src="/2016/images/top/1611giftsgospel.jpg"></a>
+<p class="block-date">日程：2017年9月12日〜13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/nagano1709/" target="_blank">Gifts秋の長野を行く<br>ショッピングセンターでコンサート<br>
+(コンサート日程：2017年9月13日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
