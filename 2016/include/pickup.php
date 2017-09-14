@@ -15,13 +15,13 @@
 </div>-->
 
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1709gathering/" target="_blank"><img src="/2016/images/top/1705chugokuseikai.jpg"></a>
+<a href="http://astone.tv/events/1709gathering/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
 <p class="block-date">日程：2017年9月15日〜16日</p>
-<p class="block-title"><a href="http://astone.tv/events/1709gathering/" target="_blank"><br>厚木・横浜地方宣教の旅<br>(日程：2017年9月15日〜9月16日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/1709gathering/" target="_blank"><br>厚木・横浜聖会<br>関東宣教の旅<br>(日程：2017年9月15日〜9月16日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -31,22 +31,21 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/week1709/" target="_blank">アンテオケ教会<br>秋の一週間</a></p>
 </div>
 
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0914facility/" target="_blank"><img src="/2016/images/top/1703jerusoma.jpg"></a>
-<p class="block-date">日程：2017年9月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0914facility/" target="_blank">エルサレム<br>福祉施設でゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/uranos2017/category/0915shinyuri/" target="_blank"><img src="/2016/images/top/1702uranosuconcert.jpg"></a>
 <p class="block-date">日程：2017年9月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/category/0915shinyuri/" target="_blank">ウラノス <br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/category/0915shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/grace1709/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">日程：2017年9月15日</p>
+<p class="block-title"><a href="http://astone.tv/events/grace1709/" target="_blank">GRACEと宝石<br>調布の老人ホームでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
