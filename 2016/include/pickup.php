@@ -20,7 +20,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1709gathering/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
 <p class="block-date">日程：2017年9月15日〜16日</p>
-<p class="block-title"><a href="http://astone.tv/events/1709gathering/" target="_blank"><br>厚木・横浜聖会<br>関東宣教の旅<br>(日程：2017年9月15日〜9月16日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1709gathering/" target="_blank"><br>秋風の中厚木・横浜聖会<br>関東宣教の旅<br>(日程：2017年9月15日〜9月16日)</a></p>
 </div>
 
 <div class="column-inner">
