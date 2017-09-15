@@ -31,11 +31,35 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/week1709/" target="_blank">アンテオケ教会<br>秋の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年8月19日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年8月19日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/revival2017/0916night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<p class="block-date">日程：2017年9月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0916night/" target="_blank">Revival Night</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/concert1709/" target="_blank"><img src="/2016/images/top/1702uranosuconcert.jpg"></a>
+<p class="block-date">日程：2017年9月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/concert1709/" target="_blank">オーケストラと婦人会</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/uranos2017/category/0915shinyuri/" target="_blank"><img src="/2016/images/top/1702uranosuconcert.jpg"></a>
-<p class="block-date">日程：2017年9月15日</p>
+<p class="block-date">日程：2017年9月16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/category/0915shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
 </div>
 
