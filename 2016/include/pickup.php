@@ -23,6 +23,14 @@
 <p class="block-title"><a href="http://astone.tv/events/1709gathering/" target="_blank">秋風の中厚木・横浜聖会<br>関東宣教の旅<br>(日程：2017年9月15日〜9月16日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1709shikoku/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
+<p class="block-date">日程：2017年9月17日〜20日</p>
+<p class="block-title"><a href="http://astone.tv/events/1709shikoku/" target="_blank">四国聖会<br><br>(日程：2017年9月18日〜9月20日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -38,6 +46,22 @@
 <p class="block-date">日程：2017年9月16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/concert1709/" target="_blank">オーケストラと婦人会<br>イベントでゴスペル</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1709women/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
+<p class="block-date">日程：2017年9月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/1709women/" target="_blank">婦人会<br></a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/0917concert/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
+<p class="block-date">日程：2017年9月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0917concert/" target="_blank">By His spirit<br>練馬デイサービスでゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
