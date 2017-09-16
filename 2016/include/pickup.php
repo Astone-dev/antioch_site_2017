@@ -73,15 +73,15 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank"><img src="/2016/images/top/1709suroukudigest_p.jpg"></a>
-<p class="block-date">日程：2017年9月4日〜9日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト写真集<br>（チーム日程：2017年9月4日～9月9日）<br>(短く全てを知りたい人のために)</a></p>
+<p class="block-date">チーム日程：2017年9月4日〜9日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のために)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank"><img src="/2016/images/top/1708ukraineteam.jpg"></a>
-<p class="block-date">日程：2017年9月4日〜9日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>写真集<br>（チーム日程：2017年9月4日～9月9日）<br>(じっくりと全てを知りたい人のために)</a></p>
+<p class="block-date">チーム日程：2017年9月4日〜9日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>写真集<br>(じっくりと全てを知りたい人のために)</a></p>
 </div>
 
 <div class="column-inner">
