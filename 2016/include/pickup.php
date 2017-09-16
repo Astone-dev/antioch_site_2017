@@ -63,6 +63,12 @@
 <p class="block-title"><a href="http://astone.tv/events/nation1709/" target="_blank">全国各教会<br>秋の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
+<p class="block-date">チーム日程：2017年9月4日〜9日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank"><img src="/2016/images/top/1709suroukudigest_m.jpg"></a>
