@@ -18,18 +18,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1709gathering/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
-<p class="block-date">日程：2017年9月15日〜16日</p>
-<p class="block-title"><a href="http://astone.tv/events/1709gathering/" target="_blank">秋風の中厚木・横浜聖会<br>関東宣教の旅<br>(日程：2017年9月15日〜9月16日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1709shikoku/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
+<a href="http://astone.tv/events/1709shikoku/" target="_blank"><img src="/2016/images/top/1709shikokuseikai.jpg"></a>
 <p class="block-date">日程：2017年9月17日〜20日</p>
-<p class="block-title"><a href="http://astone.tv/events/1709shikoku/" target="_blank">四国聖会<br><br>(日程：2017年9月18日〜9月20日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/1709shikoku/" target="_blank">台風の日本列島の中を<br>四国宣教の旅<br>(日程：2017年9月18日〜9月20日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -42,41 +34,25 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/concert1709/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
-<p class="block-date">日程：2017年9月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/concert1709/" target="_blank">オーケストラと婦人会<br>イベントでゴスペル</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/1709women/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
 <p class="block-date">日程：2017年9月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/1709women/" target="_blank">婦人会<br></a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/1709women/" target="_blank">婦人会<br>親子丼を食べる</a></p>
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/2017byhisspirit/0917concert/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
 <p class="block-date">日程：2017年9月17日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0917concert/" target="_blank">By His spirit<br>練馬デイサービスでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/revival2017/0916night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">日程：2017年9月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0916night/" target="_blank">若者たちよ集まれ！<br>Revival Nightの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年9月16日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年9月16日 18:30スタート)</a></p>
+<a href="http://astone.tv/events/euqaristias/20170917shinjuku/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
+<p class="block-date">日程：2017年9月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170917shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -92,6 +68,13 @@
 <a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank"><img src="/2016/images/top/1709suroukudigest_m.jpg"></a>
 <p class="block-date">チーム日程：2017年9月4日〜9日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト映像<br>(再生時間 6:03)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank"><img src="/2016/images/top/1709suroukudigest_p.jpg"></a>
+<p class="block-date">日程：2017年9月4日〜9日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト写真集<br>（チーム日程：2017年9月4日～9月9日）<br>(短く全てを知りたい人のために)</a></p>
 </div>
 
 <div class="column-inner">
@@ -119,6 +102,27 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1709gathering/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
+<p class="block-date">日程：2017年9月15日〜16日</p>
+<p class="block-title"><a href="http://astone.tv/events/1709gathering/" target="_blank">秋風の中厚木・横浜聖会<br>関東宣教の旅<br>(日程：2017年9月15日〜9月16日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/concert1709/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
+<p class="block-date">日程：2017年9月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/concert1709/" target="_blank">オーケストラと婦人会<br>イベントでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/revival2017/0916night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<p class="block-date">日程：2017年9月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0916night/" target="_blank">若者たちよ集まれ！<br>Revival Nightの一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -257,4 +261,12 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年9月9日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年9月9日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年9月16日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年9月16日 18:30スタート)</a></p>
 </div>-->
