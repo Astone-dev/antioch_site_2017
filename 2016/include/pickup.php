@@ -64,9 +64,9 @@
 </div>
 
 <!--<div class="column-inner">
-<a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
-<p class="block-date">チーム日程：2017年9月4日〜9日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
+<a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
+<p class="block-date">日程：2017年10月1日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
 </div>-->
 
 <div class="column-inner">
