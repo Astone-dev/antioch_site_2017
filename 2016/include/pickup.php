@@ -26,42 +26,51 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/week1709/" target="_blank"><img src="/2016/images/top/1709antioch.jpg"></a>
-<p class="block-date">日程：2017年9月12日〜17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/week1709/" target="_blank">アンテオケ教会<br>秋の一週間</a></p>
+<a href="http://antiochblog.jp/praise/silver201709/" target="_blank"><img src="/2016/images/top/1709silverweekantioch.jpg"></a>
+<p class="block-date">日程：2017年9月18日〜24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/silver201709/" target="_blank">東京アンテオケ教会の<br>シルバーウイーク一週間<br>(日程：2017年9月18日〜9月24日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1709women/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
-<p class="block-date">日程：2017年9月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/1709women/" target="_blank">婦人会<br>親子丼を食べる</a></p>
+<a href="http://astone.tv/events/young-camp1709/" target="_blank"><img src="/2016/images/top/1709youngday.jpg"></a>
+<p class="block-date">日程：2017年9月18日</p>
+<p class="block-title"><a href="http://astone.tv/events/young-camp1709/" target="_blank">元気いっぱい！<br>ヤングデイキャンプの一日</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/0917concert/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
-<p class="block-date">日程：2017年9月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0917concert/" target="_blank">By His spirit<br>練馬デイサービスでゴスペルコンサート</a></p>
+<a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
+<p class="block-date">日程：2017年9月18日~24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank">エルサレムの平和を祈る集いに向かって<br>てんやわんやの一週間<br>(集会日程：2017年10月1日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20170917shinjuku/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
-<p class="block-date">日程：2017年9月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170917shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+<a href="http://antiochblog.jp/mission/christ1709/" target="_blank"><img src="/2016/images/top/1709mihonichi.jpg"></a>
+<p class="block-date">日程：2017年9月18日~22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/christ1709/" target="_blank">クリスマス見本市に向かって<br>各部門スタッフてんてこ舞い<br>荒地に川ミュージック、雲の間にある虹出版、み声新聞、アストン、The Vision<br>(日程：2017年9月22日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/nation1709/" target="_blank"><img src="/2016/images/top/1709nation.jpg"></a>
-<p class="block-date">日程：2017年9月12日〜17日</p>
-<p class="block-title"><a href="http://astone.tv/events/nation1709/" target="_blank">全国各教会<br>秋の一週間</a></p>
+<a href="http://antiochblog.jp/praise/1709patolis/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
+<p class="block-date">日程：2017年9月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1709patolis/" target="_blank">PATOLIS<br>西早稲田の老人施設の敬老会で<br>ゴスペルコンサート</a></p>
 </div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/silver201709z/" target="_blank"><img src="/2016/images/top/1709silverweekzenkoku.jpg"></a>
+<p class="block-date">日程：2017年9月18日〜24日</p>
+<p class="block-title"><a href="http://astone.tv/events/silver201709z/" target="_blank">全国各教会の<br>シルバーウイーク一週間<br>(日程：2017年9月18日〜9月24日)</a></p>
+</div>
+
 
 <div class="column-inner">
 <span>NEW</span>
@@ -109,6 +118,41 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/week1709/" target="_blank"><img src="/2016/images/top/1709antioch.jpg"></a>
+<p class="block-date">日程：2017年9月12日〜17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/week1709/" target="_blank">アンテオケ教会<br>秋の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1709women/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
+<p class="block-date">日程：2017年9月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/1709women/" target="_blank">婦人会<br>親子丼を食べる</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/0917concert/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date">日程：2017年9月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0917concert/" target="_blank">By His spirit<br>練馬デイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20170917shinjuku/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
+<p class="block-date">日程：2017年9月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20170917shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/nation1709/" target="_blank"><img src="/2016/images/top/1709nation.jpg"></a>
+<p class="block-date">日程：2017年9月12日〜17日</p>
+<p class="block-title"><a href="http://astone.tv/events/nation1709/" target="_blank">全国各教会<br>秋の一週間</a></p>
 </div>
 
 <div class="column-inner">
