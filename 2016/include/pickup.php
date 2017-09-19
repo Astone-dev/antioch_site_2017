@@ -34,14 +34,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/young-camp1709/" target="_blank"><img src="/2016/images/top/1709youngday.jpg"></a>
-<p class="block-date">日程：2017年9月18日</p>
-<p class="block-title"><a href="http://astone.tv/events/young-camp1709/" target="_blank">元気いっぱい！<br>ヤングデイキャンプの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
 <p class="block-date">日程：2017年9月18日~24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank">エルサレムの平和を祈る集いに向かって<br>てんやわんやの一週間<br>(集会日程：2017年10月1日)</a></p>
@@ -117,6 +109,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/young-camp1709/" target="_blank"><img src="/2016/images/top/1709youngday.jpg"></a>
+<p class="block-date">日程：2017年9月18日</p>
+<p class="block-title"><a href="http://astone.tv/events/young-camp1709/" target="_blank">元気いっぱい！<br>ヤングデイキャンプの一日</a></p>
 </div>
 
 <div class="column-inner">
