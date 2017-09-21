@@ -15,13 +15,13 @@
 </div>-->
 
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1709kashiwa/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
 <p class="block-date">日程：2017年9月22日</p>
 <p class="block-title"><a href="http://astone.tv/events/1709kashiwa/" target="_blank">秋の気配を感じつつ柏聖会<br>関東宣教の旅<br>(日程：2017年9月22日)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -47,13 +47,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/mission/christ1709/" target="_blank">クリスマス見本市に向かって<br>各部門スタッフてんてこ舞い<br>荒地に川ミュージック、雲の間にある虹出版、み声新聞、アストン、The Vision<br>(日程：2017年9月22日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gracejewel2017/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
 <p class="block-date">日程：2017年9月22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/" target="_blank">GRACEと宝石練馬<br>デイサービスでゴスペルブログ</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
