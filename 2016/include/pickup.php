@@ -14,15 +14,6 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1709kashiwa/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
-<p class="block-date">日程：2017年9月22日</p>
-<p class="block-title"><a href="http://astone.tv/events/1709kashiwa/" target="_blank">秋の気配を感じつつ柏聖会<br>関東宣教の旅<br>(日程：2017年9月22日)</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -39,53 +30,45 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank">エルサレムの平和を祈る集いに向かって<br>てんやわんやの一週間<br>(集会日程：2017年10月1日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1709ramra/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
+<a href="http://antiochblog.jp/praise/1709ramra/" target="_blank"><img src="/2016/images/top/1709giftsiidabashi.jpg"></a>
 <p class="block-date">日程：2017年9月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1709ramra/" target="_blank">Gifts、JOY<br>ラムラ飯田橋でミニライブ</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/1709ramra/" target="_blank">Gifts<br>飯田橋のショッピングセンターでゴスペルコンサート</a></p>
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1709orphanage/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
+<a href="http://antiochblog.jp/info/1709orphanage/" target="_blank"><img src="/2016/images/top/1709ishizuekouenkai.jpg"></a>
 <p class="block-date">日程：2017年9月23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1709orphanage/" target="_blank">礎の石孤児院 <br>都内高校で報告会</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年9月23日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年9月23日 18:30スタート)</a></p>
-</div>-->
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">日程：2017年9月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank">9月ゴスペルの集いの一日</a></p>
+</div>
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank"><img src="/2016/images/top/1704gospel.jpg"></a>
+<a href="http://antiochblog.jp/info/1709orphanage/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
 <p class="block-date">日程：2017年9月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank">9月 ゴスペルの集い</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1709orphanage/" target="_blank">GRACIOUS DOORS<br>都内デイサービスでゴスペル</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/christ1709/" target="_blank"><img src="/2016/images/top/1709mihonichi.jpg"></a>
-<p class="block-date">日程：2017年9月18日~22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/christ1709/" target="_blank">クリスマス見本市に向かって<br>各部門スタッフてんてこ舞い<br>荒地に川ミュージック、雲の間にある虹出版、み声新聞、アストン、The Vision<br>(日程：2017年9月22日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/category/0922nerima/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">日程：2017年9月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/0922nerima/" target="_blank">GRACEと宝石練馬<br>デイサービスでゴスペルブログ</a></p>
-</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -134,6 +117,27 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1709kashiwa/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
+<p class="block-date">日程：2017年9月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/1709kashiwa/" target="_blank">秋の気配を感じつつ柏聖会<br>関東宣教の旅<br>(日程：2017年9月22日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/christ1709/" target="_blank"><img src="/2016/images/top/1709mihonichi.jpg"></a>
+<p class="block-date">日程：2017年9月18日~22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/christ1709/" target="_blank">クリスマス見本市に向かって<br>各部門スタッフてんてこ舞い<br>荒地に川ミュージック、雲の間にある虹出版、み声新聞、アストン、The Vision<br>(日程：2017年9月22日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/category/0922nerima/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">日程：2017年9月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/0922nerima/" target="_blank">GRACEと宝石練馬<br>デイサービスでゴスペルブログ</a></p>
 </div>
 
 <div class="column-inner">
