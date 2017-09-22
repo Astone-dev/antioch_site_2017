@@ -39,6 +39,30 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank">エルサレムの平和を祈る集いに向かって<br>てんやわんやの一週間<br>(集会日程：2017年10月1日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1709ramra/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
+<p class="block-date">日程：2017年9月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1709ramra/" target="_blank">Gifts、JOY<br>ラムラ飯田橋でミニライブ</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1709orphanage/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
+<p class="block-date">日程：2017年9月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1709orphanage/" target="_blank">孤児院<br>報告会</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank"><img src="/2016/images/top/1704gospel.jpg"></a>
+<p class="block-date">日程：2017年9月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank">9月 ゴスペルの集い</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
