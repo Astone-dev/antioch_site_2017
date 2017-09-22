@@ -85,13 +85,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank"><img src="/2016/images/top/1708ukraineteam.jpg"></a>
-<p class="block-date">チーム日程：2017年9月4日〜9日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/ukraine1709slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>写真集<br>(じっくりと全てを知りたい人のために)</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/important/" target="_blank"><img src="/2016/images/top/1709yorimichi29.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
@@ -179,106 +172,6 @@
 <a href="http://astone.tv/events/nation1709/" target="_blank"><img src="/2016/images/top/1709nation.jpg"></a>
 <p class="block-date">日程：2017年9月12日〜17日</p>
 <p class="block-title"><a href="http://astone.tv/events/nation1709/" target="_blank">全国各教会<br>秋の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1709gathering/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
-<p class="block-date">日程：2017年9月15日〜16日</p>
-<p class="block-title"><a href="http://astone.tv/events/1709gathering/" target="_blank">秋風の中厚木・横浜聖会<br>関東宣教の旅<br>(日程：2017年9月15日〜9月16日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/concert1709/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
-<p class="block-date">日程：2017年9月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/concert1709/" target="_blank">オーケストラと婦人会<br>イベントでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/revival2017/0916night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">日程：2017年9月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/0916night/" target="_blank">若者たちよ集まれ！<br>Revival Nightの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/uranos2017/category/0915shinyuri/" target="_blank"><img src="/2016/images/top/1702uranosuconcert.jpg"></a>
-<p class="block-date">日程：2017年9月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/category/0915shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/grace1709/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">日程：2017年9月15日</p>
-<p class="block-title"><a href="http://astone.tv/events/grace1709/" target="_blank">GRACEと宝石<br>調布の老人ホームでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/chugoku1709/" target="_blank"><img src="/2016/images/top/1705chugokuseikai.jpg"></a>
-<p class="block-date">日程：2017年9月10日〜14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1709/" target="_blank">秋風の季節中国地方を行く<br>中国地方宣教の旅<br>(日程：2017年9月10日〜9月14日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/nagano1709/" target="_blank"><img src="/2016/images/top/1611giftsgospel.jpg"></a>
-<p class="block-date">日程：2017年9月12日〜13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/nagano1709/" target="_blank">Gifts秋の長野を行く<br>ショッピングセンターでコンサート<br>
-(コンサート日程：2017年9月13日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0912miasato/" target="_blank"><img src="/2016/images/top/1703jerusoma.jpg"></a>
-<p class="block-date">日程：2017年9月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0912miasato/" target="_blank">エルサレム<br>三郷でゴスペル<br>
-(コンサート日程：2017年9月12日)</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/new1709/" target="_blank"><img src="/2016/images/top/1709shingakkiantioch.jpg"></a>
-<p class="block-date">日程：2017年9月4日〜11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/new1709/" target="_blank">始まった新学期<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/songs1709/" target="_blank"><img src="/2016/images/top/1709sakushiyorokobi.jpg"></a>
-<p class="block-date">日程：2017年9月4日〜11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/songs1709/" target="_blank">風のひびき5集<br>作詞・作曲 採用者喜びの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/faith1709/" target="_blank"><img src="/2016/images/top/1709shingakkizenkoku.jpg"></a>
-<p class="block-date">日程：2017年9月4日〜11日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1709/" target="_blank">始まった新学期<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/uranos2017/category/0909nerima/" target="_blank"><img src="/2016/images/top/1702uranosuconcert.jpg"></a>
-<p class="block-date">日程：2017年9月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/category/0909nerima/" target="_blank">ウラノス<br>練馬のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1709gifts/" target="_blank"><img src="/2016/images/top/1709giftschibaion.jpg"></a>
-<p class="block-date">日程：2017年9月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1709gifts/" target="_blank">Gifts<br>千葉のショッピングセンターでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017healing/0909healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-<p class="block-date">日程：2017年9月9日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/0909healing/" target="_blank">9月 いやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
