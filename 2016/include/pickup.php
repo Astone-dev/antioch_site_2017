@@ -38,22 +38,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1709ramra/" target="_blank"><img src="/2016/images/top/1709giftsiidabashi.jpg"></a>
-<p class="block-date">日程：2017年9月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1709ramra/" target="_blank">Gifts<br>飯田橋のショッピングセンターでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1709orphanage/" target="_blank"><img src="/2016/images/top/1709ishizuekouenkai.jpg"></a>
-<p class="block-date">日程：2017年9月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1709orphanage/" target="_blank">礎の石孤児院 <br>都内高校で報告会</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
@@ -86,6 +70,22 @@
 <p class="block-date">日程：2017年9月24日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0924concert/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1709ramra/" target="_blank"><img src="/2016/images/top/1709giftsiidabashi.jpg"></a>
+<p class="block-date">日程：2017年9月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1709ramra/" target="_blank">Gifts<br>飯田橋のショッピングセンターでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1709orphanage/" target="_blank"><img src="/2016/images/top/1709ishizuekouenkai.jpg"></a>
+<p class="block-date">日程：2017年9月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1709orphanage/" target="_blank">礎の石孤児院 <br>都内高校で報告会</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
