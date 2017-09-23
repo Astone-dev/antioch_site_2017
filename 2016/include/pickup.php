@@ -14,6 +14,13 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1709okinawa/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
+<p class="block-date">日程：2017年9月24日～27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1709okinawa/" target="_blank">沖縄聖会<br>沖縄宣教の旅<br>(日程：2017年9月25日～27日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -61,6 +68,24 @@
 <p class="block-date">日程：2017年9月23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank">9月ゴスペルの集いの一日</a></p>
 </div>
+
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017students/category/0924students/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">日程：2017年9月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/0924students/" target="_blank">学生会<br>アヒージョを食べる</a></p>
+</div>-->
+
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/0924concert/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">日程：2017年9月24日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0924concert/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
