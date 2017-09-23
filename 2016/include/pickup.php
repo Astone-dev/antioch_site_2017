@@ -76,20 +76,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank"><img src="/2016/images/top/1709suroukudigest_m.jpg"></a>
-<p class="block-date">チーム日程：2017年9月4日〜9日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト映像<br>(再生時間 6:03)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://blog.antioch.jp/ukraine1709slovakia/category/ukdst/" target="_blank"><img src="/2016/images/top/1709suroukudigest_p.jpg"></a>
-<p class="block-date">チーム日程：2017年9月4日〜9日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/ukraine1709slovakia/category/ukdst/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のために)</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/important/" target="_blank"><img src="/2016/images/top/1709yorimichi29.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
@@ -107,6 +93,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank"><img src="/2016/images/top/1709suroukudigest_m.jpg"></a>
+<p class="block-date">チーム日程：2017年9月4日〜9日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト映像<br>(再生時間 6:03)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/ukraine1709slovakia/category/ukdst/" target="_blank"><img src="/2016/images/top/1709suroukudigest_p.jpg"></a>
+<p class="block-date">チーム日程：2017年9月4日〜9日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/ukraine1709slovakia/category/ukdst/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のために)</a></p>
 </div>
 
 <div class="column-inner">
