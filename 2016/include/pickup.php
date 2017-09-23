@@ -16,6 +16,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/mission/1709okinawa/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
 <p class="block-date">日程：2017年9月24日～27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1709okinawa/" target="_blank">まだまだ暑い沖縄を行く<br>沖縄宣教の旅<br>(日程：2017年9月25日～27日)</a></p>
@@ -42,7 +43,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2017students/category/0924students/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
 <p class="block-date">日程：2017年9月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/0924students/" target="_blank">学生会<br>アヒージョを食べる</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/0924students/" target="_blank">9月の学生会<br>アヒージョを食べる</a></p>
 </div>
 
 <div class="column-inner">
