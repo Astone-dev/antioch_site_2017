@@ -41,7 +41,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017students/category/0924students/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<a href="http://antiochblog.jp/praise/2017students/category/0924students/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
 <p class="block-date">日程：2017年9月24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/0924students/" target="_blank">9月の学生会<br>アヒージョを食べる</a></p>
 </div>
@@ -49,7 +49,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/0924concert/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<a href="http://astone.tv/events/2017byhisspirit/0924concert/" target="_blank"><img src="/2016/images/top/1705byhisnerima.jpg"></a>
 <p class="block-date">日程：2017年9月24日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/0924concert/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
 </div>
