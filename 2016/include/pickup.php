@@ -62,13 +62,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank">9月ゴスペルの集いの一日</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1709orphanage/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
+<a href="http://astone.tv/events/doors1709/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
 <p class="block-date">日程：2017年9月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1709orphanage/" target="_blank">GRACIOUS DOORS<br>都内デイサービスでゴスペル</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/doors1709/" target="_blank">GRACIOUS DOORS<br>都内デイサービスでゴスペル</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
