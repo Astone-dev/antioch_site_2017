@@ -71,6 +71,13 @@
 
 <div class="column-inner">
 <span>NEW</span>
+<a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
+<p class="block-date">日程：2017年10月30日-11月11日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
+</div>
+
+<div class="column-inner">
+<span>NEW</span>
 <a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1709tocharidigest_p.jpg"></a>
 <p class="block-date">日程：2017年9月3日</p>
 <p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
