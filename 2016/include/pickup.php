@@ -49,14 +49,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
-<p class="block-date">日程：2017年9月18日~24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank">エルサレムの平和を祈る集いに向かって<br>てんやわんやの一週間<br>(集会日程：2017年10月1日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/autumn1709z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
 <p class="block-date">日程：2017年9月25日~10月1日</p>
 <p class="block-title"><a href="http://astone.tv/events/autumn1709z/" target="_blank">私の秋の味覚<br>全国各教会</a></p>
