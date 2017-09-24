@@ -35,7 +35,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
 <p class="block-date">日程：2017年9月25日~10月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank">エルサレムの平和を祈る集いに向かって<br>スタッフ大忙しの一週間<br>(集会日程：2017年10月1日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank">エルサレムの平和を祈る集いに向かって<br>ドタバタ一週間<br>(集会日程：2017年10月1日)</a></p>
 </div>
 
 <div class="column-inner">
