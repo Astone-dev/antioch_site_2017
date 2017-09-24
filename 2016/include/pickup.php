@@ -30,6 +30,30 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/silver201709/" target="_blank">東京アンテオケ教会の<br>シルバーウイーク一週間<br>(日程：2017年9月18日〜9月24日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/autumn1709/" target="_blank"><img src="/2016/images/top/1709silverweekantioch.jpg"></a>
+<p class="block-date">日程：2017年9月25日~10月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/autumn1709/" target="_blank">私の秋の味覚 <br>アンテオケ教会</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/yosenmae1709/" target="_blank"><img src="/2016/images/top/1709silverweekantioch.jpg"></a>
+<p class="block-date">日程：2017年9月25日~10月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/yosenmae1709/" target="_blank">年末コンサート出場に向かって<br>教会内予選まで一ヶ月</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/pray4jerusalem2017a/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
+<p class="block-date">日程：2017年9月25日~10月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/pray4jerusalem2017a/" target="_blank">エルサレムの平和を祈る集いに向かって<br>スタッフ大忙しの一週間<br>(集会日程：2017年10月1日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -61,6 +85,14 @@
 <p class="block-date">日程：2017年9月18日〜24日</p>
 <p class="block-title"><a href="http://astone.tv/events/silver201709z/" target="_blank">全国各教会の<br>シルバーウイーク一週間<br>(日程：2017年9月18日〜9月24日)</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/autumn1709z/" target="_blank"><img src="/2016/images/top/1709silverweekzenkoku.jpg"></a>
+<p class="block-date">日程：2017年9月25日~10月1日</p>
+<p class="block-title"><a href="http://astone.tv/events/autumn1709z/" target="_blank">私の秋の味覚 <br>全国各教会<br>(日程：2017年9月25日~10月1日)</a></p>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
