@@ -19,7 +19,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1709chiba/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
 <p class="block-date">日程：2017年9月30日</p>
-<p class="block-title"><a href="http://astone.tv/events/1709chiba/" target="_blank">千葉を行く<br>千葉宣教の旅<br>(日程：2017年9月30日</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1709chiba/" target="_blank">収穫の秋千葉を行く<br>関東宣教の旅<br>(日程：2017年9月30日</a></p>
 </div>
 
 <div class="column-inner">
@@ -35,7 +35,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
 <p class="block-date">日程：2017年9月25日~10月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank">エルサレムの平和を祈る集いに向かって<br>ドタバタ一週間<br>(集会日程：2017年10月1日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/pray4jerusalem2017/" target="_blank">いよいよ明日<br>エルサレムの平和を祈る集い<br>スタッフ大忙し<br>(集会日程：2017年10月1日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -232,7 +232,7 @@
 <span>NEW</span>
 <a href="/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
 <p class="block-date">毎週火曜日22:00〜23:00生中継</p>
-<p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>困っている人よ集まれ神の助けを見よ<br></a></p>
+<p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>祈りによる恵みを受けるために<br></a></p>
 </div>-->
 
 <!--<div class="column-inner">
