@@ -16,6 +16,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/1709chiba/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
 <p class="block-date">日程：2017年9月30日</p>
 <p class="block-title"><a href="http://astone.tv/events/1709chiba/" target="_blank">千葉を行く<br>千葉宣教の旅<br>(日程：2017年9月30日</a></p>
