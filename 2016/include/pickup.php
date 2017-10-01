@@ -26,7 +26,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/thanks1710/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
-<p class="block-date">日程：2017年10月2日~8日</p>
+<p class="block-date">日程：2017年10月2日～8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1710/" target="_blank">秋本番<br>アンテオケ教会の一週間</a></p>
 </div>
 
@@ -34,7 +34,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
-<p class="block-date">日程：2017年10月2日~8日</p>
+<p class="block-date">日程：2017年10月2日～8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">さあ出るぞ！<br>年末コンサート出場チーム選定<br>足のひっぱりあい</a></p>
 </div>
 
@@ -42,7 +42,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1710kumoniji/" target="_blank"><img src="/2016/images/top/1710kumonijiweek.jpg"></a>
-<p class="block-date">日程：2017年10月2日~8日</p>
+<p class="block-date">日程：2017年10月2日～8日</p>
 <p class="block-title"><a href="http://astone.tv/events/1710kumoniji/" target="_blank">雲の間にある虹出版<br>秋の一週間</a></p>
 </div>
 
@@ -50,7 +50,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1710mission/" target="_blank"><img src="/2016/images/top/1710missionweek.jpg"></a>
-<p class="block-date">日程：2017年10月2日~8日</p>
+<p class="block-date">日程：2017年10月2日～8日</p>
 <p class="block-title"><a href="http://astone.tv/events/1710mission/" target="_blank">ミッションと宣教師たちの<br>秋の一週間</a></p>
 </div>
 
@@ -58,7 +58,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/october1710/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
-<p class="block-date">日程：2017年10月2日~8日</p>
+<p class="block-date">日程：2017年10月2日～8日</p>
 <p class="block-title"><a href="http://astone.tv/events/october1710/" target="_blank">秋本番<br>全国各教会の一週間</a></p>
 </div>
 
