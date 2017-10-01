@@ -47,6 +47,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/autumn1709/" target="_blank">私の秋の味覚 <br>アンテオケ教会</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/thanks1710/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
+<p class="block-date">日程：2017年10月2日~8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1710/" target="_blank"> <br>アンテオケ教会</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -55,6 +63,30 @@
 <p class="block-title"><a href="http://antiochblog.jp/mission/yosenmae1709/" target="_blank">年末コンサート出場に向かって<br>教会内予選まで一ヶ月</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
+<p class="block-date">日程：2017年10月2日~8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">さあ出るぞ！年末コンサート <br>出場チーム選定 足のひっぱりあい</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1710kumoniji/" target="_blank"><img src="/2016/images/top/1706kumoniji.jpg"></a>
+<p class="block-date">日程：2017年10月2日~8日</p>
+<p class="block-title"><a href="http://astone.tv/events/1710kumoniji/" target="_blank">雲の間にある虹出版の一週間 <br>  </a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1710mission/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
+<p class="block-date">日程：2017年10月2日~8日</p>
+<p class="block-title"><a href="http://astone.tv/events/1710mission/" target="_blank">聖所から流れ出る水ミッション <br>  </a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -62,6 +94,14 @@
 <p class="block-date">日程：2017年9月25日~10月1日</p>
 <p class="block-title"><a href="http://astone.tv/events/autumn1709z/" target="_blank">私の秋の味覚<br>全国各教会</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/october1710/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月2日~8日</p>
+<p class="block-title"><a href="http://astone.tv/events/october1710/" target="_blank">私の秋の味覚<br>全国各教会</a></p>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
