@@ -104,6 +104,16 @@
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
 </div>
 
+<!-- 
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://youtu.be/zoDPkh42NnQ" target="_blank" onclick="javascript:pageTracker._trackPageview('「地の塩　山室軍平」映画予告編');"><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年10月21日よりロードショー</p>
+<p class="block-title"><a href="https://youtu.be/zoDPkh42NnQ" target="_blank" onclick="javascript:pageTracker._trackPageview('「地の塩　山室軍平」映画予告編');">「地の塩　山室軍平」映画予告編</a></p>
+</div> -->
+
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/1709chiba/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
