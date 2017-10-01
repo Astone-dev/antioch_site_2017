@@ -23,15 +23,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');"><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年10月1日 18:00-20:30</p>
-<p class="block-title"><a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');">エルサレムの平和を祈る集い 生中継<br>(日程：2017年10月1日 18:00スタート)</a></p>
-</div>
-
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/chubu1710/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
@@ -52,7 +43,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/thanks1710/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
 <p class="block-date">日程：2017年10月2日~8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1710/" target="_blank"> <br>アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1710/" target="_blank">秋一番<br>アンテオケ教会</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -100,7 +91,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/october1710/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
 <p class="block-date">日程：2017年10月2日~8日</p>
-<p class="block-title"><a href="http://astone.tv/events/october1710/" target="_blank">私の秋の味覚<br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/october1710/" target="_blank">秋一番<br>全国各教会</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -337,4 +328,12 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年9月23日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年9月23日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');"><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年10月1日 18:00-20:30</p>
+<p class="block-title"><a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');">エルサレムの平和を祈る集い 生中継<br>(日程：2017年10月1日 18:00スタート)</a></p>
 </div>-->
