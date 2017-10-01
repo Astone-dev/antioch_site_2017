@@ -49,7 +49,7 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');"><img src="/2016/images/top/1701cambodialive.jpg"></a>
+<a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
 <p class="block-date">2017年10月1日 18:00-20:30</p>
 <p class="block-title"><a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');">エルサレムの平和を祈る集い 生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>
