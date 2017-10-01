@@ -23,6 +23,15 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');"><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年10月1日 18:00-20:30</p>
+<p class="block-title"><a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');">エルサレムの平和を祈る集い 生中継<br>(日程：2017年10月1日 18:00スタート)</a></p>
+</div>
+
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/chubu1710/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
@@ -44,14 +53,6 @@
 <a href="http://antiochblog.jp/mission/yosenmae1709/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
 <p class="block-date">日程：2017年9月25日~10月1日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/yosenmae1709/" target="_blank">年末コンサート出場に向かって<br>教会内予選まで一ヶ月</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');"><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年10月1日 18:00-20:30</p>
-<p class="block-title"><a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');">エルサレムの平和を祈る集い 生中継<br>(日程：2017年10月1日 18:00スタート)</a></p>
 </div>
 
 <div class="column-inner">
