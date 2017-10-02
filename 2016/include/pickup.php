@@ -11,7 +11,7 @@
 <span>NEW</span>
 <a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');"><img src="/2016/images/top/1701cambodialive.jpg"></a>
 <p class="block-date">2017年8月22日、23日</p>
-<p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継!<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
+<p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継します。<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
 <div class="column-inner">
