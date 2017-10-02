@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1710kumoniji/" target="_blank"><img src="/2016/images/top/1710kumonijiweek.jpg"></a>
 <p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/1710kumoniji/" target="_blank">雲の間にある虹出版<br>秋の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1710kumoniji/" target="_blank">雲の間にある虹出版<br>秋の一週間 </a></p>
 </div>
 
 <div class="column-inner">
