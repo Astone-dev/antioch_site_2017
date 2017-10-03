@@ -63,6 +63,7 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank"><img src="/2016/images/top/1710jeruheiwa_m.jpg"></a>
 <p class="block-date">2017年10月1日</p>
@@ -85,6 +86,7 @@
 </div>-->
 
 <div class="column-inner">
+<span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
 <p class="block-date">日程：2017年10月30日-11月11日</p>
