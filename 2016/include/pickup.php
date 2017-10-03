@@ -219,14 +219,14 @@
 <span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/silver201709z/" target="_blank"><img src="/2016/images/top/1709silverweekzenkoku.jpg"></a>
 <p class="block-date">日程：2017年9月18日〜24日</p>
-<p class="block-title"><a href="http://astone.tv/events/silver201709z/" target="_blank">全国各教会の<br>シルバーウイーク一週間<br>(日程：2017年9月18日〜9月24日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/silver201709z/" target="_blank">全国各教会のシルバーウイーク一週間<br>(日程：2017年9月18日〜9月24日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
 <p class="block-date">日程：2017年9月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank">9月ゴスペルの集いの一日</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/0923gospel/" target="_blank">9月<br>ゴスペルの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
