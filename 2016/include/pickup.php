@@ -46,7 +46,7 @@
 <p class="block-title"><a href="http://astone.tv/events/1710mission/" target="_blank">ミッションと宣教師たちの<br>秋の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
@@ -59,8 +59,8 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/1710events/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
 <p class="block-date">日程：2017年10月7日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710events/" target="_blank">婦人会オーケストラの<br>イベント</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710events/" target="_blank">婦人会とオーケストラ<br>中野のイベントでゴスペル<br>(日程：2017年10月8日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
