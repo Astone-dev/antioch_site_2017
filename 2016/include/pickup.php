@@ -49,14 +49,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/category/1005fuchu/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
-<p class="block-date">日程：2017年10月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/1005fuchu/" target="_blank">GRACEと宝石<br>府中市 特別養護老人ホームでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/october1710/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
 <p class="block-date">日程：2017年10月2日～8日</p>
 <p class="block-title"><a href="http://astone.tv/events/october1710/" target="_blank">秋本番<br>全国各教会の一週間</a></p>
@@ -118,6 +110,13 @@
 <a href="http://astone.tv/events/chubu1710/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
 <p class="block-date">日程：2017年10月1日～5日</p>
 <p class="block-title"><a href="http://astone.tv/events/chubu1710/" target="_blank">新秋の中部を行く<br>中部宣教の旅<br>(日程：2017年10月2日～5日) </a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/category/1005fuchu/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
+<p class="block-date">日程：2017年10月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/1005fuchu/" target="_blank">GRACEと宝石<br>府中市 特別養護老人ホームでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
