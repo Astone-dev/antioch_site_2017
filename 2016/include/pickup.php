@@ -14,6 +14,13 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
+<p class="block-date">日程：2017年10月8日～12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank">九州を行く<br>九州宣教の旅<br>(日程：2017年10月9日～11日) </a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -53,6 +60,22 @@
 <p class="block-date">日程：2017年10月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年10月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank"><img src="/2016/images/top/1707euqcari.jpg"></a>
+<p class="block-date">日程：2017年10月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank">Euqaristias<br>中野ふれあいフェスタでゴスペル</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
