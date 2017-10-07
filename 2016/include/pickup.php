@@ -14,12 +14,12 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
 <p class="block-date">日程：2017年10月8日～12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank">九州を行く<br>九州宣教の旅<br>(日程：2017年10月9日～11日) </a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank">秋本番の九州を行く<br>九州宣教の旅<br>(日程：2017年10月9日～11日) </a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -35,6 +35,14 @@
 <a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
 <p class="block-date">日程：2017年10月2日～8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">さあ出るぞ！<br>年末コンサート出場チーム選定<br>足のひっぱりあい</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1710events/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
+<p class="block-date">日程：2017年10月7日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710events/" target="_blank">婦人会とオーケストラ<br>中野のイベントでゴスペル<br>(日程：2017年10月8日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -56,33 +64,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年10月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2017年10月8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank"><img src="/2016/images/top/1707euqcari.jpg"></a>
-<p class="block-date">日程：2017年10月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank">Euqaristias<br>中野ふれあいフェスタでゴスペル</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/1710events/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
-<p class="block-date">日程：2017年10月7日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710events/" target="_blank">婦人会とオーケストラ<br>中野のイベントでゴスペル<br>(日程：2017年10月8日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -143,6 +127,14 @@
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年10月7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
