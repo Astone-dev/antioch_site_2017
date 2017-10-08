@@ -30,6 +30,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1710/" target="_blank">秋本番<br>アンテオケ教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1710antioch/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
+<p class="block-date">日程：2017年10月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710antioch/" target="_blank"><br>アンテオケ教会の一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -77,6 +85,46 @@
 <p class="block-date">日程：2017年10月2日～8日</p>
 <p class="block-title"><a href="http://astone.tv/events/october1710/" target="_blank">秋本番<br>全国各教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank">イスラエルチーム<br>ちょっと早い直前情報</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月9日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank">池袋J.GOSPEL FESに向かって<br></a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1710fish/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月9</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710fish/" target="_blank">社会人会<br>秋の釣り堀大会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1710day/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710day/" target="_blank">GRACIOUS  DOORS<br>都内デイサービスでボランティアゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/nation1710/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月9日～15日</p>
+<p class="block-title"><a href="http://astone.tv/events/nation1710/" target="_blank"><br>全国各教会の一週間</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
