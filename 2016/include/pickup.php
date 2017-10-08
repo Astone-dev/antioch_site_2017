@@ -22,74 +22,19 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank">秋本番の九州を行く<br>九州宣教の旅<br>(日程：2017年10月9日～11日) </a></p>
 </div>
 
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/thanks1710/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
-<p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1710/" target="_blank">秋本番<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/1710antioch/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
+<a href="http://antiochblog.jp/mission/1710antioch/" target="_blank"><img src="/2016/images/top/1710shingakiantioch.jpg"></a>
 <p class="block-date">日程：2017年10月9日～15日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1710antioch/" target="_blank">新学期スタート<br>アンテオケ教会の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
-<p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">さあ出るぞ！<br>年末コンサート出場チーム選定<br>足のひっぱりあい</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/1710events/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
-<p class="block-date">日程：2017年10月7日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710events/" target="_blank">婦人会とオーケストラ<br>中野のイベントでゴスペル<br>(日程：2017年10月8日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1710kumoniji/" target="_blank"><img src="/2016/images/top/1710kumonijiweek.jpg"></a>
-<p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/1710kumoniji/" target="_blank">雲の間にある虹出版<br>秋の一週間 </a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1710mission/" target="_blank"><img src="/2016/images/top/1710missionweek.jpg"></a>
-<p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/1710mission/" target="_blank">ミッションと宣教師たちの<br>秋の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年10月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/october1710/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
-<p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/october1710/" target="_blank">秋本番<br>全国各教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+<a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
 <p class="block-date">日程：2017年10月9日～15日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank">イスラエルチーム<br>ちょっと早い直前情報</a></p>
 </div>
@@ -97,17 +42,24 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+<a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank"><img src="/2016/images/top/1710jgospelfesikebukuro.jpg"></a>
 <p class="block-date">日程：2017年10月9日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank">池袋J.GOSPEL FESに向かって<br></a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank">池袋J.GOSPEL FESに向かって<br>出演者・スタッフのときめき一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
+<p class="block-date">日程：2017年10月2日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">いよいよ来週！<br>年末コンサート出場チーム選定<br>ドキドキ・ワクワクの一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/1710fish/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+<a href="http://antiochblog.jp/mission/1710fish/" target="_blank"><img src="/2016/images/top/1710shakaijinkaitsuribori.jpg"></a>
 <p class="block-date">日程：2017年10月9</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710fish/" target="_blank">社会人会<br>秋の釣り堀大会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710fish/" target="_blank">社会人会<br>秋の釣り堀大会<br>夜は会館でお魚料理</a></p>
 </div>
 
 <div class="column-inner">
@@ -121,10 +73,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/nation1710/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+<a href="http://astone.tv/events/nation1710/" target="_blank"><img src="/2016/images/top/1710shingakizenkoku.jpg"></a>
 <p class="block-date">日程：2017年10月9日～15日</p>
 <p class="block-title"><a href="http://astone.tv/events/nation1710/" target="_blank">新学期スタート<br>全国各教会の一週間</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -184,6 +136,48 @@
 <p class="block-date">日程：2017年10月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/thanks1710/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
+<p class="block-date">日程：2017年10月2日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1710/" target="_blank">秋本番<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1710events/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
+<p class="block-date">日程：2017年10月7日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710events/" target="_blank">婦人会とオーケストラ<br>中野のイベントでゴスペル<br>(日程：2017年10月8日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1710kumoniji/" target="_blank"><img src="/2016/images/top/1710kumonijiweek.jpg"></a>
+<p class="block-date">日程：2017年10月2日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/1710kumoniji/" target="_blank">雲の間にある虹出版<br>秋の一週間 </a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1710mission/" target="_blank"><img src="/2016/images/top/1710missionweek.jpg"></a>
+<p class="block-date">日程：2017年10月2日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/1710mission/" target="_blank">ミッションと宣教師たちの<br>秋の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年10月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/october1710/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月2日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/october1710/" target="_blank">秋本番<br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
