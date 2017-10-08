@@ -22,7 +22,6 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank">秋本番の九州を行く<br>九州宣教の旅<br>(日程：2017年10月9日～11日) </a></p>
 </div>
 
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -36,15 +35,15 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
 <p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank">イスラエルチーム<br>ちょっと早い直前情報</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank">イスラエルチーム<br>ちょっと早い直前情報<br>(チーム日程：2017年10月30日~11月11日)</a></p>
 </div>
 
-<div class="column-inner">
+<div class="column-inner">11
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/1710fish/" target="_blank"><img src="/2016/images/top/1710shakaijinkaitsuribori.jpg"></a>
-<p class="block-date">日程：2017年10月9</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710fish/" target="_blank">社会人会<br>秋の釣り堀大会<br>夜は会館でお魚料理</a></p>
+<p class="block-date">日程：2017年10月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710fish/" target="_blank">社会人会<br>秋の大釣り堀大会<br>夜は会館でお魚料理を作って食べる</a></p>
 </div>
 
 <div class="column-inner">
@@ -52,15 +51,15 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank"><img src="/2016/images/top/1710jgospelfesikebukuro.jpg"></a>
 <p class="block-date">日程：2017年10月9日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank">池袋J.GOSPEL FESに向かって<br>出演者・スタッフのときめき一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank">池袋J.GOSPEL FESに向かって<br>出演者・スタッフのときめき一週間<br>(日程：2017年10月14日 11:00~)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
-<p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">いよいよ来週！<br>年末コンサート出場チーム選定<br>ドキドキ・ワクワクの一週間</a></p>
+<p class="block-date">日程：2017年10月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">いよいよ来週！<br>年末コンサート出場チーム選定<br>ドキドキ・ワクワクの一週間<br>(予選会：2017年10月15日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -106,7 +105,7 @@
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
-<p class="block-date">日程：2017年10月30日-11月11日</p>
+<p class="block-date">日程：2017年10月30日~11月11日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
 </div>
 
