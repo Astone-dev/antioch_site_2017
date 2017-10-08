@@ -35,7 +35,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/1710antioch/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
 <p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710antioch/" target="_blank"><br>アンテオケ教会の一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710antioch/" target="_blank">新学期スタート<br>アンテオケ教会の一週間</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -123,7 +123,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/nation1710/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
 <p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/nation1710/" target="_blank"><br>全国各教会の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/nation1710/" target="_blank">新学期スタート<br>全国各教会の一週間</a></p>
 </div>-->
 
 <div class="column-inner">
