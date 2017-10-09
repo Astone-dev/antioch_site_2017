@@ -71,6 +71,13 @@
 </div>
 
 <div class="column-inner">
+<span>NEW</span>
+<a href="http://tokyo.antioch.jp/jfes/" target="_blank"><img src="/2016/images/top/1710shingakizenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月14日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/jfes/" target="_blank">池袋J.GOSPEL FESのご案内<br>(日程：2017年10月14日 11:00~)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/nation1710/" target="_blank"><img src="/2016/images/top/1710shingakizenkoku.jpg"></a>
