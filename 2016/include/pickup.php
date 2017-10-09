@@ -200,12 +200,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/1005fuchu/" target="_blank">GRACEと宝石<br>府中市 特別養護老人ホームでゴスペル</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/171002kawaguti/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2017年10月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/171002kawaguti/" target="_blank">エルサレム<br>川口のリハビリセンターでゴスペル</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
