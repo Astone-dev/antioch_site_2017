@@ -38,14 +38,6 @@
 <p class="block-title"><a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank">イスラエルチーム<br>ちょっと早い直前情報<br>(チーム日程：2017年10月30日~11月11日)</a></p>
 </div>
 
-<div class="column-inner">11
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/1710fish/" target="_blank"><img src="/2016/images/top/1710shakaijinkaitsuribori.jpg"></a>
-<p class="block-date">日程：2017年10月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710fish/" target="_blank">社会人会<br>秋の大釣り堀大会<br>夜は会館でお魚料理を作って食べる</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -143,6 +135,13 @@
 <p class="block-date">日程：2017年10月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
 </div>-->
+
+<div class="column-inner">11
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1710fish/" target="_blank"><img src="/2016/images/top/1710shakaijinkaitsuribori.jpg"></a>
+<p class="block-date">日程：2017年10月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710fish/" target="_blank">社会人会<br>秋の大釣り堀大会<br>夜は会館でお魚料理を作って食べる</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
