@@ -62,13 +62,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">いよいよ来週！<br>年末コンサート出場チーム選定<br>ドキドキ・ワクワクの一週間<br>(予選会：2017年10月15日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1010misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2017年10月10日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1010misato/" target="_blank">エルサレム<br>埼玉県三郷市でゴスペル</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -180,12 +180,12 @@
 <p class="block-title"><a href="http://astone.tv/events/1710mission/" target="_blank">ミッションと宣教師たちの<br>秋の一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2017年10月8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
