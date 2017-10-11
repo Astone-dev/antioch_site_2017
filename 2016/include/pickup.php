@@ -55,14 +55,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1010misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年10月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1010misato/" target="_blank">エルサレム<br>埼玉県三郷市でゴスペル</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/jfes/" target="_blank"><img src="/2016/images/top/1710ikebukurojfesinfo.jpg"></a>
 <p class="block-date">日程：2017年10月14日</p>
@@ -135,6 +127,13 @@
 <p class="block-date">日程：2017年10月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1010misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年10月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1010misato/" target="_blank">エルサレム<br>埼玉県三郷市でゴスペル</a></p>
+</div>
 
 <div class="column-inner">11
 <span class="label-1">ブログ</span>
