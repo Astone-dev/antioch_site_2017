@@ -22,6 +22,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank">秋本番の九州を行く<br>九州宣教の旅<br>(日程：2017年10月9日～11日) </a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1710meetings/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
+<p class="block-date">日程：2017年10月13日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1710meetings/" target="_blank">川崎、豊橋、富士を行く<br>九州宣教の旅<br>(日程：2017年10月13日～14日) </a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
