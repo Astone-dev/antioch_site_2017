@@ -72,6 +72,14 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
+<p class="block-date">日程：2017年10月30日~11月11日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
 <a href="https://youtu.be/zoDPkh42NnQ" target="_blank" onclick="javascript:pageTracker._trackPageview('「地の塩　山室軍平」映画予告編');"><img src="/2016/images/top/1710chinosio_cm.jpg"></a>
 <p class="block-date">2017年10月21日よりロードショー</p>
 <p class="block-title"><a href="https://youtu.be/zoDPkh42NnQ" target="_blank" onclick="javascript:pageTracker._trackPageview('「地の塩　山室軍平」映画予告編');">「地の塩　山室軍平」映画予告編</a></p>
@@ -83,14 +91,6 @@
 <p class="block-date">日程：2017年10月1日</p>
 <p class="block-title"><a href="http://tokyo.antioch.jp/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
-<p class="block-date">日程：2017年10月30日~11月11日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
-</div>
 
 <div class="column-inner">
 <span>NEW</span>
