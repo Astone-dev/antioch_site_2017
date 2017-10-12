@@ -14,14 +14,6 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
-<p class="block-date">日程：2017年10月8日～12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank">秋本番の九州を行く<br>九州宣教の旅<br>(日程：2017年10月9日～11日) </a></p>
-</div>
-
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -55,6 +47,13 @@
 </div>
 
 <div class="column-inner">
+<span>NEW</span>
+<a href="http://tokyo.antioch.jp/jfes/" target="_blank"><img src="/2016/images/top/1710ikebukurojfesinfo.jpg"></a>
+<p class="block-date">日程：2017年10月14日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/jfes/" target="_blank">池袋J.GOSPEL FES 2017のご案内<br>(日程：2017年10月14日 11:00~)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
@@ -63,26 +62,11 @@
 </div>
 
 <div class="column-inner">
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/jfes/" target="_blank"><img src="/2016/images/top/1710ikebukurojfesinfo.jpg"></a>
-<p class="block-date">日程：2017年10月14日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/jfes/" target="_blank">池袋J.GOSPEL FESのご案内<br>(日程：2017年10月14日 11:00~)</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/nation1710/" target="_blank"><img src="/2016/images/top/1710shingakizenkoku.jpg"></a>
 <p class="block-date">日程：2017年10月9日～15日</p>
 <p class="block-title"><a href="http://astone.tv/events/nation1710/" target="_blank">新学期スタート<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank"><img src="/2016/images/top/1710jeruheiwa_m.jpg"></a>
-<p class="block-date">2017年10月1日</p>
-<p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank">エルサレムの平和を祈る集い<br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
@@ -135,6 +119,20 @@
 <p class="block-date">日程：2017年10月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
+<p class="block-date">日程：2017年10月8日～12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank">秋本番の九州を行く<br>九州宣教の旅<br>(日程：2017年10月9日～11日) </a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank"><img src="/2016/images/top/1710jeruheiwa_m.jpg"></a>
+<p class="block-date">2017年10月1日</p>
+<p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank">エルサレムの平和を祈る集い<br>映像保存版</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
