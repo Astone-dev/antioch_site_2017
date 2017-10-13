@@ -79,10 +79,10 @@
 
 <div class="column-inner">
 <span class="label-1">写真集</span>
-<span>NEW</span> 
-<a href="http://tokyo.antioch.jp/tcm/index_1710.html" target="_blank"><img src="/2016/images/top/1710jel_kireiphoto.jpg"></a>
+<span>NEW</span>
+<a href="/tcm/index_1710.html" target="_blank"><img src="/2016/images/top/1710jel_kireiphoto.jpg"></a>
 <p class="block-date"></p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/index_1710.html" target="_blank">エルサレムの平和の為に祈る集い<br>綺麗な写真版写真集</a></p>
+<p class="block-title"><a href="/tcm/index_1710.html" target="_blank">エルサレムの平和の為に祈る集い<br>綺麗な写真版写真集</a></p>
 </div>
 
 <div class="column-inner">
