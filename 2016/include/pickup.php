@@ -78,6 +78,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://tokyo.antioch.jp/tcm/index_1710.html" target="_blank"><img src="/2016/images/top/1710shingakizenkoku.jpg"></a>
+<p class="block-date"></p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/index_1710.html" target="_blank">エルサレムの平和の為に祈る集い<br>綺麗な写真版写真集</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://youtu.be/zoDPkh42NnQ" target="_blank" onclick="javascript:pageTracker._trackPageview('「地の塩　山室軍平」映画予告編');"><img src="/2016/images/top/1710chinosio_cm.jpg"></a>
