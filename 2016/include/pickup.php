@@ -51,7 +51,7 @@
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('池袋J.GOSPEL FES生中継'); "><img src="/2016/images/top/1609nerimafeslive.png"></a>
 <p class="block-date">2017年10月14日</p>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('池袋J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年10月14日 11:30〜)</a></p>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('池袋J.GOSPEL FES生中継');">池袋J.GOSPEL FES生中継<br> (日程：2017年10月14日 11:30〜)</a></p>
 </div>
 
 <div class="column-inner">
