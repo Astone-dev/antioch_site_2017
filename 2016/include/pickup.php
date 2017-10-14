@@ -14,20 +14,12 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1710tohoku/" target="_blank"><img src="/2016/images/top/1710kawasaki.jpg"></a>
-<p class="block-date">日程：2017年10月15日～19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1710tohoku/" target="_blank">を行く<br>東北宣教の旅<br>(日程：2017年10月16日～18日) </a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1710meetings/" target="_blank"><img src="/2016/images/top/1710kawasaki.jpg"></a>
-<p class="block-date">日程：2017年10月13日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1710meetings/" target="_blank">川崎、豊橋、富士を行く<br>九州宣教の旅<br>(日程：2017年10月13日～14日) </a></p>
+<a href="http://antiochblog.jp/info/1710tohoku/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
+<p class="block-date">日程：2017年10月15日～19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1710tohoku/" target="_blank">秋深まる東北を行く<br>東北宣教の旅<br>(日程：2017年10月16日～18日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -41,6 +33,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
+<p class="block-date">日程：2017年10月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会<br>ドキドキの一日<br>(予選会：2017年10月15日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
 <p class="block-date">日程：2017年10月9日～15日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank">イスラエルチーム<br>ちょっと早い直前情報<br>(チーム日程：2017年10月30日~11月11日)</a></p>
@@ -49,41 +49,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">いよいよ来週！<br>年末コンサート出場チーム選定<br>ドキドキ・ワクワクの一週間<br>(予選会：2017年10月15日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1710gifts/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
+<a href="http://astone.tv/events/1710gifts/" target="_blank"><img src="/2016/images/top/1705giftsmanyuki.jpg"></a>
 <p class="block-date">日程：2017年10月15日～17日</p>
-<p class="block-title"><a href="http://astone.tv/events/1710gifts/" target="_blank">Gifts <br>東北を行く2日間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/" target="_blank">10月いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年10月14日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年10月14日 18:30スタート)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1710gifts/" target="_blank">Gifts漫遊記<br>秋の東北を行く2日間<br>(日程：2017年10月16日〜17日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank"><img src="/2016/images/top/1710jgospelfesikebukuro.jpg"></a>
-<p class="block-date">日程：2017年10月9日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank">いよいよ今日本番！<br>池袋J.GOSPEL FES<br>出演者・スタッフのドタバタな一日<br>(日程：2017年10月14日 11:00~)</a></p>
+<a href="http://astone.tv/events/euqaristias/20171015shinjuku/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
+<p class="block-date">日程：2017年10月15日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171015shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -152,6 +128,27 @@
 <p class="block-date">日程：2017年10月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1710meetings/" target="_blank"><img src="/2016/images/top/1710kawasaki.jpg"></a>
+<p class="block-date">日程：2017年10月13日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1710meetings/" target="_blank">川崎、豊橋、富士を行く<br>九州宣教の旅<br>(日程：2017年10月13日～14日) </a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank"><img src="/2016/images/top/1710jgospelfesikebukuro.jpg"></a>
+<p class="block-date">日程：2017年10月9日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank">いよいよ今日本番！<br>池袋J.GOSPEL FES<br>出演者・スタッフのドタバタな一日<br>(日程：2017年10月14日 11:00~)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
+<p class="block-date">日程：2017年10月9日～15日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/" target="_blank">10月いやしの集いの一日</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -308,6 +305,14 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年9月23日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年9月23日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年10月14日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年10月14日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
