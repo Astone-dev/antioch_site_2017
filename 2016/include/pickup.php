@@ -22,52 +22,20 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/1710tohoku/" target="_blank">秋深まる東北を行く<br>東北宣教の旅<br>(日程：2017年10月16日～18日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/omoide2017/" target="_blank"><img src="/2016/images/top/1710memo_z.jpg"></a>
 <p class="block-date">日程：2017年10月16日～22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/omoide2017/" target="_blank">今年度思い出<br>アンテオケ教会の一週間</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/joy1710/" target="_blank"><img src="/2016/images/top/1710shingakiantioch.jpg"></a>
+<a href="http://antiochblog.jp/praise/joy1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuyorokobi.jpg"></a>
 <p class="block-date">日程：2017年10月16日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/joy1710/" target="_blank">予選通過 <br>喜びと悲しみの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/1710antioch/" target="_blank"><img src="/2016/images/top/1710shingakiantioch.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710antioch/" target="_blank">新学期スタート<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年10月15日</p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継');">年末コンサート予選 生中継<br> (日程：2017年10月15日 16:00スタート)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会<br>ドキドキの一日<br>(予選会：2017年10月15日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank">イスラエルチーム<br>ちょっと早い直前情報<br>(チーム日程：2017年10月30日~11月11日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/joy1710/" target="_blank">GLTVスペシャルコンサート出場決定！<br>喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -81,25 +49,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20171015shinjuku/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
-<p class="block-date">日程：2017年10月15日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171015shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/blog1710/" target="_blank"><img src="/2016/images/top/1710memo.jpg"></a>
 <p class="block-date">日程：2017年10月16日～22日</p>
 <p class="block-title"><a href="http://astone.tv/events/blog1710/" target="_blank">今年度思い出<br>全国各教会の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/nation1710/" target="_blank"><img src="/2016/images/top/1710shingakizenkoku.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/nation1710/" target="_blank">新学期スタート<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -160,6 +112,49 @@
 <p class="block-date">日程：2017年10月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1710antioch/" target="_blank"><img src="/2016/images/top/1710shingakiantioch.jpg"></a>
+<p class="block-date">日程：2017年10月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710antioch/" target="_blank">新学期スタート<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年10月15日</p>
+<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継');">年末コンサート予選 生中継<br> (日程：2017年10月15日 16:00スタート)</a></p>
+</div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
+<p class="block-date">日程：2017年10月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会<br>ドキドキの一日<br>(予選会：2017年10月15日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
+<p class="block-date">日程：2017年10月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank">イスラエルチーム<br>ちょっと早い直前情報<br>(チーム日程：2017年10月30日~11月11日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20171015shinjuku/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
+<p class="block-date">日程：2017年10月15日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171015shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/nation1710/" target="_blank"><img src="/2016/images/top/1710shingakizenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月9日～15日</p>
+<p class="block-title"><a href="http://astone.tv/events/nation1710/" target="_blank">新学期スタート<br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
