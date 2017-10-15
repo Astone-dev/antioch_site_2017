@@ -22,6 +22,22 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/1710tohoku/" target="_blank">秋深まる東北を行く<br>東北宣教の旅<br>(日程：2017年10月16日～18日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/omoide2017/" target="_blank"><img src="/2016/images/top/1710shingakiantioch.jpg"></a>
+<p class="block-date">日程：2017年10月16日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/omoide2017/" target="_blank">今年度思い出<br>アンテオケ教会の一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/joy1710/" target="_blank"><img src="/2016/images/top/1710shingakiantioch.jpg"></a>
+<p class="block-date">日程：2017年10月16日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/joy1710/" target="_blank">予選通過 <br>喜びと悲しみの一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -69,6 +85,14 @@
 <p class="block-date">日程：2017年10月15日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20171015shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/blog1710/" target="_blank"><img src="/2016/images/top/1710shingakizenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月16日～22日</p>
+<p class="block-title"><a href="http://astone.tv/events/blog1710/" target="_blank">今年度思い出<br>全国各教会の一週間</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
