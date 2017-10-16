@@ -59,7 +59,7 @@
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank"><img src="/2016/images/top/1710nenmatsucon_m.jpg"></a>
 <p class="block-date">日程：2017年10月15日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank">GLTVスペシャルコンサート<br>映像保存版</a></p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank">GLTVスペシャルコンサート予選<br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
