@@ -57,6 +57,14 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
+<a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank"><img src="/2016/images/top/1710nenmatsucon_m.jpg"></a>
+<p class="block-date">日程：2017年10月15日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank">GLTVスペシャルコンサート<br>映像保存版</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
 <p class="block-date">日程：2017年10月30日~11月11日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
