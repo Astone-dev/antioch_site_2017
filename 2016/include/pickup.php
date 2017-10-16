@@ -52,7 +52,8 @@
 <a href="http://antiochblog.jp/info/jerusalem2017/1017hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2017年10月17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1017hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>
+</div>-->
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -60,7 +61,7 @@
 <a href="http://astone.tv/events/patolis1710/" target="_blank"><img src="/2016/images/top/1604patolisnerima.jpg"></a>
 <p class="block-date">日程：2017年10月17日</p>
 <p class="block-title"><a href="http://astone.tv/events/patolis1710/" target="_blank">PATOLIS<br>練馬区のディサービス施設でコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
