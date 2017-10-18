@@ -33,14 +33,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1710gifts/" target="_blank"><img src="/2016/images/top/1705giftsmanyuki.jpg"></a>
-<p class="block-date">日程：2017年10月15日～17日</p>
-<p class="block-title"><a href="http://astone.tv/events/1710gifts/" target="_blank">Gifts漫遊記<br>秋の東北を行く2日間<br>(日程：2017年10月16日〜17日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/joy1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuyorokobi.jpg"></a>
 <p class="block-date">日程：2017年10月16日～22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/joy1710/" target="_blank">GLTVスペシャルコンサート出場決定！<br>喜びと悲しみの一週間</a></p>
@@ -53,15 +45,6 @@
 <p class="block-date">日程：2017年10月17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1017hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
 </div>-->
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/patolis1710/" target="_blank"><img src="/2016/images/top/1604patolisnerima.jpg"></a>
-<p class="block-date">日程：2017年10月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/patolis1710/" target="_blank">PATOLIS<br>練馬区のディサービス施設でコンサート</a></p>
-</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -85,14 +68,6 @@
 <a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
 <p class="block-date">日程：2017年10月30日~11月11日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">写真集</span>
-<span>NEW</span> 
-<a href="/tcm/index_1710.html" target="_blank"><img src="/2016/images/top/1710jel_kireiphoto.jpg"></a>
-<p class="block-date">2017年10月1日</p>
-<p class="block-title"><a href="/tcm/index_1710.html" target="_blank">エルサレムの平和の為に祈る集い<br>綺麗な写真版写真集</a></p>
 </div>
 
 <div class="column-inner">
@@ -137,6 +112,27 @@
 <p class="block-date">日程：2017年10月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">写真集</span>
+<a href="/tcm/index_1710.html" target="_blank"><img src="/2016/images/top/1710jel_kireiphoto.jpg"></a>
+<p class="block-date">2017年10月1日</p>
+<p class="block-title"><a href="/tcm/index_1710.html" target="_blank">エルサレムの平和の為に祈る集い<br>綺麗な写真版写真集</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1710gifts/" target="_blank"><img src="/2016/images/top/1705giftsmanyuki.jpg"></a>
+<p class="block-date">日程：2017年10月15日～17日</p>
+<p class="block-title"><a href="http://astone.tv/events/1710gifts/" target="_blank">Gifts漫遊記<br>秋の東北を行く2日間<br>(日程：2017年10月16日〜17日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/patolis1710/" target="_blank"><img src="/2016/images/top/1604patolisnerima.jpg"></a>
+<p class="block-date">日程：2017年10月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/patolis1710/" target="_blank">PATOLIS<br>練馬区のディサービス施設でコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
