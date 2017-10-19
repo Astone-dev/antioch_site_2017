@@ -46,13 +46,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/joy1710/" target="_blank">GLTVスペシャルコンサート出場決定！<br>喜びと悲しみの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1019hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2017年10月19日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1019hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>-->
+</div>
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
