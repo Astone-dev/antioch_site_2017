@@ -224,7 +224,7 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank"><img src="/2016/images/top/1710jeruheiwa_m.jpg"></a>
-<p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank">エルサレムの平和のために祈る集い</a></p>
+<p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank">エルサレムの平和のために祈る集い<br>アーカイブ版</a></p>
 </div>
 
 <div class="column-inner">
