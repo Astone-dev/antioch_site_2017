@@ -47,6 +47,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年10月21日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年10月21日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/revival2017/1021night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
@@ -126,13 +134,6 @@
 <p class="block-title"><a href="https://youtu.be/zoDPkh42NnQ" target="_blank" onclick="javascript:pageTracker._trackPageview('「地の塩　山室軍平」映画予告編');">「地の塩　山室軍平」映画予告編</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span>NEW</span>
-<a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
-<p class="block-date">日程：2017年10月1日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
-</div>-->
-
 <div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/important/" target="_blank"><img src="/2016/images/top/1709yorimichi29.jpg"></a>
@@ -195,14 +196,6 @@
 <p class="block-date">日程：2017年10月9日～15日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1710antioch/" target="_blank">新学期スタート<br>アンテオケ教会の一週間</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年10月15日</p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継');">年末コンサート予選 生中継<br> (日程：2017年10月15日 16:00スタート)</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -291,12 +284,27 @@
 
            
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/pyrayer_time_banner.php') ?>
+
+<!--<div class="column-inner">
+<span>NEW</span>
+<a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
+<p class="block-date">日程：2017年10月1日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
+</div>-->
  
 <!--<div class="column-inner">
 <span>NEW</span>
 <a href="/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
 <p class="block-date">毎週火曜日22:00〜23:00生中継</p>
 <p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>祈りによる恵みを受けるために<br></a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年10月15日</p>
+<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継');">年末コンサート予選 生中継<br> (日程：2017年10月15日 16:00スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
@@ -321,14 +329,6 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年9月9日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年9月9日 18:30スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年9月16日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年9月16日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
