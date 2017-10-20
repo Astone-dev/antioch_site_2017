@@ -17,16 +17,8 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank"><img src="/2016/images/top/1705funabashi.jpg"></a>
-<p class="block-date">日程：2017年10月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank">秋桜の季節船橋を行く<br>関東宣教の旅<br>(日程：2017年10月20日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/1710mynmar/" target="_blank"><img src="/2016/images/top/1707myanmarkyokai.jpg"></a>
-<p class="block-date">日程：2017年10月20日-21日</p>
+<p class="block-date">日程：2017年10月20日～21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1710mynmar/" target="_blank">ミャンマー教会での奉仕 <br>パウロ秋元牧師、Gifts、Tree of life<br>(日程：2017年10月21日)</a></p>
 </div>
 
@@ -65,30 +57,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/category/1020shinyuri/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
-<p class="block-date">日程：2017年10月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/category/1020shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/category/1020nerima/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
-<p class="block-date">日程：2017年10月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/1020nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1019hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年10月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1019hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1021saitama/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2017年10月21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1021saitama/" target="_blank">エルサレム<br>埼玉のデイケアでゴスペルコンサート</a></p>
@@ -100,7 +68,7 @@
 <a href="http://antiochblog.jp/info/hyssop1710/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
 <p class="block-date">日程：2017年10月21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/hyssop1710/" target="_blank">Hyssop<br>杉並のグループホームでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -153,6 +121,35 @@
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
 </div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank"><img src="/2016/images/top/1705funabashi.jpg"></a>
+<p class="block-date">日程：2017年10月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank">秋桜の季節船橋を行く<br>関東宣教の旅<br>(日程：2017年10月20日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/uranos2017/category/1020shinyuri/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
+<p class="block-date">日程：2017年10月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/category/1020shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/category/1020nerima/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
+<p class="block-date">日程：2017年10月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/1020nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスコンサート</a></p>
+</div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1019hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年10月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1019hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
+</div>-->
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
