@@ -223,6 +223,12 @@
 
 <div class="column-inner">
 <span class="label-2">映像</span>
+<a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank"><img src="/2016/images/top/1710jeruheiwa_m.jpg"></a>
+<p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank">エルサレムの平和のために祈る集い</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank"><img src="/2016/images/top/1709suroukudigest_m.jpg"></a>
 <p class="block-date">チーム日程：2017年9月4日〜9日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト映像<br>(再生時間 6:03)</a></p>
