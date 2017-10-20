@@ -25,6 +25,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/1710mynmar/" target="_blank"><img src="/2016/images/top/1707myanmarkyokai.jpg"></a>
+<p class="block-date">日程：2017年10月20日-21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1710mynmar/" target="_blank">ミャンマー教会での奉仕 <br>パウロ秋元牧師、Gifts、Tree of life<br>(日程：2017年10月21日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/info/omoide2017/" target="_blank"><img src="/2016/images/top/1710memo_z.jpg"></a>
 <p class="block-date">日程：2017年10月16日～22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/omoide2017/" target="_blank">今年度思い出<br>アンテオケ教会の一週間</a></p>
@@ -36,6 +44,14 @@
 <a href="http://antiochblog.jp/praise/joy1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuyorokobi.jpg"></a>
 <p class="block-date">日程：2017年10月16日～22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/joy1710/" target="_blank">GLTVスペシャルコンサート出場決定！<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/revival2017/1021night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<p class="block-date">日程：2017年10月20日～21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1021night/" target="_blank">10月 リバイバルナイト</a></p>
 </div>
 
 <div class="column-inner">
@@ -61,6 +77,22 @@
 <p class="block-date">日程：2017年10月19日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1019hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1021saitama/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年10月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1021saitama/" target="_blank">エルサレム<br>埼玉のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/hyssop1710/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
+<p class="block-date">日程：2017年10月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hyssop1710/" target="_blank">Hyssop<br>杉並のグループホームでゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
