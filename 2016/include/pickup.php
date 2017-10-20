@@ -204,7 +204,7 @@
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/1710meetings/" target="_blank"><img src="/2016/images/top/1710kawasaki.jpg"></a>
 <p class="block-date">日程：2017年10月13日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1710meetings/" target="_blank">川崎、豊橋、富士を行く<br>九州宣教の旅<br>(日程：2017年10月13日～14日) </a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1710meetings/" target="_blank">川崎、豊橋、富士を行く<br>宣教の旅<br>(日程：2017年10月13日～14日) </a></p>
 </div>
 
 <div class="column-inner">
@@ -219,83 +219,6 @@
 <a href="http://astone.tv/events/2017healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
 <p class="block-date">日程：2017年10月9日～15日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/" target="_blank">10月いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
-<p class="block-date">日程：2017年10月8日～12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1710kyusyu/" target="_blank">秋本番の九州を行く<br>九州宣教の旅<br>(日程：2017年10月9日～11日) </a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank"><img src="/2016/images/top/1710jeruheiwa_m.jpg"></a>
-<p class="block-date">2017年10月1日</p>
-<p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank">エルサレムの平和を祈る集い<br>映像保存版</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1010misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年10月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1010misato/" target="_blank">エルサレム<br>埼玉県三郷市でゴスペル</a></p>
-</div>-->
-
-<div class="column-inner">11
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/1710fish/" target="_blank"><img src="/2016/images/top/1710shakaijinkaitsuribori.jpg"></a>
-<p class="block-date">日程：2017年10月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710fish/" target="_blank">社会人会<br>秋の大釣り堀大会<br>夜は会館でお魚料理を作って食べる</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/1710day/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
-<p class="block-date">日程：2017年10月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710day/" target="_blank">GRACIOUS  DOORS<br>都内デイサービスでボランティアゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/thanks1710/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
-<p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1710/" target="_blank">秋本番<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/1710events/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
-<p class="block-date">日程：2017年10月7日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710events/" target="_blank">婦人会とオーケストラ<br>中野のイベントでゴスペル<br>(日程：2017年10月8日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1710kumoniji/" target="_blank"><img src="/2016/images/top/1710kumonijiweek.jpg"></a>
-<p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/1710kumoniji/" target="_blank">雲の間にある虹出版<br>秋の一週間 </a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1710mission/" target="_blank"><img src="/2016/images/top/1710missionweek.jpg"></a>
-<p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/1710mission/" target="_blank">ミッションと宣教師たちの<br>秋の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年10月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1008event/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/october1710/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
-<p class="block-date">日程：2017年10月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/october1710/" target="_blank">秋本番<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
