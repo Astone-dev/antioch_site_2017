@@ -17,24 +17,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1710mynmar/" target="_blank"><img src="/2016/images/top/1707myanmarkyokai.jpg"></a>
-<p class="block-date">日程：2017年10月20日～21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1710mynmar/" target="_blank">ミャンマー教会での奉仕 <br>パウロ秋元牧師、Gifts、Tree of life<br>(日程：2017年10月21日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
 <p class="block-date">日程：2017年10月22日～26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank">関西を行く<br>関西宣教の旅<br>(日程：2017年10月23日～25日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank">台風の日本列島の中を<br>関西宣教の旅<br>(日程：2017年10月23日～25日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/omoide2017/" target="_blank"><img src="/2016/images/top/1710memo_z.jpg"></a>
 <p class="block-date">日程：2017年10月16日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/omoide2017/" target="_blank">今年度思い出<br>アンテオケ教会の一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/omoide2017/" target="_blank">今年度の思い出<br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -46,26 +39,10 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年10月21日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年10月21日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/revival2017/1021night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">日程：2017年10月20日～21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1021night/" target="_blank">10月 リバイバルナイト</a></p>
-</div>
-
-<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
 <p class="block-date">日程：2017年10月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank">学生会<br>チゲ鍋を食べる</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank">10月の学生会<br>チゲ鍋を食べる</a></p>
 </div>
 
 <div class="column-inner">
@@ -80,22 +57,6 @@
 <a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
 <p class="block-date">日程：2017年10月21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1021saitama/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年10月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1021saitama/" target="_blank">エルサレム<br>埼玉のデイケアでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/hyssop1710/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
-<p class="block-date">日程：2017年10月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hyssop1710/" target="_blank">Hyssop<br>杉並のグループホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -103,7 +64,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/blog1710/" target="_blank"><img src="/2016/images/top/1710memo.jpg"></a>
 <p class="block-date">日程：2017年10月16日～22日</p>
-<p class="block-title"><a href="http://astone.tv/events/blog1710/" target="_blank">今年度思い出<br>全国各教会の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/blog1710/" target="_blank">今年度の思い出<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -148,6 +109,34 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1710mynmar/" target="_blank"><img src="/2016/images/top/1707myanmarkyokai.jpg"></a>
+<p class="block-date">日程：2017年10月20日～21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1710mynmar/" target="_blank">ミャンマー教会での奉仕 <br>パウロ秋元牧師、Gifts、Tree of life<br>(日程：2017年10月21日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/revival2017/1021night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<p class="block-date">日程：2017年10月20日～21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1021night/" target="_blank">10月リバイバルナイトの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1021saitama/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年10月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1021saitama/" target="_blank">エルサレム<br>埼玉のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/hyssop1710/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
+<p class="block-date">日程：2017年10月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hyssop1710/" target="_blank">Hyssop<br>杉並のグループホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -370,6 +359,14 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年10月14日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年10月14日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年10月21日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年10月21日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
