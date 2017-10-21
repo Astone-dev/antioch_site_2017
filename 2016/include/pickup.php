@@ -40,6 +40,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
 <p class="block-date">日程：2017年10月22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank">10月の学生会<br>チゲ鍋を食べる</a></p>
@@ -47,6 +48,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20171022nerima/" target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
 <p class="block-date">日程：2017年10月22日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20171022nerima/" target="_blank">エウカリスティアス<br>練馬でゴスペルコンサート</a></p>
@@ -54,6 +56,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/2017byhisspirit/20171022b/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
 <p class="block-date">日程：2017年10月22日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171022b/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
