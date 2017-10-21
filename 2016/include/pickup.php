@@ -22,6 +22,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1710mynmar/" target="_blank">ミャンマー教会での奉仕 <br>パウロ秋元牧師、Gifts、Tree of life<br>(日程：2017年10月21日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
+<p class="block-date">日程：2017年10月22日～26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank">関西を行く<br>関西宣教の旅<br>(日程：2017年10月23日～25日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -53,6 +60,27 @@
 <p class="block-date">日程：2017年10月20日～21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1021night/" target="_blank">10月 リバイバルナイト</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
+<p class="block-date">日程：2017年10月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank">学生会<br>チゲ鍋を食べる</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20171022nerima/" target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
+<p class="block-date">日程：2017年10月21日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171022nerima/" target="_blank">エウカリスティアス<br>練馬でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date">日程：2017年10月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710funabashi/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
