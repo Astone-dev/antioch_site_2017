@@ -25,57 +25,25 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/omoide2017/" target="_blank"><img src="/2016/images/top/1710memo_z.jpg"></a>
-<p class="block-date">日程：2017年10月16日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/omoide2017/" target="_blank">今年度の思い出<br>アンテオケ教会の一週間</a></p>
+<a href="http://blog.antioch.jp/1711israel/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
+<p class="block-date">日程：2017年10月23日～29日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1711israel/" target="_blank">いよいよ来週<br>イスラエルチーム直前情報写真集<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/joy1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuyorokobi.jpg"></a>
-<p class="block-date">日程：2017年10月16日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/joy1710/" target="_blank">GLTVスペシャルコンサート出場決定！<br>喜びと悲しみの一週間</a></p>
+<a href="http://antiochblog.jp/praise/typhoon1710a/" target="_blank"><img src="/2016/images/top/1710taifuantioch.jpg"></a>
+<p class="block-date">日程：2017年10月23日～29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/typhoon1710a/" target="_blank">台風を吹きとばせ<br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
-<p class="block-date">日程：2017年10月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank">10月の学生会<br>チゲ鍋を食べる</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20171022nerima/" target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
-<p class="block-date">日程：2017年10月22日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171022nerima/" target="_blank">エウカリスティアス<br>練馬でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/20171022b/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
-<p class="block-date">日程：2017年10月22日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171022b/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/blog1710/" target="_blank"><img src="/2016/images/top/1710memo.jpg"></a>
-<p class="block-date">日程：2017年10月16日～22日</p>
-<p class="block-title"><a href="http://astone.tv/events/blog1710/" target="_blank">今年度の思い出<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank"><img src="/2016/images/top/1710nenmatsucon_m.jpg"></a>
-<p class="block-date">日程：2017年10月15日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank">GLTVスペシャルコンサート予選<br>映像保存版</a></p>
+<a href="http://astone.tv/events/typhoon1710/" target="_blank"><img src="/2016/images/top/1710taoifuzenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月23日～29日</p>
+<p class="block-title"><a href="http://astone.tv/events/typhoon1710/" target="_blank">台風を吹きとばせ<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -112,6 +80,56 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/omoide2017/" target="_blank"><img src="/2016/images/top/1710memo_z.jpg"></a>
+<p class="block-date">日程：2017年10月16日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/omoide2017/" target="_blank">今年度の思い出<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/joy1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuyorokobi.jpg"></a>
+<p class="block-date">日程：2017年10月16日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/joy1710/" target="_blank">GLTVスペシャルコンサート出場決定！<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
+<p class="block-date">日程：2017年10月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/category/1022ga/" target="_blank">10月の学生会<br>チゲ鍋を食べる</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20171022nerima/" target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
+<p class="block-date">日程：2017年10月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171022nerima/" target="_blank">エウカリスティアス<br>練馬でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/20171022b/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date">日程：2017年10月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171022b/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/blog1710/" target="_blank"><img src="/2016/images/top/1710memo.jpg"></a>
+<p class="block-date">日程：2017年10月16日～22日</p>
+<p class="block-title"><a href="http://astone.tv/events/blog1710/" target="_blank">今年度の思い出<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank"><img src="/2016/images/top/1710nenmatsucon_m.jpg"></a>
+<p class="block-date">日程：2017年10月15日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank">GLTVスペシャルコンサート予選<br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
