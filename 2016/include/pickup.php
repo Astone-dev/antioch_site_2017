@@ -33,9 +33,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/typhoon1710a/" target="_blank"><img src="/2016/images/top/1710taifuantioch.jpg"></a>
+<a href="http://astone.tv/events/arechinikawa1710/" target="_blank"><img src="/2016/images/top/1710arechiweek.jpg"></a>
 <p class="block-date">日程：2017年10月23日～29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/typhoon1710a/" target="_blank">台風を吹きとばせ<br>アンテオケ教会の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/arechinikawa1710/" target="_blank">荒地に川ミュージック<br>風のひびき5集歌集発売<br>わくわく一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/mikoe1710/" target="_blank"><img src="/2016/images/top/1710mikoeweek.jpg"></a>
+<p class="block-date">日程：2017年10月23日～29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/mikoe1710/" target="_blank">のんびりゆったり<br>み声新聞の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -43,7 +51,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/typhoon1710/" target="_blank"><img src="/2016/images/top/1710taoifuzenkoku.jpg"></a>
 <p class="block-date">日程：2017年10月23日～29日</p>
-<p class="block-title"><a href="http://astone.tv/events/typhoon1710/" target="_blank">台風を吹きとばせ<br>全国各教会の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/typhoon1710/" target="_blank">台風を吹きとばせ!<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
