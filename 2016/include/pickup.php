@@ -22,6 +22,14 @@
 <p class="block-title"><a href="http://astone.tv/events/kansai1710/" target="_blank">台風の日本列島の中を<br>関西宣教の旅<br>(日程：2017年10月23日～25日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/meetings1710/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
+<p class="block-date">日程：2017年10月27日～28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/meetings1710/" target="_blank">甲府、横須賀を行く<br>関東宣教の旅<br>(日程：2017年10月23日～25日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -37,6 +45,22 @@
 <p class="block-date">日程：2017年10月23日～29日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/typhoon1710a/" target="_blank">台風一過<br>東京アンテオケ教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1710iidabashi/" target="_blank"><img src="/2016/images/top/1710taifuantioch.jpg"></a>
+<p class="block-date">日程：2017年10月27日～28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710iidabashi/" target="_blank">Gifts,JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1710joy/" target="_blank"><img src="/2016/images/top/1710taifuantioch.jpg"></a>
+<p class="block-date">日程：2017年10月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710joy/" target="_blank">JOY<br>秋の音楽祭＆チャリティーコンサートに出演</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
