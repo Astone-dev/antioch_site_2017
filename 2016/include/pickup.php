@@ -49,6 +49,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/gospel2017/category/1028gospel/" target="_blank"><img src="/2016/images/1709gospeltudoi.jpg"></a>
+<p class="block-date">日程：2017年10月25日〜28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/1028gospel/" target="_blank">年度末<br>ゴスペルの集いに向かって</a>(日程：2017年10月28日)</p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/arechinikawa1710/" target="_blank"><img src="/2016/images/top/1710arechiweek.jpg"></a>
 <p class="block-date">日程：2017年10月23日～29日</p>
 <p class="block-title"><a href="http://astone.tv/events/arechinikawa1710/" target="_blank">荒地に川ミュージック<br>風のひびき5集歌集発売<br>わくわく一週間</a></p>
