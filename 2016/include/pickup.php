@@ -14,14 +14,6 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/kansai1710/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
-<p class="block-date">日程：2017年10月22日～26日</p>
-<p class="block-title"><a href="http://astone.tv/events/kansai1710/" target="_blank">台風の日本列島の中を<br>関西宣教の旅<br>(日程：2017年10月23日～25日)</a></p>
-</div>
-
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -138,6 +130,12 @@
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
 </div>
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/kansai1710/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
+<p class="block-date">日程：2017年10月22日～26日</p>
+<p class="block-title"><a href="http://astone.tv/events/kansai1710/" target="_blank">台風の日本列島の中を<br>関西宣教の旅<br>(日程：2017年10月23日～25日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
