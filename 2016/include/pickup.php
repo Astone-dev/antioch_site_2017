@@ -57,6 +57,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1028soma/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年10月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1028soma/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/gospel2017/category/1028gospel/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
 <p class="block-date">日程：2017年10月25日〜28日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/1028gospel/" target="_blank">年度末<br>ゴスペルの集いに向かって</a>(日程：2017年10月28日)</p>
@@ -192,12 +200,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1021night/" target="_blank">10月リバイバルナイトの一日</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1021saitama/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2017年10月21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1021saitama/" target="_blank">エルサレム<br>埼玉のデイケアでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
