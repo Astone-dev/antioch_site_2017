@@ -83,7 +83,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/concert1710/" target="_blank"><img src="/2016/images/top/1710sharom.jpg"></a>
 <p class="block-date">日程：2017年10月28日</p>
-<p class="block-title"><a href="http://astone.tv/events/concert1710/" target="_blank">シャローム<br>都内の児童福祉施設でゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://astone.tv/events/concert1710/" target="_blank">Tree of life、シャローム<br>都内の児童福祉施設でゴスペルコンサート</a></p>
 </div>-->
 
 <!--<div class="column-inner">
