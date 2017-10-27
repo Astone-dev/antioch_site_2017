@@ -179,13 +179,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank"><img src="/2016/images/top/1710nenmatsucon_m.jpg"></a>
-<p class="block-date">日程：2017年10月15日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/internet-tv/171015-yosen.html" target="_blank">GLTVスペシャルコンサート予選<br>映像保存版</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/1710mynmar/" target="_blank"><img src="/2016/images/top/1707myanmarkyokai.jpg"></a>
 <p class="block-date">日程：2017年10月20日～21日</p>
@@ -234,104 +227,11 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/1020nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスコンサート</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1019hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年10月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1019hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年10月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1007kawaguchi/" target="_blank">エルサレム<br>川口市の施設でゴスペル</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1710tohoku/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
-<p class="block-date">日程：2017年10月15日～19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1710tohoku/" target="_blank">秋深まる東北を行く<br>東北宣教の旅<br>(日程：2017年10月16日～18日)</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-1">写真集</span>
 <a href="/tcm/index_1710.html" target="_blank"><img src="/2016/images/top/1710jel_kireiphoto.jpg"></a>
 <p class="block-date">2017年10月1日</p>
 <p class="block-title"><a href="/tcm/index_1710.html" target="_blank">エルサレムの平和の為に祈る集い<br>綺麗な写真版写真集</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1710gifts/" target="_blank"><img src="/2016/images/top/1705giftsmanyuki.jpg"></a>
-<p class="block-date">日程：2017年10月15日～17日</p>
-<p class="block-title"><a href="http://astone.tv/events/1710gifts/" target="_blank">Gifts漫遊記<br>秋の東北を行く2日間<br>(日程：2017年10月16日〜17日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/patolis1710/" target="_blank"><img src="/2016/images/top/1604patolisnerima.jpg"></a>
-<p class="block-date">日程：2017年10月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/patolis1710/" target="_blank">PATOLIS<br>練馬区のディサービス施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/1710antioch/" target="_blank"><img src="/2016/images/top/1710shingakiantioch.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710antioch/" target="_blank">新学期スタート<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/yosen1710/" target="_blank"><img src="/2016/images/top/1710nenmatsuconcertni.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/yosen1710/" target="_blank">いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会<br>ドキドキの一日<br>(予選会：2017年10月15日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/israelteam1710/" target="_blank">イスラエルチーム<br>ちょっと早い直前情報<br>(チーム日程：2017年10月30日~11月11日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/euqaristias/20171015shinjuku/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
-<p class="block-date">日程：2017年10月15日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171015shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/nation1710/" target="_blank"><img src="/2016/images/top/1710shingakizenkoku.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/nation1710/" target="_blank">新学期スタート<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1710meetings/" target="_blank"><img src="/2016/images/top/1710kawasaki.jpg"></a>
-<p class="block-date">日程：2017年10月13日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1710meetings/" target="_blank">川崎、豊橋、富士を行く<br>宣教の旅<br>(日程：2017年10月13日～14日) </a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank"><img src="/2016/images/top/1710jgospelfesikebukuro.jpg"></a>
-<p class="block-date">日程：2017年10月9日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1710ikebukuro/" target="_blank">いよいよ今日本番！<br>池袋J.GOSPEL FES<br>出演者・スタッフのドタバタな一日<br>(日程：2017年10月14日 11:00~)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
-<p class="block-date">日程：2017年10月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/" target="_blank">10月いやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
