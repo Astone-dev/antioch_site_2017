@@ -62,7 +62,7 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1028soma/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2017labeille/category/1028arakawa/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
@@ -84,15 +84,7 @@
 <a href="http://astone.tv/events/concert1710/" target="_blank"><img src="/2016/images/top/1710sharom.jpg"></a>
 <p class="block-date">日程：2017年10月28日</p>
 <p class="block-title"><a href="http://astone.tv/events/concert1710/" target="_blank">Tree of life、シャローム<br>都内の児童福祉施設でゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年9月23日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年9月23日 18:30スタート)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -100,6 +92,14 @@
 <a href="http://antiochblog.jp/praise/gospel2017/category/1028gospel/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
 <p class="block-date">日程：2017年10月25日〜28日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/1028gospel/" target="_blank">年度末<br>ゴスペルの集いに向かって</a>(日程：2017年10月28日)</p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年10月28日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年10月28日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
