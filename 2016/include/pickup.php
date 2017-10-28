@@ -17,14 +17,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/meetings1710/" target="_blank"><img src="/2016/images/top/1708kofuyokosuka.jpg"></a>
-<p class="block-date">日程：2017年10月27日～28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/meetings1710/" target="_blank">甲府、横須賀を行く<br>関東宣教の旅<br>(日程：2017年10月23日～25日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://blog.antioch.jp/1711israel/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
 <p class="block-date">日程：2017年10月23日～29日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1711israel/" target="_blank">いよいよ来週<br>イスラエルチーム直前情報写真集<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
@@ -38,7 +30,7 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/typhoon1710a/" target="_blank">台風一過<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/happyday2017/1029/" target="_blank"><img src="/2016/images/top/1704ohhappyday.jpg"></a>
@@ -52,54 +44,6 @@
 <a href="http://antiochblog.jp/praise/gracejewel2017/category/1029event/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
 <p class="block-date">日程：2017年10月29日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/1029event/" target="_blank">Graceと宝石<br>イベントでゴスペル</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/1710iidabashi/" target="_blank"><img src="/2016/images/top/1710giftsjoyu.jpg"></a>
-<p class="block-date">日程：2017年10月27日～28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1710iidabashi/" target="_blank">Gifts,JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/category/1028gospel/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
-<p class="block-date">日程：2017年10月25日〜28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/1028gospel/" target="_blank">年度末<br>ゴスペルの集いに向かって</a>(日程：2017年10月28日)</p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年10月28日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年10月28日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1028soma/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年10月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1028soma/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017labeille/category/1028arakawa/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
-<p class="block-date">日程：2017年10月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/1028arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1710praise/" target="_blank"><img src="/2016/images/top/1701gateofnerimarouken.jpg"></a>
-<p class="block-date">日程：2017年10月28日</p>
-<p class="block-title"><a href="http://astone.tv/events/1710praise/" target="_blank">The Gate of Praise<br>練馬区の介護老人保健施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -168,6 +112,48 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/meetings1710/" target="_blank"><img src="/2016/images/top/1708kofuyokosuka.jpg"></a>
+<p class="block-date">日程：2017年10月27日～28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/meetings1710/" target="_blank">甲府、横須賀を行く<br>関東宣教の旅<br>(日程：2017年10月23日～25日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1710iidabashi/" target="_blank"><img src="/2016/images/top/1710giftsjoyu.jpg"></a>
+<p class="block-date">日程：2017年10月27日～28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1710iidabashi/" target="_blank">Gifts,JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gospel2017/category/1028gospel/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
+<p class="block-date">日程：2017年10月25日〜28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/1028gospel/" target="_blank">年度末<br>ゴスペルの集いに向かって</a>(日程：2017年10月28日)</p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1028soma/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年10月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1028soma/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017labeille/category/1028arakawa/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
+<p class="block-date">日程：2017年10月28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/1028arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1710praise/" target="_blank"><img src="/2016/images/top/1701gateofnerimarouken.jpg"></a>
+<p class="block-date">日程：2017年10月28日</p>
+<p class="block-title"><a href="http://astone.tv/events/1710praise/" target="_blank">The Gate of Praise<br>練馬区の介護老人保健施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -397,6 +383,15 @@
 <p class="block-date">2017年10月21日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年10月21日 18:30スタート)</a></p>
 </div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年10月28日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年10月28日 18:30スタート)</a></p>
+</div>-->
+
 
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
