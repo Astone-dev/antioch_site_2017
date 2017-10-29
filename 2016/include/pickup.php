@@ -18,64 +18,24 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1711israel/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
-<p class="block-date">日程：2017年10月23日～29日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1711israel/" target="_blank">いよいよ来週<br>イスラエルチーム直前情報写真集<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
+<p class="block-date">日程：2017年10月30日～11月11日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1711israel/" target="_blank">イスラエルチーム最新情報写真集<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/typhoon1710a/" target="_blank"><img src="/2016/images/top/1710taifuantioch.jpg"></a>
-<p class="block-date">日程：2017年10月23日～29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/typhoon1710a/" target="_blank">台風一過<br>東京アンテオケ教会の一週間</a></p>
+<a href="http://astone.tv/events/typhoon1710/" target="_blank"><img src="/2016/images/top/1611shinnendoantioch.jpg"></a>
+<p class="block-date">日程：2017年10月30日～11月5日</p>
+<p class="block-title"><a href="http://astone.tv/events/typhoon1710/" target="_blank">年度末・新年度<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/happyday2017/1029/" target="_blank"><img src="/2016/images/top/1704ohhappyday.jpg"></a>
-<p class="block-date">日程：2017年10月29日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/1029/" target="_blank">OH HAPPY DAY<br>ミニ運動会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/arechinikawa1710/" target="_blank"><img src="/2016/images/top/1710arechiweek.jpg"></a>
-<p class="block-date">日程：2017年10月23日～29日</p>
-<p class="block-title"><a href="http://astone.tv/events/arechinikawa1710/" target="_blank">荒地に川ミュージック<br>風のひびき5集歌集発売<br>わくわく一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/mikoe1710/" target="_blank"><img src="/2016/images/top/1710mikoeweek.jpg"></a>
-<p class="block-date">日程：2017年10月23日～29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/mikoe1710/" target="_blank">のんびりゆったり<br>み声新聞の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/category/1029event/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">日程：2017年10月29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/1029event/" target="_blank">Graceと宝石<br>イベントでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/typhoon1710/" target="_blank"><img src="/2016/images/top/1710taoifuzenkoku.jpg"></a>
-<p class="block-date">日程：2017年10月23日～29日</p>
-<p class="block-title"><a href="http://astone.tv/events/typhoon1710/" target="_blank">台風一過<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
-<p class="block-date">日程：2017年10月30日~11月11日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
+<a href="http://astone.tv/events/typhoon1710/" target="_blank"><img src="/2016/images/top/1611shinnendozenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月30日～11月5日</p>
+<p class="block-title"><a href="http://astone.tv/events/typhoon1710/" target="_blank">年度末・新年度<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -104,6 +64,55 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
+<p class="block-date">日程：2017年10月30日~11月11日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
+</div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/typhoon1710a/" target="_blank"><img src="/2016/images/top/1710taifuantioch.jpg"></a>
+<p class="block-date">日程：2017年10月23日～29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/typhoon1710a/" target="_blank">台風一過<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/happyday2017/1029/" target="_blank"><img src="/2016/images/top/1704ohhappyday.jpg"></a>
+<p class="block-date">日程：2017年10月29日</p>
+<p class="block-title"><a href="http://astone.tv/events/happyday2017/1029/" target="_blank">OH HAPPY DAY<br>ミニ運動会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/arechinikawa1710/" target="_blank"><img src="/2016/images/top/1710arechiweek.jpg"></a>
+<p class="block-date">日程：2017年10月23日～29日</p>
+<p class="block-title"><a href="http://astone.tv/events/arechinikawa1710/" target="_blank">荒地に川ミュージック<br>風のひびき5集歌集発売<br>わくわく一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/mikoe1710/" target="_blank"><img src="/2016/images/top/1710mikoeweek.jpg"></a>
+<p class="block-date">日程：2017年10月23日～29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/mikoe1710/" target="_blank">のんびりゆったり<br>み声新聞の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/category/1029event/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">日程：2017年10月29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/1029event/" target="_blank">Graceと宝石<br>イベントでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/typhoon1710/" target="_blank"><img src="/2016/images/top/1710taoifuzenkoku.jpg"></a>
+<p class="block-date">日程：2017年10月23日～29日</p>
+<p class="block-title"><a href="http://astone.tv/events/typhoon1710/" target="_blank">台風一過<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
