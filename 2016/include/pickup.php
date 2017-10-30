@@ -33,6 +33,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017labeille/category/1028kichijyoji/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
+<p class="block-date">日程：2017年10月30日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/1028kichijyoji/" target="_blank">ラベイユ<br>吉祥寺のイベントでゴスペルを歌う</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/yearend1710/" target="_blank"><img src="/2016/images/top/1611shinnendozenkoku.jpg"></a>
 <p class="block-date">日程：2017年10月30日～11月5日</p>
 <p class="block-title"><a href="http://astone.tv/events/yearend1710/" target="_blank">年度末・新年度<br>全国各教会の一週間</a></p>
