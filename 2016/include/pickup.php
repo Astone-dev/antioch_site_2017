@@ -22,13 +22,13 @@
 <p class="block-title"><a href="http://blog.antioch.jp/1711israel/" target="_blank">イスラエルチーム最新情報写真集<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=ZebnU1MeJ5w" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人の教会での奉仕生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年11月4日</p>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=ZebnU1MeJ5w" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人の教会での奉仕生中継');">ロシア系ユダヤ人の教会での奉仕 生中継</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
