@@ -23,6 +23,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年11月5日</p>
+<p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">イスラエルチーム聖会生中継<br>(日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/yearend201710/" target="_blank"><img src="/2016/images/top/1611shinnendoantioch.jpg"></a>
@@ -30,20 +38,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/yearend201710/" target="_blank">年度末・新年度<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1711nakano/" target="_blank"><img src="/2016/images/top/1711jerpattehhyso.jpg"></a>
-<p class="block-date">日程：2017年11月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711nakano/" target="_blank">エルサレム、PATOLIS、テヒリーム、Hyssop<br>中野のイベントでゴスペル</a></p>
-</div>
-
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1711gracious/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
-<p class="block-date">日程：2017年11月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1711gracious/" target="_blank">GRACIOUS  DOORS<br>都内デイサービスでゴスペルコンサート</a></p>
+<a href="http://antiochblog.jp/praise/2017labeille/category/1105suginami/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
+<p class="block-date">日程：2017年11月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/1105suginami/" target="_blank">ラベイユ <br>杉並の音楽祭に出演</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -88,6 +88,13 @@
 <p class="block-date">日程：2017年10月30日~11月11日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1711nakano/" target="_blank"><img src="/2016/images/top/1711jerpattehhyso.jpg"></a>
+<p class="block-date">日程：2017年11月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711nakano/" target="_blank">エルサレム、PATOLIS、テヒリーム、Hyssop<br>中野のイベントでゴスペル</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
