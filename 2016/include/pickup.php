@@ -55,6 +55,15 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank"><img src="/2016/images/top/1711shinnendreihai_m.jpg"></a>
+<p class="block-date">日程：2017年11月5日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank">ガリラヤ湖、アルベル山<br>
+新年度礼拝<br>映像保存版</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/important/" target="_blank"><img src="/2016/images/top/1709yorimichi29.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
