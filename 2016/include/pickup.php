@@ -30,13 +30,13 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=ZebnU1MeJ5w" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人の教会での奉仕生中継');">ロシア系ユダヤ人の教会での奉仕 生中継</a></p>
 </div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');"><img src="/2016/images/top/1711israel_broad.jpg"></a>
 <p class="block-date">2017年11月5日</p>
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -45,6 +45,14 @@
 <p class="block-date">日程：2017年10月30日～11月5日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/yearend201710/" target="_blank">年度末・新年度<br>東京アンテオケ教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/faith1711a/" target="_blank"><img src="/2016/images/top/1611shinnendoantioch.jpg"></a>
+<p class="block-date">日程：2017年11月6日～11月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/faith1711a/" target="_blank">新年度スタート<br>東京アンテオケ教会の一週間</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -61,6 +69,14 @@
 <p class="block-date">日程：2017年10月30日～11月5日</p>
 <p class="block-title"><a href="http://astone.tv/events/yearend1710/" target="_blank">年度末・新年度<br>全国各教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1711faith/" target="_blank"><img src="/2016/images/top/1611shinnendozenkoku.jpg"></a>
+<p class="block-date">日程：2017年11月6日～11月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711faith/" target="_blank">新年度スタート<br>全国各教会の一週間</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
