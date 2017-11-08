@@ -63,6 +63,13 @@
 新年度礼拝<br>映像保存版</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/alacarte/" target="_blank"><img src="/2016/images/top/1709yorimichi29.jpg"></a>
+<p class="block-date">毎日7:00更新</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/alacarte/" target="_blank">クリスチャンの寄り道 Vol.30<br>今回は「祝福のアラカルト」のお話です</a></p>
+</div>-->
+
 <div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/important/" target="_blank"><img src="/2016/images/top/1709yorimichi29.jpg"></a>
