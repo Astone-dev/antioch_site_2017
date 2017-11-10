@@ -76,7 +76,7 @@
 <a href="http://astone.tv/events/2017healing/1111healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
 <p class="block-date">日程：2017年11月11日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/1111healing/" target="_blank">11月いやしの集いの一日</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
