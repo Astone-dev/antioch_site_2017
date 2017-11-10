@@ -46,12 +46,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/faith1711a/" target="_blank">新年度スタート<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/charisma1711/" target="_blank"><img src="/2016/images/top/1706tokari.jpg"></a>
-<p class="block-date">日程：2017年11月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/charisma1711/" target="_blank">11月 東京カリスマ聖会</a></p>
+<p class="block-date">日程：2017年11月11〜12日</p>
+<p class="block-title"><a href="http://astone.tv/events/charisma1711/" target="_blank">新年度最初の東京カリスマ聖会<br>裏も表も全て見せます<br>(日程：2017年11月12日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -59,7 +59,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1711gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
 <p class="block-date">日程：2017年11月11日～11月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711gifts/" target="_blank">Gifts<br>コンサート</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1711gifts/" target="_blank">Gifts<br>中野のイベントでゴスペルを歌う<br>(日程：2017年11月12日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -75,7 +75,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/2017healing/1111healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
 <p class="block-date">日程：2017年11月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/1111healing/" target="_blank">11月 いやしの集い</a></p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/1111healing/" target="_blank">11月いやしの集いの一日</a></p>
 </div>-->
 
 <div class="column-inner">
