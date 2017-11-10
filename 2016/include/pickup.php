@@ -81,6 +81,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年11月11日～11月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/1711faith/" target="_blank"><img src="/2016/images/top/1711shinnendozenkoku.jpg"></a>
 <p class="block-date">日程：2017年11月6日～11月12日</p>
 <p class="block-title"><a href="http://astone.tv/events/1711faith/" target="_blank">新年度スタート<br>全国各教会の一週間</a></p>
