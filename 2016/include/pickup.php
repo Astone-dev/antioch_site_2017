@@ -18,8 +18,8 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
-<p class="block-date">日程：2017年11月12日～11月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅<br>北陸宣教の旅</a></p>
+<p class="block-date">日程：2017年11月12日～16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅<br>(日程：2017年11月13日〜15日)</a></p>
 </div>
 
 <!--<div class="column-inner">
