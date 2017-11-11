@@ -14,20 +14,12 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
 <p class="block-date">日程：2017年11月12日～11月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank">北陸を行く<br>北陸宣教の旅</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1711israel/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
-<p class="block-date">日程：2017年10月30日～11月11日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1711israel/" target="_blank">イスラエルチーム最新情報写真集<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅<br>北陸宣教の旅</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -49,17 +41,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/faith1711a/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
-<p class="block-date">日程：2017年11月6日～11月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/faith1711a/" target="_blank">新年度スタート<br>東京アンテオケ教会の一週間</a></p>
+<a href="http://astone.tv/events/charisma1711/" target="_blank"><img src="/2016/images/top/1706tokari.jpg"></a>
+<p class="block-date">日程：2017年11月11〜12日</p>
+<p class="block-title"><a href="http://astone.tv/events/charisma1711/" target="_blank">新年度最初の東京カリスマ聖会<br>裏も表も全て見せます<br>(日程：2017年11月12日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/charisma1711/" target="_blank"><img src="/2016/images/top/1706tokari.jpg"></a>
-<p class="block-date">日程：2017年11月11〜12日</p>
-<p class="block-title"><a href="http://astone.tv/events/charisma1711/" target="_blank">新年度最初の東京カリスマ聖会<br>裏も表も全て見せます<br>(日程：2017年11月12日)</a></p>
+<a href="http://antiochblog.jp/info/faith1711a/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
+<p class="block-date">日程：2017年11月6日～11月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/faith1711a/" target="_blank">新年度スタート<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -70,7 +62,7 @@
 <p class="block-title"><a href="http://astone.tv/events/1711gifts/" target="_blank">Gifts<br>中野のイベントでゴスペルを歌う<br>(日程：2017年11月12日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1112event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
@@ -92,30 +84,6 @@
 <a href="http://antiochblog.jp/praise/gracious1711/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
 <p class="block-date">日程：2017年11月12日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracious1711/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサ－ビスゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年10月14日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年10月14日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017healing/1111healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
-<p class="block-date">日程：2017年11月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/1111healing/" target="_blank">11月いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1111iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年11月11日～11月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1111iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のグループホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -131,8 +99,7 @@
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank"><img src="/2016/images/top/1711shinnendreihai_m.jpg"></a>
 <p class="block-date">日程：2017年11月5日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank">ガリラヤ湖、アルベル山<br>
-新年度礼拝<br>映像保存版</a></p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank">ガリラヤ湖、アルベル山<br>新年度礼拝<br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
@@ -163,8 +130,28 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1711israel/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
+<p class="block-date">日程：2017年10月30日～11月11日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1711israel/" target="_blank">イスラエルチーム写真集<br>じっくり全てを知りたい人のために<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017healing/1111healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
+<p class="block-date">日程：2017年11月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/1111healing/" target="_blank">11月いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1111iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年11月11日～11月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1111iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のグループホームでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">映像</span>
-<span>NEW</span>
 <a href="https://youtu.be/zoDPkh42NnQ" target="_blank" onclick="javascript:pageTracker._trackPageview('「地の塩　山室軍平」映画予告編');"><img src="/2016/images/top/1710chinosio_cm.jpg"></a>
 <p class="block-date">2017年10月21日よりロードショー</p>
 <p class="block-title"><a href="https://youtu.be/zoDPkh42NnQ" target="_blank" onclick="javascript:pageTracker._trackPageview('「地の塩　山室軍平」映画予告編');">「地の塩　山室軍平」映画予告編</a></p>
@@ -319,6 +306,14 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年10月28日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年10月28日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年10月14日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年10月14日 18:30スタート)</a></p>
 </div>-->
 
 
