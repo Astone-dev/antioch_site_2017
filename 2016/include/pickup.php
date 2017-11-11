@@ -14,6 +14,14 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
+<p class="block-date">日程：2017年11月12日～11月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank">北陸を行く<br>北陸宣教の旅</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -61,6 +69,30 @@
 <p class="block-date">日程：2017年11月11日～11月12日</p>
 <p class="block-title"><a href="http://astone.tv/events/1711gifts/" target="_blank">Gifts<br>中野のイベントでゴスペルを歌う<br>(日程：2017年11月12日)</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1112event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年11月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1112event/" target="_blank">エルサレム<br>エルサレム他教会でゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/20171112/" target="_blank"><img src="/2016/images/top/1704byhisnerima.jpg"></a>
+<p class="block-date">日程：2017年11月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171112/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracious1711/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
+<p class="block-date">日程：2017年11月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracious1711/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサ－ビスゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
