@@ -38,7 +38,15 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1711antioch/" target="_blank"><img src="/2016/images/top/1711fuyuantioch.jpg"></a>
+<p class="block-date">日程：2017年11月13日～11月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1711antioch/" target="_blank">冬近づく<br>アンテオケの一週間</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/thanks1711/" target="_blank"><img src="/2016/images/top/1711antioch.jpg"></a>
@@ -49,9 +57,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/1711antioch/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
+<a href="http://antiochblog.jp/mission/1711nation/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
 <p class="block-date">日程：2017年11月13日～11月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1711antioch/" target="_blank">冬近く <br>アンテオケの一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1711nation/" target="_blank">冬近づく<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -60,78 +68,6 @@
 <a href="http://astone.tv/events/israel1711/" target="_blank"><img src="/2016/images/top/1711nation.jpg"></a>
 <p class="block-date">日程：2017年11月13日～11月19日</p>
 <p class="block-title"><a href="http://astone.tv/events/israel1711/" target="_blank">イスラエルの思い出 <br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/1711nation/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
-<p class="block-date">日程：2017年11月13日～11月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1711nation/" target="_blank">冬近く <br>全国各教会の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/charisma1711/" target="_blank"><img src="/2016/images/top/1706tokari.jpg"></a>
-<p class="block-date">日程：2017年11月11〜12日</p>
-<p class="block-title"><a href="http://astone.tv/events/charisma1711/" target="_blank">新年度最初の東京カリスマ聖会<br>裏も表も全て見せます<br>(日程：2017年11月12日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/faith1711a/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
-<p class="block-date">日程：2017年11月6日～11月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/faith1711a/" target="_blank">新年度スタート<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
-<p class="block-date">日程：2017年10月30日～11月11日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1711gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
-<p class="block-date">日程：2017年11月11日～11月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711gifts/" target="_blank">Gifts<br>中野のイベントでゴスペルを歌う<br>(日程：2017年11月12日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1112event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年11月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1112event/" target="_blank">エルサレム<br>エルサレム他教会でゴスペル教室</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/20171112/" target="_blank"><img src="/2016/images/top/1704byhisnerima.jpg"></a>
-<p class="block-date">日程：2017年11月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171112/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracious1711/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
-<p class="block-date">日程：2017年11月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracious1711/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサ－ビスゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1711faith/" target="_blank"><img src="/2016/images/top/1711shinnendozenkoku.jpg"></a>
-<p class="block-date">日程：2017年11月6日～11月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711faith/" target="_blank">新年度スタート<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -174,6 +110,63 @@
 <a href="http://blog.antioch.jp/1711israel/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
 <p class="block-date">日程：2017年10月30日～11月11日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1711israel/" target="_blank">イスラエルチーム写真集<br>じっくり全てを知りたい人のために<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/charisma1711/" target="_blank"><img src="/2016/images/top/1706tokari.jpg"></a>
+<p class="block-date">日程：2017年11月11〜12日</p>
+<p class="block-title"><a href="http://astone.tv/events/charisma1711/" target="_blank">新年度最初の東京カリスマ聖会<br>裏も表も全て見せます<br>(日程：2017年11月12日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/faith1711a/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
+<p class="block-date">日程：2017年11月6日～11月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/faith1711a/" target="_blank">新年度スタート<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
+<p class="block-date">日程：2017年10月30日～11月11日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1711gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+<p class="block-date">日程：2017年11月11日～11月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711gifts/" target="_blank">Gifts<br>中野のイベントでゴスペルを歌う<br>(日程：2017年11月12日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1112event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年11月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1112event/" target="_blank">エルサレム<br>エルサレム他教会でゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/20171112/" target="_blank"><img src="/2016/images/top/1704byhisnerima.jpg"></a>
+<p class="block-date">日程：2017年11月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171112/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracious1711/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
+<p class="block-date">日程：2017年11月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracious1711/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサ－ビスゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1711faith/" target="_blank"><img src="/2016/images/top/1711shinnendozenkoku.jpg"></a>
+<p class="block-date">日程：2017年11月6日～11月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711faith/" target="_blank">新年度スタート<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
