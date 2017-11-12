@@ -91,7 +91,7 @@
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
 <p class="block-date">日程：2017年10月30日～11月11日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像</a></p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
 </div>
 
 <div class="column-inner">
