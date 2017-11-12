@@ -38,6 +38,38 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/thanks1711/" target="_blank"><img src="/2016/images/top/1711antioch.jpg"></a>
+<p class="block-date">日程：2017年11月13日～11月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/thanks1711/" target="_blank">イスラエルの思い出<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1711antioch/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
+<p class="block-date">日程：2017年11月13日～11月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1711antioch/" target="_blank">冬近く <br>アンテオケの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/israel1711/" target="_blank"><img src="/2016/images/top/1711nation.jpg"></a>
+<p class="block-date">日程：2017年11月13日～11月19日</p>
+<p class="block-title"><a href="http://astone.tv/events/israel1711/" target="_blank">イスラエルの思い出 <br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1711nation/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
+<p class="block-date">日程：2017年11月13日～11月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1711nation/" target="_blank">冬近く <br>全国各教会の一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -52,6 +84,14 @@
 <a href="http://antiochblog.jp/info/faith1711a/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
 <p class="block-date">日程：2017年11月6日～11月12日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/faith1711a/" target="_blank">新年度スタート<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
+<p class="block-date">日程：2017年10月30日～11月11日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像</a></p>
 </div>
 
 <div class="column-inner">
