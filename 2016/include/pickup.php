@@ -91,7 +91,15 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/israel1711/" target="_blank"><img src="/2016/images/top/1711nation.jpg"></a>
 <p class="block-date">日程：2017年11月13日～11月19日</p>
-<p class="block-title"><a href="http://astone.tv/events/israel1711/" target="_blank">イスラエルの思い出 <br>全国各教会の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/israel1711/" target="_blank">イスラエルの思い出<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://blog.antioch.jp/1711israel/category/israel17dst/" target="_blank"><img src="/2016/images/top/1711israelteamdigest_p.jpg"></a>
+<p class="block-date">日程：2017年11月13日～11月19日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1711israel/category/israel17dst/" target="_blank">イスラエルチーム<br>ダイジェスト写真集<br>短くい全てを知りたい人のために<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
 </div>
 
 <div class="column-inner">
