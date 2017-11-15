@@ -62,28 +62,20 @@
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年11月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank">エルサレム<br>エルサレム箱根のホテルでロビーコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1711kawaguchi/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
-<p class="block-date">日程：2017年11月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1711kawaguchi/" target="_blank">PATOLIS<br>川口の病院の病棟でコンサート</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1711movie/" target="_blank"><img src="/2016/images/top/1711interbee.jpg"></a>
 <p class="block-date">日程：2017年11月15日～16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1711movie/" target="_blank">映像部幕張メッセへ</strong><br>最新機材リサーチに行く</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年11月14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank">エルサレム<br>エルサレム箱根のホテルでロビーコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -150,6 +142,13 @@
 <a href="http://blog.antioch.jp/1711israel/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
 <p class="block-date">日程：2017年10月30日～11月11日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1711israel/" target="_blank">イスラエルチーム写真集<br>じっくり全てを知りたい人のために<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1711kawaguchi/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
+<p class="block-date">日程：2017年11月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1711kawaguchi/" target="_blank">PATOLIS<br>川口の病院の病棟でコンサート</a></p>
 </div>
 
 <div class="column-inner">
