@@ -30,13 +30,13 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1711meetings/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
+<a href="http://antiochblog.jp/praise/1711meetings/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
 <p class="block-date">日程：2017年11月17日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1711meetings/" target="_blank">厚木・横浜路を行く<br>厚木・横浜宣教の旅<br>(日程：2017年11月13日〜15日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/1711meetings/" target="_blank">秋たけなわ厚木・横浜路を行く<br>関東宣教の旅<br>(日程：2017年11月13日〜15日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -57,26 +57,18 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1711movie/" target="_blank"><img src="/2016/images/top/1711interbee.jpg"></a>
-<p class="block-date">日程：2017年11月15日～16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1711movie/" target="_blank">映像部幕張メッセへ</strong><br>最新機材リサーチに行く</a></p>
+<a href="http://astone.tv/events/1711live/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
+<p class="block-date">日程：2017年11月17日-18日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711live/" target="_blank">池袋J.GOSPEL LIVEに向かって<br>The Visionと出演グループの2日間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年11月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank">エルサレム<br>エルサレム箱根のホテルでロビーコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1711live/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<a href="http://antiochblog.jp/info/revival2017/1118night/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
 <p class="block-date">日程：2017年11月17日-18日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711live/" target="_blank">池袋J.GOSPEL LIVE </a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1118night/" target="_blank">若者たち集まれ<br>11月のRevival Night</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -142,6 +134,20 @@
 <a href="http://antiochblog.jp/info/important/" target="_blank"><img src="/2016/images/top/1709yorimichi29.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/important/" target="_blank">クリスチャンの寄り道 Vol.29<br>今回は「大事な事柄が分かった時」のお話です</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1711movie/" target="_blank"><img src="/2016/images/top/1711interbee.jpg"></a>
+<p class="block-date">日程：2017年11月15日～16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1711movie/" target="_blank">映像部幕張メッセへ</strong><br>最新機材リサーチに行く</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年11月14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank">エルサレム<br>エルサレム箱根のホテルでロビーコンサート</a></p>
 </div>
 
 <div class="column-inner">
