@@ -14,14 +14,6 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
 </div>-->
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
-<p class="block-date">日程：2017年11月12日～16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅<br>(日程：2017年11月13日〜15日)</a></p>
-</div>
-
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
@@ -55,14 +47,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
-<p class="block-date">日程：2017年10月30日～11月11日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1711movie/" target="_blank"><img src="/2016/images/top/1711interbee.jpg"></a>
@@ -76,6 +60,14 @@
 <a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2017年11月14日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank">エルサレム<br>エルサレム箱根のホテルでロビーコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
+<p class="block-date">日程：2017年10月30日～11月11日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
 </div>
 
 <div class="column-inner">
@@ -135,6 +127,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
+<p class="block-date">日程：2017年11月12日～16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅<br>(日程：2017年11月13日〜15日)</a></p>
 </div>
 
 <div class="column-inner">
