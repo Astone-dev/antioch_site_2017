@@ -30,6 +30,14 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1711meetings/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
+<p class="block-date">日程：2017年11月17日～18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1711meetings/" target="_blank">厚木・横浜路を行く<br>厚木・横浜宣教の旅<br>(日程：2017年11月13日〜15日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -61,6 +69,14 @@
 <p class="block-date">日程：2017年11月14日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank">エルサレム<br>エルサレム箱根のホテルでロビーコンサート</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1711live/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2017年11月17日-18日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711live/" target="_blank">池袋J.GOSPEL LIVE </a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
