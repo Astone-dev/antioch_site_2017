@@ -66,7 +66,7 @@
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
-<p class="block-date">チーム日程：2017年10月30日～11月11日</p>
+<p class="block-date">日程：2017年10月30日～11月11日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
 </div>
 
@@ -90,7 +90,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1711israel/category/israel17dst/" target="_blank"><img src="/2016/images/top/1711israelteamdigest_p.jpg"></a>
-<p class="block-date">チーム日程：2017年10月30日～11月11日</p>
+<p class="block-date">日程：2017年10月30日～11月11日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1711israel/category/israel17dst/" target="_blank">イスラエルチーム<br>ダイジェスト写真集<br>(短くい全てを知りたい人のために)</a></p>
 </div>
 
