@@ -59,8 +59,8 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1711live/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
 <p class="block-date">日程：2017年11月17日-18日</p>
-</div><p class="block-title"><a href="http://astone.tv/events/1711live/" target="_blank">池袋J.GOSPEL LIVEに向かって<br>The Visionと出演グループの2日間</a></p>
-
+<p class="block-title"><a href="http://astone.tv/events/1711live/" target="_blank">池袋J.GOSPEL LIVEに向かって<br>The Visionと出演グループの2日間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
