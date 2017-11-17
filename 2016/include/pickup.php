@@ -214,13 +214,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1112event/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年11月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1112event/" target="_blank">エルサレム<br>エルサレム他教会でゴスペル教室</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/2017byhisspirit/20171112/" target="_blank"><img src="/2016/images/top/1704byhisnerima.jpg"></a>
 <p class="block-date">日程：2017年11月12日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171112/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
@@ -249,13 +242,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1111iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年11月11日～11月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1111iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のグループホームでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <a href="https://youtu.be/zoDPkh42NnQ" target="_blank" onclick="javascript:pageTracker._trackPageview('「地の塩　山室軍平」映画予告編');"><img src="/2016/images/top/1710chinosio_cm.jpg"></a>
 <p class="block-date">2017年10月21日よりロードショー</p>
@@ -268,61 +254,6 @@
 <p class="block-date">日程：2017年10月30日~11月11日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/yearend201710/" target="_blank"><img src="/2016/images/top/1611shinnendoantioch.jpg"></a>
-<p class="block-date">日程：2017年10月30日～11月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yearend201710/" target="_blank">年度末・新年度<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2017labeille/category/1105suginami/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
-<p class="block-date">日程：2017年11月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/category/1105suginami/" target="_blank">ラベイユ <br>杉並の音楽祭に出演</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/yearend1710/" target="_blank"><img src="/2016/images/top/1611shinnendozenkoku.jpg"></a>
-<p class="block-date">日程：2017年10月30日～11月5日</p>
-<p class="block-title"><a href="http://astone.tv/events/yearend1710/" target="_blank">年度末・新年度<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1711nakano/" target="_blank"><img src="/2016/images/top/1711jerpattehhyso.jpg"></a>
-<p class="block-date">日程：2017年11月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711nakano/" target="_blank">エルサレム、PATOLIS、テヒリーム、Hyssop<br>中野のイベントでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">写真集</span>
-<a href="/tcm/index_1710.html" target="_blank"><img src="/2016/images/top/1710jel_kireiphoto.jpg"></a>
-<p class="block-date">2017年10月1日</p>
-<p class="block-title"><a href="/tcm/index_1710.html" target="_blank">エルサレムの平和の為に祈る集い<br>綺麗な写真版写真集</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank"><img src="/2016/images/top/1710jeruheiwa_m.jpg"></a>
-<p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2017/" target="_blank">エルサレムの平和のために祈る集い<br>アーカイブ版</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank"><img src="/2016/images/top/1709suroukudigest_m.jpg"></a>
-<p class="block-date">チーム日程：2017年9月4日〜9日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201709ukraine-slovakia/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト映像<br>(再生時間 6:03)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://blog.antioch.jp/ukraine1709slovakia/category/ukdst/" target="_blank"><img src="/2016/images/top/1709suroukudigest_p.jpg"></a>
-<p class="block-date">チーム日程：2017年9月4日〜9日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/ukraine1709slovakia/category/ukdst/" target="_blank">ウクライナ・スロバキアチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のために)</a></p>
-</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
