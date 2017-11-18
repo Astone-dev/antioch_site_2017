@@ -30,6 +30,14 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1711hokkaido/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
+<p class="block-date">日程：2017年11月19日～23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1711hokkaido/" target="_blank">北海道を行く<br>北海道宣教の旅<br>(日程：2017年11月20日〜22日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -77,6 +85,30 @@
 <p class="block-date">日程：2017年11月17日-18日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1118night/" target="_blank">若者たち集まれ<br>11月のRevival Night</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1711women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
+<p class="block-date">日程：2017年11月19日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711women/" target="_blank">婦人会</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/euqaristias/20171119shinjuku/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
+<p class="block-date">日程：2017年11月19日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171119shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/1119nerima/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
+<p class="block-date">日程：2017年11月19日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/1119nerima/" target="_blank">By His spirit <br>練馬デイサービスでゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
