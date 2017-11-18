@@ -57,6 +57,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/1711kichijyoji/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
+<p class="block-date">日程：2017年11月19日～23日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711kichijyoji/" target="_blank">吉祥寺J.GOSPEL FESに向かって</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/1711women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
 <p class="block-date">日程：2017年11月19日</p>
 <p class="block-title"><a href="http://astone.tv/events/1711women/" target="_blank">婦人会<br>鍋を食べる</a></p>
