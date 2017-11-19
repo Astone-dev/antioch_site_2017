@@ -38,38 +38,6 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1711hokkaido/" target="_blank">新年度の北海道を行く<br>北海道宣教の旅<br>(日程：2017年11月20日〜22日)</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1711antioch/" target="_blank"><img src="/2016/images/top/1711fuyuantioch.jpg"></a>
-<p class="block-date">日程：2017年11月20日～26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1711antioch/" target="_blank">和食党、洋食党の一週間<br>アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/thanks1711z/" target="_blank"><img src="/2016/images/top/1711fuyuantioch.jpg"></a>
-<p class="block-date">日程：2017年11月20日～26日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1711z/" target="_blank">和食党、洋食党の一週間<br>全国各教会</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/1711antioch/" target="_blank"><img src="/2016/images/top/1711fuyuantioch.jpg"></a>
-<p class="block-date">日程：2017年11月13日～11月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1711antioch/" target="_blank">冬近づく<br>アンテオケの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/thanks1711/" target="_blank"><img src="/2016/images/top/1711antioch.jpg"></a>
-<p class="block-date">日程：2017年11月13日～11月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/thanks1711/" target="_blank">イスラエルの思い出<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -81,25 +49,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1711women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
-<p class="block-date">日程：2017年11月19日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711women/" target="_blank">婦人会<br>鍋を食べる</a></p>
+<a href="http://antiochblog.jp/info/1711antioch/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
+<p class="block-date">日程：2017年11月20日～26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1711antioch/" target="_blank">和食党、洋食党の一週間<br>アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20171119shinjuku/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
-<p class="block-date">日程：2017年11月19日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171119shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/1119nerima/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
-<p class="block-date">日程：2017年11月19日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/1119nerima/" target="_blank">By His spirit <br>練馬デイサービスでゴスペルコンサート</a></p>
+<a href="http://astone.tv/events/thanks1711z/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuzenkoku.jpg"></a>
+<p class="block-date">日程：2017年11月20日～26日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1711z/" target="_blank">和食党、洋食党の一週間<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -108,22 +68,6 @@
 <a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
 <p class="block-date">日程：2017年10月30日～11月11日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/1711nation/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
-<p class="block-date">日程：2017年11月13日～11月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1711nation/" target="_blank">冬近づく<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/israel1711/" target="_blank"><img src="/2016/images/top/1711nation.jpg"></a>
-<p class="block-date">日程：2017年11月13日～11月19日</p>
-<p class="block-title"><a href="http://astone.tv/events/israel1711/" target="_blank">イスラエルの思い出<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -172,6 +116,55 @@
 <a href="http://antiochblog.jp/info/important/" target="_blank"><img src="/2016/images/top/1709yorimichi29.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/important/" target="_blank">クリスチャンの寄り道 Vol.29<br>今回は「大事な事柄が分かった時」のお話です</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1711antioch/" target="_blank"><img src="/2016/images/top/1711fuyuantioch.jpg"></a>
+<p class="block-date">日程：2017年11月13日～11月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1711antioch/" target="_blank">冬近づく<br>アンテオケの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/thanks1711/" target="_blank"><img src="/2016/images/top/1711antioch.jpg"></a>
+<p class="block-date">日程：2017年11月13日～11月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/thanks1711/" target="_blank">イスラエルの思い出<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1711women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
+<p class="block-date">日程：2017年11月19日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711women/" target="_blank">婦人会<br>鍋を食べる</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20171119shinjuku/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
+<p class="block-date">日程：2017年11月19日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171119shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/1119nerima/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
+<p class="block-date">日程：2017年11月19日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/1119nerima/" target="_blank">By His spirit <br>練馬デイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/1711nation/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
+<p class="block-date">日程：2017年11月13日～11月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1711nation/" target="_blank">冬近づく<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/israel1711/" target="_blank"><img src="/2016/images/top/1711nation.jpg"></a>
+<p class="block-date">日程：2017年11月13日～11月19日</p>
+<p class="block-title"><a href="http://astone.tv/events/israel1711/" target="_blank">イスラエルの思い出<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
