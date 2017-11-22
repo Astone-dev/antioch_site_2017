@@ -34,7 +34,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1711hokkaido/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
-<p class="block-date">日程：2017年11月19日～23日</p>
+<p class="block-date">ブログ：2017年11月19日～23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1711hokkaido/" target="_blank">新年度の北海道を行く<br>北海道宣教の旅<br>(日程：2017年11月20日〜22日)</a></p>
 </div>
 
@@ -42,15 +42,15 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1711kichijyoji/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
-<p class="block-date">日程：2017年11月19日～23日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711kichijyoji/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>ゴスペルグループ、The Visionのどたばた</a></p>
+<p class="block-date">ブログ：2017年11月19日～23日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711kichijyoji/" target="_blank">いよいよ明日！<br>祥寺J.GOSPEL FES<br>ゴスペルグループ、The Visionのどたばた<br>（日程:2017年11月23日）</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1711antioch/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
-<p class="block-date">日程：2017年11月20日～26日</p>
+<p class="block-date">ブログ：2017年11月20日～26日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1711antioch/" target="_blank">和食党、洋食党の一週間<br>アンテオケ教会</a></p>
 </div>
 
@@ -58,15 +58,15 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank"><img src="/2016/images/top/1711kanshakai.jpg"></a>
-<p class="block-date">日程：2017年11月22日～25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank">教会感謝会に向かって<br>教会、各部門のあれこれ</a></p>
+<p class="block-date">ブログ：2017年11月22日～25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank">教会感謝会に向かって<br>教会、各部門のあれこれ<br>(日程:2017年11月25日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1122misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年11月18日</p>
+<p class="block-date">ブログ：2017年11月18日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1122misato/" target="_blank">エルサレム<br>三郷の福祉施設でゴスペル教室</a></p>
 </div>
 
