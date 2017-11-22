@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1711kichijyoji/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
 <p class="block-date">ブログ：2017年11月19日～23日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711kichijyoji/" target="_blank">いよいよ明日！<br>祥寺J.GOSPEL FES<br>ゴスペルグループ、The Visionのどたばた<br>（日程:2017年11月23日）</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1711kichijyoji/" target="_blank">いよいよ明日！<br>吉祥寺J.GOSPEL FES<br>賛美グループ、TheVisionのドタバタ<br>（日程:2017年11月23日）</a></p>
 </div>
 
 <div class="column-inner">
