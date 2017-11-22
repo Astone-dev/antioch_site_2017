@@ -1,22 +1,6 @@
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継'); "><img src="/2016/images/top/1609nerimafeslive.png"></a>
-<p class="block-date">2017年5月20日</p>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年5月20日 11:00〜)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');"><img src="/2016/images/top/1701cambodialive.jpg"></a>
-<p class="block-date">2017年8月22日、23日</p>
-<p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>(日程：2017年8月22日、23日 日本時間21：00スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
 <a href="https://www.youtube.com/watch?v=ZebnU1MeJ5w" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人の教会での奉仕生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年11月4日</p>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=ZebnU1MeJ5w" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人の教会での奉仕生中継');">ロシア系ユダヤ人の教会での奉仕 生中継</a></p>
@@ -43,7 +27,15 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1711kichijyoji/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
 <p class="block-date">ブログ：2017年11月19日～23日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711kichijyoji/" target="_blank">いよいよ明日！<br>吉祥寺J.GOSPEL FES<br>賛美グループ、TheVisionのドタバタ<br>（日程:2017年11月23日）</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1711kichijyoji/" target="_blank">いよいよ今日本番！<br>吉祥寺J.GOSPEL FES<br>賛美グループ、TheVisionのドタバタ<br>（日程:2017年11月23日）</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継'); "><img src="/2016/images/top/1609nerimafeslive.png"></a>
+<p class="block-date">2017年11月23日</p>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年11月23日 11:30〜)</a></p>
 </div>
 
 <div class="column-inner">
@@ -60,14 +52,6 @@
 <a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank"><img src="/2016/images/top/1711kanshakai.jpg"></a>
 <p class="block-date">ブログ：2017年11月22日～25日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank">教会感謝会に向かって<br>教会、各部門のあれこれ<br>(日程:2017年11月25日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1122misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年11月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1122misato/" target="_blank">エルサレム<br>三郷の福祉施設でゴスペル教室</a></p>
 </div>
 
 <div class="column-inner">
@@ -132,6 +116,13 @@
 <a href="http://antiochblog.jp/info/important/" target="_blank"><img src="/2016/images/top/1709yorimichi29.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/important/" target="_blank">クリスチャンの寄り道 Vol.29<br>今回は「大事な事柄が分かった時」のお話です</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1122misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年11月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1122misato/" target="_blank">エルサレム<br>三郷の福祉施設でゴスペル教室</a></p>
 </div>
 
 <div class="column-inner">
