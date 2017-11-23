@@ -14,13 +14,13 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/koiwa1711/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
+<a href="http://antiochblog.jp/info/koiwa1711/" target="_blank"><img src="/2016/images/top/1707myanmarkyokai"></a>
 <p class="block-date">ブログ：2017年11月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/koiwa1711/" target="_blank">小岩を行く<br>小岩宣教の旅<br>(日程：2017年11月24日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/koiwa1711/" target="_blank">秋の小岩を行く<br>関東宣教の旅<br>(日程：2017年11月24日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -46,13 +46,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank">教会感謝会に向かって<br>教会、各部門のあれこれ<br>(日程:2017年11月25日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gracejewel2017/1124nerima/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
 <p class="block-date">ブログ：2017年11月24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/1124nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスゴスペルコンサート<br>(日程：2017年11月24日)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
