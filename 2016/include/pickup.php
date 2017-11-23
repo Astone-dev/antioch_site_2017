@@ -33,9 +33,9 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継'); "><img src="/2016/images/top/1609nerimafeslive.png"></a>
+<a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA/live" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継'); "><img src="/2016/images/top/1609nerimafeslive.png"></a>
 <p class="block-date">2017年11月23日</p>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=nIJ1EyOVzTo" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年11月23日 11:30〜)</a></p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA/live" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年11月23日 11:30〜)</a></p>
 </div>
 
 <div class="column-inner">
