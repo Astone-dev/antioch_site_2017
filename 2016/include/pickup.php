@@ -25,14 +25,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1711kichijyoji/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
-<p class="block-date">ブログ：2017年11月19日～23日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711kichijyoji/" target="_blank">いよいよ今日本番！<br>吉祥寺J.GOSPEL FES<br>賛美グループ、TheVisionのドタバタ<br>（日程:2017年11月23日）</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/1711antioch/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
 <p class="block-date">ブログ：2017年11月20日～26日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1711antioch/" target="_blank">和食党、洋食党の一週間<br>アンテオケ教会</a></p>
@@ -117,6 +109,13 @@
 <a href="http://antiochblog.jp/praise/1711hokkaido/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
 <p class="block-date">ブログ：2017年11月19日～23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1711hokkaido/" target="_blank">新年度の北海道を行く<br>北海道宣教の旅<br>(日程：2017年11月20日〜22日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1711kichijyoji/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
+<p class="block-date">ブログ：2017年11月19日～23日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711kichijyoji/" target="_blank">いよいよ今日本番！<br>吉祥寺J.GOSPEL FES<br>賛美グループ、TheVisionのドタバタ<br>（日程:2017年11月23日）</a></p>
 </div>
 
 <div class="column-inner">
