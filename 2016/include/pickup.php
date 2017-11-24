@@ -17,9 +17,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/koiwa1711/" target="_blank"><img src="/2016/images/top/1707myanmarkyokai.jpg"></a>
-<p class="block-date">ブログ：2017年11月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/koiwa1711/" target="_blank">秋の小岩を行く<br>関東宣教の旅<br>(日程：2017年11月24日)</a></p>
+<a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank"><img src="/2016/images/top/1711kanshakai.jpg"></a>
+<p class="block-date">ブログ：2017年11月22日～25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank">いよいよ今日、教会感謝会<br>教会、各部門のあれこれ<br>(日程:2017年11月25日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -31,28 +31,19 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank"><img src="/2016/images/top/1711kanshakai.jpg"></a>
-<p class="block-date">ブログ：2017年11月22日～25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank">教会感謝会に向かって<br>教会、各部門のあれこれ<br>(日程:2017年11月25日)</a></p>
-</div>
-
-<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年11月25日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年11月25日 18:30スタート)</a></p>
-</div>-->
+</div>
 
-<!--
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gospel2017/category/1125gospel/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
 <p class="block-date">ブログ：2017年11月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/1125gospel/" target="_blank">11月 ゴスペルの集い<br>(日程：2017年11月25日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/1125gospel/" target="_blank">11月 ゴスペルの集いの一日<br>(日程：2017年11月25日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -69,14 +60,6 @@
 <a href="http://astone.tv/events/1711setagaya/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
 <p class="block-date">ブログ：2017年11月25日</p>
 <p class="block-title"><a href="http://astone.tv/events/1711setagaya/" target="_blank">Gate of Praise<br>世田谷区のデイサービスでゴスペルコンサート<br>(日程：2017年11月25日)</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/1124nerima/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">ブログ：2017年11月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/1124nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスゴスペルコンサート<br>(日程：2017年11月24日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -135,6 +118,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/koiwa1711/" target="_blank"><img src="/2016/images/top/1707myanmarkyokai.jpg"></a>
+<p class="block-date">ブログ：2017年11月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/koiwa1711/" target="_blank">秋の小岩を行く<br>関東宣教の旅<br>(日程：2017年11月24日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/1124nerima/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">ブログ：2017年11月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/1124nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスゴスペルコンサート<br>(日程：2017年11月24日)</a></p>
 </div>
 
 <div class="column-inner">
