@@ -113,12 +113,6 @@
 </div>
 
 <div class="column-inner">
-<a href="http://antiochblog.jp/info/important/" target="_blank"><img src="/2016/images/top/1709yorimichi29.jpg"></a>
-<p class="block-date">毎日7:00更新</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/important/" target="_blank">クリスチャンの寄り道 Vol.29<br>今回は「大事な事柄が分かった時」のお話です</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/1711hokkaido/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
 <p class="block-date">ブログ：2017年11月19日～23日</p>
@@ -214,105 +208,6 @@
 <a href="http://antiochblog.jp/info/1711gate/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
 <p class="block-date">日程：2017年11月18日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1711gate/" target="_blank">The Gate of Praise<br>練馬区の介護老人保健施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1711movie/" target="_blank"><img src="/2016/images/top/1711interbee.jpg"></a>
-<p class="block-date">日程：2017年11月15日～16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1711movie/" target="_blank">映像部幕張メッセへ</strong><br>最新機材リサーチに行く</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年11月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1116hakone/" target="_blank">エルサレム<br>エルサレム箱根のホテルでロビーコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
-<p class="block-date">日程：2017年11月12日～16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1711/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅<br>(日程：2017年11月13日〜15日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://blog.antioch.jp/1711israel/" target="_blank"><img src="/2016/images/top/1710israelchokuzen.jpg"></a>
-<p class="block-date">日程：2017年10月30日～11月11日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1711israel/" target="_blank">イスラエルチーム写真集<br>じっくり全てを知りたい人のために<br>(チーム日程：2017年10月30日〜11月11日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1711kawaguchi/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
-<p class="block-date">日程：2017年11月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1711kawaguchi/" target="_blank">PATOLIS<br>川口の病院の病棟でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1114orange/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2017年11月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1114orange/" target="_blank">エルサレム<br>三郷のオレンジカフェでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/category/1114fuchu/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
-<p class="block-date">日程：2017年11月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/category/1114fuchu/" target="_blank">GRACEと宝石<br>府中市のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/charisma1711/" target="_blank"><img src="/2016/images/top/1706tokari.jpg"></a>
-<p class="block-date">日程：2017年11月11〜12日</p>
-<p class="block-title"><a href="http://astone.tv/events/charisma1711/" target="_blank">新年度最初の東京カリスマ聖会<br>裏も表も全て見せます<br>(日程：2017年11月12日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/faith1711a/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
-<p class="block-date">日程：2017年11月6日～11月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/faith1711a/" target="_blank">新年度スタート<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1711gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
-<p class="block-date">日程：2017年11月11日～11月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711gifts/" target="_blank">Gifts<br>中野のイベントでゴスペルを歌う<br>(日程：2017年11月12日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017byhisspirit/20171112/" target="_blank"><img src="/2016/images/top/1704byhisnerima.jpg"></a>
-<p class="block-date">日程：2017年11月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171112/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracious1711/" target="_blank"><img src="/2016/images/top/1704gracious.jpg"></a>
-<p class="block-date">日程：2017年11月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracious1711/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサ－ビスゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1711faith/" target="_blank"><img src="/2016/images/top/1711shinnendozenkoku.jpg"></a>
-<p class="block-date">日程：2017年11月6日～11月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711faith/" target="_blank">新年度スタート<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017healing/1111healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
-<p class="block-date">日程：2017年11月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/1111healing/" target="_blank">11月いやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
