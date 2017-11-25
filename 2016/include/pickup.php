@@ -30,6 +30,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/1711antioch/" target="_blank">和食党、洋食党の一週間<br>アンテオケ教会</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017students/1126students/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
+<p class="block-date">ブログ：2017年11月26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/1126students/" target="_blank">学生会 豆乳坦々鍋を食べる<br>(日程：2017年11月26日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
