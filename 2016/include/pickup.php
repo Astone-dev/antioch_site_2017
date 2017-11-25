@@ -17,14 +17,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank"><img src="/2016/images/top/1711kanshakai.jpg"></a>
-<p class="block-date">ブログ：2017年11月22日～25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank">いよいよ今日、教会感謝会<br>教会、各部門のあれこれ<br>(日程:2017年11月25日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/1711antioch/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
 <p class="block-date">ブログ：2017年11月20日～26日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1711antioch/" target="_blank">和食党、洋食党の一週間<br>アンテオケ教会</a></p>
@@ -44,6 +36,14 @@
 <a href="http://antiochblog.jp/praise/gospel2017/category/1125gospel/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
 <p class="block-date">ブログ：2017年11月25日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/category/1125gospel/" target="_blank">11月 ゴスペルの集いの一日<br>(日程：2017年11月25日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank"><img src="/2016/images/top/1711kanshakai.jpg"></a>
+<p class="block-date">ブログ：2017年11月22日～25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank">いよいよ今日、教会感謝会<br>教会、各部門のあれこれ<br>(日程:2017年11月25日)</a></p>
 </div>
 
 <div class="column-inner">
