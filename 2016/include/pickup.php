@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank"><img src="/2016/images/top/1711kanshakai.jpg"></a>
 <p class="block-date">ブログ：2017年11月22日～25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank">いよいよ今日、教会感謝会<br>教会、各部門のあれこれ<br>(日程:2017年11月25日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1711a/" target="_blank">いよいよ今日 教会感謝会<br>教会、各部門のあれこれ<br>(日程:2017年11月25日)</a></p>
 </div>
 
 <div class="column-inner">
