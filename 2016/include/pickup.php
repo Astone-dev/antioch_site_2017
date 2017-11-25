@@ -59,7 +59,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1711setagaya/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
 <p class="block-date">ブログ：2017年11月25日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711setagaya/" target="_blank">Gate of Praise<br>世田谷区のデイサービスでゴスペルコンサート<br>(日程：2017年11月25日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1711setagaya/" target="_blank">The Gate of Praise、JOHN<br>世田谷区のデイサービスでゴスペルコンサート<br>(日程：2017年11月25日)</a></p>
 </div>
 
 <div class="column-inner">
