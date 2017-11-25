@@ -19,7 +19,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/shikoku1711/" target="_blank"><img src="/2016/images/top/1703shikoku.jpg"></a>
 <p class="block-date">ブログ：2017年11月26日～30日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/shikoku1711/" target="_blank">秋の四国を行く<br>四国宣教の旅<br>(日程：2017年11月27日～29日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/shikoku1711/" target="_blank">初冬の四国を行く<br>四国宣教の旅<br>(日程：2017年11月27日～29日)</a></p>
 </div>-->
 
 <div class="column-inner">
