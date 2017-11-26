@@ -33,9 +33,41 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017students/1126students/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
-<p class="block-date">ブログ：2017年11月26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/1126students/" target="_blank">学生会 豆乳坦々鍋を食べる<br>(日程：2017年11月26日)</a></p>
+<a href="http://astone.tv/events/kokorogospel1711/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
+<p class="block-date">ブログ：2017年11月27日～12月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/kokorogospel1711/" target="_blank">こころごすぺる <br>各チーム胸の高鳴り</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/prayer1712/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
+<p class="block-date">ブログ：2017年11月27日～12月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/prayer1712/" target="_blank">連鎖祈祷始まる喜びの一週間<br>アンテオケ教会</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
+<p class="block-date">ブログ：2017年11月27日～12月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank">礎の石孤児院の一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1711gifts/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
+<p class="block-date">ブログ：2017年11月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1711gifts/" target="_blank">Gifts<br>NPOのパーティーでゴスペルを歌う</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/prayer1712z/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuzenkoku.jpg"></a>
+<p class="block-date">日程：2017年11月27日～12月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/prayer1712z/" target="_blank">連鎖祈祷始まる喜びの一週間<br>全国各教会</a></p>
 </div>-->
 
 <div class="column-inner">
