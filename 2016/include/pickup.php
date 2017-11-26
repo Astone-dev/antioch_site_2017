@@ -49,6 +49,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/20171126/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date">ブログ：2017年11月26日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171126/" target="_blank">By His Spirit<br>高円寺のレストランでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/thanks1711z/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuzenkoku.jpg"></a>
 <p class="block-date">日程：2017年11月20日～26日</p>
 <p class="block-title"><a href="http://astone.tv/events/thanks1711z/" target="_blank">和食党、洋食党の一週間<br>全国各教会</a></p>
