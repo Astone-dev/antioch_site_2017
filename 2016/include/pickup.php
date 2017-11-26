@@ -38,13 +38,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/1711gifts/" target="_blank">Gifts<br> NPOのパーティーでゴスペルを歌う</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
+<a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank"><img src="/2016/images/top/1711ishizueweek.jpg"></a>
 <p class="block-date">ブログ：2017年11月27日～12月3日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank">礎の石孤児院の一週間</a></p>
-</div>-->
+</div>
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
