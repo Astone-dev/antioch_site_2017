@@ -33,7 +33,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1711gifts/" target="_blank"><img src="/2016/images/top/1605giftskansai.jpg"></a>
+<a href="http://antiochblog.jp/info/1711gifts/" target="_blank"><img src="/2016/images/top/1711giftsnpogospel.jpg"></a>
 <p class="block-date">ブログ：2017年11月27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1711gifts/" target="_blank">Gifts<br> NPOのパーティーでゴスペルを歌う</a></p>
 </div>
