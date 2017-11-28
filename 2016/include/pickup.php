@@ -33,9 +33,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1711gifts/" target="_blank"><img src="/2016/images/top/1711giftsnpogospel.jpg"></a>
-<p class="block-date">ブログ：2017年11月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1711gifts/" target="_blank">Gifts<br> NPOのパーティーでゴスペルを歌う</a></p>
+<a href="http://astone.tv/events/kokorogospel1711/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
+<p class="block-date">ブログ：2017年11月27日～12月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/kokorogospel1711/" target="_blank">こころごすぺる<br>各チーム胸の高鳴り<br>(日程：2017年12月22日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -44,14 +44,6 @@
 <a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank"><img src="/2016/images/top/1711ishizueweek.jpg"></a>
 <p class="block-date">ブログ：2017年11月27日～12月3日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank">礎の石孤児院の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/kokorogospel1711/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
-<p class="block-date">ブログ：2017年11月27日～12月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/kokorogospel1711/" target="_blank">こころごすぺる<br>各チーム胸の高鳴り<br>(日程：2017年12月22日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -110,6 +102,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1711gifts/" target="_blank"><img src="/2016/images/top/1711giftsnpogospel.jpg"></a>
+<p class="block-date">ブログ：2017年11月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1711gifts/" target="_blank">Gifts<br>NPOのパーティーでゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
