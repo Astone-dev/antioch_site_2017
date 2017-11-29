@@ -46,13 +46,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank">礎の石孤児院の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1711event/" target="_blank"><img src="/2016/images/top/1711fuchinotengoku.jpg"></a>
 <p class="block-date">ブログ：2017年11月29日～30日</p>
 <p class="block-title"><a href="http://astone.tv/events/1711event/" target="_blank">渕野浩兄、天国へ</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
