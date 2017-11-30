@@ -17,9 +17,9 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1712machida/" target="_blank"><img src="/2016/images/top/1703shikoku.jpg"></a>
+<a href="http://astone.tv/events/1712machida/" target="_blank"><img src="/2016/images/top/1712machida.jpg"></a>
 <p class="block-date">ブログ：2017年12月1日</p>
-<p class="block-title"><a href="http://astone.tv/events/1712machida/" target="_blank">初冬の町田を行く<br>町田宣教の旅<br>(日程：2017年12月1日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1712machida/" target="_blank">師走の町田を行く<br>関東宣教の旅<br>(日程：2017年12月1日)</a></p>
 </div>-->
 
 <div class="column-inner">
