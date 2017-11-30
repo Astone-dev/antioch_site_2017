@@ -25,14 +25,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/shikoku1711/" target="_blank"><img src="/2016/images/top/1703shikoku.jpg"></a>
-<p class="block-date">ブログ：2017年11月26日～30日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/shikoku1711/" target="_blank">初冬の四国を行く<br>四国宣教の旅<br>(日程：2017年11月27日～29日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/prayer1712/" target="_blank"><img src="/2016/images/top/1711rensaantioch.jpg"></a>
 <p class="block-date">ブログ：2017年11月27日～12月3日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/prayer1712/" target="_blank">連鎖祈祷始まる喜びの一週間<br>アンテオケ教会</a></p>
@@ -71,30 +63,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
-<p class="block-date">日程：2017年10月30日～11月11日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1711israel/category/israel17dst/" target="_blank"><img src="/2016/images/top/1711israelteamdigest_p.jpg"></a>
-<p class="block-date">日程：2017年10月30日～11月11日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1711israel/category/israel17dst/" target="_blank">イスラエルチーム<br>ダイジェスト写真集<br>(短くい全てを知りたい人のために)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank"><img src="/2016/images/top/1711shinnendreihai_m.jpg"></a>
-<p class="block-date">日程：2017年11月5日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank">ガリラヤ湖、アルベル山<br>新年度礼拝<br>映像保存版</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/alacarte/" target="_blank"><img src="/2016/images/top/1711yorimichi30.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
@@ -118,6 +86,34 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
+<p class="block-date">日程：2017年10月30日～11月11日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1711israel/category/israel17dst/" target="_blank"><img src="/2016/images/top/1711israelteamdigest_p.jpg"></a>
+<p class="block-date">日程：2017年10月30日～11月11日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1711israel/category/israel17dst/" target="_blank">イスラエルチーム<br>ダイジェスト写真集<br>(短くい全てを知りたい人のために)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank"><img src="/2016/images/top/1711shinnendreihai_m.jpg"></a>
+<p class="block-date">日程：2017年11月5日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank">ガリラヤ湖、アルベル山<br>新年度礼拝<br>映像保存版</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/shikoku1711/" target="_blank"><img src="/2016/images/top/1703shikoku.jpg"></a>
+<p class="block-date">ブログ：2017年11月26日～30日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/shikoku1711/" target="_blank">初冬の四国を行く<br>四国宣教の旅<br>(日程：2017年11月27日～29日)</a></p>
 </div>
 
 <div class="column-inner">
