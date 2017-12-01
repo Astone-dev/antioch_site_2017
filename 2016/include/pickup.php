@@ -22,6 +22,14 @@
 <p class="block-title"><a href="http://astone.tv/events/1712machida/" target="_blank">師走の町田を行く<br>関東宣教の旅<br>(日程：2017年12月1日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1712chari/" target="_blank"><img src="/2016/images/top/1710jel_kireiphoto.jpg"></a>
+<p class="block-date">ブログ：2017年12月2日～3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712chari/" target="_blank">東京カリスマ聖会<br>(日程：2017年12月3日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -53,6 +61,23 @@
 <p class="block-date">ブログ：2017年11月27日～12月3日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank">礎の石孤児院の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1712gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+<p class="block-date">ブログ：2017年12月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1712gifts/" target="_blank">Gifts<br>府中の施設でゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017labeille/1202arakawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
+<p class="block-date">ブログ：2017年12月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/1202arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>-->
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
