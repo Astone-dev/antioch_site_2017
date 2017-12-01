@@ -38,28 +38,20 @@
 <p class="block-title"><a href="http://astone.tv/events/kokorogospel1711/" target="_blank">こころごすぺる<br>各チーム胸の高鳴り<br>(日程：2017年12月22日)</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://www.gospelconcert.jp" target="_blank"><img src="/2016/images/top/1712kokorogospelinfo.jpg"></a>
-<p class="block-date">日程：2017年12月22日</p>
-<p class="block-title"><a href="http://www.gospelconcert.jp" target="_blank">こころごすぺる 28th<br>ご案内</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank"><img src="/2016/images/top/1711ishizueweek.jpg"></a>
-<p class="block-date">ブログ：2017年11月27日～12月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank">礎の石孤児院の一週間</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1712gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
 <p class="block-date">ブログ：2017年12月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1712gifts/" target="_blank">Gifts冬の2日間<br>府中の施設でゴスペル、他教会でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://www.gospelconcert.jp" target="_blank"><img src="/2016/images/top/1712kokorogospelinfo.jpg"></a>
+<p class="block-date">日程：2017年12月22日</p>
+<p class="block-title"><a href="http://www.gospelconcert.jp" target="_blank">こころごすぺる 28th<br>ご案内</a></p>
 </div>
 
 <div class="column-inner">
@@ -76,6 +68,14 @@
 <a href="http://antiochblog.jp/praise/2017labeille/1202arakawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
 <p class="block-date">ブログ：2017年12月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/1202arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank"><img src="/2016/images/top/1711ishizueweek.jpg"></a>
+<p class="block-date">ブログ：2017年11月27日～12月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank">礎の石孤児院の一週間</a></p>
 </div>
 
 <div class="column-inner">
