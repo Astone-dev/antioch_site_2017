@@ -49,9 +49,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1711event/" target="_blank"><img src="/2016/images/top/1711fuchinotengoku.jpg"></a>
-<p class="block-date">ブログ：2017年11月29日～30日</p>
-<p class="block-title"><a href="http://astone.tv/events/1711event/" target="_blank">渕野浩兄、天国へ</a></p>
+<a href="http://antiochblog.jp/info/jerusalem2017/1201soma/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月1日～2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1201soma/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -107,6 +107,13 @@
 <a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank"><img src="/2016/images/top/1711shinnendreihai_m.jpg"></a>
 <p class="block-date">日程：2017年11月5日</p>
 <p class="block-title"><a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank">ガリラヤ湖、アルベル山<br>新年度礼拝<br>映像保存版</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1711event/" target="_blank"><img src="/2016/images/top/1711fuchinotengoku.jpg"></a>
+<p class="block-date">ブログ：2017年11月29日～30日</p>
+<p class="block-title"><a href="http://astone.tv/events/1711event/" target="_blank">渕野浩兄、天国へ</a></p>
 </div>
 
 <div class="column-inner">
