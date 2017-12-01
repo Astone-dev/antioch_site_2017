@@ -17,18 +17,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1712machida/" target="_blank"><img src="/2016/images/top/1712machida.jpg"></a>
-<p class="block-date">ブログ：2017年12月1日</p>
-<p class="block-title"><a href="http://astone.tv/events/1712machida/" target="_blank">師走の町田を行く<br>関東宣教の旅<br>(日程：2017年12月1日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/1712chari/" target="_blank"><img src="/2016/images/top/1710jel_kireiphoto.jpg"></a>
 <p class="block-date">ブログ：2017年12月2日～3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712chari/" target="_blank">東京カリスマ聖会<br>(日程：2017年12月3日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/1712chari/" target="_blank">冬の東京カリスマ聖会<br>師走のスタッフ大忙し<br>(日程：2017年12月3日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -51,7 +43,7 @@
 <span>NEW</span>
 <a href="http://www.gospelconcert.jp" target="_blank"><img src="/2016/images/top/1712kokorogospelinfo.jpg"></a>
 <p class="block-date">日程：2017年12月22日</p>
-<p class="block-title"><a href="http://www.gospelconcert.jp" target="_blank">こころごすぺる 28th</a></p>
+<p class="block-title"><a href="http://www.gospelconcert.jp" target="_blank">こころごすぺる 28th<br>ご案内</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -62,12 +54,20 @@
 <p class="block-title"><a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank">礎の石孤児院の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1712gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
 <p class="block-date">ブログ：2017年12月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1712gifts/" target="_blank">Gifts<br>府中の施設でゴスペル</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1712gifts/" target="_blank">Gifts冬の2日間<br>府中の施設でゴスペル、他教会でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1201soma/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月1日～2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1201soma/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -76,15 +76,6 @@
 <a href="http://antiochblog.jp/praise/2017labeille/1202arakawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
 <p class="block-date">ブログ：2017年12月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/1202arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
-</div>-->
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1201soma/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年12月1日～2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1201soma/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -119,6 +110,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1712machida/" target="_blank"><img src="/2016/images/top/1712machida.jpg"></a>
+<p class="block-date">ブログ：2017年12月1日</p>
+<p class="block-title"><a href="http://astone.tv/events/1712machida/" target="_blank">師走の町田を行く<br>関東宣教の旅<br>(日程：2017年12月1日)</a></p>
 </div>
 
 <div class="column-inner">
