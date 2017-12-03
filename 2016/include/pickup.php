@@ -27,79 +27,39 @@
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
 <p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム直前情報<br>(日程：2017年12月4日～6日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1712/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1712/" target="_blank">賛美隊大爆発 <br>アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/thanks1712/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/thanks1712/" target="_blank">趣味の一週間<br>アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/sanbitai1712/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/sanbitai1712/" target="_blank">賛美隊大爆発 <br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/thanks1712a/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1712a/" target="_blank">趣味の一週間<br>全国各教会</a></p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム直前情報<br>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
 </div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1712chari/" target="_blank"><img src="/2016/images/top/1710jel_kireiphoto.jpg"></a>
-<p class="block-date">ブログ：2017年12月2日～3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712chari/" target="_blank">冬の東京カリスマ聖会<br>師走のスタッフ大忙し<br>(日程：2017年12月3日)</a></p>
+<a href="http://antiochblog.jp/praise/faith1712/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/prayer1712/" target="_blank"><img src="/2016/images/top/1711rensaantioch.jpg"></a>
-<p class="block-date">ブログ：2017年11月27日～12月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/prayer1712/" target="_blank">連鎖祈祷始まる喜びの一週間<br>アンテオケ教会</a></p>
+<a href="http://antiochblog.jp/info/thanks1712/" target="_blank"><img src="/2016/images/top/1712hobbyantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/thanks1712/" target="_blank">私の趣味あれこれ<br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/kokorogospel1711/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
-<p class="block-date">ブログ：2017年11月27日～12月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/kokorogospel1711/" target="_blank">こころごすぺる<br>各チーム胸の高鳴り<br>(日程：2017年12月22日)</a></p>
+<a href="http://astone.tv/events/sanbitai1712/" target="_blank"><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://astone.tv/events/sanbitai1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1712gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
-<p class="block-date">ブログ：2017年12月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1712gifts/" target="_blank">Gifts冬の2日間<br>府中の施設でゴスペル、他教会でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1712gospel/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-<p class="block-date">ブログ：2017年12月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1712gospel/" target="_blank">The Gate of Praise、JOHN<br>世田谷区のイベントでゴスペルコンサート<br>(日程：2017年12月3日)</a></p>
+<a href="http://astone.tv/events/thanks1712a/" target="_blank"><img src="/2016/images/top/1712hobbyzenkoku.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1712a/" target="_blank">私の趣味あれこれ<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -114,24 +74,7 @@
 <span>NEW</span>
 <a href="/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo.jpg"></a>
 <p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
-<p class="block-title"><a href="/hakuba-synerugoi/" target="_blank">
-    白馬スネルゴイキャンプ</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank"><img src="/2016/images/top/1711ishizueweek.jpg"></a>
-<p class="block-date">ブログ：2017年11月27日～12月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank">礎の石孤児院の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/prayer1712z/" target="_blank"><img src="/2016/images/top/1711rensazenkoku.jpg"></a>
-<p class="block-date">日程：2017年11月27日～12月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/prayer1712z/" target="_blank">連鎖祈祷始まる喜びの一週間<br>全国各教会</a></p>
+<p class="block-title"><a href="/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ</a></p>
 </div>
 
 <div class="column-inner">
@@ -158,6 +101,55 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1712chari/" target="_blank"><img src="/2016/images/top/1710jel_kireiphoto.jpg"></a>
+<p class="block-date">ブログ：2017年12月2日～3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712chari/" target="_blank">冬の東京カリスマ聖会<br>師走のスタッフ大忙し<br>(日程：2017年12月3日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/prayer1712/" target="_blank"><img src="/2016/images/top/1711rensaantioch.jpg"></a>
+<p class="block-date">ブログ：2017年11月27日～12月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/prayer1712/" target="_blank">連鎖祈祷始まる喜びの一週間<br>アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/kokorogospel1711/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
+<p class="block-date">ブログ：2017年11月27日～12月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/kokorogospel1711/" target="_blank">こころごすぺる<br>各チーム胸の高鳴り<br>(日程：2017年12月22日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1712gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+<p class="block-date">ブログ：2017年12月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1712gifts/" target="_blank">Gifts冬の2日間<br>府中の施設でゴスペル、他教会でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1712gospel/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+<p class="block-date">ブログ：2017年12月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1712gospel/" target="_blank">The Gate of Praise、JOHN<br>世田谷区のイベントでゴスペルコンサート<br>(日程：2017年12月3日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank"><img src="/2016/images/top/1711ishizueweek.jpg"></a>
+<p class="block-date">ブログ：2017年11月27日～12月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/cornerstone1712/" target="_blank">礎の石孤児院の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/prayer1712z/" target="_blank"><img src="/2016/images/top/1711rensazenkoku.jpg"></a>
+<p class="block-date">日程：2017年11月27日～12月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/prayer1712z/" target="_blank">連鎖祈祷始まる喜びの一週間<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
