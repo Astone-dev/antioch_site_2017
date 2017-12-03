@@ -22,6 +22,46 @@
 <p class="block-title"><a href="http://astone.tv/events/okinawa1712/" target="_blank">師走の沖縄を行く<br>沖縄宣教の旅<br>(日程：2017年12月4日～6日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム直前情報<br>(日程：2017年12月4日～6日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/faith1712/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1712/" target="_blank">賛美隊大爆発 <br>アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/thanks1712/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/thanks1712/" target="_blank">趣味の一週間<br>アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/sanbitai1712/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://astone.tv/events/sanbitai1712/" target="_blank">賛美隊大爆発 <br>全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/thanks1712a/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1712a/" target="_blank">趣味の一週間<br>全国各教会</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
