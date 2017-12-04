@@ -54,6 +54,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/choir1712/" target="_blank">こころごすぺる出演<br>クワイヤーどきどきわくわくの一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/1205fuchu/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">ブログ：2017年12月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/1205fuchu/" target="_blank">GRACEと宝石<br>府中市の特別養護老人ホームでゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
