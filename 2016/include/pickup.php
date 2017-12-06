@@ -14,6 +14,14 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1712chiba" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
+<p class="block-date">ブログ：2017年12月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712chiba" target="_blank">師走の千葉を行く<br>千葉宣教の旅<br>(日程：2017年12月9日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -29,6 +37,14 @@
 <p class="block-date">ブログ：2017年12月4日～10日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム直前情報<br>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank">Gifts,JOY <br>飯田橋のショッピングセンターでコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
