@@ -25,26 +25,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/okinawa1712/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
-<p class="block-date">ブログ：2017年12月3日～7日</p>
-<p class="block-title"><a href="http://astone.tv/events/okinawa1712/" target="_blank">師走の沖縄を行く<br>沖縄宣教の旅<br>(日程：2017年12月4日～6日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1712america.jpg"></a>
 <p class="block-date">ブログ：2017年12月4日～10日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム直前情報<br>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
-<p class="block-date">ブログ：2017年12月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank">Gifts,JOY <br>飯田橋のショッピングセンターでコンサート</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -52,6 +36,14 @@
 <a href="http://antiochblog.jp/praise/faith1712/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
 <p class="block-date">ブログ：2017年12月4日～10日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank"><img src="/2016/images/top/1708giftsiidabashi.jpg"></a>
+<p class="block-date">ブログ：2017年12月7日〜8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank">Gifts、JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -125,6 +117,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/okinawa1712/" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
+<p class="block-date">ブログ：2017年12月3日～7日</p>
+<p class="block-title"><a href="http://astone.tv/events/okinawa1712/" target="_blank">師走の沖縄を行く<br>沖縄宣教の旅<br>(日程：2017年12月4日～6日)</a></p>
 </div>
 
 <div class="column-inner">
