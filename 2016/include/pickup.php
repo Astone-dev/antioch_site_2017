@@ -46,6 +46,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank">Gifts、JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1712yokohama/" target="_blank"><img src="/2016/images/top/1708giftsiidabashi.jpg"></a>
+<p class="block-date">ブログ：2017年12月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1712yokohama/" target="_blank">Tree of Life<br>横浜の高齢者の施設でゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
