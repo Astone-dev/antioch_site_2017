@@ -17,7 +17,7 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1712chiba" target="_blank"><img src="/2016/images/top/1706okinawa.jpg"></a>
+<a href="http://antiochblog.jp/info/1712chiba" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
 <p class="block-date">ブログ：2017年12月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1712chiba" target="_blank">師走の千葉を行く<br>千葉宣教の旅<br>(日程：2017年12月9日)</a></p>
 </div>-->
@@ -54,6 +54,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>アンテオケ教会</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017healing/1209healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
+<p class="block-date">ブログ：2017年12月9日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/1209healing/" target="_blank">12月 いやしの集い</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -61,6 +69,22 @@
 <p class="block-date">ブログ：2017年12月4日～10日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/choir1712/" target="_blank">こころごすぺる出演<br>クワイヤーどきどきわくわくの一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1209iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1209iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のリハビリセンターでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/1712hyssop/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
+<p class="block-date">ブログ：2017年12月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/1712hyssop/" target="_blank">Hyssop<br>杉並区のグループホームでコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
