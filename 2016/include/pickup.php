@@ -14,13 +14,13 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1712chiba" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
 <p class="block-date">ブログ：2017年12月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712chiba" target="_blank">師走の千葉を行く<br>千葉宣教の旅<br>(日程：2017年12月9日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/1712chiba" target="_blank">冬晴れの千葉を行く<br>関東宣教の旅<br>Giftsも歌う<br>(日程：2017年12月9日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -28,14 +28,6 @@
 <a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1712america.jpg"></a>
 <p class="block-date">ブログ：2017年12月4日～10日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム直前情報<br>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank"><img src="/2016/images/top/1708giftsiidabashi.jpg"></a>
-<p class="block-date">ブログ：2017年12月7日〜8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank">Gifts、JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -54,21 +46,21 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>アンテオケ教会</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/2017healing/1209healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
 <p class="block-date">ブログ：2017年12月9日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/1209healing/" target="_blank">12月 いやしの集い</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年12月9日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年12月9日 18:30スタート)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -78,7 +70,7 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/choir1712/" target="_blank">こころごすぺる出演<br>クワイヤーどきどきわくわくの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1209iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
@@ -92,7 +84,7 @@
 <a href="http://antiochblog.jp/mission/1712hyssop/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
 <p class="block-date">ブログ：2017年12月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1712hyssop/" target="_blank">Hyssop<br>杉並区のグループホームでコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -157,6 +149,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank"><img src="/2016/images/top/1708giftsiidabashi.jpg"></a>
+<p class="block-date">ブログ：2017年12月7日〜8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank">Gifts、JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
 </div>
 
 <div class="column-inner">
