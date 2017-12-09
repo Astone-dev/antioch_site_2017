@@ -62,13 +62,13 @@
 <p class="block-title"><a href="http://astone.tv/events/gracious1712/" target="_blank">GRACIOUS  DOORS<br>練馬区のデイサ━ビスでゴスペルコンサート</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/1205fuchu/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<a href="http://antiochblog.jp/praise/gracejewel2017/1210tonai/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
 <p class="block-date">ブログ：2017年12月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/1205fuchu/" target="_blank">GRACEと宝石<br>都内の施設でゴスペルコンサート</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/1210tonai/" target="_blank">GRACEと宝石<br>都内の施設でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
