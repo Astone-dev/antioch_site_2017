@@ -49,6 +49,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1210otherchurch/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1210otherchurch/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/2017byhisspirit/20171210france/" target="_blank"><img src="/2016/images/top/1704byhisnerima.jpg"></a>
 <p class="block-date">ブログ：2017年12月10日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171210france/" target="_blank">By His spirit<br>高円寺のフランス料理レストランでコンサート</a></p>
@@ -59,7 +67,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/gracious1712/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
 <p class="block-date">ブログ：2017年12月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/gracious1712/" target="_blank">GRACIOUS  DOORS<br>練馬区のデイサ━ビスでゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://astone.tv/events/gracious1712/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサ━ビスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -141,12 +149,12 @@
 <p class="block-title"><a href="http://astone.tv/events/2017healing/1209healing/" target="_blank">12月 いやしの集い</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1209iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">ブログ：2017年12月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1209iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のリハビリセンターでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -232,12 +240,12 @@
 <p class="block-title"><a href="http://astone.tv/events/prayer1712z/" target="_blank">連鎖祈祷始まる喜びの一週間<br>全国各教会</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1201soma/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">ブログ：2017年12月1日～2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1201soma/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
