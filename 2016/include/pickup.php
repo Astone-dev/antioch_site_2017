@@ -19,13 +19,13 @@
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1712america.jpg"></a>
 <p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集<br>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集ｙbr>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank"><img src="/2016/images/top/1712hobbyantioch.jpg"></a>
+<a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank">アンテオケ教会<br>冬の一週間</a></p>
 </div>
@@ -49,7 +49,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/huyuyasumi1712/" target="_blank"><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
+<a href="http://astone.tv/events/huyuyasumi1712/" target="_blank"><img src="/2016/images/top/1712zenkokufuyu.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
 <p class="block-title"><a href="http://astone.tv/events/huyuyasumi1712/" target="_blank">主の十字架全国各教会<br>冬の一週間</a></p>
 </div>
