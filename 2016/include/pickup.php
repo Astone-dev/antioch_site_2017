@@ -41,9 +41,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/moviefes1712/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
+<a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/moviefes1712/" target="_blank">Hyssopブログ</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank">ブログアクセス1位 ヒソプの一週間</a></p>
 </div>
 
 <div class="column-inner">
