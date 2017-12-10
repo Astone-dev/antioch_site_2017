@@ -33,7 +33,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/moviefes1712/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
+<a href="http://antiochblog.jp/info/moviefes1712/" target="_blank"><img src="/2016/images/top/1712eizousaiantioch.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/moviefes1712/" target="_blank">昨年度映像祭出展者と新しく立つ者たちの野望 <br>アンテオケ教会</a></p>
 </div>
@@ -57,7 +57,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/moviefes1712z/" target="_blank"><img src="/2016/images/top/1712hobbyzenkoku.jpg"></a>
+<a href="http://antiochblog.jp/mission/moviefes1712z/" target="_blank"><img src="/2016/images/top/1712zenkokueizousai.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/moviefes1712z/" target="_blank">昨年度映像祭出展者と新しく立つ者たちの野望<br>全国各教会</a></p>
 </div>
