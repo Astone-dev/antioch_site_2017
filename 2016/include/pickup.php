@@ -19,15 +19,15 @@
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1712america.jpg"></a>
 <p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム直前情報<br>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集<br>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank"><img src="/2016/images/top/1712hobbyantioch.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank">冬のアンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank">アンテオケ教会<br>冬の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank">ブログアクセス1位 ヒソプの一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank">ブログアクセス1位<br>ヒソプの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -51,7 +51,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/huyuyasumi1712/" target="_blank"><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
-<p class="block-title"><a href="http://astone.tv/events/huyuyasumi1712/" target="_blank">冬の全国教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/huyuyasumi1712/" target="_blank">主の十字架全国各教会<br>冬の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -60,78 +60,6 @@
 <a href="http://antiochblog.jp/mission/moviefes1712z/" target="_blank"><img src="/2016/images/top/1712hobbyzenkoku.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/moviefes1712z/" target="_blank">昨年度映像祭出展者と新しく立つ者たちの野望<br>全国各教会</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/thanks1712/" target="_blank"><img src="/2016/images/top/1712hobbyantioch.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/thanks1712/" target="_blank">私の趣味あれこれ<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1712/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/choir1712/" target="_blank"><img src="/2016/images/top/1712kokorogospelkuaiya.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/choir1712/" target="_blank">こころごすぺる出演<br>クワイヤーどきどきわくわくの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1210otherchurch/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年12月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1210otherchurch/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/20171210france/" target="_blank"><img src="/2016/images/top/1704byhisnerima.jpg"></a>
-<p class="block-date">ブログ：2017年12月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171210france/" target="_blank">By His spirit<br>高円寺のフランス料理レストランでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/gracious1712/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
-<p class="block-date">ブログ：2017年12月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/gracious1712/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサ━ビスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/1210tonai/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">ブログ：2017年12月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/1210tonai/" target="_blank">GRACEと宝石<br>都内の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/sanbitai1712/" target="_blank"><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/sanbitai1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/thanks1712a/" target="_blank"><img src="/2016/images/top/1712hobbyzenkoku.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1712a/" target="_blank">私の趣味あれこれ<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -177,6 +105,70 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/thanks1712/" target="_blank"><img src="/2016/images/top/1712hobbyantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/thanks1712/" target="_blank">私の趣味あれこれ<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/faith1712/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/choir1712/" target="_blank"><img src="/2016/images/top/1712kokorogospelkuaiya.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/choir1712/" target="_blank">こころごすぺる出演<br>クワイヤーどきどきわくわくの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1210otherchurch/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1210otherchurch/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/20171210france/" target="_blank"><img src="/2016/images/top/1704byhisnerima.jpg"></a>
+<p class="block-date">ブログ：2017年12月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171210france/" target="_blank">By His spirit<br>高円寺のフランス料理レストランでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/gracious1712/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
+<p class="block-date">ブログ：2017年12月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/gracious1712/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサ━ビスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/1210tonai/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">ブログ：2017年12月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/1210tonai/" target="_blank">GRACEと宝石<br>都内の施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/sanbitai1712/" target="_blank"><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://astone.tv/events/sanbitai1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/thanks1712a/" target="_blank"><img src="/2016/images/top/1712hobbyzenkoku.jpg"></a>
+<p class="block-date">ブログ：2017年12月4日～10日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1712a/" target="_blank">私の趣味あれこれ<br>全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/1712chiba" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
 <p class="block-date">ブログ：2017年12月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1712chiba" target="_blank">冬晴れの千葉を行く<br>関東宣教の旅<br>Giftsも歌う<br>(日程：2017年12月9日)</a></p>
@@ -196,12 +188,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1209iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のリハビリセンターでゴスペルコンサート</a></p>
 </div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/mission/1712hyssop/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
 <p class="block-date">ブログ：2017年12月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/1712hyssop/" target="_blank">Hyssop<br>杉並区のグループホームでコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
