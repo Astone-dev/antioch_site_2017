@@ -19,7 +19,7 @@
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1712america.jpg"></a>
 <p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集ｙbr>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集<br>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
 </div>
 
 <div class="column-inner">
