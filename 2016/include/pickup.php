@@ -22,13 +22,13 @@
 <p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集<br>ニューヨーク、デンバー<br>(日程：2017年12月11日～14日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/watch?v=eYwDdLn2JIQ" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・デンバー聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年11月5日</p>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=eYwDdLn2JIQ" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・デンバー聖会生中継');">アメリカチーム・デンバー聖会生中継<br>日程：2017年12月12日 日本時間10：45頃(時間変更の可能性あり)</a></p>
-</div>-->
+<a href="https://www.youtube.com/watch?v=eYwDdLn2JIQ" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・ニューヨーク聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年12月13日</p>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=eYwDdLn2JIQ" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・デンバー聖会生中継');">アメリカチーム・ニューヨーク聖会生中継<br>日程：2017年12月13日 日本時間10：45頃(時間変更の可能性あり)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -52,14 +52,6 @@
 <a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank">ブログアクセス1位<br>ヒソプの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1212misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年12月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1212misato/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
@@ -121,6 +113,13 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1212misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1212misato/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルを歌う</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/thanks1712/" target="_blank"><img src="/2016/images/top/1712hobbyantioch.jpg"></a>
 <p class="block-date">ブログ：2017年12月4日～10日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/thanks1712/" target="_blank">私の趣味あれこれ<br>アンテオケ教会の一週間</a></p>
@@ -140,12 +139,7 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/choir1712/" target="_blank">こころごすぺる出演<br>クワイヤーどきどきわくわくの一週間</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1210otherchurch/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年12月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1210otherchurch/" target="_blank">エルサレム<br>他教会でゴスペル教室</a></p>
-</div>
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -197,19 +191,6 @@
 <p class="block-title"><a href="http://astone.tv/events/2017healing/1209healing/" target="_blank">12月 いやしの集い</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1209iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年12月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1209iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のリハビリセンターでゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/mission/1712hyssop/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
-<p class="block-date">ブログ：2017年12月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/1712hyssop/" target="_blank">Hyssop<br>杉並区のグループホームでコンサート</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -231,13 +212,6 @@
 <p class="block-date">ブログ：2017年12月3日～7日</p>
 <p class="block-title"><a href="http://astone.tv/events/okinawa1712/" target="_blank">師走の沖縄を行く<br>沖縄宣教の旅<br>(日程：2017年12月4日～6日)</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/1205fuchu/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">ブログ：2017年12月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/1205fuchu/" target="_blank">GRACEと宝石<br>府中市の特別養護老人ホームでゴスペルコンサート</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -287,13 +261,6 @@
 <p class="block-date">日程：2017年11月27日～12月3日</p>
 <p class="block-title"><a href="http://astone.tv/events/prayer1712z/" target="_blank">連鎖祈祷始まる喜びの一週間<br>全国各教会</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1201soma/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年12月1日～2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1201soma/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
