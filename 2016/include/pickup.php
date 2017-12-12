@@ -18,17 +18,17 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1712america.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集<br>ニューヨーク、デンバー<br>(日程：2017年12月4日～6日)</a></p>
+<p class="block-date">ブログ：2017年12月11日～14日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集<br>ニューヨーク、デンバー<br>(日程：2017年12月11日～14日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=eYwDdLn2JIQ" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・デンバー聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年11月5日</p>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=eYwDdLn2JIQ" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・デンバー聖会生中継');">アメリカチーム・デンバー聖会生中継<br>日程：2017年12月12日 日本時間10：45頃(時間変更の可能性あり)</a></p>
-</div>-
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
