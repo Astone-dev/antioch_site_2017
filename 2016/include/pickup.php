@@ -27,7 +27,7 @@
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=eYwDdLn2JIQ" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・ニューヨーク聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年12月13日</p>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=eYwDdLn2JIQ" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・デンバー聖会生中継');">アメリカチーム・ニューヨーク聖会生中継<br>日程：2017年12月13日 日本時間10：45頃(時間変更の可能性あり)</a></p>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=eYwDdLn2JIQ" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・デンバー聖会生中継');">アメリカチーム・ニューヨーク聖会生中継<br>日程：2017年12月13日 日本時間7：00頃(時間変更の可能性あり)</a></p>
 </div>
 
 <div class="column-inner">
