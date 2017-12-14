@@ -14,13 +14,7 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1712america.jpg"></a>
-<p class="block-date">ブログ：2017年12月11日～14日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集<br>ニューヨーク、デンバー<br>(日程：2017年12月11日～14日)</a></p>
-</div>
+
 
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
@@ -29,6 +23,14 @@
 <p class="block-date">2017年12月13日</p>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=HJ3LpHn4ax4" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・デンバー聖会生中継');">アメリカチーム・ニューヨーク聖会生中継<br>日程：2017年12月13日 日本時間7：00頃(時間変更の可能性あり)</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1712kashiwa/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
+<p class="block-date">ブログ：2017年12月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712kashiwa/" target="_blank">冬晴れの柏聖会<br>関東宣教の旅</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -57,9 +59,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1214hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年12月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1214hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
+<a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1712america.jpg"></a>
+<p class="block-date">ブログ：2017年12月11日〜15日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集<br>ニューヨーク、デンバー<br>(日程：2017年12月11日～14日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/uranos2017/1215shinyuri/" target="_blank"><img src="/2016/images/top/1708uranos.jpg"></a>
+<p class="block-date">ブログ：2017年12月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/1215shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -125,6 +135,13 @@
 <p class="block-date">ブログ：2017年12月12日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1212misato/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルを歌う</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1214hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1214hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
