@@ -56,6 +56,54 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank">ブログアクセス1位<br>ヒソプの一週間</a></p>
 </div>
 
+<!--div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/gifts1712/" target="_blank"><img src="/2016/images/top/1709giftschibaion.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gifts1712/" target="_blank">Gifts<br>千葉イオンでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年12月16日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年12月16日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/revival2017/1216night/" target="_blank"><img src="/2016/images/top/1701revivalnight.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1216night/" target="_blank">12月 Revival Night</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1216iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1216iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gate1712/" target="_blank"><img src="/2016/images/top/1612gateofnerimarouken.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gate1712/" target="_blank">The Gate of Praise、アドナイ<br>練馬区介護老人保健施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1712concert/" target="_blank"><img src="/2016/images/top/1704antiochorchestra.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://astone.tv/events/1712concert/" target="_blank">オーケストラ、クワイア<br>施設でゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
