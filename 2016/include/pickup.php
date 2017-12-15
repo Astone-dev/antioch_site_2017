@@ -27,14 +27,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1712kashiwa/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
-<p class="block-date">ブログ：2017年12月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712kashiwa/" target="_blank">冬晴れの柏聖会<br>関東宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank">アンテオケ教会<br>冬の一週間</a></p>
@@ -45,7 +37,15 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/moviefes1712/" target="_blank"><img src="/2016/images/top/1712eizousaiantioch.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/moviefes1712/" target="_blank">昨年度映像祭出展者と新しく立つ者たちの野望 <br>アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/moviefes1712/" target="_blank">昨年度映像祭出展者と新しく立つ者たちの野望<br>アンテオケ教会</a></p>
+</div>
+
+div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/gifts1712/" target="_blank"><img src="/2016/images/top/1709giftschibaion.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gifts1712/" target="_blank">Gifts<br>千葉イオンでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -54,14 +54,6 @@
 <a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank">ブログアクセス1位<br>ヒソプの一週間</a></p>
-</div>
-
-<!--div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/gifts1712/" target="_blank"><img src="/2016/images/top/1709giftschibaion.jpg"></a>
-<p class="block-date">ブログ：2017年12月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gifts1712/" target="_blank">Gifts<br>千葉イオンでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -77,7 +69,15 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/revival2017/1216night/" target="_blank"><img src="/2016/images/top/1701revivalnight.jpg"></a>
 <p class="block-date">ブログ：2017年12月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1216night/" target="_blank">12月 Revival Night</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1216night/" target="_blank">12月 Revival Nightの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1712concert/" target="_blank"><img src="/2016/images/top/1704antiochorchestra.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://astone.tv/events/1712concert/" target="_blank">オーケストラ、クワイア<br>高円寺の施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -93,31 +93,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gate1712/" target="_blank"><img src="/2016/images/top/1612gateofnerimarouken.jpg"></a>
 <p class="block-date">ブログ：2017年12月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gate1712/" target="_blank">The Gate of Praise、アドナイ<br>練馬区介護老人保健施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1712concert/" target="_blank"><img src="/2016/images/top/1704antiochorchestra.jpg"></a>
-<p class="block-date">ブログ：2017年12月16日</p>
-<p class="block-title"><a href="http://astone.tv/events/1712concert/" target="_blank">オーケストラ、クワイア<br>施設でゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1712america.jpg"></a>
-<p class="block-date">ブログ：2017年12月11日〜15日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集<br>ニューヨーク、デンバー<br>(日程：2017年12月11日～14日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/1215shinyuri/" target="_blank"><img src="/2016/images/top/1708uranos.jpg"></a>
-<p class="block-date">ブログ：2017年12月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/1215shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gate1712/" target="_blank">The Gate of Praise<br>練馬区介護老人保健施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -183,6 +159,27 @@
 <p class="block-date">ブログ：2017年12月12日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1212misato/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルを歌う</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1712kashiwa/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
+<p class="block-date">ブログ：2017年12月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712kashiwa/" target="_blank">冬晴れの柏聖会<br>関東宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1712usa1/" target="_blank"><img src="/2016/images/top/1712america.jpg"></a>
+<p class="block-date">ブログ：2017年12月11日〜15日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/" target="_blank">アメリカチーム最新情報写真集<br>ニューヨーク、デンバー<br>(日程：2017年12月11日～14日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/uranos2017/1215shinyuri/" target="_blank"><img src="/2016/images/top/1708uranos.jpg"></a>
+<p class="block-date">ブログ：2017年12月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/1215shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
