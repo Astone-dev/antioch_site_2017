@@ -67,6 +67,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/1712women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
+<p class="block-date">ブログ：2017年12月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712women/" target="_blank">婦人会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/2017byhisspirit/20171217setagaya/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
 <p class="block-date">ブログ：2017年12月17日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171217setagaya/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
