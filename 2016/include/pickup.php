@@ -27,7 +27,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/chugoku1712/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
+<a href="http://antiochblog.jp/info/chugoku1712/" target="_blank"><img src="/2016/images/top/1705chugokuseikai.jpg"></a>
 <p class="block-date">ブログ：2017年12月17日～20日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/chugoku1712/" target="_blank">冬の中国地方を行く<br>中国宣教の旅<br>(聖会日程：2017年12月18日〜20日)</a></p>
 </div>
