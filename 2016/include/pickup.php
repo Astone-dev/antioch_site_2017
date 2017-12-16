@@ -27,6 +27,22 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/chugoku1712/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月17日～20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/chugoku1712/" target="_blank">冬の中国地方を行く<br>中国宣教の旅<br>(聖会日程：2017年12月18日〜20日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
+<p class="block-date">ブログ：2017年12月17日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank">いよいよ今週！<br>こころごすぺるに向かって<br>出演者、スタッフのどきどき<br>(日程：2017年12月22日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank">アンテオケ教会<br>冬の一週間</a></p>
@@ -43,57 +59,25 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/gifts1712/" target="_blank"><img src="/2016/images/top/1709giftschibaion.jpg"></a>
-<p class="block-date">ブログ：2017年12月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gifts1712/" target="_blank">Gifts<br>千葉イオンでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
 <p class="block-date">ブログ：2017年12月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank">ブログアクセス1位<br>ヒソプの一週間</a></p>
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
+<span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年12月16日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年12月16日 18:30スタート)</a></p>
+<a href="http://astone.tv/events/2017byhisspirit/20171217setagaya/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date">ブログ：2017年12月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171217setagaya/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/revival2017/1216night/" target="_blank"><img src="/2016/images/top/1701revivalnight.jpg"></a>
-<p class="block-date">ブログ：2017年12月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1216night/" target="_blank">12月 Revival Nightの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1712concert/" target="_blank"><img src="/2016/images/top/1704antiochorchestra.jpg"></a>
-<p class="block-date">ブログ：2017年12月16日</p>
-<p class="block-title"><a href="http://astone.tv/events/1712concert/" target="_blank">オーケストラ、クワイア<br>高円寺の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1216iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年12月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1216iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gate1712/" target="_blank"><img src="/2016/images/top/1612gateofnerimarouken.jpg"></a>
-<p class="block-date">ブログ：2017年12月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gate1712/" target="_blank">The Gate of Praise<br>練馬区介護老人保健施設でゴスペルコンサート</a></p>
+<a href="http://astone.tv/events/euqaristias/20171217nerima/" target="_blank"><img src="/2016/images/top/1612eukariparty.jpg"></a>
+<p class="block-date">ブログ：2017年12月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171217nerima/" target="_blank">Euqaristias<br>練馬デイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -159,6 +143,41 @@
 <p class="block-date">ブログ：2017年12月12日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1212misato/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルを歌う</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/gifts1712/" target="_blank"><img src="/2016/images/top/1709giftschibaion.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gifts1712/" target="_blank">Gifts<br>千葉イオンでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/revival2017/1216night/" target="_blank"><img src="/2016/images/top/1701revivalnight.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/1216night/" target="_blank">12月 Revival Nightの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1712concert/" target="_blank"><img src="/2016/images/top/1704antiochorchestra.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://astone.tv/events/1712concert/" target="_blank">オーケストラ、クワイア<br>高円寺の施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1216iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1216iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gate1712/" target="_blank"><img src="/2016/images/top/1612gateofnerimarouken.jpg"></a>
+<p class="block-date">ブログ：2017年12月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gate1712/" target="_blank">The Gate of Praise<br>練馬区介護老人保健施設でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -356,14 +375,6 @@
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年11月18日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年11月18日 18:30スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年11月25日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年11月25日 18:30スタート)</a></p>
@@ -375,6 +386,14 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2017年12月9日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2017年12月9日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年12月16日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年12月16日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
