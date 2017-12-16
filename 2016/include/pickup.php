@@ -200,12 +200,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/1215shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1214hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">ブログ：2017年12月14日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1214hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
