@@ -48,6 +48,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank">アンテオケ教会<br>冬の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月18日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank">ホワイトシーズン大爆発  <br>アンテオケ教会</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -87,6 +95,14 @@
 <p class="block-date">ブログ：2017年12月17日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20171217nerima/" target="_blank">Euqaristias<br>練馬デイサービスでゴスペルコンサート</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/whiteseason1712/" target="_blank"><img src="/2016/images/top/1712zenkokufuyu.jpg"></a>
+<p class="block-date">ブログ：2017年12月18日～24日</p>
+<p class="block-title"><a href="http://astone.tv/events/whiteseason1712/" target="_blank">ホワイトシーズン大爆発<br>全国各教会</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
