@@ -43,105 +43,49 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
-<p class="block-date">ブログ：2017年12月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank">アンテオケ教会<br>冬の一週間</a></p>
+<a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月18日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank">ホワイトシーズン賛美隊大爆発<br>アンテオケ教会</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel1712/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
+<a href="http://antiochblog.jp/info/thanks1712a/" target="_blank"><img src="/2016/images/top/1611fuyuantioch.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel1712/" target="_blank">ホワイトシーズン大爆発  <br>アンテオケ教会</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/thanks1712a/" target="_blank">冬休み直前<br>アンテオケ教会</a></p>
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/thanks1712a/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
+<a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank"><img src="/2016/images/top/1705america.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/thanks1712a/" target="_blank">冬直前<br>アンテオケ教会</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank">アメリカチーム<br>ロス、サンディエゴ<br>直前情報写真集<br>(日程：2017年12月25日〜28日)</a></p>
+</div>
 
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201712-usa/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
 <p class="block-date">日程：2017年12月11日～14日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201712-usa/" target="_blank">12月 アメリカチーム<br>ダイジェスト映像<br>(再生時間 4:50)</a></p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201712-usa/" target="_blank">アメリカチーム<br>ダイジェスト映像<br>(再生時間 4:50)</a></p>
 </div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/moviefes1712/" target="_blank"><img src="/2016/images/top/1712eizousaiantioch.jpg"></a>
-<p class="block-date">ブログ：2017年12月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/moviefes1712/" target="_blank">昨年度映像祭出展者と新しく立つ者たちの野望<br>アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
-<p class="block-date">ブログ：2017年12月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank">ブログアクセス1位<br>ヒソプの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1712women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
-<p class="block-date">ブログ：2017年12月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712women/" target="_blank">婦人会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/20171217setagaya/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
-<p class="block-date">ブログ：2017年12月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171217setagaya/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20171217nerima/" target="_blank"><img src="/2016/images/top/1612eukariparty.jpg"></a>
-<p class="block-date">ブログ：2017年12月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171217nerima/" target="_blank">Euqaristias<br>練馬デイサービスでゴスペルコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/whiteseason1712/" target="_blank"><img src="/2016/images/top/1712zenkokufuyu.jpg"></a>
+<a href="http://astone.tv/events/whiteseason1712/" target="_blank"><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/whiteseason1712/" target="_blank">ホワイトシーズン大爆発<br>全国各教会</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/thanks1712z/" target="_blank"><img src="/2016/images/top/1712zenkokufuyu.jpg"></a>
-<p class="block-date">ブログ：2017年12月18日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1712z/" target="_blank">冬直前<br>全国各教会</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/huyuyasumi1712/" target="_blank"><img src="/2016/images/top/1712zenkokufuyu.jpg"></a>
-<p class="block-date">ブログ：2017年12月11日～17日</p>
-<p class="block-title"><a href="http://astone.tv/events/huyuyasumi1712/" target="_blank">主の十字架全国各教会<br>冬の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/whiteseason1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/moviefes1712z/" target="_blank"><img src="/2016/images/top/1712zenkokueizousai.jpg"></a>
-<p class="block-date">ブログ：2017年12月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/moviefes1712z/" target="_blank">昨年度映像祭出展者と新しく立つ者たちの野望<br>全国各教会</a></p>
+<a href="http://astone.tv/events/thanks1712z/" target="_blank"><img src="/2016/images/top/1611fuyuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2017年12月18日～24日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1712z/" target="_blank">冬休み直前<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -191,6 +135,62 @@
 <p class="block-date">ブログ：2017年12月12日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1212misato/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルを歌う</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/wintervacation1712/" target="_blank">アンテオケ教会<br>冬の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/moviefes1712/" target="_blank"><img src="/2016/images/top/1712eizousaiantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/moviefes1712/" target="_blank">昨年度映像祭出展者と新しく立つ者たちの野望<br>アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank"><img src="/2016/images/top/1704hyssop.jpg"></a>
+<p class="block-date">ブログ：2017年12月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/hyssop1712/" target="_blank">ブログアクセス1位<br>ヒソプの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1712women/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
+<p class="block-date">ブログ：2017年12月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712women/" target="_blank">婦人会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/20171217setagaya/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date">ブログ：2017年12月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171217setagaya/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20171217nerima/" target="_blank"><img src="/2016/images/top/1612eukariparty.jpg"></a>
+<p class="block-date">ブログ：2017年12月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171217nerima/" target="_blank">Euqaristias<br>練馬デイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/huyuyasumi1712/" target="_blank"><img src="/2016/images/top/1712zenkokufuyu.jpg"></a>
+<p class="block-date">ブログ：2017年12月11日～17日</p>
+<p class="block-title"><a href="http://astone.tv/events/huyuyasumi1712/" target="_blank">主の十字架全国各教会<br>冬の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/mission/moviefes1712z/" target="_blank"><img src="/2016/images/top/1712zenkokueizousai.jpg"></a>
+<p class="block-date">ブログ：2017年12月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/moviefes1712z/" target="_blank">昨年度映像祭出展者と新しく立つ者たちの野望<br>全国各教会</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
