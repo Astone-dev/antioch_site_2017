@@ -74,6 +74,13 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1218tana/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1218tana/" target="_blank">エルサレム<br>田無の施設でゴスペルを歌う</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/whiteseason1712/" target="_blank"><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
