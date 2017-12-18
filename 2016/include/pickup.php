@@ -51,7 +51,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
+<a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank"><img src="/2016/images/top/1712sanbitaiantioch.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank">ホワイトシーズン賛美隊大爆発！<br>アンテオケ教会一週間</a></p>
 </div>
