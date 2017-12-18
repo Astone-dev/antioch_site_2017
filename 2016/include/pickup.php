@@ -37,23 +37,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
 <p class="block-date">ブログ：2017年12月17日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank">いよいよ今週！<br>こころごすぺるに向かって<br>出演者、スタッフのどきどき<br>(日程：2017年12月22日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
-<p class="block-date">ブログ：2017年12月18日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank">ホワイトシーズン賛美隊大爆発<br>アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/thanks1712a/" target="_blank"><img src="/2016/images/top/1611fuyuantioch.jpg"></a>
-<p class="block-date">ブログ：2017年12月18日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/thanks1712a/" target="_blank">冬休み直前<br>アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank">いよいよあと4日！<br>こころごすぺるに向かって<br>出演者、スタッフのどきどき<br>(日程：2017年12月22日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -61,7 +45,23 @@
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1712usa2/" target="_blank"><img src="/2016/images/top/1705america.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1712usa2/" target="_blank">アメリカチーム<br>ロス、サンディエゴ<br>直前情報写真集<br>(日程：2017年12月25日〜28日)</a></p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa2/" target="_blank">アメリカチーム<br>(ロス、サンディエゴ)<br>直前情報写真集<br>(日程：2017年12月25日〜28日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月18日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank">ホワイトシーズン賛美隊大爆発！<br>アンテオケ教会一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/thanks1712a/" target="_blank"><img src="/2016/images/top/1611fuyuantioch.jpg"></a>
+<p class="block-date">ブログ：2017年12月18日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/thanks1712a/" target="_blank">冬休み直前<br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -77,7 +77,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/whiteseason1712/" target="_blank"><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/whiteseason1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/whiteseason1712/" target="_blank">ホワイトシーズン賛美隊大爆発！<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -85,7 +85,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/thanks1712z/" target="_blank"><img src="/2016/images/top/1611fuyuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1712z/" target="_blank">冬休み直前<br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1712z/" target="_blank">冬休み直前<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
