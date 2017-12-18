@@ -49,6 +49,14 @@
 </div>
 
 <div class="column-inner">
+<span>NEW</span>
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/gifts1712/" target="_blank"><img src="/2016/images/top/1605giftskansai.jpg"></a>
+<p class="block-date">ブログ：2017年12月19日</p>
+<p class="block-title"><a href="http://astone.tv/events/gifts1712/" target="_blank">Gifts<br>東久留米の高齢者施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/mission/whiteseason1712a/" target="_blank"><img src="/2016/images/top/1712sanbitaiantioch.jpg"></a>
@@ -70,14 +78,6 @@
 <a href="http://tv.antioch.jp/digest/201712-usa/" target="_blank"><img src="/2016/images/top/1712america_d_m.jpg"></a>
 <p class="block-date">日程：2017年12月11日～14日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201712-usa/" target="_blank">アメリカチーム<br>(デンバー、ニューヨーク)<br>ダイジェスト映像<br>(再生時間 4:50)</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/gifts1712/" target="_blank"><img src="/2016/images/top/1605giftskansai.jpg"></a>
-<p class="block-date">ブログ：2017年12月19日</p>
-<p class="block-title"><a href="http://astone.tv/events/gifts1712/" target="_blank">Gifts<br>東久留米の高齢者施設でコンサート</a></p>
 </div>
 
 <div class="column-inner">
