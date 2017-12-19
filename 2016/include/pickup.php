@@ -37,7 +37,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
 <p class="block-date">ブログ：2017年12月17日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank">いよいよあと4日！<br>こころごすぺるに向かって<br>出演者、スタッフのどきどき<br>(日程：2017年12月22日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank">いよいよあと3日！<br>こころごすぺるに向かって<br>出演者、スタッフのどきどき<br>(日程：2017年12月22日)</a></p>
 </div>
 
 <div class="column-inner">
