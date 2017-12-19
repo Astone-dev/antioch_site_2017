@@ -48,6 +48,22 @@
 <p class="block-title"><a href="http://blog.antioch.jp/1712usa2/" target="_blank">アメリカチーム<br>(ロス、サンディエゴ)<br>直前情報写真集<br>(日程：2017年12月25日〜28日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span>NEW</span>
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/concert1712/" target="_blank"><img src="/2016/images/top/1605giftskansai.jpg"></a>
+<p class="block-date">ブログ：2017年12月20日</p>
+<p class="block-title"><a href="http://astone.tv/events/concert1712/" target="_blank">Gifts<br>柏でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span>NEW</span>
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/0712tree/1220tana/" target="_blank"><img src="/2016/images/top/1709treeoflife.jpg"></a>
+<p class="block-date">ブログ：2017年12月20日</p>
+<p class="block-title"><a href="http://astone.tv/events/0712tree/1220tana/" target="_blank">Tree of Life<br>東久留米の高齢者の施設でゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span>NEW</span>
 <span class="label-1">ブログ</span>
