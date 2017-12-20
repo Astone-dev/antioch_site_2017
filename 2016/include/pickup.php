@@ -150,7 +150,6 @@
 </div>
 
 <div class="column-inner">
-<span>NEW</span>
 <span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/gifts1712/" target="_blank"><img src="/2016/images/top/1605giftskansai.jpg"></a>
 <p class="block-date">ブログ：2017年12月19日</p>
