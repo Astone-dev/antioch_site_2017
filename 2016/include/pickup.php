@@ -27,17 +27,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/chugoku1712/" target="_blank"><img src="/2016/images/top/1705chugokuseikai.jpg"></a>
-<p class="block-date">ブログ：2017年12月17日～20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/chugoku1712/" target="_blank">冬の中国地方を行く<br>中国宣教の旅<br>(聖会日程：2017年12月18日〜20日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
 <p class="block-date">ブログ：2017年12月17日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank">いよいよあと3日！<br>こころごすぺるに向かって<br>出演者、スタッフのどきどき<br>(日程：2017年12月22日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1712/" target="_blank">いよいよあと1日！<br>こころごすぺるに向かって<br>出演者、スタッフのどきどき<br>(日程：2017年12月22日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -46,14 +38,6 @@
 <a href="http://blog.antioch.jp/1712usa2/" target="_blank"><img src="/2016/images/top/1705america.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1712usa2/" target="_blank">アメリカチーム<br>(ロス、サンディエゴ)<br>直前情報写真集<br>(日程：2017年12月25日〜28日)</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/concert1712/" target="_blank"><img src="/2016/images/top/1608giftskashiwa.jpg"></a>
-<p class="block-date">ブログ：2017年12月20日</p>
-<p class="block-title"><a href="http://astone.tv/events/concert1712/" target="_blank">Gifts<br>柏でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -94,14 +78,6 @@
 <a href="http://astone.tv/events/thanks1712z/" target="_blank"><img src="/2016/images/top/1712fuyuasumizenkoku.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
 <p class="block-title"><a href="http://astone.tv/events/thanks1712z/" target="_blank">冬休み直前<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/0712tree/1220tana/" target="_blank"><img src="/2016/images/top/1709treeoflife.jpg"></a>
-<p class="block-date">ブログ：2017年12月20日</p>
-<p class="block-title"><a href="http://astone.tv/events/0712tree/1220tana/" target="_blank">Tree of Life<br>東久留米の高齢者の施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -151,6 +127,27 @@
 <p class="block-date">ブログ：2017年12月12日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1212misato/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルを歌う</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/chugoku1712/" target="_blank"><img src="/2016/images/top/1705chugokuseikai.jpg"></a>
+<p class="block-date">ブログ：2017年12月17日～20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/chugoku1712/" target="_blank">冬の中国地方を行く<br>中国宣教の旅<br>(聖会日程：2017年12月18日〜20日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/concert1712/" target="_blank"><img src="/2016/images/top/1608giftskashiwa.jpg"></a>
+<p class="block-date">ブログ：2017年12月20日</p>
+<p class="block-title"><a href="http://astone.tv/events/concert1712/" target="_blank">Gifts<br>柏でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/0712tree/1220tana/" target="_blank"><img src="/2016/images/top/1709treeoflife.jpg"></a>
+<p class="block-date">ブログ：2017年12月20日</p>
+<p class="block-title"><a href="http://astone.tv/events/0712tree/1220tana/" target="_blank">Tree of Life<br>東久留米の高齢者の施設でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span>NEW</span>
