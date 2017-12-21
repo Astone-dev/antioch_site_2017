@@ -56,6 +56,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/thanks1712a/" target="_blank">冬休み直前<br>アンテオケ教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/uranos2017/1222ahiruno/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
+<p class="block-date">ブログ：2017年12月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/1222ahiruno/" target="_blank">ウラノス<br>あきる野市の授産施設でミニコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
