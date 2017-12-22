@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1712yokkaichi/" target="_blank"><img src="/2016/images/top/1705giftsmanyuki.jpg"></a>
 <p class="block-date">ブログ：2017年12月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712yokkaichi/" target="_blank">Gifts<br>四日市でランチコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712yokkaichi/" target="_blank">Gifts漫遊記<br>四日市でランチコンサート</a></p>
 </div>
 
 <div class="column-inner">
