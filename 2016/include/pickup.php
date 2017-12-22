@@ -14,8 +14,6 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
-
-
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
@@ -281,101 +279,6 @@
 <a href="http://antiochblog.jp/praise/uranos2017/1215shinyuri/" target="_blank"><img src="/2016/images/top/1708uranos.jpg"></a>
 <p class="block-date">ブログ：2017年12月15日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/1215shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1214hakone/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年12月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1214hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/thanks1712/" target="_blank"><img src="/2016/images/top/1712hobbyantioch.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/thanks1712/" target="_blank">私の趣味あれこれ<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/faith1712/" target="_blank"><img src="/2016/images/top/1712sanbixmasantioch.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/choir1712/" target="_blank"><img src="/2016/images/top/1712kokorogospelkuaiya.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/choir1712/" target="_blank">こころごすぺる出演<br>クワイヤーどきどきわくわくの一週間</a></p>
-</div>
-
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017byhisspirit/20171210france/" target="_blank"><img src="/2016/images/top/1704byhisnerima.jpg"></a>
-<p class="block-date">ブログ：2017年12月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20171210france/" target="_blank">By His spirit<br>高円寺のフランス料理レストランでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/gracious1712/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
-<p class="block-date">ブログ：2017年12月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/gracious1712/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサ━ビスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/1210tonai/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">ブログ：2017年12月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/1210tonai/" target="_blank">GRACEと宝石<br>都内の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/sanbitai1712/" target="_blank"><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/sanbitai1712/" target="_blank">ホワイトシーズン賛美隊大爆発<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/thanks1712a/" target="_blank"><img src="/2016/images/top/1712hobbyzenkoku.jpg"></a>
-<p class="block-date">ブログ：2017年12月4日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1712a/" target="_blank">私の趣味あれこれ<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1712chiba" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
-<p class="block-date">ブログ：2017年12月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712chiba" target="_blank">冬晴れの千葉を行く<br>関東宣教の旅<br>Giftsも歌う<br>(日程：2017年12月9日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017healing/1209healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
-<p class="block-date">ブログ：2017年12月9日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/1209healing/" target="_blank">12月 いやしの集い</a></p>
-</div>
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1712yokohama/" target="_blank"><img src="/2016/images/top/1709treeoflife.jpg"></a>
-<p class="block-date">ブログ：2017年12月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1712yokohama/" target="_blank">Tree of Life<br>横浜の高齢者の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank"><img src="/2016/images/top/1708giftsiidabashi.jpg"></a>
-<p class="block-date">ブログ：2017年12月7日〜8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/iidabashi1712/" target="_blank">Gifts、JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
 </div>
 
 <div class="column-inner">
