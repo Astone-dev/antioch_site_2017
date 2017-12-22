@@ -22,6 +22,14 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=HJ3LpHn4ax4" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・デンバー聖会生中継');">アメリカチーム・ニューヨーク聖会生中継<br>日程：2017年12月13日 日本時間7：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/meetings1712/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/meetings1712/" target="_blank">豊橋・富士地方を行く<br>豊橋・富士宣教の旅<br>(聖会日程：2017年12月23日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -57,10 +65,67 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/1712yokkaichi/" target="_blank"><img src="/2016/images/top/1705giftsmanyuki.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712yokkaichi/" target="_blank">Gifts <br>四日市でランチコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gospel2017/1223gospel/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/1223gospel/" target="_blank">12月 ゴスペルの集い</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年12月23日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年12月23日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1712ramra/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712ramra/" target="_blank">JOY、クワイア<br>飯田橋ラムラでゴスペルコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1223iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1223iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/0712tree/1223hewajima/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
+<p class="block-date">ブログ：2017年12月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/0712tree/1223hewajima/" target="_blank">Tree of Life<br>平和島の子どもの施設でコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1712day/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1712day/" target="_blank">GRACIOUS DOORS<br>都内デイサ━ビスでコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/uranos2017/1222ahiruno/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
 <p class="block-date">ブログ：2017年12月22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/1222ahiruno/" target="_blank">ウラノス<br>あきる野市の授産施設でミニコンサート</a></p>
 </div>-->
+
 
 <div class="column-inner">
 <span class="label-2">映像</span>
