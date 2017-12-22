@@ -81,7 +81,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/1223gospel/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
+<a href="http://antiochblog.jp/praise/gospel2017/1223gospel/" target="_blank"><img src="/2016/images/top/1707gospelnotsudoi.jpg"></a>
 <p class="block-date">ブログ：2017年12月23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/1223gospel/" target="_blank">12月ゴスペルの集いの一日</a></p>
 </div>
