@@ -118,13 +118,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1712day/" target="_blank">GRACIOUS DOORS<br>都内デイサ━ビスでコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/uranos2017/1222ahiruno/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
 <p class="block-date">ブログ：2017年12月22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/1222ahiruno/" target="_blank">ウラノス<br>あきる野市の授産施設でミニコンサート</a></p>
-</div>
+</div>-->
 
 
 <div class="column-inner">
