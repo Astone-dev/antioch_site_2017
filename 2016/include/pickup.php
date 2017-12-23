@@ -25,14 +25,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/meetings1712/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
-<p class="block-date">ブログ：2017年12月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/meetings1712/" target="_blank">冬の豊橋・富士地方を行く<br>豊橋・富士宣教の旅<br>(聖会日程：2017年12月23日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://blog.antioch.jp/1712usa2/" target="_blank"><img src="/2016/images/top/1705america.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日～24日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1712usa2/" target="_blank">アメリカチーム<br>(ロス、サンディエゴ)<br>直前情報写真集<br>(日程：2017年12月25日〜28日)</a></p>
@@ -141,6 +133,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/meetings1712/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/meetings1712/" target="_blank">冬の豊橋・富士地方を行く<br>豊橋・富士宣教の旅<br>(聖会日程：2017年12月23日)</a></p>
 </div>
 
 <div class="column-inner">
