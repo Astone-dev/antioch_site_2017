@@ -41,25 +41,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1712yokkaichi/" target="_blank"><img src="/2016/images/top/1705giftsmanyuki.jpg"></a>
-<p class="block-date">ブログ：2017年12月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712yokkaichi/" target="_blank">Gifts漫遊記<br>四日市でランチコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/gltv1712/" target="_blank"><img src="/2016/images/top/1712gltvspecial.jpg"></a>
 <p class="block-date">ブログ：2017年12月23日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gltv1712/" target="_blank">明日はGLTVスペシャル！<br>出演グループのときめき</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1712ramra/" target="_blank"><img src="/2016/images/top/1712joychoirramura.jpg"></a>
-<p class="block-date">ブログ：2017年12月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712ramra/" target="_blank">JOY、クワイア、プレジール<br>飯田橋ラムラでゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gltv1712/" target="_blank">いよいよ当日！GLTVスペシャル！<br>出演グループのときめき</a></p>
 </div>
 
 <div class="column-inner">
@@ -81,51 +65,26 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/1223gospel/" target="_blank"><img src="/2016/images/top/1707gospelnotsudoi.jpg"></a>
-<p class="block-date">ブログ：2017年12月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/1223gospel/" target="_blank">12月ゴスペルの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年12月23日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年12月23日 18:30スタート)</a></p>
+<a href="http://astone.tv/events/2017byhisspirit/1224nerima/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date">ブログ：2017年12月24日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/1224nerima/" target="_blank">By His Spirit<br>練馬区のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/1223iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2017年12月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1223iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
+<a href="http://astone.tv/events/euqaristias/20171224shinjuku/" target="_blank"><img src="/2016/images/top/1705euqariykohama.jpg"></a>
+<p class="block-date">ブログ：2017年12月24日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20171224shinjuku/" target="_blank">Euqaristias<br>新宿のデイサービスでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/0712tree/1223hewajima/" target="_blank"><img src="/2016/images/top/1709treeoflife.jpg"></a>
-<p class="block-date">ブログ：2017年12月22日</p>
-<p class="block-title"><a href="http://astone.tv/events/0712tree/1223hewajima/" target="_blank">Tree of Life、シャローム<br>平和島の子どもの施設でコンサート</a></p>
+<a href="http://antiochblog.jp/praise/patolis1712a/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
+<p class="block-date">ブログ：2017年12月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/patolis1712a/" target="_blank">PATOLIS<br>デイサービスでのコンサート2日間西早稲田、練馬でゴスペルを歌う</a></p>
 </div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1712day/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
-<p class="block-date">ブログ：2017年12月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1712day/" target="_blank">GRACIOUS DOORS<br>都内デイサ━ビスでコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/1222ahiruno/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
-<p class="block-date">ブログ：2017年12月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/1222ahiruno/" target="_blank">ウラノス<br>あきる野市の授産施設でミニコンサート</a></p>
-</div>-->
-
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -182,6 +141,48 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1712yokkaichi/" target="_blank"><img src="/2016/images/top/1705giftsmanyuki.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712yokkaichi/" target="_blank">Gifts漫遊記<br>四日市でランチコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1712ramra/" target="_blank"><img src="/2016/images/top/1712joychoirramura.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712ramra/" target="_blank">JOY、クワイア、プレジール<br>飯田橋ラムラでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gospel2017/1223gospel/" target="_blank"><img src="/2016/images/top/1707gospelnotsudoi.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/1223gospel/" target="_blank">12月ゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1223iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1223iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/0712tree/1223hewajima/" target="_blank"><img src="/2016/images/top/1709treeoflife.jpg"></a>
+<p class="block-date">ブログ：2017年12月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/0712tree/1223hewajima/" target="_blank">Tree of Life、シャローム<br>平和島の子どもの施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1712day/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
+<p class="block-date">ブログ：2017年12月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1712day/" target="_blank">GRACIOUS DOORS<br>都内デイサ━ビスでコンサート</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -406,6 +407,15 @@
 <p class="block-date">2017年11月23日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA/live" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年11月23日 11:30〜)</a></p>
 </div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年12月23日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年12月23日 18:30スタート)</a></p>
+</div>-->
+
  
 <!--<div class="column-inner">
 <span>NEW</span>
