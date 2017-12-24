@@ -90,7 +90,7 @@
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank"><img src="/2016/images/top/1712america_d_m.jpg"></a>
 <p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>紹介映像<br>(再生時間 5:09)</a></p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>紹介映像 <br>(再生時間 5:09)</a></p>
 </div>
 
 <div class="column-inner">
