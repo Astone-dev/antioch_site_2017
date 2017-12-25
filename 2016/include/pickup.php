@@ -73,9 +73,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/thanks1712z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
+<a href="http://astone.tv/events/week1712z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2017年12月25日～31日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1712z/" target="_blank">2017年年末の一週間<br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/week1712z/" target="_blank">2017年年末の一週間<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
