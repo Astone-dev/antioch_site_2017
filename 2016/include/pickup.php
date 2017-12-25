@@ -46,6 +46,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/week1712/" target="_blank">2017年年末の一週間<br>東京アンテオケ教会</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/1226misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2017年12月26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1226misato/" target="_blank">エルサレム<br>三郷市の施設でゴスペル教室</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
