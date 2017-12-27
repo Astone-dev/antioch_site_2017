@@ -206,12 +206,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/1223gospel/" target="_blank">12月ゴスペルの集いの一日</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1223iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">ブログ：2017年12月23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1223iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -269,12 +269,12 @@
 <p class="block-title"><a href="http://astone.tv/events/gifts1712/" target="_blank">Gifts<br>東久留米の高齢者施設でコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1218tana/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">ブログ：2017年12月18日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1218tana/" target="_blank">エルサレム<br>田無の施設でゴスペルを歌う</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -353,12 +353,12 @@
 <p class="block-title"><a href="http://astone.tv/events/1712concert/" target="_blank">オーケストラ、クワイア<br>高円寺の施設でゴスペルコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1216iwatsuki/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">ブログ：2017年12月16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1216iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
