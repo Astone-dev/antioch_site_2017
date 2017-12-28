@@ -89,6 +89,22 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://blog.antioch.jp/1712usa1/category/usa1dst/" target="_blank"><img src="/2016/images/top/1712americadigest_p1.jpg"></a>
+<p class="block-date">日程：2017年12月11日～14日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa1/category/usa1dst/" target="_blank">アメリカチーム<br>(デンバー、ニューヨーク)<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1712tocharidigest_p.jpg"></a>
+<p class="block-date">日程：2017年12月3日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/1226misato/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">ブログ：2017年12月27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/1226misato/" target="_blank">エルサレム<br>三郷市の施設でゴスペル教室</a></p>
