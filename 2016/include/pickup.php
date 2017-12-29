@@ -27,7 +27,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1712cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
 <p class="block-date">ブログ：2017年12月29日～</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712cambodia/" target="_blank">カンボジアチーム直前情報</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712cambodia/" target="_blank">カンボジアチーム直前情報写真集<br>(日程：2018年1月2日〜5日)</a></p>
 </div>
 
 <div class="column-inner">
