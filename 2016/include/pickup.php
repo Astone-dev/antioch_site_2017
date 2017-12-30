@@ -49,6 +49,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/1712setagaya/" target="_blank"><img src="/2016/images/top/1609gateofnerimarouken.jpg"></a>
+<p class="block-date">ブログ：2017年12月30日</p>
+<p class="block-title"><a href="http://astone.tv/events/1712setagaya/" target="_blank">The Gate of Praise、JOHN <br>世田谷区のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/week1712z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2017年12月25日～31日</p>
 <p class="block-title"><a href="http://astone.tv/events/week1712z/" target="_blank">2017年年末の一週間<br>全国各教会</a></p>
