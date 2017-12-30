@@ -38,12 +38,20 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/week1712/" target="_blank">2017年年末の一週間<br>東京アンテオケ教会</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1712gifts/" target="_blank"><img src="/2016/images/top/1801charityrojyou.jpg"></a>
+<p class="block-date">ブログ：2017年12月30日〜2018年1月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712gifts/" target="_blank">今年もやります！<br>お正月チャリティー路上ライブに向かって<br>Giftsも歌う</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2017students/1230students/" target="_blank"><img src="/2016/images/top/1704gakusei.jpg"></a>
 <p class="block-date">ブログ：2017年12月31日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/1230students/" target="_blank">学生会<br>ホットケーキを食べる</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/1230students/" target="_blank">12月の学生会<br>甘い系としょっぱい系のホットケーキを食べる</a></p>
 </div>
 
 <div class="column-inner">
@@ -51,15 +59,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/happyday2017/201712/" target="_blank"><img src="/2016/images/top/1704ohhappyday.jpg"></a>
 <p class="block-date">ブログ：2017年12月31日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/201712/" target="_blank">OH! HAPPY DAY!</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1712gifts/" target="_blank"><img src="/2016/images/top/1701giftsnagaoka.jpg"></a>
-<p class="block-date">ブログ：2017年12月30日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712gifts/" target="_blank">Gifts<br>晦日の東京に立つ<br>路上ライブ</a></p>
+<p class="block-title"><a href="http://astone.tv/events/happyday2017/201712/" target="_blank">12月のOH! HAPPY DAY!<br>ホットケーキとサプライズ</a></p>
 </div>
 
 <div class="column-inner">
