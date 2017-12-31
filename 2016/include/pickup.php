@@ -30,6 +30,30 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/1712cambodia/" target="_blank">カンボジアチーム直前情報写真集<br>(日程：2018年1月2日〜5日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/newyear2018/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
+<p class="block-date">ブログ：2017年1月1日～7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/newyear2018/" target="_blank">2018年 年始の一週間<br>東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/jfes1801/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2017年1月1日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/jfes1801/" target="_blank">渋谷FESに向かって</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/newyear2018z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2017年1月1日～7日</p>
+<p class="block-title"><a href="http://astone.tv/events/newyear2018z/" target="_blank">2018年 年始の一週間<br>全国各教会</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
