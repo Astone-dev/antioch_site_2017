@@ -34,7 +34,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1712gifts/" target="_blank"><img src="/2016/images/top/1801charityrojyou.jpg"></a>
-<p class="block-date">ブログ：2017年12月30日〜2018年1月1日</p>
+<p class="block-date">ブログ：2018年1月1日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1712gifts/" target="_blank">今年もやります！<br>お正月、賛美隊チャリティー路上ライブ</a></p>
 </div>
 
