@@ -33,14 +33,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1712gifts/" target="_blank"><img src="/2016/images/top/1801charityrojyou.jpg"></a>
-<p class="block-date">ブログ：2018年1月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712gifts/" target="_blank">今年もやります！<br>お正月、賛美隊チャリティー路上ライブ</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/newyear2018/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
 <p class="block-date">ブログ：2017年1月1日～7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/newyear2018/" target="_blank">2018年お正月の一週間<br>東京アンテオケ教会</a></p>
@@ -101,6 +93,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1712gifts/" target="_blank"><img src="/2016/images/top/1801charityrojyou.jpg"></a>
+<p class="block-date">ブログ：2018年1月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1712gifts/" target="_blank">今年もやります！<br>お正月、賛美隊チャリティー路上ライブ</a></p>
 </div>
 
 <div class="column-inner">
