@@ -25,9 +25,9 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<a href="https://www.youtube.com/watch?v=3Z1DUvML8dE" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年1月3、4日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>日程：2018年1月3日 日本時間9：00頃<br>日程：2018年1月4日 日本時間9：00頃</a></p>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=3Z1DUvML8dE" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>日程：2018年1月3日 日本時間9：00頃<br>日程：2018年1月4日 日本時間9：00頃</a></p>
 </div>
 
 <div class="column-inner">
