@@ -26,8 +26,8 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1801cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
-<p class="block-date">ブログ：2017年12月29日～</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/" target="_blank">カンボジアチーム直前情報写真集<br>(日程：2018年1月2日〜5日)</a></p>
+<p class="block-date">ブログ：2018年1月2日～5日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/" target="_blank">カンボジアチーム本番<br>最新情報写真集<br>(日程：2018年1月2日〜5日)</a></p>
 </div>
 
 <div class="column-inner">
