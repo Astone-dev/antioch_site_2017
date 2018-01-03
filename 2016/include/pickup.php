@@ -14,20 +14,20 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/watch?v=HJ3LpHn4ax4" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・ニューヨーク聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年12月13日</p>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=HJ3LpHn4ax4" target="_blank" onclick="javascript:pageTracker._trackPageview('アメリカチーム・デンバー聖会生中継');">アメリカチーム・ニューヨーク聖会生中継<br>日程：2017年12月13日 日本時間7：00頃(時間変更の可能性あり)</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1801cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
 <p class="block-date">ブログ：2018年1月2日～5日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/" target="_blank">カンボジアチーム本番<br>最新情報写真集<br>(日程：2018年1月2日〜5日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年1月3、4日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>日程：2018年1月3日 日本時間9：00頃<br>日程：2018年1月4日 日本時間9：00頃</a></p>
 </div>
 
 <div class="column-inner">
