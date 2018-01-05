@@ -19,7 +19,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/tokyo1801/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
 <p class="block-date">ブログ：2018年1月6日～7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/tokyo1801/" target="_blank">東京カリスマ聖会<br>(日程：2018年1月7日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/tokyo1801/" target="_blank">冬の東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年1月7日)</a></p>
 </div>
 
 <!--<div class="column-inner">
