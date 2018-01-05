@@ -14,20 +14,12 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/tokyo1801/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
 <p class="block-date">ブログ：2018年1月6日～7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/tokyo1801/" target="_blank">東京カリスマ聖会<br>(日程：2018年1月7日)</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1801cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
-<p class="block-date">ブログ：2018年1月2日～5日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/" target="_blank">カンボジアチーム本番<br>最新情報写真集<br>(日程：2018年1月2日〜5日)</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -117,6 +109,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1801cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
+<p class="block-date">ブログ：2018年1月2日～5日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/" target="_blank">カンボジアチーム本番<br>写真集<br>(日程：2018年1月2日〜5日)</a></p>
 </div>
 
 <div class="column-inner">
