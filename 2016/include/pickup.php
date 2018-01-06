@@ -22,7 +22,15 @@
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム聖会生中継<br>日程：2018年1月3日 日本時間9：00頃<br>日程：2018年1月4日 日本時間9：00頃<br></a>
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
 </div>-->
- 
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/kyushu1801/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
+<p class="block-date">ブログ：2018年1月7日～11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1801/" target="_blank">冬の輝く光の中、九州を行く<br>九州宣教の旅<br>(日程：2018年1月8日〜10日)</a></p>
+</div>
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
