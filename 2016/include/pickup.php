@@ -14,14 +14,6 @@
 <p class="block-title"><a href="http://www.ustream.tv/channel/tokyoantiochtv" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">イスラエルチーム聖会生中継<br>日程：2017年11月5日 日本時間16：00頃(時間変更の可能性あり)</a></p>
 </div>-->
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/tokyo1801/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
-<p class="block-date">ブログ：2018年1月6日～7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/tokyo1801/" target="_blank">冬の東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年1月7日)</a></p>
-</div>
-
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
@@ -34,6 +26,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/tokyo1801/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
+<p class="block-date">ブログ：2018年1月6日～7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/tokyo1801/" target="_blank">冬の東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年1月7日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/info/newyear2018/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
 <p class="block-date">ブログ：2018年1月1日～7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/newyear2018/" target="_blank">2018年お正月の一週間<br>東京アンテオケ教会</a></p>
@@ -42,9 +42,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/jfes1801/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
+<a href="http://astone.tv/events/jfes1801/" target="_blank"><img src="/2016/images/top/1801shibuyafes.jpg"></a>
 <p class="block-date">ブログ：2018年1月1日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/jfes1801/" target="_blank">渋谷J.GOSPEL FESに向かって出演グループとThe Visionスタッフの一週間<br>(日程：2018年1月8日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/jfes1801/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間<br>(日程：2018年1月8日)</a></p>
 </div>
 
 <div class="column-inner">
