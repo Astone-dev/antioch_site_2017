@@ -44,7 +44,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/thanks1801/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
 <p class="block-date">ブログ：2018年1月8日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/thanks1801/" target="_blank">新学期スタートの一週間<br>東京アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/thanks1801/" target="_blank">新学期スタートの一週間 <br>東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -52,7 +52,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/thanks1801z/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
 <p class="block-date">ブログ：2018年1月8日～14日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1801z/" target="_blank">新学期スタートの一週間<br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1801z/" target="_blank">新学期スタートの一週間 <br>全国各教会</a></p>
 </div>-->
 
 <div class="column-inner">
