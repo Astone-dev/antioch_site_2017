@@ -34,15 +34,23 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/tokyo1801/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
-<p class="block-date">ブログ：2018年1月6日～7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/tokyo1801/" target="_blank">冬の東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年1月7日)</a></p>
+<a href="http://astone.tv/events/jfes1801/" target="_blank"><img src="/2016/images/top/1702shibuyafes.jpg"></a>
+<p class="block-date">ブログ：2018年1月1日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/jfes1801/" target="_blank">いよいよ今日！<br>渋谷J.GOSPEL FES<br>出演グループとThe Visionスタッフの一日<br>(日程：2018年1月8日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA?view_as=subscriber" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継'); "><img src="/2016/images/top/1609nerimafeslive.png"></a>
+<p class="block-date">2018年1月8日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA?view_as=subscriber" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/thanks1801/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
+<a href="http://antiochblog.jp/info/thanks1801/" target="_blank"><img src="/2016/images/top/1610gospelantioch.jpg"></a>
 <p class="block-date">ブログ：2018年1月8日～14日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/thanks1801/" target="_blank">新学期スタートの一週間 <br>東京アンテオケ教会</a></p>
 </div>
@@ -50,33 +58,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/thanks1801z/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
+<a href="http://astone.tv/events/thanks1801z/" target="_blank"><img src="/2016/images/top/1612nenmatsuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月8日～14日</p>
 <p class="block-title"><a href="http://astone.tv/events/thanks1801z/" target="_blank">新学期スタートの一週間 <br>全国各教会</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/newyear2018/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年1月1日～7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/newyear2018/" target="_blank">2018年お正月の一週間<br>東京アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/jfes1801/" target="_blank"><img src="/2016/images/top/1801shibuyafes.jpg"></a>
-<p class="block-date">ブログ：2018年1月1日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/jfes1801/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間<br>(日程：2018年1月8日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/newyear2018z/" target="_blank"><img src="/2016/images/top/1701syougatuzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年1月1日～7日</p>
-<p class="block-title"><a href="http://astone.tv/events/newyear2018z/" target="_blank">2018年お正月の一週間<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -133,6 +117,27 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/tokyo1801/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
+<p class="block-date">ブログ：2018年1月6日～7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/tokyo1801/" target="_blank">冬の東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年1月7日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/newyear2018/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年1月1日～7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/newyear2018/" target="_blank">2018年お正月の一週間<br>東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/newyear2018z/" target="_blank"><img src="/2016/images/top/1701syougatuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年1月1日～7日</p>
+<p class="block-title"><a href="http://astone.tv/events/newyear2018z/" target="_blank">2018年お正月の一週間<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -264,14 +269,6 @@
 <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
 <p class="block-date">日程：2017年10月1日</p>
 <p class="block-title"><a href="http://tokyo.antioch.jp/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA/live" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継'); "><img src="/2016/images/top/1609nerimafeslive.png"></a>
-<p class="block-date">2017年11月23日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA/live" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br> (日程：2017年11月23日 11:30〜)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
