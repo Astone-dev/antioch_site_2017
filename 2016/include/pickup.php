@@ -39,13 +39,13 @@
 <p class="block-title"><a href="http://astone.tv/events/jfes1801/" target="_blank">いよいよ今日！<br>渋谷J.GOSPEL FES<br>出演グループとThe Visionスタッフの一日<br>(日程：2018年1月8日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継'); "><img src="/2016/images/top/1609nerimafeslive.png"></a>
 <p class="block-date">2018年1月8日</p>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
