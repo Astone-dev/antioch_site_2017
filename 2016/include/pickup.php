@@ -64,6 +64,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201801-cambodia/" target="_blank"><img src="/2016/images/top/1801cambodia_m.jpg"></a>
+<p class="block-date">日程：2018年1月2日～5日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201801-cambodia/" target="_blank">カンボジアチーム<br>ダイジェスト紹介映像<br>(再生時間 5:38)</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo.jpg"></a>
 <p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
@@ -76,21 +84,6 @@
 <a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank"><img src="/2016/images/top/1712sunerugoi_info_m.jpg"></a>
 <p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>紹介映像 <br>(再生時間 5:09)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201712-usa2/" target="_blank"><img src="/2016/images/top/1801america_d_m.jpg"></a>
-<p class="block-date">日程：2017年12月25日〜28日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201712-usa2/" target="_blank">アメリカチーム<br>(ロス、サンディエゴ)<br>ダイジェスト映像</a></p></div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1712usa2/category/usa2dst/" target="_blank"><img src="/2016/images/top/1801america_d_p.jpg"></a>
-<p class="block-date">ブログ：2017年12月25日〜28日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1712usa2/category/usa2dst/" target="_blank">アメリカチーム<br>(ロス、サンディエゴ)<br>ダイジェスト写真集</a></p>
 </div>
 
 <div class="column-inner">
@@ -145,6 +138,19 @@
 <a href="http://blog.antioch.jp/1801cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
 <p class="block-date">ブログ：2018年1月2日～5日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/" target="_blank">カンボジアチーム本番<br>写真集<br>(日程：2018年1月2日〜5日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201712-usa2/" target="_blank"><img src="/2016/images/top/1801america_d_m.jpg"></a>
+<p class="block-date">日程：2017年12月25日〜28日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201712-usa2/" target="_blank">アメリカチーム<br>(ロス、サンディエゴ)<br>ダイジェスト映像</a></p></div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1712usa2/category/usa2dst/" target="_blank"><img src="/2016/images/top/1801america_d_p.jpg"></a>
+<p class="block-date">ブログ：2017年12月25日〜28日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1712usa2/category/usa2dst/" target="_blank">アメリカチーム<br>(ロス、サンディエゴ)<br>ダイジェスト写真集</a></p>
 </div>
 
 <div class="column-inner">
