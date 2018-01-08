@@ -55,15 +55,15 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/thanks1801/" target="_blank">冬休み明け<br>さあ頑張るぞ<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/blog1801/" target="_blank"><img src="/2016/images/top/1702shibuyafes.jpg"></a>
+<a href="http://antiochblog.jp/info/blog1801/" target="_blank"><img src="/2016/images/top/1701bloggerweekantioch.jpg"></a>
 <p class="block-date">ブログ：2018年1月9日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/blog1801/" target="_blank">アンテオケブロガーの一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/blog1801/" target="_blank">アンテオケブロガーたちの<br>冬ののんきな一週間<br>新しいメンバー加わる<br></a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
