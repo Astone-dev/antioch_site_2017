@@ -39,14 +39,6 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1801/" target="_blank">冬の輝く光の中、九州を行く<br>九州宣教の旅<br>(日程：2018年1月8日〜10日)</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/jfes1801/" target="_blank"><img src="/2016/images/top/1702shibuyafes.jpg"></a>
-<p class="block-date">ブログ：2018年1月1日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/jfes1801/" target="_blank">いよいよ今日！<br>渋谷J.GOSPEL FES<br>出演グループとThe Visionスタッフの一日<br>(日程：2018年1月8日)</a></p>
-</div>
-
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
@@ -58,26 +50,26 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/thanks1801/" target="_blank"><img src="/2016/images/top/1610gospelantioch.jpg"></a>
+<a href="http://antiochblog.jp/info/thanks1801/" target="_blank"><img src="/2016/images/top/1801fuyuyasumiake.jpg"></a>
 <p class="block-date">ブログ：2018年1月8日～14日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/thanks1801/" target="_blank">冬休み明け<br>さあ頑張るぞ<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/blog1801/" target="_blank"><img src="/2016/images/top/1702shibuyafes.jpg"></a>
-<p class="block-date">ブログ：2018年1月9日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/blog1801/" target="_blank">アンテオケブロガーの一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
-<p class="block-date">ブログ：2018年1月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank">エルサレム<br>三郷市の施設でゴスペル</a></p>
-</div>-->
+<a href="http://antiochblog.jp/praise/1801vision/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
+<p class="block-date">ブログ：2018年1月10日～11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1801vision/" target="_blank">The Vision主催のコンサート<br>賛美チームとスタッフ大忙し<br>(日程：2018年1月11日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/blog1801/" target="_blank"><img src="/2016/images/top/1801bloggerweek.jpg"></a>
+<p class="block-date">ブログ：2018年1月9日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/blog1801/" target="_blank">アンテオケブロガーたちの<br>冬ののんきな一週間<br>新しいメンバー加わる<br></a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -134,6 +126,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
+<p class="block-date">ブログ：2018年1月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank">エルサレム<br>三郷市の施設でゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/jfes1801/" target="_blank"><img src="/2016/images/top/1702shibuyafes.jpg"></a>
+<p class="block-date">ブログ：2018年1月1日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/jfes1801/" target="_blank">いよいよ今日！<br>渋谷J.GOSPEL FES<br>出演グループとThe Visionスタッフの一日<br>(日程：2018年1月8日)</a></p>
 </div>
 
 <div class="column-inner">
