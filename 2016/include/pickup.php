@@ -23,6 +23,14 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1801meetings/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
+<p class="block-date">ブログ：2018年1月12日～13日</p>
+<p class="block-title"><a href="http://astone.tv/events/1801meetings/" target="_blank">甲府、横須賀を行く<br>甲府、横須賀宣教の旅<br>(日程：2018年1月12日～13日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
