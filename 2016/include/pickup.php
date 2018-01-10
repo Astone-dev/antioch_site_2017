@@ -58,14 +58,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
-<p class="block-date">ブログ：2018年1月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank">エルサレム<br>三郷市の施設でゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/thanks1801z/" target="_blank"><img src="/2016/images/top/1612nenmatsuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月8日～14日</p>
 <p class="block-title"><a href="http://astone.tv/events/thanks1801z/" target="_blank">冬休み明け<br>さあ頑張るぞ<br>全国各教会の一週間</a></p>
@@ -118,6 +110,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
+<p class="block-date">ブログ：2018年1月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank">エルサレム<br>三郷市の施設でゴスペル</a></p>
 </div>
 
 <div class="column-inner">
