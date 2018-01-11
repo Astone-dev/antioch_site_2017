@@ -23,20 +23,12 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
 </div>-->
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1801meetings/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
-<p class="block-date">ブログ：2018年1月12日～13日</p>
-<p class="block-title"><a href="http://astone.tv/events/1801meetings/" target="_blank">甲府、横須賀を行く<br>甲府、横須賀宣教の旅<br>(日程：2018年1月12日～13日)</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/kyushu1801/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
-<p class="block-date">ブログ：2018年1月7日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1801/" target="_blank">冬の輝く光の中、九州を行く<br>九州宣教の旅<br>(日程：2018年1月8日〜10日)</a></p>
+<a href="http://astone.tv/events/1801meetings/" target="_blank"><img src="/2016/images/top/1708kofuyokosuka.jpg"></a>
+<p class="block-date">ブログ：2018年1月12日～13日</p>
+<p class="block-title"><a href="http://astone.tv/events/1801meetings/" target="_blank">冬の甲府、横須賀を行く<br>甲府、横須賀宣教の旅<br>(日程：2018年1月12日～13日)</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -53,14 +45,6 @@
 <a href="http://antiochblog.jp/info/thanks1801/" target="_blank"><img src="/2016/images/top/1801fuyuyasumiake.jpg"></a>
 <p class="block-date">ブログ：2018年1月8日～14日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/thanks1801/" target="_blank">冬休み明け<br>さあ頑張るぞ<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1801vision/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
-<p class="block-date">ブログ：2018年1月10日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1801vision/" target="_blank">The Vision主催のコンサート<br>賛美チームとスタッフ大忙し<br>(日程：2018年1月11日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -126,6 +110,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1801vision/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
+<p class="block-date">ブログ：2018年1月10日～11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1801vision/" target="_blank">The Vision主催のコンサート<br>賛美チームとスタッフ大忙し<br>(日程：2018年1月11日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/kyushu1801/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
+<p class="block-date">ブログ：2018年1月7日～11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1801/" target="_blank">冬の輝く光の中、九州を行く<br>九州宣教の旅<br>(日程：2018年1月8日〜10日)</a></p>
 </div>
 
 <div class="column-inner">
