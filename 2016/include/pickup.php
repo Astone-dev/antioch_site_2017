@@ -26,9 +26,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1801meetings/" target="_blank"><img src="/2016/images/top/1708kofuyokosuka.jpg"></a>
-<p class="block-date">ブログ：2018年1月12日～13日</p>
-<p class="block-title"><a href="http://astone.tv/events/1801meetings/" target="_blank">冬の甲府、横須賀を行く<br>甲府、横須賀宣教の旅<br>(日程：2018年1月12日～13日)</a></p>
+<a href="http://astone.tv/events/1801meetings/" target="_blank"><img src="/2016/images/top/1801yokosuka.jpg"></a>
+<p class="block-date">ブログ：2018年1月13日</p>
+<p class="block-title"><a href="http://astone.tv/events/1801meetings/" target="_blank">爆弾低気圧の中極寒の横須賀を行く<br>関東宣教の旅<br>(日程：2018年1月13日)</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -55,15 +55,7 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/blog1801/" target="_blank">アンテオケブロガーたちの<br>冬ののんきな一週間<br>新しいメンバー加わる<br></a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年1月13日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年1月13日 18:30スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/2017healing/0113healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
@@ -72,12 +64,20 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年1月13日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年1月13日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/0113saitama/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年1月13日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0113saitama/" target="_blank">エルサレム<br>埼玉のグループホームでゴスペルコンサート<br></a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
