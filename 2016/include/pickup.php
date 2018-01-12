@@ -55,6 +55,30 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/blog1801/" target="_blank">アンテオケブロガーたちの<br>冬ののんきな一週間<br>新しいメンバー加わる<br></a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年1月13日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年1月13日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017healing/0113healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+<p class="block-date">ブログ：2018年1月13日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/0113healing/" target="_blank">いやしの集い</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/0113saitama/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年1月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0113saitama/" target="_blank">エルサレム<br>埼玉のグループホームでゴスペルコンサート<br></a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -183,65 +207,9 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1712gifts/" target="_blank"><img src="/2016/images/top/1801charityrojyou.jpg"></a>
-<p class="block-date">ブログ：2018年1月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1712gifts/" target="_blank">今年もやります！<br>お正月、賛美隊チャリティー路上ライブ</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://blog.antioch.jp/1712usa2/" target="_blank"><img src="/2016/images/top/1705america.jpg"></a>
-<p class="block-date">ブログ：2017年12月25日～28日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1712usa2/" target="_blank">アメリカチーム<br>(ロス、サンディエゴ)<br>写真集<br>(日程：2017年12月25日〜28日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/week1712/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
-<p class="block-date">ブログ：2017年12月25日～31日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/week1712/" target="_blank">2017年年末の一週間<br>東京アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2017students/1230students/" target="_blank"><img src="/2016/images/top/1704gakusei.jpg"></a>
-<p class="block-date">ブログ：2017年12月31日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/1230students/" target="_blank">12月の学生会<br>甘い系としょっぱい系のホットケーキを食べる</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/happyday2017/201712/" target="_blank"><img src="/2016/images/top/1704ohhappyday.jpg"></a>
-<p class="block-date">ブログ：2017年12月31日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/201712/" target="_blank">12月のOH! HAPPY DAY!<br>ホットケーキとサプライズ</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/week1712z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
-<p class="block-date">ブログ：2017年12月25日～31日</p>
-<p class="block-title"><a href="http://astone.tv/events/week1712z/" target="_blank">2017年年末の一週間<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
 <a href="http://blog.antioch.jp/1712usa1/category/usa1dst/" target="_blank"><img src="/2016/images/top/1712americadigest_p1.jpg"></a>
 <p class="block-date">日程：2017年12月11日～14日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1712usa1/category/usa1dst/" target="_blank">アメリカチーム<br>(デンバー、ニューヨーク)<br>ダイジェスト写真集<br>(短く全てを知りたい人のため)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1712tocharidigest_p.jpg"></a>
-<p class="block-date">日程：2017年12月3日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1712setagaya/" target="_blank"><img src="/2016/images/top/1609gateofnerimarouken.jpg"></a>
-<p class="block-date">ブログ：2017年12月30日</p>
-<p class="block-title"><a href="http://astone.tv/events/1712setagaya/" target="_blank">The Gate of Praise、JOHN <br>世田谷区のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
