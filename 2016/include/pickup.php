@@ -60,7 +60,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/2017healing/0113healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
 <p class="block-date">ブログ：2018年1月13日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/0113healing/" target="_blank">いやしの集い</a></p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/0113healing/" target="_blank">1月のいやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
