@@ -96,6 +96,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://blog.antioch.jp/1801cambodia/category/cambdst/" target="_blank"><img src="/2016/images/top/1801cambodia_d_p.jpg"></a>
+<p class="block-date">日程：2018年1月2日～5日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/category/cambdst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のため)</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo.jpg"></a>
 <p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
