@@ -28,7 +28,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/chubu1801/" target="_blank"><img src="/2016/images/top/1801chubu.jpg"></a>
 <p class="block-date">ブログ：2018年1月14日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/chubu1801/" target="_blank">冬の日差しの中<br>中部宣教の旅<br>(日程：2018年1月15日～17日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/chubu1801/" target="_blank">冬の日差しの中<br>中部宣教の旅<br> (日程：2018年1月15日～17日)</a></p>
 </div>
 
 <!--<div class="column-inner">
