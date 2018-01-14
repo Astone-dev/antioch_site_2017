@@ -58,6 +58,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/fujinkai1801/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
+<p class="block-date">ブログ：2018年1月14日</p>
+<p class="block-title"><a href="http://astone.tv/events/fujinkai1801/" target="_blank">婦人会<br>お食事会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20180114nerima/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
 <p class="block-date">ブログ：2018年1月14日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180114nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペル<br></a></p>
