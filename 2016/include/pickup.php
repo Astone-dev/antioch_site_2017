@@ -39,6 +39,30 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/faith1801a/" target="_blank"><img src="/2016/images/top/1801fuyuyasumiake.jpg"></a>
+<p class="block-date">ブログ：2018年1月15日～21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1801a/" target="_blank">寒さに負けるな! <br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/yosen1801/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
+<p class="block-date">ブログ：2018年1月15日～21日</p>
+<p class="block-title"><a href="http://astone.tv/events/yosen1801/" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ予選<br></a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/faith1801z/" target="_blank"><img src="/2016/images/top/1612nenmatsuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年1月15日～21日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1801z/" target="_blank">寒さに負けるな! <br>全国各教会の一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
