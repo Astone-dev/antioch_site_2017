@@ -39,68 +39,28 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1801a/" target="_blank"><img src="/2016/images/top/1801fuyuyasumiake.jpg"></a>
+<a href="http://antiochblog.jp/praise/faith1801a/" target="_blank"><img src="/2016/images/top/1801samusaniantioch.jpg"></a>
 <p class="block-date">ブログ：2018年1月15日～21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1801a/" target="_blank">寒さに負けるな! <br>東京アンテオケ教会の一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1801a/" target="_blank">寒さに負けるな!<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/yosen1801/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
+<a href="http://astone.tv/events/yosen1801/" target="_blank"><img src="/2016/images/top/1801antiochyosen.jpg"></a>
 <p class="block-date">ブログ：2018年1月15日～21日</p>
-<p class="block-title"><a href="http://astone.tv/events/yosen1801/" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ予選<br></a></p>
+<p class="block-title"><a href="http://astone.tv/events/yosen1801/" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ予選に向かって<br>ドキドキの一週間<br>(日程：2018年1月21日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/faith1801z/" target="_blank"><img src="/2016/images/top/1612nenmatsuzenkoku.jpg"></a>
+<a href="http://astone.tv/events/faith1801z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月15日～21日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1801z/" target="_blank">寒さに負けるな! <br>全国各教会の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/thanks1801/" target="_blank"><img src="/2016/images/top/1801fuyuyasumiake.jpg"></a>
-<p class="block-date">ブログ：2018年1月8日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/thanks1801/" target="_blank">冬休み明け<br>さあ頑張るぞ<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/blog1801/" target="_blank"><img src="/2016/images/top/1801bloggerweek.jpg"></a>
-<p class="block-date">ブログ：2018年1月9日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/blog1801/" target="_blank">アンテオケブロガーたちの<br>冬ののんきな一週間<br>新しいメンバー加わる<br></a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/fujinkai1801/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
-<p class="block-date">ブログ：2018年1月14日</p>
-<p class="block-title"><a href="http://astone.tv/events/fujinkai1801/" target="_blank">婦人会<br>お食事会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20180114nerima/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
-<p class="block-date">ブログ：2018年1月14日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180114nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペル<br></a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/thanks1801z/" target="_blank"><img src="/2016/images/top/1612nenmatsuzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年1月8日～14日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1801z/" target="_blank">冬休み明け<br>さあ頑張るぞ<br>全国各教会の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/faith1801z/" target="_blank">寒さに負けるな!<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -164,6 +124,41 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/thanks1801/" target="_blank"><img src="/2016/images/top/1801fuyuyasumiake.jpg"></a>
+<p class="block-date">ブログ：2018年1月8日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/thanks1801/" target="_blank">冬休み明け<br>さあ頑張るぞ<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/blog1801/" target="_blank"><img src="/2016/images/top/1801bloggerweek.jpg"></a>
+<p class="block-date">ブログ：2018年1月9日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/blog1801/" target="_blank">アンテオケブロガーたちの<br>冬ののんきな一週間<br>新しいメンバー加わる<br></a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/fujinkai1801/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
+<p class="block-date">ブログ：2018年1月14日</p>
+<p class="block-title"><a href="http://astone.tv/events/fujinkai1801/" target="_blank">婦人会<br>お食事会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20180114nerima/" target="_blank"><img src="/2016/images/top/1708euqarishinjyuku.jpg"></a>
+<p class="block-date">ブログ：2018年1月14日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180114nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペル<br></a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/thanks1801z/" target="_blank"><img src="/2016/images/top/1612nenmatsuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年1月8日～14日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1801z/" target="_blank">冬休み明け<br>さあ頑張るぞ<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
