@@ -83,7 +83,7 @@
               <li><a href="/prayer-time/">祈りの時間</a></li>
               <li>&nbsp;</li>
               <li class="t-bold">インターネットラジオ</li>
-              <li><a href="http://antiochblog.jp/info/alacarte/">クリスチャンの寄り道</a></li>
+              <li><a href="http://antiochblog.jp/info/godiswithus/">クリスチャンの寄り道</a></li>
               <li><a href="http://kazenohibiki.blogspot.jp/">ゴスペル風のひびきラジオ</a></li>
               <li>&nbsp;</li>
               <li class="t-bold">動画コンテンツ</li>
