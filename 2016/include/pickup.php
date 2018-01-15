@@ -108,7 +108,6 @@
 </div>
 
 <div class="column-inner">
-<span>NEW</span>
 <a href="http://tokyo.antioch.jp/yorimichi/result-important.html" target="_blank"><img src="/2016/images/top/1711yorimichi29kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-important.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.29<br>「大事な事柄が分かった時」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
