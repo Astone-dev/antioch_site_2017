@@ -55,6 +55,14 @@
 <p class="block-title"><a href="http://astone.tv/events/yosen1801/" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ予選に向かって<br>ドキドキの一週間<br>(日程：2018年1月21日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180117misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年1月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180117misato/" target="_blank">エルサレム<br>埼玉三郷の施設でゴスペル教室<br></a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
