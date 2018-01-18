@@ -23,13 +23,13 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1801meetings/" target="_blank"><img src="/2016/images/top/1801chubu.jpg"></a>
-<p class="block-date">ブログ：2018年1月19日～20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1801meetings/" target="_blank">冬の日差しの中<br>船橋、大和宣教の旅<br> (日程：2018年1月19日～20日)</a></p>
-</div>-->
+<a href="http://antiochblog.jp/info/1801meetings/" target="_blank"><img src="/2016/images/top/1801funabasi.jpg"></a>
+<p class="block-date">ブログ：2018年1月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1801meetings/" target="_blank">冬空の船橋を行く<br>関東宣教の旅<br>明日は大和へ<br> (日程：2018年1月19日)</a></p>
+</div>
 
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
@@ -55,6 +55,14 @@
 <p class="block-title"><a href="http://astone.tv/events/yosen1801/" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ予選に向かって<br>ドキドキの一週間<br>(日程：2018年1月21日)</a></p>
 </div>
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/uranos2017/180119shinyuri/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
+<p class="block-date">ブログ：2018年1月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180119shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート<br></a></p>
+</div>
+
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -69,22 +77,6 @@
 <a href="http://astone.tv/events/faith1801z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月15日～21日</p>
 <p class="block-title"><a href="http://astone.tv/events/faith1801z/" target="_blank">寒さに負けるな!<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201801-cambodia/" target="_blank"><img src="/2016/images/top/1801cambodia_m.jpg"></a>
-<p class="block-date">日程：2018年1月2日～5日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201801-cambodia/" target="_blank">カンボジアチーム<br>ダイジェスト紹介映像<br>(再生時間 5:38)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1801cambodia/category/cambdst/" target="_blank"><img src="/2016/images/top/1801cambodia_d_p.jpg"></a>
-<p class="block-date">日程：2018年1月2日～5日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/category/cambdst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のため)</a></p>
 </div>
 
 <div class="column-inner">
@@ -131,6 +123,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201801-cambodia/" target="_blank"><img src="/2016/images/top/1801cambodia_m.jpg"></a>
+<p class="block-date">日程：2018年1月2日～5日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201801-cambodia/" target="_blank">カンボジアチーム<br>ダイジェスト紹介映像<br>(再生時間 5:38)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1801cambodia/category/cambdst/" target="_blank"><img src="/2016/images/top/1801cambodia_d_p.jpg"></a>
+<p class="block-date">日程：2018年1月2日～5日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/category/cambdst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のため)</a></p>
 </div>
 
 <div class="column-inner">
