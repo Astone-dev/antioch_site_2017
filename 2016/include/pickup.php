@@ -23,20 +23,28 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
 </div>-->
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1801meetings/" target="_blank"><img src="/2016/images/top/1801funabasi.jpg"></a>
-<p class="block-date">ブログ：2018年1月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1801meetings/" target="_blank">冬空の船橋を行く<br>関東宣教の旅<br>明日は大和へ<br> (日程：2018年1月19日)</a></p>
-</div>
-
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継'); "><img src="/2016/images/top/1609nerimafeslive.png"></a>
 <p class="block-date">2018年1月8日</p>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
+</div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1801meetings/" target="_blank"><img src="/2016/images/top/1801yamato.jpg"></a>
+<p class="block-date">ブログ：2018年1月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1801meetings/" target="_blank">冬晴れの大和を行く<br>関東宣教の旅<br>(日程：2018年1月20日)</a></p>
+</div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1801meetings/" target="_blank"><img src="/2016/images/top/1801funabasi.jpg"></a>
+<p class="block-date">ブログ：2018年1月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1801meetings/" target="_blank">冬空の船橋を行く<br>関東宣教の旅<br>明日は大和へ<br> (日程：2018年1月19日)</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -63,46 +71,21 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180120night/" target="_blank">1月 Revival Night<br></a></p>
 </div>
 
-
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180119shinyuri/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
-<p class="block-date">ブログ：2018年1月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180119shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート<br></a></p>
-</div>
-
-<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年12月16日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年12月16日 18:30スタート)</a></p>
-</div>-->
+<p class="block-date">2017年1月20日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年1月20日 18:30スタート)</a></p>
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2017labeille/180120arakawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
 <p class="block-date">ブログ：2018年1月20日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180120arakawa/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年1月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1801freedom/" target="_blank"><img src="/2016/images/top/1707freedomshisetsu.jpg"></a>
-<p class="block-date">ブログ：2018年1月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1801freedom/" target="_blank">Freedom <br>野方のデイサービスでゴスペル</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -110,6 +93,22 @@
 <a href="http://astone.tv/events/faith1801z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月15日～21日</p>
 <p class="block-title"><a href="http://astone.tv/events/faith1801z/" target="_blank">寒さに負けるな!<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年1月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1801freedom/" target="_blank"><img src="/2016/images/top/1707freedomshisetsu.jpg"></a>
+<p class="block-date">ブログ：2018年1月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1801freedom/" target="_blank">Freedom <br>野方のデイサービスでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -170,6 +169,13 @@
 <a href="http://blog.antioch.jp/1801cambodia/category/cambdst/" target="_blank"><img src="/2016/images/top/1801cambodia_d_p.jpg"></a>
 <p class="block-date">日程：2018年1月2日～5日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/category/cambdst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のため)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/uranos2017/180119shinyuri/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
+<p class="block-date">ブログ：2018年1月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180119shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート<br></a></p>
 </div>
 
 <div class="column-inner">
