@@ -58,6 +58,15 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/revival2017/180120night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<p class="block-date">ブログ：2018年1月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180120night/" target="_blank">1月 Revival Night<br></a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/uranos2017/180119shinyuri/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
 <p class="block-date">ブログ：2018年1月19日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180119shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート<br></a></p>
@@ -69,14 +78,6 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2017年12月16日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年12月16日 18:30スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/revival2017/180120night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">ブログ：2018年1月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180120night/" target="_blank">1月 Revival Night<br></a></p>
 </div>-->
 
 <!--<div class="column-inner">
