@@ -83,9 +83,25 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017labeille/180120arakawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
+<p class="block-date">ブログ：2018年1月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180120arakawa/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年1月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート<br></a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1801freedom/" target="_blank"><img src="/2016/images/top/1707freedomshisetsu.jpg"></a>
+<p class="block-date">ブログ：2018年1月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1801freedom/" target="_blank">Freedom <br>野方のデイサービスでゴスペル</a></p>
 </div>-->
 
 <div class="column-inner">
