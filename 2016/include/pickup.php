@@ -203,69 +203,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0113saitama/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年1月13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0113saitama/" target="_blank">エルサレム<br>埼玉のグループホームでゴスペルコンサート<br></a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1801vision/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
-<p class="block-date">ブログ：2018年1月10日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1801vision/" target="_blank">The Vision主催のコンサート<br>賛美チームとスタッフ大忙し<br>(日程：2018年1月11日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/kyushu1801/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
-<p class="block-date">ブログ：2018年1月7日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1801/" target="_blank">冬の輝く光の中、九州を行く<br>九州宣教の旅<br>(日程：2018年1月8日〜10日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
-<p class="block-date">ブログ：2018年1月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/0109misato/" target="_blank">エルサレム<br>三郷市の施設でゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/jfes1801/" target="_blank"><img src="/2016/images/top/1702shibuyafes.jpg"></a>
-<p class="block-date">ブログ：2018年1月1日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/jfes1801/" target="_blank">いよいよ今日！<br>渋谷J.GOSPEL FES<br>出演グループとThe Visionスタッフの一日<br>(日程：2018年1月8日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/tokyo1801/" target="_blank"><img src="/2016/images/top/1708tokari.jpg"></a>
-<p class="block-date">ブログ：2018年1月6日～7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/tokyo1801/" target="_blank">冬の東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年1月7日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/newyear2018/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年1月1日～7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/newyear2018/" target="_blank">2018年お正月の一週間<br>東京アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/newyear2018z/" target="_blank"><img src="/2016/images/top/1701syougatuzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年1月1日～7日</p>
-<p class="block-title"><a href="http://astone.tv/events/newyear2018z/" target="_blank">2018年お正月の一週間<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://blog.antioch.jp/1801cambodia/" target="_blank"><img src="/2016/images/top/1708cambodia_blog.jpg"></a>
-<p class="block-date">ブログ：2018年1月2日～5日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/" target="_blank">カンボジアチーム本番<br>写真集<br>(日程：2018年1月2日〜5日)</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201712-usa2/" target="_blank"><img src="/2016/images/top/1801america_d_m.jpg"></a>
 <p class="block-date">日程：2017年12月25日〜28日</p>
@@ -290,27 +227,6 @@
 <a href="http://tv.antioch.jp/digest/201712-usa/" target="_blank"><img src="/2016/images/top/1712america_d_m.jpg"></a>
 <p class="block-date">日程：2017年12月11日～14日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201712-usa/" target="_blank">アメリカチーム<br>(デンバー、ニューヨーク)<br>ダイジェスト映像<br>(再生時間 4:50)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
-<p class="block-date">日程：2017年10月30日～11月11日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:10)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://blog.antioch.jp/1711israel/category/israel17dst/" target="_blank"><img src="/2016/images/top/1711israelteamdigest_p.jpg"></a>
-<p class="block-date">日程：2017年10月30日～11月11日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1711israel/category/israel17dst/" target="_blank">イスラエルチーム<br>ダイジェスト写真集<br>(短くい全てを知りたい人のために)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank"><img src="/2016/images/top/1711shinnendreihai_m.jpg"></a>
-<p class="block-date">日程：2017年11月5日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/2018newyearworship.html" target="_blank">ガリラヤ湖、アルベル山<br>新年度礼拝<br>映像保存版</a></p>
 </div>
 
 <!--<div class="column-inner">
