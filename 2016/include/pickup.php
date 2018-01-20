@@ -42,9 +42,9 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1801meetings/" target="_blank"><img src="/2016/images/top/1801funabasi.jpg"></a>
+<a href="http://antiochblog.jp/praise/kansai1801/" target="_blank"><img src="/2016/images/top/1801funabasi.jpg"></a>
 <p class="block-date">ブログ：2018年1月21日～25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1801meetings/" target="_blank">冬空の関西を行く<br>関西宣教の旅<br>(日程：2018年1月122日～24日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kansai1801/" target="_blank">冬空の関西を行く<br>関西宣教の旅<br>(日程：2018年1月22日～24日)</a></p>
 </div>-->
 
 <div class="column-inner">
