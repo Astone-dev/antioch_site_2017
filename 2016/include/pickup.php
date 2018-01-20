@@ -43,8 +43,8 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1801meetings/" target="_blank"><img src="/2016/images/top/1801funabasi.jpg"></a>
-<p class="block-date">ブログ：2018年1月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1801meetings/" target="_blank">冬空の船橋を行く<br>関東宣教の旅<br>明日は大和へ<br> (日程：2018年1月19日)</a></p>
+<p class="block-date">ブログ：2018年1月21日～25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1801meetings/" target="_blank">冬空の関西を行く<br>関西宣教の旅<br>(日程：2018年1月122日～24日)</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -110,6 +110,22 @@
 <p class="block-date">ブログ：2018年1月20日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1801freedom/" target="_blank">Freedom <br>野方のデイサービスでゴスペル</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/uranos2017/180121nerima/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
+<p class="block-date">ブログ：2018年1月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180121nerima/" target="_blank">ウラノス<br>練馬区のデイサービスでコンサート </a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180121koenji/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">ブログ：2018年1月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180121koenji/" target="_blank">GRACEと宝石<br>高円寺のデイサービスゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
