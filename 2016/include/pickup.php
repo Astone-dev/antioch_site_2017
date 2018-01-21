@@ -44,7 +44,7 @@
 <span>NEW</span>
 <a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年1月21日</p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継');">J-GOSPELコンテスト 生中継 in 白馬<br>東京アンテオケ予選(日程：2018年1月21日 16:00スタート)</a></p>
+<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継');">J-GOSPELコンテスト 生中継 in 白馬<br>東京アンテオケ予選<br>(日程：2018年1月21日 16:00スタート)</a></p>
 </div>
 
 <div class="column-inner">
