@@ -44,7 +44,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/hcff1801/" target="_blank"><img src="/2016/images/top/1712eizousaiantioch.jpg"></a>
 <p class="block-date">ブログ：2018年1月22日～28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hcff1801/" target="_blank">白馬映像際に向かって<br>必死の頑張り</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hcff1801/" target="_blank">白馬映像祭に向かって<br>必死の頑張り</a></p>
 </div>
 
 <div class="column-inner">
