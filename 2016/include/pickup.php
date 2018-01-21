@@ -39,6 +39,39 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/kansai1801/" target="_blank">冬の寒さ再び関西を行く<br>関西宣教の旅<br>(日程：2018年1月22日～24日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/antioch1801/" target="_blank"><img src="/2016/images/top/1801samusaniantioch.jpg"></a>
+<p class="block-date">ブログ：2018年1月22日～28日</p>
+<p class="block-title"><a href=" http://astone.tv/events/antioch1801/" target="_blank">大寒を楽しもう<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/hcff1801/" target="_blank"><img src="/2016/images/top/1801antiochyosen.jpg"></a>
+<p class="block-date">ブログ：2018年1月22日～28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hcff1801/" target="_blank">白馬映像際に向かって</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/yosen1801/" target="_blank"><img src="/2016/images/top/1801antiochyosen.jpg"></a>
+<p class="block-date">ブログ：2018年1月22日～28日</p>
+<p class="block-title"><a href="http://astone.tv/events/yosen1801/" target="_blank">J.GOSPELコンテスト in 白馬 <br>東京アンテオケ教会予選通過！<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年1月22日～28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank">大寒を楽しもう<br>全国各教会の一週間</a></p>
+</div>-->
+
+
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
