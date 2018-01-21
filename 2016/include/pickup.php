@@ -50,9 +50,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/yosen1801/" target="_blank"><img src="/2016/images/top/1801antiochyosenyorokobi.jpg"></a>
+<a href="http://astone.tv/events/yorokobi1801/" target="_blank"><img src="/2016/images/top/1801antiochyosenyorokobi.jpg"></a>
 <p class="block-date">ブログ：2018年1月22日～28日</p>
-<p class="block-title"><a href="http://astone.tv/events/yosen1801/" target="_blank">J.GOSPELコンテスト in 白馬 <br>東京アンテオケ教会予選通過！<br>喜びと悲しみの一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/yorokobi1801/" target="_blank">J.GOSPELコンテスト in 白馬 <br>東京アンテオケ教会予選通過！<br>喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
