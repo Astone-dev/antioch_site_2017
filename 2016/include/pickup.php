@@ -94,6 +94,13 @@
 </div>
 
 <div class="column-inner">
+<span>NEW</span>
+<a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
+<p class="block-date">毎日19:00更新</p>
+<p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
 <a href="http://antiochblog.jp/info/alacarte/" target="_blank"><img src="/2016/images/top/1711yorimichi30.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/alacarte/" target="_blank">クリスチャンの寄り道 Vol.30<br>今回は「祝福のアラカルト」のお話です</a></p>
@@ -109,14 +116,6 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
-
-<div class="column-inner">
-<span>NEW</span>
-<a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
-<p class="block-date">毎日19:00更新</p>
-<p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
-</div>
-
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
