@@ -52,7 +52,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/yorokobi1801/" target="_blank"><img src="/2016/images/top/1801antiochyosenyorokobi.jpg"></a>
 <p class="block-date">ブログ：2018年1月22日～28日</p>
-<p class="block-title"><a href="http://astone.tv/events/yorokobi1801/" target="_blank">J.GOSPELコンテスト in 白馬 <br>東京アンテオケ教会予選通過！<br>喜びと悲しみの一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/yorokobi1801/" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ教会予選通過！<br>喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -61,6 +61,14 @@
 <a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank"><img src="/2016/images/top/1801daikanzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月22日～28日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank">大寒を楽しもう！<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://tokyo.antioch.jp/internet-tv/1801021-yosen.html" target="_blank"><img src="/2016/images/top/1801antiochyosen_m.jpg"></a>
+<p class="block-date">日程：2018年1月21日</p>
+<p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/1801021-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ教会予選<br>保存版</a></p>
 </div>
 
 <div class="column-inner">
