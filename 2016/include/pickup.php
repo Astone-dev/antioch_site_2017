@@ -60,7 +60,7 @@
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1802hollywood/" target="_blank"><img src="/2016/images/top/1801hollywoodteam.jpg"></a>
 <p class="block-date">ブログ：2018年1月24日～</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">ハリウッドチーム</a></p>
+<p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">ハリウッドチーム<br>直前情報写真集</a></p>
 </div>
 
 <div class="column-inner">
