@@ -55,6 +55,22 @@
 <p class="block-title"><a href="http://astone.tv/events/yorokobi1801/" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ教会予選通過！<br>喜びと悲しみの一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://blog.antioch.jp/1802hollywood/" target="_blank"><img src="/2016/images/top/1801antiochyosenyorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年1月24日～</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">ハリウッドチーム</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/yorokobi1801/" target="_blank"><img src="/2016/images/top/1801antiochyosenyorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年1月24日</p>
+<p class="block-title"><a href="http://astone.tv/events/yorokobi1801/" target="_blank">JOY <br>あさがやドラムでライブに出演</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
