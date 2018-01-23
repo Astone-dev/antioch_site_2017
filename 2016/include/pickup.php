@@ -66,9 +66,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/yorokobi1801/" target="_blank"><img src="/2016/images/top/1705joyasagaya.jpg"></a>
+<a href="http://antiochblog.jp/praise/1801joy/" target="_blank"><img src="/2016/images/top/1705joyasagaya.jpg"></a>
 <p class="block-date">ブログ：2018年1月24日</p>
-<p class="block-title"><a href="http://astone.tv/events/yorokobi1801/" target="_blank">JOY <br>あさがやドラムでライブに出演</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1801joy/" target="_blank">JOY <br>あさがやドラムでライブに出演</a></p>
 </div>
 
 <div class="column-inner">
