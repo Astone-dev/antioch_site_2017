@@ -47,6 +47,30 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/hcff1801/" target="_blank">白馬映像祭に向かって<br>必死の頑張り</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/concert1801/" target="_blank"><img src="/2016/images/top/1712eizousaiantioch.jpg"></a>
+<p class="block-date">ブログ：2018年1月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/concert1801/" target="_blank">Gifts,JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
+</div>
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年12月23日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年1月27日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
+<p class="block-date">ブログ：2018年1月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank">ゴスペルの集い</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
