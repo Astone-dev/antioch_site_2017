@@ -26,17 +26,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1801koiwa/" target="_blank"><img src="/2016/images/top/1801koiwa.jpg"></a>
-<p class="block-date">ブログ：2018年1月26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1801koiwa/" target="_blank">記録的な寒波の中小岩聖会<br>関東宣教の旅<br>(日程：2018年1月26日)</a></p>
+<a href="http://astone.tv/events/antioch1801/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
+<p class="block-date">ブログ：2018年1月22日～28日</p>
+<p class="block-title"><a href=" http://astone.tv/events/antioch1801/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/antioch1801/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
-<p class="block-date">ブログ：2018年1月22日～28日</p>
-<p class="block-title"><a href=" http://astone.tv/events/antioch1801/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会の一週間</a></p>
+<a href="http://antiochblog.jp/info/concert1801/" target="_blank"><img src="/2016/images/top/1709giftsiidabashi.jpg"></a>
+<p class="block-date">ブログ：2018年1月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/concert1801/" target="_blank">Gifts、JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -47,15 +47,7 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/hcff1801/" target="_blank">白馬映像祭に向かって<br>必死の頑張り</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/concert1801/" target="_blank"><img src="/2016/images/top/1712eizousaiantioch.jpg"></a>
-<p class="block-date">ブログ：2018年1月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/concert1801/" target="_blank">Gifts,JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
@@ -68,8 +60,8 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
 <p class="block-date">ブログ：2018年1月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank">ゴスペルの集い</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank">1月ゴスペルの集の一日</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -154,6 +146,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1801koiwa/" target="_blank"><img src="/2016/images/top/1801koiwa.jpg"></a>
+<p class="block-date">ブログ：2018年1月26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1801koiwa/" target="_blank">記録的な寒波の中小岩聖会<br>関東宣教の旅<br>(日程：2018年1月26日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
