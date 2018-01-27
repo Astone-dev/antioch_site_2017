@@ -28,7 +28,7 @@
 <span>NEW</span>	
 <a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank"><img src="/2016/images/top/1801tohoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月28日～31日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank">東北聖会<br>(日程：2018年1月29日～31日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank">大雪予報の中を行く<br>東北宣教の旅<br>(日程：2018年1月29日～31日)</a></p>
 </div>
 
 <div class="column-inner">
