@@ -23,6 +23,14 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank"><img src="/2016/images/top/1801tohoku.jpg"></a>
+<p class="block-date">ブログ：2018年1月28日～31日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank">東北聖会<br>(日程：2018年1月29日～31日)</a></p>
+</div>-->
+
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
