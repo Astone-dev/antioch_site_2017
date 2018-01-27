@@ -79,13 +79,13 @@
 <p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">ハリウッドチーム<br>直前情報写真集</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
+<a href="http://antiochblog.jp/praise/2017students/0128students/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
 <p class="block-date">ブログ：2018年1月27日〜28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank">1月の学生会</a></p>
-</div>-0-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/0128students/" target="_blank">1月の学生会</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
