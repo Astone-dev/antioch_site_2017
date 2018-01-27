@@ -97,9 +97,10 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180127misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年1月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank">エルサレム<br>三郷の施設ででゴスペル</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180127misato/" target="_blank">エルサレム<br>三郷の施設ででゴスペル</a></p>
 </div>
 
 <div class="column-inner">
