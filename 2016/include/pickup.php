@@ -23,13 +23,13 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>	
 <a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank"><img src="/2016/images/top/1801tohoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月28日～31日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank">東北聖会<br>(日程：2018年1月29日～31日)</a></p>
-</div>-->
-
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -37,14 +37,6 @@
 <a href="http://astone.tv/events/antioch1801/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
 <p class="block-date">ブログ：2018年1月22日～28日</p>
 <p class="block-title"><a href=" http://astone.tv/events/antioch1801/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/concert1801/" target="_blank"><img src="/2016/images/top/1709giftsiidabashi.jpg"></a>
-<p class="block-date">ブログ：2018年1月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/concert1801/" target="_blank">Gifts、JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -61,22 +53,6 @@
 <a href="http://astone.tv/events/yorokobi1801/" target="_blank"><img src="/2016/images/top/1801antiochyosenyorokobi.jpg"></a>
 <p class="block-date">ブログ：2018年1月22日～28日</p>
 <p class="block-title"><a href="http://astone.tv/events/yorokobi1801/" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ教会予選通過！<br>喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
-<p class="block-date">ブログ：2018年1月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank">1月ゴスペルの集の一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年12月23日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年1月27日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -101,14 +77,6 @@
 <a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank"><img src="/2016/images/top/1801daikanzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月22日～28日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank">大寒を楽しもう！<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180127misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年1月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180127misato/" target="_blank">エルサレム<br>三郷の施設ででゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -170,6 +138,27 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/concert1801/" target="_blank"><img src="/2016/images/top/1709giftsiidabashi.jpg"></a>
+<p class="block-date">ブログ：2018年1月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/concert1801/" target="_blank">Gifts、JOY<br>飯田橋のショッピングセンターでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
+<p class="block-date">ブログ：2018年1月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank">1月ゴスペルの集の一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180127misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年1月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180127misato/" target="_blank">エルサレム<br>三郷の施設ででゴスペル</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
