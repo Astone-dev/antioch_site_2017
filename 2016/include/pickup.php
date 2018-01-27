@@ -79,12 +79,27 @@
 <p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">ハリウッドチーム<br>直前情報写真集</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
+<p class="block-date">ブログ：2018年1月27日〜28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180127gospel/" target="_blank">1月の学生会</a></p>
+</div>-0-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank"><img src="/2016/images/top/1801daikanzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月22日～28日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank">大寒を楽しもう！<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年1月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank">エルサレム<br>三郷の施設ででゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -239,12 +254,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180120arakawa/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年1月20日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
