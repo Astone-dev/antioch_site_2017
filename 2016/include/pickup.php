@@ -31,52 +31,28 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank">大雪予報の中を行く<br>東北宣教の旅<br>(日程：2018年1月29日～31日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
 <p class="block-date">ブログ：2018年1月29日～2月4日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank">もうすぐオリンピック！<br>東京アンテオケ教会の一週間</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
 <p class="block-date">ブログ：2018年1月29日～2月4日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank">大激戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選<br>各グループドキドキの一週間<br>(日程：2018年2月4日)</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/2olympic1801z/" target="_blank"><img src="/2016/images/top/1801orinpikuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月29日～2月4日</p>
 <p class="block-title"><a href="http://astone.tv/events/2olympic1801z/" target="_blank">もうすぐオリンピック！<br>全国各教会の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/antioch1801/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
-<p class="block-date">ブログ：2018年1月22日～28日</p>
-<p class="block-title"><a href=" http://astone.tv/events/antioch1801/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/hcff1801/" target="_blank"><img src="/2016/images/top/1712eizousaiantioch.jpg"></a>
-<p class="block-date">ブログ：2018年1月22日～28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hcff1801/" target="_blank">白馬映像祭に向かって<br>必死の頑張り</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/yorokobi1801/" target="_blank"><img src="/2016/images/top/1801antiochyosenyorokobi.jpg"></a>
-<p class="block-date">ブログ：2018年1月22日～28日</p>
-<p class="block-title"><a href="http://astone.tv/events/yorokobi1801/" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ教会予選通過！<br>喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -86,33 +62,6 @@
 <p class="block-date">ブログ：2018年1月24日～</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">ハリウッドチーム<br>直前情報写真集</a></p>
 </div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017students/0128students/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
-<p class="block-date">ブログ：2018年1月27日〜28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/0128students/" target="_blank">1月の学生会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank"><img src="/2016/images/top/1801daikanzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年1月22日～28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank">大寒を楽しもう！<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/20180128/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
-<p class="block-date">ブログ：2018年1月28日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20180128/" target="_blank">By His spirit<br>世田谷と高円寺でゴスペルコンサート</a></p>
-</div>
-
-
-
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -173,6 +122,49 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/antioch1801/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
+<p class="block-date">ブログ：2018年1月22日～28日</p>
+<p class="block-title"><a href=" http://astone.tv/events/antioch1801/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/hcff1801/" target="_blank"><img src="/2016/images/top/1712eizousaiantioch.jpg"></a>
+<p class="block-date">ブログ：2018年1月22日～28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hcff1801/" target="_blank">白馬映像祭に向かって<br>必死の頑張り</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/yorokobi1801/" target="_blank"><img src="/2016/images/top/1801antiochyosenyorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年1月22日～28日</p>
+<p class="block-title"><a href="http://astone.tv/events/yorokobi1801/" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ教会予選通過！<br>喜びと悲しみの一週間</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017students/0128students/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
+<p class="block-date">ブログ：2018年1月27日〜28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/0128students/" target="_blank">1月の学生会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank"><img src="/2016/images/top/1801daikanzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年1月22日～28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1801z2/" target="_blank">大寒を楽しもう！<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/20180128/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
+<p class="block-date">ブログ：2018年1月28日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20180128/" target="_blank">By His spirit<br>世田谷と高円寺でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
