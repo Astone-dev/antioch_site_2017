@@ -80,6 +80,17 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/20180128/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
+<p class="block-date">ブログ：2018年1月28日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20180128/" target="_blank">By His spirit<br>世田谷と高円寺でゴスペルコンサート</a></p>
+</div>
+
+
+
+
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://tokyo.antioch.jp/internet-tv/1801021-yosen.html" target="_blank"><img src="/2016/images/top/1801antiochyosen_m.jpg"></a>
