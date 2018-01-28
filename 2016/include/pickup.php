@@ -31,6 +31,30 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank">大雪予報の中を行く<br>東北宣教の旅<br>(日程：2018年1月29日～31日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年1月29日～2月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank">もうすぐオリンピック！<br>東京アンテオケ教会の一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
+<p class="block-date">ブログ：2018年1月29日～2月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank">大激戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選<br>各グループドキドキの一週間<br>(日程：2018年2月4日)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2olympic1801z/" target="_blank"><img src="/2016/images/top/1801orinpikuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年1月29日～2月4日</p>
+<p class="block-title"><a href="http://astone.tv/events/2olympic1801z/" target="_blank">もうすぐオリンピック！<br>全国各教会の一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
