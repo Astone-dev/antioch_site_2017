@@ -72,7 +72,7 @@
 
 <div class="column-inner">
 <span>NEW</span>
-<a href="/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo.jpg"></a>
+<a href="/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1801hakubacampinfo.jpg"></a>
 <p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
 <p class="block-title"><a href="/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>インフォメーション</a></p>
 </div>
