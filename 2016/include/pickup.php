@@ -64,7 +64,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1801tocharidigest_p.jpg"></a>
 <p class="block-date">2018年1月7日</p>
