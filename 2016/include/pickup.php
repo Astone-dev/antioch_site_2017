@@ -26,42 +26,41 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/1802tokyo/" target="_blank"><img src="/2016/images/top/1802tocari.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～2月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1802tokyo/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2018年2月4日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
 <p class="block-date">ブログ：2018年1月29日～2月4日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank">もうすぐオリンピック！<br>東京アンテオケ教会の一週間</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1802tokyo/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年2月3日～2月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1802tokyo/" target="_blank">東京カリスマ聖会</a></p>
-</div>
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年2月3日～2月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank">長崎殉教聖会<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1802gifts/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年2月3日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/1802gifts/" target="_blank">九州<br>Gifts漫遊記</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
 <p class="block-date">ブログ：2018年1月29日～2月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank">大激戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選<br>各グループドキドキの一週間<br>(日程：2018年2月4日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank">明日はついに決戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選<br>各グループ緊張の一週間<br>(日程：2018年2月4日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaiantioch.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～2月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank">長崎殉教聖会に向かって<br>東京アンテオケ教会<br>(聖会日程:2018年2月5日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1802gifts/" target="_blank"><img src="/2016/images/top/1802giftskyuushu.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～10日</p>
+<p class="block-title"><a href="http://astone.tv/events/1802gifts/" target="_blank">Gifts漫遊記<br>殉教聖会、九州を行く<br>(日程：2018年2月5日〜10日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -80,21 +79,12 @@
 <p class="block-title"><a href="http://astone.tv/events/2olympic1801z/" target="_blank">もうすぐオリンピック！<br>全国各教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/junkyouseikai201802/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年2月3日～2月5日</p>
-<p class="block-title"><a href="http://astone.tv/events/junkyouseikai201802/" target="_blank">長崎殉教聖会<br>全国各教会の一週間</a></p>
-</div>-->
-
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/0202nerima/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">ブログ：2018年1月29日～2月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/0202nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスゆめの園でコンサート</a></p>
+<a href="http://astone.tv/events/junkyouseikai201802/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaizenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～2月5日</p>
+<p class="block-title"><a href="http://astone.tv/events/junkyouseikai201802/" target="_blank">長崎殉教聖会に向かって<br>全国各教会<br>(聖会日程：2018年2月5日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -161,6 +151,13 @@
 <a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank"><img src="/2016/images/top/1801tohoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月28日～31日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank">大雪予報の中を行く<br>東北宣教の旅<br>(日程：2018年1月29日～31日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/0202nerima/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">ブログ：2018年1月29日～2月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/0202nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスゆめの園でコンサート</a></p>
 </div>
 
 <div class="column-inner">
