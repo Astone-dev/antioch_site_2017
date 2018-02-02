@@ -31,6 +31,31 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank">もうすぐオリンピック！<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1802tokyo/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～2月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1802tokyo/" target="_blank">東京カリスマ聖会</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～2月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank">長崎殉教聖会<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1802gifts/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～10日</p>
+<p class="block-title"><a href="http://astone.tv/events/1802gifts/" target="_blank">九州<br>Gifts漫遊記</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -54,6 +79,15 @@
 <p class="block-date">ブログ：2018年1月29日～2月4日</p>
 <p class="block-title"><a href="http://astone.tv/events/2olympic1801z/" target="_blank">もうすぐオリンピック！<br>全国各教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/junkyouseikai201802/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～2月5日</p>
+<p class="block-title"><a href="http://astone.tv/events/junkyouseikai201802/" target="_blank">長崎殉教聖会<br>全国各教会の一週間</a></p>
+</div>-->
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
