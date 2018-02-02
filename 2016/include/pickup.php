@@ -151,13 +151,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<a href="https://tokyo.antioch.jp/internet-tv/1801021-yosen.html" target="_blank"><img src="/2016/images/top/1801antiochyosen_m.jpg"></a>
-<p class="block-date">日程：2018年1月21日</p>
-<p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/1801021-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>東京アンテオケ教会予選<br>保存版</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/2017students/0128students/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
 <p class="block-date">ブログ：2018年1月27日〜28日</p>
@@ -207,56 +200,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/kansai1801/" target="_blank"><img src="/2016/images/top/1801kansai.jpg"></a>
-<p class="block-date">ブログ：2018年1月21日～25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kansai1801/" target="_blank">冬の寒さ再び関西を行く<br>関西宣教の旅<br>(日程：2018年1月22日～24日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1801joy/" target="_blank"><img src="/2016/images/top/1705joyasagaya.jpg"></a>
-<p class="block-date">ブログ：2018年1月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1801joy/" target="_blank">JOY <br>あさがやドラムでライブに出演</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/faith1801a/" target="_blank"><img src="/2016/images/top/1801samusaniantioch.jpg"></a>
-<p class="block-date">ブログ：2018年1月15日～21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1801a/" target="_blank">寒さに負けるな!<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/yosen1801/" target="_blank"><img src="/2016/images/top/1801antiochyosen.jpg"></a>
-<p class="block-date">ブログ：2018年1月15日～21日</p>
-<p class="block-title"><a href="http://astone.tv/events/yosen1801/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト in 白馬<br>東京アンテオケ予選<br>(日程：2018年1月21日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/faith1801z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年1月15日～21日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1801z/" target="_blank">寒さに負けるな!<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180121nerima/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
-<p class="block-date">ブログ：2018年1月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180121nerima/" target="_blank">ウラノス<br>練馬区のデイサービスでコンサート </a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180121koenji/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">ブログ：2018年1月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180121koenji/" target="_blank">GRACEと宝石<br>高円寺のデイサービスゴスペルコンサート</a></p>
-</div>
-
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201801-cambodia/" target="_blank"><img src="/2016/images/top/1801cambodia_m.jpg"></a>
 <p class="block-date">日程：2018年1月2日～5日</p>
@@ -268,48 +211,6 @@
 <a href="http://blog.antioch.jp/1801cambodia/category/cambdst/" target="_blank"><img src="/2016/images/top/1801cambodia_d_p.jpg"></a>
 <p class="block-date">日程：2018年1月2日～5日</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1801cambodia/category/cambdst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>(短く全てを知りたい人のため)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1801meetings/" target="_blank"><img src="/2016/images/top/1801yamato.jpg"></a>
-<p class="block-date">ブログ：2018年1月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1801meetings/" target="_blank">冬晴れの大和を行く<br>関東宣教の旅<br>(日程：2018年1月20日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/revival2017/180120night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">ブログ：2018年1月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180120night/" target="_blank">1月 Revival Night<br></a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2017labeille/180120arakawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
-<p class="block-date">ブログ：2018年1月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180120arakawa/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年1月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180120misato/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1801freedom/" target="_blank"><img src="/2016/images/top/1707freedomshisetsu.jpg"></a>
-<p class="block-date">ブログ：2018年1月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1801freedom/" target="_blank">Freedom <br>野方のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180119shinyuri/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
-<p class="block-date">ブログ：2018年1月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180119shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート<br></a></p>
 </div>
 
 <!--<div class="column-inner">
