@@ -34,9 +34,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年1月29日～2月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank">もうすぐオリンピック！<br>東京アンテオケ教会の一週間</a></p>
+<a href="http://antiochblog.jp/info/kyushu1802/" target="_blank"><img src="/2016/images/top/1802kyushu.jpg"></a>
+<p class="block-date">ブログ：2018年2月4日～2月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kyushu1802/" target="_blank">春はまだかな<br>九州宣教の旅<br>(日程：2018年2月5日〜7日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -44,7 +44,23 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
 <p class="block-date">ブログ：2018年1月29日～2月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank">明日はついに決戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選<br>各グループ緊張の一週間<br>(日程：2018年2月4日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選<br>各グループ勝負の一日<br>(日程：2018年2月4日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト in 白馬 関東予選 生中継-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年2月4日</p>
+<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト in 白馬 関東予選 生中継-生中継');">J.GOSPELコンテスト in 白馬 関東予選 生中継<br> (日程：2018年2月4日 16:15スタート)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年1月29日～2月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank">もうすぐオリンピック！<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -291,14 +307,6 @@
 <a href="/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
 <p class="block-date">毎週火曜日22:00〜23:00生中継</p>
 <p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>祈りによる恵みを受けるために<br></a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年10月15日</p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート予選-生中継');">年末コンサート予選 生中継<br> (日程：2017年10月15日 16:00スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
