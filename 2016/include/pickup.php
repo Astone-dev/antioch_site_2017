@@ -23,12 +23,20 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/kyushu1802/" target="_blank"><img src="/2016/images/top/1801tohoku.jpg"></a>
+<p class="block-date">ブログ：2018年2月4日～7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kyushu1802/" target="_blank">大雪予報の中を行く<br>九州宣教の旅<br>(日程：2018年2月5日～7日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1802tokyo/" target="_blank"><img src="/2016/images/top/1802tocari.jpg"></a>
+<a href="http://antiochblog.jp/info/tokyo1802/" target="_blank"><img src="/2016/images/top/1802tocari.jpg"></a>
 <p class="block-date">ブログ：2018年2月3日～2月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1802tokyo/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2018年2月4日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/tokyo1802/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2018年2月4日)</a></p>
 </div>
 
 <div class="column-inner">
