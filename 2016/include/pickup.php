@@ -90,6 +90,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/euqaristias/20180204shinjuku/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
+<p class="block-date">ブログ：2018年2月4日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180204shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/2olympic1801z/" target="_blank"><img src="/2016/images/top/1801orinpikuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月29日～2月4日</p>
 <p class="block-title"><a href="http://astone.tv/events/2olympic1801z/" target="_blank">もうすぐオリンピック！<br>全国各教会の一週間</a></p>
