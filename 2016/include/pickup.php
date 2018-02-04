@@ -26,49 +26,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/tokyo1802/" target="_blank"><img src="/2016/images/top/1802tocari.jpg"></a>
-<p class="block-date">ブログ：2018年2月3日～2月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/tokyo1802/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2018年2月4日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/kyushu1802/" target="_blank"><img src="/2016/images/top/1802kyushu.jpg"></a>
 <p class="block-date">ブログ：2018年2月4日～2月8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kyushu1802/" target="_blank">春待ち遠し<br>九州宣教の旅<br>(日程：2018年2月5日〜7日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/yorokobi1802/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
-<p class="block-date">ブログ：2018年2月5日～11日</p>
-<p class="block-title"><a href="http://astone.tv/events/yorokobi1802/" target="_blank">J.GOSPELコンテスト in 白馬<br> 関東代表決定！<br>喜びと悲しみの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
-<p class="block-date">ブログ：2018年1月29日～2月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選<br>各グループ勝負の一日<br>(日程：2018年2月4日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト in 白馬 関東予選 生中継-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年2月4日</p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト in 白馬 関東予選 生中継-生中継');">J.GOSPELコンテスト in 白馬 関東予選 生中継<br> (日程：2018年2月4日 16:15スタート)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年1月29日～2月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank">もうすぐオリンピック！<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -90,25 +50,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://blog.antioch.jp/1802hollywood/" target="_blank"><img src="/2016/images/top/1801hollywoodteam.jpg"></a>
-<p class="block-date">ブログ：2018年1月24日～</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">映画製作にむかって前進！<br>ハリウッドチーム<br>最新情報写真集<br>(日程：2018年1月31日〜2月7日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20180204shinjuku/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
-<p class="block-date">ブログ：2018年2月4日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180204shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2olympic1801z/" target="_blank"><img src="/2016/images/top/1801orinpikuzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年1月29日～2月4日</p>
-<p class="block-title"><a href="http://astone.tv/events/2olympic1801z/" target="_blank">もうすぐオリンピック！<br>全国各教会の一週間</a></p>
+<a href="http://astone.tv/events/yorokobi1802/" target="_blank"><img src="/2016/images/top/1802kantoyorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年2月5日～11日</p>
+<p class="block-title"><a href="http://astone.tv/events/yorokobi1802/" target="_blank">J.GOSPELコンテスト in 白馬<br> 関東代表決定！<br>喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -117,6 +61,14 @@
 <a href="http://astone.tv/events/junkyouseikai201802/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaizenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月3日～2月5日</p>
 <p class="block-title"><a href="http://astone.tv/events/junkyouseikai201802/" target="_blank">長崎殉教聖会に向かって<br>全国各教会<br>(聖会日程：2018年2月5日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://blog.antioch.jp/1802hollywood/" target="_blank"><img src="/2016/images/top/1801hollywoodteam.jpg"></a>
+<p class="block-date">ブログ：2018年1月24日～</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">映画製作にむかって前進！<br>ハリウッドチーム<br>最新情報写真集<br>(日程：2018年1月31日〜2月7日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -177,6 +129,49 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/tokyo1802/" target="_blank"><img src="/2016/images/top/1802tocari.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～2月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/tokyo1802/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2018年2月4日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
+<p class="block-date">ブログ：2018年1月29日～2月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kantoyosen1802/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選<br>各グループ勝負の一日<br>(日程：2018年2月4日)</a></p>
+</div>
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト in 白馬 関東予選 生中継-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年2月4日</p>
+<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト in 白馬 関東予選 生中継-生中継');">J.GOSPELコンテスト in 白馬 関東予選 生中継<br> (日程：2018年2月4日 16:15スタート)</a></p>
+</div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年1月29日～2月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2olympic1801/" target="_blank">もうすぐオリンピック！<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20180204shinjuku/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
+<p class="block-date">ブログ：2018年2月4日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180204shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2olympic1801z/" target="_blank"><img src="/2016/images/top/1801orinpikuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年1月29日～2月4日</p>
+<p class="block-title"><a href="http://astone.tv/events/2olympic1801z/" target="_blank">もうすぐオリンピック！<br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
