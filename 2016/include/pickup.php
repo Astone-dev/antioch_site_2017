@@ -43,7 +43,7 @@
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/user/kaminoshimobe/live" target="_blank" onclick="javascript:pageTracker._trackPageview('長崎殉教記念聖会生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年11月4日</p>
+<p class="block-date">2018年2月5日 </p>
 <p class="block-title"><a href="https://www.youtube.com/user/kaminoshimobe/live" target="_blank" onclick="javascript:pageTracker._trackPageview('長崎殉教記念聖会');">長崎殉教記念聖会 生中継</a></p>
 </div>
 
