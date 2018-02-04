@@ -39,6 +39,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/kyushu1802/" target="_blank">春待ち遠し<br>九州宣教の旅<br>(日程：2018年2月5日〜7日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/yorokobi1802/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
+<p class="block-date">ブログ：2018年2月5日～11日</p>
+<p class="block-title"><a href="http://astone.tv/events/yorokobi1802/" target="_blank">J.GOSPELコンテスト in 白馬<br> 関東代表決定！<br>喜びと悲しみの一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
