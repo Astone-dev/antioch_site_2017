@@ -40,6 +40,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/user/kaminoshimobe/live" target="_blank" onclick="javascript:pageTracker._trackPageview('長崎殉教記念聖会生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2017年11月4日</p>
+<p class="block-title"><a href="https://www.youtube.com/user/kaminoshimobe/live" target="_blank" onclick="javascript:pageTracker._trackPageview('長崎殉教記念聖会');">長崎殉教記念聖会 生中継</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1802gifts/" target="_blank"><img src="/2016/images/top/1802giftskyuushu.jpg"></a>
@@ -61,6 +69,14 @@
 <a href="http://astone.tv/events/junkyouseikai201802/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaizenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月3日～2月5日</p>
 <p class="block-title"><a href="http://astone.tv/events/junkyouseikai201802/" target="_blank">長崎殉教聖会に向かって<br>全国各教会<br>(聖会日程：2018年2月5日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://tokyo.antioch.jp/internet-tv/180204-yosen.html" target="_blank"><img src="/2016/images/top/1802gospel.jpg"></a>
+<p class="block-date">日程：2018年2月4日(日)</p>
+<p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/180204-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>関東大会映像 </a></p>
 </div>
 
 <div class="column-inner">
