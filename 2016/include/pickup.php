@@ -47,13 +47,13 @@
 <p class="block-title"><a href="http://astone.tv/events/1802gifts/" target="_blank">Gifts漫遊記<br>殉教聖会、九州を行く<br>(日程：2018年2月5日〜10日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/prayer1802/" target="_blank"><img src="/2016/images/top/1802giftskyuushu.jpg"></a>
+<a href="http://astone.tv/events/prayer1802/" target="_blank"><img src="/2016/images/top/1702inorinotour.jpg"></a>
 <p class="block-date">ブログ：2018年2月6日</p>
-<p class="block-title"><a href="http://astone.tv/events/prayer1802/" target="_blank">祈りのツアー</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/prayer1802/" target="_blank">26聖人の足跡をたどる<br>祈りのツアー</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
