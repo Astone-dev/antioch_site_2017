@@ -36,7 +36,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaiantioch.jpg"></a>
 <p class="block-date">ブログ：2018年2月3日～2月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank">長崎殉教聖会に向かって<br>東京アンテオケ教会<br>(聖会日程:2018年2月5日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank">長崎殉教聖会 それぞれのその後<br>東京アンテオケ教会<br>(聖会日程:2018年2月5日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -68,7 +68,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/junkyouseikai201802/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaizenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月3日～2月5日</p>
-<p class="block-title"><a href="http://astone.tv/events/junkyouseikai201802/" target="_blank">長崎殉教聖会に向かって<br>全国各教会<br>(聖会日程：2018年2月5日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/junkyouseikai201802/" target="_blank">長崎殉教聖会 それぞれのその後<br>全国各教会<br>(聖会日程：2018年2月5日)</a></p>
 </div>
 
 <div class="column-inner">
