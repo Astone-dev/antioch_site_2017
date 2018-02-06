@@ -34,18 +34,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaiantioch.jpg"></a>
-<p class="block-date">ブログ：2018年2月3日～2月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank">長崎殉教聖会 それぞれのその後<br>東京アンテオケ教会<br>(聖会日程:2018年2月5日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2hakuba1802/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaiantioch.jpg"></a>
+<a href="http://antiochblog.jp/praise/2hakuba1802/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
 <p class="block-date">ブログ：2018年2月7日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会のわくわく</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -53,14 +45,6 @@
 <a href="http://astone.tv/events/1802gifts/" target="_blank"><img src="/2016/images/top/1802giftskyuushu.jpg"></a>
 <p class="block-date">ブログ：2018年2月3日～10日</p>
 <p class="block-title"><a href="http://astone.tv/events/1802gifts/" target="_blank">Gifts漫遊記<br>殉教聖会、九州を行く<br>(日程：2018年2月5日〜10日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/prayer1802/" target="_blank"><img src="/2016/images/top/1702inorinotour.jpg"></a>
-<p class="block-date">ブログ：2018年2月6日</p>
-<p class="block-title"><a href="http://astone.tv/events/prayer1802/" target="_blank">26聖人の足跡をたどる<br>祈りのツアー</a></p>
 </div>
 
 <div class="column-inner">
@@ -74,18 +58,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/junkyouseikai201802/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaizenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年2月3日～2月5日</p>
-<p class="block-title"><a href="http://astone.tv/events/junkyouseikai201802/" target="_blank">長崎殉教聖会 それぞれのその後<br>全国各教会<br>(聖会日程：2018年2月5日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/2hakuba1802z/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaiantioch.jpg"></a>
+<a href="http://antiochblog.jp/info/2hakuba1802z/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月7日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1802z/" target="_blank">白馬キャンプに向かって<br>全国各教会</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1802z/" target="_blank">白馬キャンプに向かって<br>全国各教会のときめき</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -101,13 +77,6 @@
 <a href="http://blog.antioch.jp/1802hollywood/" target="_blank"><img src="/2016/images/top/1801hollywoodteam.jpg"></a>
 <p class="block-date">ブログ：2018年1月24日～</p>
 <p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">映画製作にむかって前進！<br>ハリウッドチーム<br>最新情報写真集<br>(日程：2018年1月31日〜2月7日)</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1801tocharidigest_p.jpg"></a>
-<p class="block-date">2018年1月7日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">東京カリスマ聖会<br>ダイジェスト写真集<br>きれいな写真版</a></p>
 </div>
 
 <div class="column-inner">
@@ -164,6 +133,27 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaiantioch.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～2月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1802nagasaki/" target="_blank">長崎殉教聖会 それぞれのその後<br>東京アンテオケ教会<br>(聖会日程:2018年2月5日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/prayer1802/" target="_blank"><img src="/2016/images/top/1702inorinotour.jpg"></a>
+<p class="block-date">ブログ：2018年2月6日</p>
+<p class="block-title"><a href="http://astone.tv/events/prayer1802/" target="_blank">26聖人の足跡をたどる<br>祈りのツアー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/junkyouseikai201802/" target="_blank"><img src="/2016/images/top/1802jyunkyoseikaizenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～2月5日</p>
+<p class="block-title"><a href="http://astone.tv/events/junkyouseikai201802/" target="_blank">長崎殉教聖会 それぞれのその後<br>全国各教会<br>(聖会日程：2018年2月5日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/tokyo1802/" target="_blank"><img src="/2016/images/top/1802tocari.jpg"></a>
 <p class="block-date">ブログ：2018年2月3日～2月4日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/tokyo1802/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2018年2月4日)</a></p>
@@ -203,6 +193,12 @@
 <a href="http://astone.tv/events/2olympic1801z/" target="_blank"><img src="/2016/images/top/1801orinpikuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月29日～2月4日</p>
 <p class="block-title"><a href="http://astone.tv/events/2olympic1801z/" target="_blank">もうすぐオリンピック！<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1801tocharidigest_p.jpg"></a>
+<p class="block-date">2018年1月7日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">1月の東京カリスマ聖会<br>ダイジェスト写真集<br>きれいな写真版</a></p>
 </div>
 
 <div class="column-inner">
