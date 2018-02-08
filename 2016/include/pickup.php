@@ -23,20 +23,12 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank"><img src="/2016/images/top/1707kawasaki.jpg"></a>
 <p class="block-date">ブログ：2018年2月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank">春待ち遠し<br>川崎宣教の旅<br>(日程：2018年2月9日)</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/kyushu1802/" target="_blank"><img src="/2016/images/top/1802kyushu.jpg"></a>
-<p class="block-date">ブログ：2018年2月4日～2月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/kyushu1802/" target="_blank">春待ち遠し<br>九州宣教の旅<br>(日程：2018年2月5日〜7日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank">春近し関東を行く<br>川崎宣教の旅<br>(日程：2018年2月9日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -72,27 +64,11 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180208hakone/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年2月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180208hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://tokyo.antioch.jp/internet-tv/180204-yosen.html" target="_blank"><img src="/2016/images/top/1802gospel.jpg"></a>
 <p class="block-date">日程：2018年2月4日(日)</p>
 <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/180204-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>関東大会映像 </a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1802hollywood/" target="_blank"><img src="/2016/images/top/1801hollywoodteam.jpg"></a>
-<p class="block-date">ブログ：2018年1月24日～</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">映画製作にむかって前進！<br>ハリウッドチーム<br>最新情報写真集<br>(日程：2018年1月31日〜2月7日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -146,6 +122,27 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/kyushu1802/" target="_blank"><img src="/2016/images/top/1802kyushu.jpg"></a>
+<p class="block-date">ブログ：2018年2月4日～2月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kyushu1802/" target="_blank">春待ち遠し<br>九州宣教の旅<br>(日程：2018年2月5日〜7日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180208hakone/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年2月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180208hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1802hollywood/" target="_blank"><img src="/2016/images/top/1801hollywoodteam.jpg"></a>
+<p class="block-date">ブログ：2018年1月24日～</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1802hollywood/" target="_blank">映画製作にむかって前進！<br>ハリウッドチーム<br>最新情報写真集<br>(日程：2018年1月31日〜2月7日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
