@@ -214,7 +214,7 @@
 <p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">1月の東京カリスマ聖会<br>ダイジェスト写真集<br>きれいな写真版</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/1801tohoku/" target="_blank"><img src="/2016/images/top/1801tohoku.jpg"></a>
 <p class="block-date">ブログ：2018年1月28日～31日</p>
@@ -296,7 +296,7 @@
 <a href="http://antiochblog.jp/info/1801koiwa/" target="_blank"><img src="/2016/images/top/1801koiwa.jpg"></a>
 <p class="block-date">ブログ：2018年1月26日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1801koiwa/" target="_blank">記録的な寒波の中小岩聖会<br>関東宣教の旅<br>(日程：2018年1月26日)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
