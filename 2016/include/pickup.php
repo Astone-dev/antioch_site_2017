@@ -74,8 +74,8 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年2月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
+<p class="block-date">ブログ：2018年2月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank">エルサレム<br>岩槻でコンサート</a></p>
 </div>
 
 <div class="column-inner">
