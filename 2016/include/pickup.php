@@ -26,14 +26,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank"><img src="/2016/images/top/1707kawasaki.jpg"></a>
-<p class="block-date">ブログ：2018年2月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank">春近し関東を行く<br>川崎宣教の旅<br>(日程：2018年2月9日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/2hakuba1802/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
 <p class="block-date">ブログ：2018年2月7日～11日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会のわくわく</a></p>
@@ -55,21 +47,21 @@
 <p class="block-title"><a href="http://astone.tv/events/yorokobi1802/" target="_blank">J.GOSPELコンテスト in 白馬<br> 関東代表決定！<br>喜びと悲しみの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/2017healing/0210healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
 <p class="block-date">ブログ：2018年2月10日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/0210healing/" target="_blank">2月 いやしの集い</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年2月10日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年2月10日 18:30スタート)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -79,20 +71,20 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1802z/" target="_blank">白馬キャンプに向かって<br>全国各教会のときめき</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年2月8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1802day/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
 <p class="block-date">ブログ：2018年2月10日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1802day/" target="_blank">The Gate of Praise、JOHN <br>世田谷区のデイサービスでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -153,6 +145,14 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank"><img src="/2016/images/top/1707kawasaki.jpg"></a>
+<p class="block-date">ブログ：2018年2月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank">春近し関東を行く<br>川崎宣教の旅<br>(日程：2018年2月9日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
