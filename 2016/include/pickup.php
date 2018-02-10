@@ -23,13 +23,13 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank"><img src="/2016/images/top/1708hokuriku.jpg"></a>
+<a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank"><img src="/2016/images/top/1802hiokuriku.jpg"></a>
 <p class="block-date">ブログ：2018年2月11日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank">春近し関東を行く<br>北陸宣教の旅<br>(日程：2018年2月12日～14日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank">記録的大雪の北陸を行く<br>北陸宣教の旅<br>(日程：2018年2月12日～14日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -42,41 +42,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1802gifts/" target="_blank"><img src="/2016/images/top/1802giftskyuushu.jpg"></a>
-<p class="block-date">ブログ：2018年2月3日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/1802gifts/" target="_blank">Gifts漫遊記<br>殉教聖会、九州を行く<br>(日程：2018年2月5日〜10日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/hyssop1802/" target="_blank"><img src="/2016/images/top/1703hisop.jpg"></a>
-<p class="block-date">ブログ：2018年2月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hyssop1802/" target="_blank">Hyssop<br>杉並の施設でゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/yorokobi1802/" target="_blank"><img src="/2016/images/top/1802kantoyorokobi.jpg"></a>
 <p class="block-date">ブログ：2018年2月5日～11日</p>
 <p class="block-title"><a href="http://astone.tv/events/yorokobi1802/" target="_blank">J.GOSPELコンテスト in 白馬<br> 関東代表決定！<br>喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017healing/0210healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
-<p class="block-date">ブログ：2018年2月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/0210healing/" target="_blank">2月 いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年2月10日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年2月10日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -94,30 +62,6 @@
 <p class="block-date">ブログ：2018年2月11日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180211setagaya/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年2月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank">エルサレム<br>岩槻でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1802day/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-<p class="block-date">ブログ：2018年2月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1802day/" target="_blank">The Gate of Praise、JOHN <br>世田谷区のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://tokyo.antioch.jp/internet-tv/180204-yosen.html" target="_blank"><img src="/2016/images/top/1802gospel.jpg"></a>
-<p class="block-date">日程：2018年2月4日(日)</p>
-<p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/180204-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>関東大会映像 </a></p>
-</div>
 
 <div class="column-inner">
 <span>NEW</span>
@@ -191,6 +135,49 @@
 <p class="block-date">ブログ：2018年2月8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180208hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1802gifts/" target="_blank"><img src="/2016/images/top/1802giftskyuushu.jpg"></a>
+<p class="block-date">ブログ：2018年2月3日～10日</p>
+<p class="block-title"><a href="http://astone.tv/events/1802gifts/" target="_blank">Gifts漫遊記<br>殉教聖会、九州を行く<br>(日程：2018年2月5日〜10日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/hyssop1802/" target="_blank"><img src="/2016/images/top/1703hisop.jpg"></a>
+<p class="block-date">ブログ：2018年2月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hyssop1802/" target="_blank">Hyssop<br>杉並の施設でゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017healing/0210healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
+<p class="block-date">ブログ：2018年2月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/0210healing/" target="_blank">2月 いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年2月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank">エルサレム<br>岩槻でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1802day/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+<p class="block-date">ブログ：2018年2月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1802day/" target="_blank">The Gate of Praise、JOHN <br>世田谷区のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="https://tokyo.antioch.jp/internet-tv/180204-yosen.html" target="_blank"><img src="/2016/images/top/1802gospel.jpg"></a>
+<p class="block-date">日程：2018年2月4日(日)</p>
+<p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/180204-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>関東大会映像 </a></p>
+</div>
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
