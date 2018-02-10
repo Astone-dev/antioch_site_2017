@@ -42,6 +42,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/hyssop1802/" target="_blank"><img src="/2016/images/top/1703hisop.jpg"></a>
+<p class="block-date">ブログ：2018年2月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hyssop1802/" target="_blank">Hyssop<br>杉並の施設でゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/yorokobi1802/" target="_blank"><img src="/2016/images/top/1802kantoyorokobi.jpg"></a>
 <p class="block-date">ブログ：2018年2月5日～11日</p>
 <p class="block-title"><a href="http://astone.tv/events/yorokobi1802/" target="_blank">J.GOSPELコンテスト in 白馬<br> 関東代表決定！<br>喜びと悲しみの一週間</a></p>
@@ -52,7 +60,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/2017healing/0210healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
 <p class="block-date">ブログ：2018年2月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/0210healing/" target="_blank">2月 いやしの集い</a></p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/0210healing/" target="_blank">2月 いやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
