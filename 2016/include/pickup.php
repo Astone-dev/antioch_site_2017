@@ -23,6 +23,14 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank"><img src="/2016/images/top/1707kawasaki.jpg"></a>
+<p class="block-date">ブログ：2018年2月11日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank">春近し関東を行く<br>北陸宣教の旅<br>(日程：2018年2月12日～14日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -156,7 +164,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank"><img src="/2016/images/top/1707kawasaki.jpg"></a>
 <p class="block-date">ブログ：2018年2月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank">春近し関東を行く<br>川崎宣教の旅<br>(日程：2018年2月9日)</a></p>
