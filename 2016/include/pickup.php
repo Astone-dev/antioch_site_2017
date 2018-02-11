@@ -31,12 +31,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank">記録的大雪の北陸を行く<br>北陸宣教の旅<br>(日程：2018年2月12日～14日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/exam1802/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
+<a href="http://antiochblog.jp/info/exam1802/" target="_blank"><img src="/2016/images/top/1802shikenantioch.jpg"></a>
 <p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/exam1802/" target="_blank">試験の一週間<br>東京アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/exam1802/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -50,17 +50,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
+<a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank"><img src="/2016/images/top/1802u21kidsanntiochyosen.jpg"></a>
 <p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank">ヤング予選に向かって</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS<br>アンテオケ教会予選に向かって</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/exam1802z/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
+<a href="http://astone.tv/events/exam1802z/" target="_blank"><img src="/2016/images/top/shikenzennkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">試験の一週間<br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -69,7 +69,7 @@
 <a href="http://astone.tv/events/doors1802/" target="_blank"><img src="/2016/images/top/1606gracioustonai.jpg"></a>
 <p class="block-date">ブログ：2018年2月12日</p>
 <p class="block-title"><a href="http://astone.tv/events/doors1802/" target="_blank">GRACIOUS  DOORS<br>都内のデイサ━ビスでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
