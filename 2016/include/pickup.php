@@ -64,46 +64,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/doors1802/" target="_blank"><img src="/2016/images/top/1606gracioustonai.jpg"></a>
-<p class="block-date">ブログ：2018年2月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/doors1802/" target="_blank">GRACIOUS  DOORS<br>都内のデイサ━ビスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2hakuba1802/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
-<p class="block-date">ブログ：2018年2月7日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会のわくわく</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/yorokobi1802/" target="_blank"><img src="/2016/images/top/1802kantoyorokobi.jpg"></a>
-<p class="block-date">ブログ：2018年2月5日～11日</p>
-<p class="block-title"><a href="http://astone.tv/events/yorokobi1802/" target="_blank">J.GOSPELコンテスト in 白馬<br> 関東代表決定！<br>喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/2hakuba1802z/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年2月7日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1802z/" target="_blank">白馬キャンプに向かって<br>全国各教会のときめき</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/180211setagaya/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
-<p class="block-date">ブログ：2018年2月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180211setagaya/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1801hakubacampinfo.jpg"></a>
 <p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
@@ -154,6 +114,42 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/doors1802/" target="_blank"><img src="/2016/images/top/1606gracioustonai.jpg"></a>
+<p class="block-date">ブログ：2018年2月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/doors1802/" target="_blank">GRACIOUS  DOORS<br>都内のデイサ━ビスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2hakuba1802/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
+<p class="block-date">ブログ：2018年2月7日～11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会のわくわく</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/yorokobi1802/" target="_blank"><img src="/2016/images/top/1802kantoyorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年2月5日～11日</p>
+<p class="block-title"><a href="http://astone.tv/events/yorokobi1802/" target="_blank">J.GOSPELコンテスト in 白馬<br> 関東代表決定！<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/2hakuba1802z/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年2月7日～11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/2hakuba1802z/" target="_blank">白馬キャンプに向かって<br>全国各教会のときめき</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/180211setagaya/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
+<p class="block-date">ブログ：2018年2月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180211setagaya/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
