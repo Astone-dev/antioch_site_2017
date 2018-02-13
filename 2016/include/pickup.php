@@ -56,20 +56,12 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180213misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年2月13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180213misato/" target="_blank">エルサレム<br>三郷でゴスペル</a></p>
-</div>
-
-<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank"><img src="/2016/images/top/1802hollywoodteam_m.jpg"></a>
 <p class="block-date">日程：2018年1月31日〜2月7日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank">ハリウッドチーム<br>ダイジェスト映像<br>(再生時間 4:37)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span>NEW</span>
@@ -122,6 +114,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180213misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年2月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180213misato/" target="_blank">エルサレム<br>三郷でゴスペル</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
