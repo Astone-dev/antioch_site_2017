@@ -58,9 +58,9 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank"><img src="/2016/images/top/1802hollywoodteam_m.jpg"></a>
+<a href="http://tv.antioch.jp/digest/201802hollywood/" target="_blank"><img src="/2016/images/top/1802hollywoodteam_m.jpg"></a>
 <p class="block-date">日程：2018年1月31日〜2月7日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank">ハリウッドチーム<br>ダイジェスト映像<br>(再生時間 4:37)</a></p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201802hollywood/" target="_blank">ハリウッドチーム<br>ダイジェスト映像<br>(再生時間 4:37)</a></p>
 </div>
 
 <div class="column-inner">
