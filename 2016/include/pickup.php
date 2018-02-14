@@ -47,13 +47,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS<br>アンテオケ教会予選に向かって</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
 <p class="block-date">ブログ：2018年2月15日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank">リバイバルナイト</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank">2月 リバイバルナイト</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
