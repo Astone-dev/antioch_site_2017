@@ -47,6 +47,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS<br>アンテオケ教会予選に向かって</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<p class="block-date">ブログ：2018年2月15日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank">リバイバルナイト</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -54,6 +62,30 @@
 <p class="block-date">ブログ：2018年2月12日～18日</p>
 <p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>全国各教会</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年2月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank">エルサレム<br>福島相馬の復興支援レストランでゴスペルコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1802nerima/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
+<p class="block-date">ブログ：2018年2月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1802nerima/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でゴスペルコンサート</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/uranos2017/180216shinyuri/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
+<p class="block-date">ブログ：2018年2月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180216shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
