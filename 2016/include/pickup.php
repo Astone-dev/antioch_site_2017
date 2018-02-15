@@ -79,6 +79,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180216shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180216nerima/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
+<p class="block-date">ブログ：2018年2月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180216nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
