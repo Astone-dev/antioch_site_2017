@@ -55,37 +55,37 @@
 <p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>全国各教会</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年2月16日</p>
+<p class="block-date">ブログ：2018年2月16日〜17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank">エルサレム<br>福島相馬の復興支援レストランでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1802nerima/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
-<p class="block-date">ブログ：2018年2月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1802nerima/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/uranos2017/180216shinyuri/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
 <p class="block-date">ブログ：2018年2月16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180216shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180216nerima/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
+<a href="http://antiochblog.jp/info/1802nerima/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
 <p class="block-date">ブログ：2018年2月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180216nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/1802nerima/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">ブログ：2018年2月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
