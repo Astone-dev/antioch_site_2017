@@ -26,14 +26,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank"><img src="/2016/images/top/1802hiokuriku.jpg"></a>
-<p class="block-date">ブログ：2018年2月11日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank">記録的大雪の北陸を行く<br>北陸宣教の旅<br>(日程：2018年2月12日～14日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/exam1802/" target="_blank"><img src="/2016/images/top/1802shikenantioch.jpg"></a>
 <p class="block-date">ブログ：2018年2月12日～18日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/exam1802/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>東京アンテオケ教会</a></p>
@@ -154,6 +146,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank"><img src="/2016/images/top/1802hiokuriku.jpg"></a>
+<p class="block-date">ブログ：2018年2月11日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank">記録的大雪の北陸を行く<br>北陸宣教の旅<br>(日程：2018年2月12日～14日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
