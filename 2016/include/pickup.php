@@ -213,6 +213,41 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1802gifts/" target="_blank"><img src="/2016/images/top/1802giftskyuushu.jpg"></a>
+<p class="block-date">ブログ：</p>
+<p class="block-title"><a href="http://astone.tv/events/1802gifts/" target="_blank">2018年2月3日～10日 Gifts漫遊記<br>殉教聖会、九州を行く<br>(日程：2018年2月5日〜10日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/hyssop1802/" target="_blank"><img src="/2016/images/top/1703hisop.jpg"></a>
+<p class="block-date">ブログ：2018年2月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hyssop1802/" target="_blank">Hyssop<br>杉並の施設でゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017healing/0210healing/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
+<p class="block-date">ブログ：2018年2月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/0210healing/" target="_blank">2月 いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年2月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180211iwatsuki/" target="_blank">エルサレム<br>岩槻でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1802day/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+<p class="block-date">ブログ：2018年2月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1802day/" target="_blank">The Gate of Praise、JOHN <br>世田谷区のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank"><img src="/2016/images/top/1707kawasaki.jpg"></a>
 <p class="block-date">ブログ：2018年2月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/kawasaki1802/" target="_blank">春近し関東を行く<br>川崎宣教の旅<br>(日程：2018年2月9日)</a></p>
