@@ -48,19 +48,19 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
+<span class="label-2">映像</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/exam1802z/" target="_blank"><img src="/2016/images/top/shikenzennkoku.jpg"></a>
-<p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>全国各教会</a></p>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年2月17日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年2月17日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1802nerima/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
-<p class="block-date">ブログ：2018年2月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1802nerima/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でゴスペルコンサート</a></p>
+<a href="http://astone.tv/events/exam1802z/" target="_blank"><img src="/2016/images/top/shikenzennkoku.jpg"></a>
+<p class="block-date">ブログ：2018年2月12日～18日</p>
+<p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -78,14 +78,6 @@
 <p class="block-date">ブログ：2018年2月16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180216shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">ブログ：2018年2月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -154,6 +146,20 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1802nerima/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
+<p class="block-date">ブログ：2018年2月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1802nerima/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">ブログ：2018年2月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -314,14 +320,6 @@
 <a href="/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
 <p class="block-date">毎週火曜日22:00〜23:00生中継</p>
 <p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>祈りによる恵みを受けるために<br></a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年1月20日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2017年1月20日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
