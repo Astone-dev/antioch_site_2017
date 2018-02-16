@@ -58,6 +58,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/1802nerima/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
+<p class="block-date">ブログ：2018年2月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1802nerima/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年2月16日〜17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank">エルサレム<br>福島相馬の復興支援レストランでゴスペルコンサート</a></p>
@@ -70,14 +78,6 @@
 <p class="block-date">ブログ：2018年2月16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180216shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1802nerima/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
-<p class="block-date">ブログ：2018年2月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1802nerima/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でゴスペルコンサート</a></p>
-</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
