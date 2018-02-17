@@ -23,12 +23,12 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
+<a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank"><img src="/2016/images/top/1802hokaidou.jpg"></a>
 <p class="block-date">ブログ：2018年2月18日～22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank">記録的大雪の北海道を行く<br>北海道宣教の旅<br>(日程：2018年2月19日～21日)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -43,23 +43,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank"><img src="/2016/images/top/1802u21kidsanntiochyosen.jpg"></a>
 <p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS<br>アンテオケ教会予選に向かって</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">ブログ：2018年2月15日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank">2月 リバイバルナイト</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年2月17日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年2月17日 18:30スタート)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank">いよいよ今日！<br>J.GOSPELコンテスト in 白馬<br>U21・KIDS<br>アンテオケ教会予選</a></p>
 </div>
 
 <div class="column-inner">
@@ -77,14 +61,6 @@
 <p class="block-date">ブログ：2018年2月18日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペル</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年2月16日〜17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank">エルサレム<br>福島相馬の復興支援レストランでゴスペルコンサート</a></p>
-</div>
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -161,6 +137,20 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+<p class="block-date">ブログ：2018年2月15日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank">2月 リバイバルナイト</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年2月16日〜17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank">エルサレム<br>福島相馬の復興支援レストランでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -343,6 +333,14 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年1月13日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年1月13日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年2月17日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年2月17日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
