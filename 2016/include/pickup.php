@@ -28,7 +28,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank"><img src="/2016/images/top/1802hokaidou.jpg"></a>
 <p class="block-date">ブログ：2018年2月18日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank">記録的大雪の北海道を行く<br>北海道宣教の旅<br>(日程：2018年2月19日～21日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank">雪季節、北海道を行く<br>北海道宣教の旅<br>(日程：2018年2月19日～21日)</a></p>
 </div>
 
 <div class="column-inner">
