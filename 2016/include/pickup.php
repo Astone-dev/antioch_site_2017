@@ -55,13 +55,13 @@
 <p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>全国各教会</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
 <p class="block-date">ブログ：2018年2月18日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペル</a></p>
-</div>-->
+</div>
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
