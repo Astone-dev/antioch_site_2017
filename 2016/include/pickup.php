@@ -23,6 +23,13 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
+<p class="block-date">ブログ：2018年2月18日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank">記録的大雪の北海道を行く<br>北海道宣教の旅<br>(日程：2018年2月19日～21日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -62,6 +69,14 @@
 <p class="block-date">ブログ：2018年2月12日～18日</p>
 <p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>全国各教会</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
+<p class="block-date">ブログ：2018年2月18日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペル</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
