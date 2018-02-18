@@ -48,14 +48,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21 Kids予選-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年2月18日 17:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21 Kids予選-生中継');">J.GOSPELコンテスト in 白馬<br>U21・KIDS<br>アンテオケ教会予選 生中継</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/exam1802z/" target="_blank"><img src="/2016/images/top/shikenzennkoku.jpg"></a>
@@ -70,6 +62,34 @@
 <p class="block-date">ブログ：2018年2月18日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペル</a></p>
 </div>
+
+<!-- ------------------
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank"><img src="/2016/images/top/1802xxx.jpg"></a>
+<p class="block-date">ブログ：2018年2月19日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">白馬スネルゴイキャンプに向かって 東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/u21kids1802/" target="_blank"><img src="/2016/images/top/1802xxx.jpg"></a>
+<p class="block-date">ブログ：2018年2月19日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/u21kids1802/" target="_blank">U21、KIDS喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802xxx.jpg"></a>
+<p class="block-date">ブログ：2018年2月19日～24日</p>
+<p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">>白馬スネルゴイキャンプに向かって 全国教会</a></p>
+</div>
+
+------------------ -->
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
