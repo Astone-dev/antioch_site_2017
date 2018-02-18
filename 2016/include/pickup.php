@@ -34,70 +34,26 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/exam1802/" target="_blank"><img src="/2016/images/top/1802shikenantioch.jpg"></a>
-<p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/exam1802/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>東京アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank"><img src="/2016/images/top/1802u21kidsanntiochyosen.jpg"></a>
-<p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank">いよいよ今日！<br>J.GOSPELコンテスト in 白馬<br>U21・KIDS<br>アンテオケ教会予選</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/exam1802z/" target="_blank"><img src="/2016/images/top/shikenzennkoku.jpg"></a>
-<p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
-<p class="block-date">ブログ：2018年2月18日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペル</a></p>
-</div>
-
-<!-- ------------------
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank"><img src="/2016/images/top/1802xxx.jpg"></a>
+<a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">白馬スネルゴイキャンプに向かって 東京アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/u21kids1802/" target="_blank"><img src="/2016/images/top/1802xxx.jpg"></a>
+<a href="http://antiochblog.jp/praise/u21kids1802/" target="_blank"><img src="/2016/images/top/1803u21kidsanntiochyorokobi.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/u21kids1802/" target="_blank">U21、KIDS喜びと悲しみの一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/u21kids1802/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21、KIDSアンテオケ予選<br>喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802xxx.jpg"></a>
+<a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">>白馬スネルゴイキャンプに向かって 全国教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">>白馬スネルゴイキャンプに向かって<br>全国各教会</a></p>
 </div>
-
------------------- -->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180216shinyuri/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
-<p class="block-date">ブログ：2018年2月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180216shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -166,6 +122,34 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/exam1802/" target="_blank"><img src="/2016/images/top/1802shikenantioch.jpg"></a>
+<p class="block-date">ブログ：2018年2月12日～18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/exam1802/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank"><img src="/2016/images/top/1802u21kidsanntiochyosen.jpg"></a>
+<p class="block-date">ブログ：2018年2月12日～18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank">いよいよ今日！<br>J.GOSPELコンテスト in 白馬<br>U21・KIDS<br>アンテオケ教会予選</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/exam1802z/" target="_blank"><img src="/2016/images/top/shikenzennkoku.jpg"></a>
+<p class="block-date">ブログ：2018年2月12日～18日</p>
+<p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
+<p class="block-date">ブログ：2018年2月18日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペル</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
