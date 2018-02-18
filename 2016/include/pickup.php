@@ -52,7 +52,7 @@
 <span>NEW</span>
 <a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21 Kids予選-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年2月18日 17:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21 Kids予選-生中継');">ゴスペルの集い 生中継<br>(日程：2017年12月23日 18:30スタート)</a></p>
+<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21 Kids予選-生中継');">J.GOSPELコンテスト in 白馬<br>U21・KIDS<br>アンテオケ教会予選 生中継</a></p>
 </div>
 
 <div class="column-inner">
