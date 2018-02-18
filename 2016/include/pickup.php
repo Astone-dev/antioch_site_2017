@@ -174,12 +174,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1802hokuriku/" target="_blank">記録的大雪の北陸を行く<br>北陸宣教の旅<br>(日程：2018年2月12日～14日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180213misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年2月13日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180213misato/" target="_blank">エルサレム<br>三郷でゴスペル</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
