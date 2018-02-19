@@ -47,21 +47,21 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/u21kids1802/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21、KIDSアンテオケ予選<br>喜びと悲しみの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1802mission/" target="_blank"><img src="/2016/images/top/1710missionweek.jpg"></a>
+<a href="http://antiochblog.jp/info/1802mission/" target="_blank"><img src="/2016/images/top/1802missionweek.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1802mission/" target="_blank">ミッションの一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1802mission/" target="_blank">聖所から流れ出る水ミッション<br>冬の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1802cornerstone/" target="_blank"><img src="/2016/images/top/1711ishizueweek.jpg"></a>
+<a href="http://antiochblog.jp/info/1802cornerstone/" target="_blank"><img src="/2016/images/top/1802ishizuenoishiweek.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1802cornerstone/" target="_blank">礎の石孤児院の一週間</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/1802cornerstone/" target="_blank">礎の石孤児院<br>冬の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
