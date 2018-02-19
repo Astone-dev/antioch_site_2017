@@ -99,7 +99,7 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 <div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
-<p class="block-title"><a href="http://movie.antioch.jp/2017hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>応募作品</a></p>
+<p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>応募作品</a></p>
 </div>
 
 <div class="column-inner">
