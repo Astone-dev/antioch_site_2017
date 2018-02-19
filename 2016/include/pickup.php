@@ -48,6 +48,16 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="
+http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank"><img src="/2016/images/top/1802gospel-u.jpg"></a>
+<p class="block-date">日程：2018年2月18日</p>
+<p class="block-title"><a href="
+http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br> U21・KIDS東京アンテオケ予選 <br>映像保存版</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1802mission/" target="_blank"><img src="/2016/images/top/1802missionweek.jpg"></a>
