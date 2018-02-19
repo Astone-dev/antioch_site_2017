@@ -28,7 +28,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank"><img src="/2016/images/top/1802hokaidou.jpg"></a>
 <p class="block-date">ブログ：2018年2月18日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank">雪季節、北海道を行く<br>北海道宣教の旅<br>(日程：2018年2月19日～21日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank">雪季節、北海道を行く<br>北海道宣教の旅<br>日程：2018年2月19日～21日</a></p>
 </div>
 
 <div class="column-inner">
@@ -36,7 +36,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
 </div>
 
 <div class="column-inner">
@@ -68,7 +68,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">>白馬スネルゴイキャンプに向かって<br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">白馬スネルゴイキャンプに向かって<br>全国各教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
 </div>
 
 <div class="column-inner">
@@ -91,7 +91,7 @@
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank"><img src="/2016/images/top/1712sunerugoi_info_m.jpg"></a>
 <p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>紹介映像 <br>(再生時間 6:18)</a></p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>紹介映像<br>(再生時間 6:18)</a></p>
 </div>
 
 <div class="column-inner">
