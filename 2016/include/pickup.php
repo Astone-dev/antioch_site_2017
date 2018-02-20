@@ -81,6 +81,14 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 <p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">白馬スネルゴイキャンプに向かって<br>全国各教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180221misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年2月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180221misato/" target="_blank">エルサレム<br>三郷市でゴスペル教室</a></p>
+</div>-->
+
 <div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1801hakubacampinfo.jpg"></a>
