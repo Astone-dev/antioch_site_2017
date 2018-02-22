@@ -76,9 +76,9 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180221misato/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
+<a href="http://antiochblog.jp/praise/suginami1802/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
 <p class="block-date">ブログ：2018年2月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180221misato/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/suginami1802/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
