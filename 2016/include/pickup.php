@@ -26,14 +26,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank"><img src="/2016/images/top/1802hokaidou.jpg"></a>
-<p class="block-date">ブログ：2018年2月18日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank">雪季節、北海道を行く<br>北海道宣教の旅<br>日程：2018年2月19日～21日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
@@ -162,6 +154,13 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank"><img src="/2016/images/top/1802hokaidou.jpg"></a>
+<p class="block-date">ブログ：2018年2月18日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank">雪季節、北海道を行く<br>北海道宣教の旅<br>日程：2018年2月19日～21日</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
