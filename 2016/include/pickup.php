@@ -23,12 +23,12 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1802meetings/" target="_blank"><img src="/2016/images/top/1611yokotoyofuji.jpg"></a>
+<a href="http://antiochblog.jp/info/1802meetings/" target="_blank"><img src="/2016/images/top/1802toyofuji.jpg"></a>
 <p class="block-date">ブログ：2018年2月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1802meetings/" target="_blank">を行く<br>豊橋・富士宣教の旅<br>日程：2018年2月19日～21日</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/1802meetings/" target="_blank">冬の輝く光の中を<br>豊橋・富士宣教の旅<br>日程：2018年2月24日</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -38,29 +38,29 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1802iidabashi/" target="_blank"><img src="/2016/images/top/1709giftsiidabashi.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1802iidabashi/" target="_blank">Gifts,JOY <br>飯田橋のショッピングセンターでコンサート</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/1802iidabashi/" target="_blank">Gifts,JOY<br>飯田橋のショッピングセンターでゴスペルコンサート</a></p>
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gospel2017/180224gospel/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180224gospel/" target="_blank">2月 ゴスペルの集い</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年12月24日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年2月24日 18:30スタート)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -108,9 +108,17 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180223iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年2月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180223iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のリハビリセンターでゴスペル</a></p>
+</div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180223iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年2月23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180223iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンター にてゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
