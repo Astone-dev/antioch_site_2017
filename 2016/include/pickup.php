@@ -68,26 +68,25 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/suginami1802/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
-<p class="block-date">ブログ：2018年2月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/suginami1802/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月19日～24日</p>
 <p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">白馬スネルゴイキャンプに向かって<br>全国各教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180223iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年2月23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180223iwatsuki/" target="_blank">エルサレム<br>三郷市でゴスペル教室</a></p>
-</div>-->
+</div>
+
+<div class="column-inner">
+<span>NEW</span>
+<span class="label-2">映像</span>
+<a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
+<p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>応募作品</a></p>
+</div>
 
 <div class="column-inner">
 <span>NEW</span>
@@ -102,12 +101,6 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 <a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank"><img src="/2016/images/top/1712sunerugoi_info_m.jpg"></a>
 <p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>紹介映像<br>(再生時間 6:18)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
-<p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>応募作品</a></p>
 </div>
 
 <div class="column-inner">
@@ -157,6 +150,13 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/suginami1802/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
+<p class="block-date">ブログ：2018年2月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/suginami1802/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank"><img src="/2016/images/top/1802hokaidou.jpg"></a>
 <p class="block-date">ブログ：2018年2月18日～22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank">雪季節、北海道を行く<br>北海道宣教の旅<br>日程：2018年2月19日～21日</a></p>
@@ -169,12 +169,12 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201802hollywood/" target="_blank">ハリウッドチーム<br>ダイジェスト映像<br>(再生時間 4:37)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180221misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年2月21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180221misato/" target="_blank">エルサレム<br>三郷市でゴスペル教室</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
