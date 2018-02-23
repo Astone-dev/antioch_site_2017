@@ -25,6 +25,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/info/1802meetings/" target="_blank"><img src="/2016/images/top/1802toyofuji.jpg"></a>
 <p class="block-date">ブログ：2018年2月24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1802meetings/" target="_blank">冬の輝く光の中を<br>豊橋・富士宣教の旅<br>日程：2018年2月24日</a></p>
