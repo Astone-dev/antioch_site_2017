@@ -110,7 +110,8 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180224iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年2月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180223iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のリハビリセンターでゴスペル</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180223iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻デイケアでゴスペルコンサート
+</a></p>
 </div>
 
 <!--<div class="column-inner">
