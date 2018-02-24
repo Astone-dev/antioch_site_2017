@@ -62,9 +62,9 @@
         <div class="column-inner">
         <span class="label-2">映像</span>
         <span>NEW</span>
-        <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+        <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview(\'ゴスペルの集い-生中継\'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
         <p class="block-date">2018年12月24日 18:30～</p>
-        <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年2月24日 18:30スタート)</a></p>
+        <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview(\'ゴスペルの集い-生中継\');">ゴスペルの集い 生中継<br>(日程：2018年2月24日 18:30スタート)</a></p>
         </div>';
     $start_date='2018/02/24 14:00'; /* 掲載開始日時 */
     $end_date='2018/02/24 21:00'; /* 掲載終了日時 */
