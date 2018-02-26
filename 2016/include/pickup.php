@@ -34,22 +34,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1802mission/" target="_blank"><img src="/2016/images/top/1802missionweek.jpg"></a>
-<p class="block-date">ブログ：2018年2月19日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1802mission/" target="_blank">聖所から流れ出る水ミッション<br>冬の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1802cornerstone/" target="_blank"><img src="/2016/images/top/1802ishizuenoishiweek.jpg"></a>
-<p class="block-date">ブログ：2018年2月19日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1802cornerstone/" target="_blank">礎の石孤児院<br>冬の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月26日～3月2日</p>
 <p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">白馬スネルゴイキャンプに向かって<br>全国各教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
@@ -121,6 +105,20 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1802mission/" target="_blank"><img src="/2016/images/top/1802missionweek.jpg"></a>
+<p class="block-date">ブログ：2018年2月19日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1802mission/" target="_blank">聖所から流れ出る水ミッション<br>冬の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1802cornerstone/" target="_blank"><img src="/2016/images/top/1802ishizuenoishiweek.jpg"></a>
+<p class="block-date">ブログ：2018年2月19日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1802cornerstone/" target="_blank">礎の石孤児院<br>冬の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
