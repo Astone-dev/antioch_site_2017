@@ -78,6 +78,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1802tochari_digest.jpg"></a>
+<p class="block-date">日程：2018年2月4日(日)</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">2月東京カリスマ聖会<br>ダイジェスト映像<br>きれいな写真版</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/godiswithus/" target="_blank"><img src="/2016/images/top/1801yorimichi31.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
