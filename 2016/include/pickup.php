@@ -28,7 +28,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
 <p class="block-date">ブログ：2018年2月26日～3月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">いよいよ明日！<br>白馬スネルゴイキャンプ<br>東京アンテオケ教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
 </div>
 
 <div class="column-inner">
@@ -44,7 +44,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月26日～3月2日</p>
-<p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">白馬スネルゴイキャンプに向かって<br>全国各教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">いよいよ明日！<br>白馬スネルゴイキャンプ<br>全国各教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
 </div>
 
 <div class="column-inner">
