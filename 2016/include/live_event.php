@@ -7,8 +7,8 @@
   	case "Sun":
   		if ( $hour >=6 && $hour <=20 ){show_banner_broadcast();}
   		break;
-//緊急で修正  	case "Wed":
-	case "Wed_tmp_20180228":  //緊急で修正
+  	case "Wed":
+//緊急で非表示対応	case "Wed_tmp_20180228":  //緊急で非表示対応
   		if ( $hour >=18 && $hour <= 20 ){show_banner_broadcast_wed();}
   		break;
   	case "Sat": 
