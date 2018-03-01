@@ -42,6 +42,22 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/faith1802z/" target="_blank"><img src="/2016/images/top/1803hcffyorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年3月2日～3月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1802z/" target="_blank">白馬クリスチャンフィルムフェスティバル<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/faith1802a/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
+<p class="block-date">ブログ：2018年3月2日～3月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1802a/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2018年3月4日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年2月26日～3月2日</p>
 <p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">いよいよ本番！<br>白馬スネルゴイキャンプ<br>全国各教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
