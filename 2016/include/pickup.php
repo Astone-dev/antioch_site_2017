@@ -23,19 +23,20 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/chiba1803/" target="_blank"><img src="/2016/images/top/1802toyofuji.jpg"></a>
+<span>NEW</span>
+<a href="http://astone.tv/events/chiba1803/" target="_blank"><img src="/2016/images/top/1803chibaseikai.jpg"></a>
 <p class="block-date">ブログ：2018年3月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/chiba1803/" target="_blank">千葉<br>千葉宣教の旅<br>日程：2018年3月3日</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/chiba1803/" target="_blank">春の気配を感じながら千葉を行く<br>関東宣教の旅<br>日程：2018年3月3日</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
-<p class="block-date">ブログ：2018年2月26日～3月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">いよいよ本番！<br>白馬スネルゴイキャンプ<br>東京アンテオケ教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
+<a href="http://astone.tv/events/chiba1803/" target="_blank"><img src="/2016/images/top/1803tcm.jpg"></a>
+<p class="block-date">ブログ：2018年3月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/chiba1803/" target="_blank">春近し<br>東京カリスマ聖会<br>スタッフのドタバタ<br>日程：2018年3月3日</a></p>
 </div>
 
 <div class="column-inner">
@@ -63,14 +64,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年2月26日～3月2日</p>
-<p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">いよいよ本番！<br>白馬スネルゴイキャンプ<br>全国各教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会のおかしな一日'); "><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
@@ -82,22 +75,7 @@
 <span>NEW</span>
 <span class="label-2">映像</span>
 <a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
-<p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>応募作品</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<a href="/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1801hakubacampinfo.jpg"></a>
-<p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
-<p class="block-title"><a href="/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>インフォメーション</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank"><img src="/2016/images/top/1712sunerugoi_info_m.jpg"></a>
-<p class="block-date">日程：2018年2月28日(水)～3月2日(金)</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201712hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>紹介映像<br>(再生時間 6:18)</a></p>
+<p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
 </div>
 
 <div class="column-inner">
@@ -152,6 +130,20 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
+<p class="block-date">ブログ：2018年2月26日～3月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">いよいよ本番！<br>白馬スネルゴイキャンプ<br>東京アンテオケ教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年2月26日～3月2日</p>
+<p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">いよいよ本番！<br>白馬スネルゴイキャンプ<br>全国各教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
