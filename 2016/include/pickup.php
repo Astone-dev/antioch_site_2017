@@ -25,7 +25,7 @@
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1802meetings/" target="_blank"><img src="/2016/images/top/1802toyofuji.jpg"></a>
+<a href="http://astone.tv/events/chiba1803/" target="_blank"><img src="/2016/images/top/1802toyofuji.jpg"></a>
 <p class="block-date">ブログ：2018年3月3日</p>
 <p class="block-title"><a href="http://astone.tv/events/chiba1803/" target="_blank">千葉<br>千葉宣教の旅<br>日程：2018年3月3日</a></p>
 </div>-->
