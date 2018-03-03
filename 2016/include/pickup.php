@@ -26,28 +26,18 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/chiba1803/" target="_blank"><img src="/2016/images/top/1803chibaseikai.jpg"></a>
-<p class="block-date">ブログ：2018年3月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/chiba1803/" target="_blank">春の気配を感じながら千葉を行く<br>関東宣教の旅<br>日程：2018年3月3日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/tcm1803/" target="_blank"><img src="/2016/images/top/1803tcm.jpg"></a>
 <p class="block-date">ブログ：2018年3月3日〜4日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/tcm1803/" target="_blank">春近し<br>東京カリスマ聖会<br>スタッフのドタバタ<br>日程：2018年3月4日</a></p>
 </div>
 
-<!--
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/shikoku1803/" target="_blank"><img src="/2016/images/top/1803shikokuseikai.jpg"></a>
 <p class="block-date">ブログ：2018年3月4日〜7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/shikoku1803/" target="_blank"> XXXX 四国を行く<br>四国宣教の旅<br>日程：2018年3月5日〜7日</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/shikoku1803/" target="_blank">春の訪れを感じながら四国を行く<br>四国宣教の旅<br>日程：2018年3月5日〜7日</a></p>
 </div>
--->
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -74,6 +64,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/euqaristias/20180304shinjuku/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
+<p class="block-date">ブログ：2018年3月4日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180304shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル<br>日程：2018年3月4日</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会のおかしな一日'); "><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
@@ -81,26 +79,28 @@
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会のおかしな一日');">短い動画で見る<br>TLCCC全国各教会の<br>おかしな一日</p>
 </div>
 
-<!--
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/gate1803/" target="_blank"><img src="/2016/images/top/1803xxxx.jpg"></a>
+<a href="http://antiochblog.jp/info/gate1803/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
 <p class="block-date">ブログ：2018年3月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gate1803/" target="_blank">
-The Gate of PraiseとJOHN<br> 芦花公園ライブで歌う<br>日程：2018年3月4日</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gate1803/" target="_blank">The Gate of PraiseとJOHN<br>芦花公園ライブで歌う<br>日程：2018年3月4日</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank"><img src="/2016/images/top/1803xxxx2.jpg"></a>
+<a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
 <p class="block-date">ブログ：2018年3月4日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでコンサート<br>日程：2018年3月4日</a></p>
 </div>
 
--->
-
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/chiba1803/" target="_blank"><img src="/2016/images/top/1803chibaseikai.jpg"></a>
+<p class="block-date">ブログ：2018年3月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/chiba1803/" target="_blank">春の気配を感じながら千葉を行く<br>関東宣教の旅<br>日程：2018年3月3日</a></p>
+</div>
 
 <div class="column-inner">
 <span>NEW</span>
