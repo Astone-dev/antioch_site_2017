@@ -219,96 +219,11 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 </a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180223iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年2月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180223iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンター にてゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/suginami1802/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
-<p class="block-date">ブログ：2018年2月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/suginami1802/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank"><img src="/2016/images/top/1802hokaidou.jpg"></a>
-<p class="block-date">ブログ：2018年2月18日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hokkaido1802/" target="_blank">雪季節、北海道を行く<br>北海道宣教の旅<br>日程：2018年2月19日～21日</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201802hollywood/" target="_blank"><img src="/2016/images/top/1802hollywoodteam_m.jpg"></a>
 <p class="block-date">日程：2018年1月31日〜2月7日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201802hollywood/" target="_blank">ハリウッドチーム<br>ダイジェスト映像<br>(再生時間 4:37)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180221misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年2月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180221misato/" target="_blank">エルサレム<br>三郷市でゴスペル教室</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/exam1802/" target="_blank"><img src="/2016/images/top/1802shikenantioch.jpg"></a>
-<p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/exam1802/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>東京アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank"><img src="/2016/images/top/1802u21kidsanntiochyosen.jpg"></a>
-<p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/youngyosen1802/" target="_blank">いよいよ今日！<br>J.GOSPELコンテスト in 白馬<br>U21・KIDS<br>アンテオケ教会予選</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/exam1802z/" target="_blank"><img src="/2016/images/top/shikenzennkoku.jpg"></a>
-<p class="block-date">ブログ：2018年2月12日～18日</p>
-<p class="block-title"><a href="http://astone.tv/events/exam1802z/" target="_blank">主の十字架神学校<br>冬の試験の一週間<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
-<p class="block-date">ブログ：2018年2月18日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180218nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-<p class="block-date">ブログ：2018年2月15日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180217night/" target="_blank">2月 リバイバルナイト</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年2月16日〜17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180216soma/" target="_blank">エルサレム<br>福島相馬の復興支援レストランでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1802nerima/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
-<p class="block-date">ブログ：2018年2月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1802nerima/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">ブログ：2018年2月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
