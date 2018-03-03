@@ -81,6 +81,27 @@
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会のおかしな一日');">短い動画で見る<br>TLCCC全国各教会の<br>おかしな一日</p>
 </div>
 
+<!--
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/gate1803/" target="_blank"><img src="/2016/images/top/1803xxxx.jpg"></a>
+<p class="block-date">ブログ：2018年3月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gate1803/" target="_blank">
+The Gate of PraiseとJOHN<br> 芦花公園ライブで歌う<br>日程：2018年3月4日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank"><img src="/2016/images/top/1803xxxx2.jpg"></a>
+<p class="block-date">ブログ：2018年3月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでコンサート<br>日程：2018年3月4日</a></p>
+</div>
+
+-->
+
+
 <div class="column-inner">
 <span>NEW</span>
 <span class="label-2">映像</span>
