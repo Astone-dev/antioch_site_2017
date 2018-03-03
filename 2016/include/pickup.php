@@ -34,7 +34,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/shikoku1803/" target="_blank"><img src="/2016/images/top/1803shikokuseikai.jpg"></a>
+<a href="http://antiochblog.jp/info/shikoku1803/" target="_blank"><img src="/2016/images/top/1803shikoku.jpg"></a>
 <p class="block-date">ブログ：2018年3月4日〜7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/shikoku1803/" target="_blank">春の訪れを感じながら四国を行く<br>四国宣教の旅<br>日程：2018年3月5日〜7日</a></p>
 </div>
