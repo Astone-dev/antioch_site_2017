@@ -23,21 +23,13 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=-MUNcE-uVuM" target="_blank" onclick="javascript:pageTracker._trackPageview('渋谷J.GOSPEL FES生中継');">渋谷J.GOSPEL FES生中継<br> (日程：2018年1月8日 11:00〜)</a></p>
 </div>-->
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/tcm1803/" target="_blank"><img src="/2016/images/top/1803tcm.jpg"></a>
-<p class="block-date">ブログ：2018年3月3日〜4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/tcm1803/" target="_blank">春近し<br>東京カリスマ聖会<br>スタッフのドタバタ<br>日程：2018年3月4日</a></p>
-</div>
-
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト in 白馬 U21・KIDS関東予選生中継-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年3月4日</p>
 <p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト in 白馬 U21・KIDS関東予選生中継-生中継');">J.GOSPELコンテスト in 白馬 U21・KIDS<br>関東予選生中継<br>(日程：2018年3月4日 17:00スタート)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -64,14 +56,6 @@
 </div>-->
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1802a/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
-<p class="block-date">ブログ：2018年3月2日～3月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1802a/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2018年3月4日</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会のおかしな一日'); "><img src="/2016/images/top/1802antiochokashina.jpg"></a>
@@ -88,35 +72,11 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20180304shinjuku/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
-<p class="block-date">ブログ：2018年3月4日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180304shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル<br>日程：2018年3月4日</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会のおかしな一日'); "><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
 <p class="block-date">動画ブログ：2018年2月28日～3月4日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会のおかしな一日');">短い動画で見る<br>TLCCC全国各教会の<br>おかしな一日</p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/gate1803/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-<p class="block-date">ブログ：2018年3月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gate1803/" target="_blank">The Gate of PraiseとJOHN<br>芦花公園ライブで歌う<br>日程：2018年3月4日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">ブログ：2018年3月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでコンサート<br>日程：2018年3月4日</a></p>
 </div>
 
 <div class="column-inner">
@@ -178,6 +138,41 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/tcm1803/" target="_blank"><img src="/2016/images/top/1803tcm.jpg"></a>
+<p class="block-date">ブログ：2018年3月3日〜4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/tcm1803/" target="_blank">春近し<br>東京カリスマ聖会<br>スタッフのドタバタ<br>日程：2018年3月4日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/faith1802a/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
+<p class="block-date">ブログ：2018年3月2日～3月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1802a/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2018年3月4日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20180304shinjuku/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
+<p class="block-date">ブログ：2018年3月4日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180304shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル<br>日程：2018年3月4日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/gate1803/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+<p class="block-date">ブログ：2018年3月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gate1803/" target="_blank">The Gate of PraiseとJOHN<br>芦花公園ライブで歌う<br>日程：2018年3月4日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">ブログ：2018年3月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでコンサート<br>日程：2018年3月4日</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
