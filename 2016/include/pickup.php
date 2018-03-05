@@ -109,6 +109,14 @@
 <p class="block-title"><a href="http://astone.tv/events/yobi1803z/" target="_blank">春一番が吹く季節<br>全国各教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180306hakone/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年3月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180306hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
