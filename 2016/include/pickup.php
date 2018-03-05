@@ -50,9 +50,9 @@
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
-<a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会のおかしな一日'); "><img src="/2016/images/top/1802antiochokashina.jpg"></a>
-<p class="block-date">動画ブログ：2018年2月26日～3月4日</p>
-<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会のおかしな一日');">短い動画で見る<br>東京アンテオケ教会の<br>おかしな一日</p>
+<a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会の小春日和な一日'); "><img src="/2016/images/top/1802antiochokashina.jpg"></a>
+<p class="block-date">動画ブログ：2018年3月5日～3月11日</p>
+<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会の小春日和な一日');">短い動画で見る<br>東京アンテオケ教会の<br>小春日和な一日</p>
 </div>
 
 <div class="column-inner">
@@ -104,9 +104,9 @@
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
-<a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会のおかしな一日'); "><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
-<p class="block-date">動画ブログ：2018年2月28日～3月4日</p>
-<p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会のおかしな一日');">短い動画で見る<br>TLCCC全国各教会の<br>おかしな一日</p>
+<a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会の小春日和な一日'); "><img src="/2016/images/top/1712sanbixmaszenkoku.jpg"></a>
+<p class="block-date">動画ブログ：2018年3月5日～3月11日</p>
+<p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会の小春日和な一日');">短い動画で見る<br>TLCCC全国各教会の<br>小春日和な一日</p>
 </div>
 
 <div class="column-inner">
