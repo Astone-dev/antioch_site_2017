@@ -39,10 +39,10 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/shikoku1803/" target="_blank">春の訪れを感じながら四国を行く<br>四国宣教の旅<br>日程：2018年3月5日〜7日</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/yobi1803/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
+<a href="http://antiochblog.jp/info/yobi1803/" target="_blank"><img src="/2016/images/top/1803haruichibanantioch.jpg"></a>
 <p class="block-date">ブログ：2018年3月5日～11日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">春一番が吹く季節<br>アンテオケ教会</a></p>
 </div>
@@ -50,10 +50,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/yobi1803z/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
+<a href="http://astone.tv/events/yobi1803z/" target="_blank"><img src="/2016/images/top/1803haruichibanzennkoku.jpg"></a>
 <p class="block-date">ブログ：2018年3月5日～3月11日</p>
 <p class="block-title"><a href="http://astone.tv/events/yobi1803z/" target="_blank">春一番が吹く季節<br>全国各教会</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -61,6 +61,14 @@
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会のおかしな一日'); "><img src="/2016/images/top/1802antiochokashina.jpg"></a>
 <p class="block-date">動画ブログ：2018年2月26日～3月4日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会のおかしな一日');">短い動画で見る<br>東京アンテオケ教会の<br>おかしな一日</p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/yorokobi1803a/" target="_blank"><img src="/2016/images/top/1803u21yorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年3月5日～3月11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yorokobi1803a/" target="_blank">J.GOSPELコンテストU21・KIDS関東予選<br>喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
