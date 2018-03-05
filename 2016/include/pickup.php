@@ -58,9 +58,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/yobi1803/" target="_blank"><img src="/2016/images/top/1803hawaiiteam.jpg"></a>
+<a href="http://blog.antioch.jp/1803hawaii/" target="_blank"><img src="/2016/images/top/1803hawaiiteam.jpg"></a>
 <p class="block-date">ブログ：2018年3月5日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">ハワイチーム<br>直前情報ブログ<br>(チーム日程：2018年3月12日～15日)</a></p>
+<p class="block-title"><a href="http://blog.antioch.jp/1803hawaii/" target="_blank">ハワイチーム<br>直前情報ブログ<br>(チーム日程：2018年3月12日～15日)</a></p>
 </div>
 
 <div class="column-inner">
