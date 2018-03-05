@@ -44,15 +44,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/yobi1803/" target="_blank"><img src="/2016/images/top/1803haruichibanantioch.jpg"></a>
 <p class="block-date">ブログ：2018年3月5日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">春一番が吹く季節<br>アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/yobi1803z/" target="_blank"><img src="/2016/images/top/1803haruichibanzennkoku.jpg"></a>
-<p class="block-date">ブログ：2018年3月5日～3月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/yobi1803z/" target="_blank">春一番が吹く季節<br>全国各教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">春一番が吹く季節<br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -77,6 +69,14 @@
 <a href="http://astone.tv/events/faith1802z/" target="_blank"><img src="/2016/images/top/1803hcffyorokobi.jpg"></a>
 <p class="block-date">ブログ：2018年3月2日～3月11日</p>
 <p class="block-title"><a href="http://astone.tv/events/faith1802z/" target="_blank">白馬クリスチャンフィルムフェスティバル<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/yobi1803z/" target="_blank"><img src="/2016/images/top/1803haruichibanzennkoku.jpg"></a>
+<p class="block-date">ブログ：2018年3月5日～3月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/yobi1803z/" target="_blank">春一番が吹く季節<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
