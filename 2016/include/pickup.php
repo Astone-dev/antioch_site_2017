@@ -47,6 +47,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">春一番が吹く季節<br>アンテオケ教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1803kashiwa/" target="_blank"><img src="/2016/images/top/1709gifts.jpg"></a>
+<p class="block-date">ブログ：2018年3月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1803kashiwa/" target="_blank">Gifts<br>柏でコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
