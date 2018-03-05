@@ -56,6 +56,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/yobi1803/" target="_blank"><img src="/2016/images/top/1803hawaiiteam.jpg"></a>
+<p class="block-date">ブログ：2018年3月5日～11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">ハワイチーム<br>直前情報ブログ<br>(チーム日程：2018年3月12日～15日)</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201803hakuba/" target="_blank"><img src="/2016/images/top/1803hakubadigest_m.jpg"></a>
