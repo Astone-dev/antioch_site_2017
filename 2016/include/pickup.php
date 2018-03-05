@@ -42,18 +42,18 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/1803kashiwa/" target="_blank"><img src="/2016/images/top/1709gifts.jpg"></a>
+<p class="block-date">ブログ：2018年3月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1803kashiwa/" target="_blank">Gifts<br>柏でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/info/yobi1803/" target="_blank"><img src="/2016/images/top/1803haruichibanantioch.jpg"></a>
 <p class="block-date">ブログ：2018年3月5日～11日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">春一番が吹く季節<br>アンテオケ教会の一週間</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1803kashiwa/" target="_blank"><img src="/2016/images/top/1709gifts.jpg"></a>
-<p class="block-date">ブログ：2018年3月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1803kashiwa/" target="_blank">Gifts<br>柏でコンサート</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -109,20 +109,20 @@
 <p class="block-title"><a href="http://astone.tv/events/yobi1803z/" target="_blank">春一番が吹く季節<br>全国各教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180306hakone/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年3月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180306hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーゴスペルコンサート</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会の小春日和な一日'); "><img src="/2016/images/top/1803zenkokukoharuinsta.jpg"></a>
 <p class="block-date">動画ブログ：2018年3月5日～3月11日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会の小春日和な一日');">短い動画で見る<br>TLCCC全国各教会の<br>小春日和な一日</p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180306hakone/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年3月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180306hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
