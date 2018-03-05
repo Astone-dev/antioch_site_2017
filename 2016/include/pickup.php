@@ -79,6 +79,13 @@
 </div>
 
 <div class="column-inner">
+<span>NEW</span>
+<span class="label-2">映像</span>
+<a href="http://tokyo.antioch.jp/internet-tv/180304-yosen.html" target="_blank"><img src="/2016/images/top/1803u21kidskkanto_m.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803hakuba/" target="_blank">J.GOSPELコンテストU21・KIDS関東予選<br>保存版映像</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/faith1802z/" target="_blank"><img src="/2016/images/top/1803hcffyorokobi.jpg"></a>
