@@ -31,6 +31,14 @@
 <p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト in 白馬 U21・KIDS関東予選生中継-生中継');">J.GOSPELコンテスト in 白馬 U21・KIDS<br>関東予選生中継<br>(日程：2018年3月4日 17:00スタート)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1803meeting/" target="_blank"><img src="/2016/images/top/1803shikoku.jpg"></a>
+<p class="block-date">ブログ：2018年3月9日〜10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1803meeting/" target="_blank">甲府・町田を行く<br>甲府・町田宣教の旅<br>日程：2018年3月5日〜7日</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
