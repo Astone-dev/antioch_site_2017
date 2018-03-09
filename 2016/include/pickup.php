@@ -52,7 +52,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1803gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
 <p class="block-date">ブログ：2018年3月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1803gifts/" target="_blank">Gifts</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1803gifts/" target="_blank">Gifts<br>都内の学校の音楽祭でコンサート</a></p>
 </div>
 
 <div class="column-inner">
