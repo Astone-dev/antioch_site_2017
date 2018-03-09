@@ -47,6 +47,38 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">春一番が吹く季節<br>アンテオケ教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1803gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+<p class="block-date">ブログ：2018年3月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1803gifts/" target="_blank">Gifts</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017labeille/180310arakawa/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
+<p class="block-date">ブログ：2018年3月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180310arakawa/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017healing/180310healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+<p class="block-date">ブログ：2018年3月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/180310healing/" target="_blank">3月 いやしの集い</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年3月10日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年1月13日 18:30スタート)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
@@ -108,6 +140,22 @@
 <p class="block-date">動画ブログ：2018年3月5日～3月11日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見るTLCCC全国各教会の小春日和な一日');">短い動画で見る<br>TLCCC全国各教会の<br>小春日和な一日</p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180310iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年3月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180310iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のグループホームでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1803nerima/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+<p class="block-date">ブログ：2018年3月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/1803nerima/" target="_blank">The Gate of Praise <br>練馬区の老健でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
