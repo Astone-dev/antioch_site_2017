@@ -34,9 +34,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1803meeting/" target="_blank"><img src="/2016/images/top/1803kofu.jpg"></a>
-<p class="block-date">ブログ：2018年3月9日〜10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1803meeting/" target="_blank">春の訪れを感じながら甲府・町田を行く<br>甲府・町田宣教の旅<br>日程：2018年3月5日〜7日</a></p>
+<a href="http://blog.antioch.jp/1803hawaii/" target="_blank"><img src="/2016/images/top/1803hawaiiteam.jpg"></a>
+<p class="block-date">ブログ：2018年3月5日～11日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1803hawaii/" target="_blank">ハワイチーム<br>直前情報ブログ<br>(チーム日程：2018年3月12日～15日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -48,66 +48,11 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1803gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
-<p class="block-date">ブログ：2018年3月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1803gifts/" target="_blank">Gifts<br>都内の学校の音楽祭でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017labeille/180310arakawa/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
-<p class="block-date">ブログ：2018年3月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180310arakawa/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017healing/180310healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-<p class="block-date">ブログ：2018年3月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/180310healing/" target="_blank">3月いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年3月10日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年3月10日 18:30スタート)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年3月10日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年1月13日 18:30スタート)</a></p>
-</div>-->
-
-<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会の小春日和な一日'); "><img src="/2016/images/top/1803antiochkoharuinsta.jpg"></a>
 <p class="block-date">動画ブログ：2018年3月5日～3月11日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会の小春日和な一日');">短い動画で見る<br>東京アンテオケ教会の<br>小春日和な一日</p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1803hawaii/" target="_blank"><img src="/2016/images/top/1803hawaiiteam.jpg"></a>
-<p class="block-date">ブログ：2018年3月5日～11日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1803hawaii/" target="_blank">ハワイチーム<br>直前情報ブログ<br>(チーム日程：2018年3月12日～15日)</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<span class="label-2">映像</span>
-<a href="http://tv.antioch.jp/digest/201803hakuba/" target="_blank"><img src="/2016/images/top/1803hakubadigest_m.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803hakuba/" target="_blank">白馬スネルゴイキャンプ<br>ダイジェスト映像<br>(日程：2018年2月28日～3月2日)<br>再生時間 7:07</a></p>
 </div>
 
 <div class="column-inner">
@@ -152,18 +97,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180310iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年3月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180310iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のグループホームでゴスペルコンサート</a></p>
+<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1803tcm_digest.jpg"></a>
+<p class="block-date">日程：2018年3月4日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">3月東京カリスマ聖会<br>ダイジェスト写真集<br>きれいな写真版</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1803nerima/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-<p class="block-date">ブログ：2018年3月10日</p>
-<p class="block-title"><a href="http://astone.tv/events/1803nerima/" target="_blank">The Gate of Praise <br>練馬区の老健でゴスペルコンサート</a></p>
-</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
@@ -178,14 +115,6 @@
 <a href="http://tv.antioch.jp/digest/201703revivalcamp/" target="_blank"><img src="/2016/images/top/1704revivalcampdigest_m.jpg"></a>
 <p class="block-date">日程：2018年3月26日(月)～3月31日(土)</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201703revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>紹介映像<br>(再生時間 5:09)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1802tochari_digest.jpg"></a>
-<p class="block-date">日程：2018年2月4日(日)</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">2月東京カリスマ聖会<br>ダイジェスト映像<br>きれいな写真版</a></p>
 </div>
 
 <div class="column-inner">
@@ -224,6 +153,55 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201803hakuba/" target="_blank"><img src="/2016/images/top/1803hakubadigest_m.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803hakuba/" target="_blank">白馬スネルゴイキャンプ<br>ダイジェスト映像<br>(日程：2018年2月28日～3月2日)<br>再生時間 7:07</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1802tochari_digest.jpg"></a>
+<p class="block-date">日程：2018年2月4日(日)</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">2月東京カリスマ聖会<br>ダイジェスト映像<br>きれいな写真版</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1803meeting/" target="_blank"><img src="/2016/images/top/1803kofu.jpg"></a>
+<p class="block-date">ブログ：2018年3月9日〜10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1803meeting/" target="_blank">春の訪れを感じながら甲府・町田を行く<br>甲府・町田宣教の旅<br>日程：2018年3月5日〜7日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1803gifts/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+<p class="block-date">ブログ：2018年3月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1803gifts/" target="_blank">Gifts<br>都内の学校の音楽祭でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017labeille/180310arakawa/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
+<p class="block-date">ブログ：2018年3月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180310arakawa/" target="_blank">ラベイ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017healing/180310healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+<p class="block-date">ブログ：2018年3月10日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/180310healing/" target="_blank">3月いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180310iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年3月10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180310iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のグループホームでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -371,6 +349,14 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2017年2月17日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年2月17日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年3月10日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年3月10日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
