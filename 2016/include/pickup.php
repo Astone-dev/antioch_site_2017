@@ -42,18 +42,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/yobi1803/" target="_blank"><img src="/2016/images/top/1803haruichibanantioch.jpg"></a>
-<p class="block-date">ブログ：2018年3月5日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">春一番が吹く季節<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/2yobi1803/" target="_blank"><img src="/2016/images/top/1803haruichibanantioch.jpg"></a>
+<a href="http://antiochblog.jp/info/2yobi1803/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
 <p class="block-date">ブログ：2018年3月12日～18日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/2yobi1803/" target="_blank">アンテオケ教会の神学校<br>卒業する人、しない人春の一週間</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -63,52 +55,21 @@
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会の小春日和な一日');">短い動画で見る<br>東京アンテオケ教会の<br>小春日和な一日</p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/truevine1803/" target="_blank"><img src="/2016/images/top/1803u21yorokobi.jpg"></a>
+<a href="http://antiochblog.jp/praise/truevine1803/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
 <p class="block-date">ブログ：2018年3月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/truevine1803/" target="_blank">TrueVine 引っ越し</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/yorokobi1803a/" target="_blank"><img src="/2016/images/top/1803u21yorokobi.jpg"></a>
-<p class="block-date">ブログ：2018年3月5日～3月11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yorokobi1803a/" target="_blank">J.GOSPELコンテストU21・KIDS関東予選<br>喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<span class="label-2">映像</span>
-<a href="http://tokyo.antioch.jp/internet-tv/180304-yosen.html" target="_blank"><img src="/2016/images/top/1803u21kidskkanto_m.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803hakuba/" target="_blank">J.GOSPELコンテストU21・KIDS関東予選<br>保存版映像</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/truevine1803/" target="_blank">TrueVine<br>引っ越しの一日</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/faith1802z/" target="_blank"><img src="/2016/images/top/1803hcffyorokobi.jpg"></a>
-<p class="block-date">ブログ：2018年3月2日～3月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1802z/" target="_blank">白馬クリスチャンフィルムフェスティバル<br>喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/yobi1803z/" target="_blank"><img src="/2016/images/top/1803haruichibanzennkoku.jpg"></a>
-<p class="block-date">ブログ：2018年3月5日～3月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/yobi1803z/" target="_blank">春一番が吹く季節<br>全国各教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2yobi1803z/" target="_blank"><img src="/2016/images/top/1803haruichibanantioch.jpg"></a>
+<a href="http://astone.tv/events/2yobi1803z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年3月12日～18日</p>
 <p class="block-title"><a href="http://astone.tv/events/2yobi1803z/" target="_blank">全国各教会の神学校<br>卒業する人、しない人春の一週間</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -177,6 +138,40 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/yobi1803/" target="_blank"><img src="/2016/images/top/1803haruichibanantioch.jpg"></a>
+<p class="block-date">ブログ：2018年3月5日～11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">春一番が吹く季節<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/yorokobi1803a/" target="_blank"><img src="/2016/images/top/1803u21yorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年3月5日～3月11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yorokobi1803a/" target="_blank">J.GOSPELコンテストU21・KIDS関東予選<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tokyo.antioch.jp/internet-tv/180304-yosen.html" target="_blank"><img src="/2016/images/top/1803u21kidskkanto_m.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803hakuba/" target="_blank">J.GOSPELコンテストU21・KIDS関東予選<br>保存版映像</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/faith1802z/" target="_blank"><img src="/2016/images/top/1803hcffyorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年3月2日～3月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1802z/" target="_blank">白馬クリスチャンフィルムフェスティバル<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/yobi1803z/" target="_blank"><img src="/2016/images/top/1803haruichibanzennkoku.jpg"></a>
+<p class="block-date">ブログ：2018年3月5日～3月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/yobi1803z/" target="_blank">春一番が吹く季節<br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
