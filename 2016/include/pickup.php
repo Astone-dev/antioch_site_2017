@@ -35,8 +35,8 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1803hawaii/" target="_blank"><img src="/2016/images/top/1803hawaiiteam.jpg"></a>
-<p class="block-date">ブログ：2018年3月5日～11日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1803hawaii/" target="_blank">ハワイチーム<br>直前情報ブログ<br>(チーム日程：2018年3月12日～15日)</a></p>
+<p class="block-date">ブログ：2018年3月12日～15日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1803hawaii/" target="_blank">ハワイチーム<br>最新情報写真集<br>(チーム日程：2018年3月12日～15日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -47,6 +47,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">春一番が吹く季節<br>アンテオケ教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/2yobi1803/" target="_blank"><img src="/2016/images/top/1803haruichibanantioch.jpg"></a>
+<p class="block-date">ブログ：2018年3月12日～18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/2yobi1803/" target="_blank">アンテオケ教会の神学校<br>卒業する人、しない人春の一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
@@ -54,6 +62,14 @@
 <p class="block-date">動画ブログ：2018年3月5日～3月11日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る東京アンテオケ教会の小春日和な一日');">短い動画で見る<br>東京アンテオケ教会の<br>小春日和な一日</p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/truevine1803/" target="_blank"><img src="/2016/images/top/1803u21yorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年3月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/truevine1803/" target="_blank">TrueVine 引っ越し</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -85,6 +101,14 @@
 <p class="block-date">ブログ：2018年3月5日～3月11日</p>
 <p class="block-title"><a href="http://astone.tv/events/yobi1803z/" target="_blank">春一番が吹く季節<br>全国各教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2yobi1803z/" target="_blank"><img src="/2016/images/top/1803haruichibanantioch.jpg"></a>
+<p class="block-date">ブログ：2018年3月12日～18日</p>
+<p class="block-title"><a href="http://astone.tv/events/2yobi1803z/" target="_blank">全国各教会の神学校<br>卒業する人、しない人春の一週間</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">動画</span>
