@@ -58,26 +58,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/truevine1803/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
-<p class="block-date">ブログ：2018年3月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/truevine1803/" target="_blank">TrueVine<br>引っ越しの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/2yobi1803z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年3月12日～18日</p>
 <p class="block-title"><a href="http://astone.tv/events/2yobi1803z/" target="_blank">全国各教会の神学校<br>卒業する人、しない人春の一週間</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180313misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年3月13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180313misato/" target="_blank">エルサレム<br 三郷のグループホームでゴスペルコンサート</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -85,6 +69,14 @@
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年3月12日～3月18日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180313misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年3月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180313misato/" target="_blank">エルサレム<br 三郷のグループホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -156,6 +148,13 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/truevine1803/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
+<p class="block-date">ブログ：2018年3月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/truevine1803/" target="_blank">TrueVine<br>引っ越しの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/yobi1803/" target="_blank"><img src="/2016/images/top/1803haruichibanantioch.jpg"></a>
 <p class="block-date">ブログ：2018年3月5日～11日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/yobi1803/" target="_blank">春一番が吹く季節<br>アンテオケ教会の一週間</a></p>
@@ -220,7 +219,7 @@
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/2017labeille/180310arakawa/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
 <p class="block-date">ブログ：2018年3月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180310arakawa/" target="_blank">ラベイ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180310arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -228,13 +227,6 @@
 <a href="http://astone.tv/events/2017healing/180310healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
 <p class="block-date">ブログ：2018年3月10日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/180310healing/" target="_blank">3月いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180310iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年3月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180310iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻のグループホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -249,13 +241,6 @@
 <a href="http://antiochblog.jp/praise/1803kashiwa/" target="_blank"><img src="/2016/images/top/1709gifts.jpg"></a>
 <p class="block-date">ブログ：2018年3月6日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1803kashiwa/" target="_blank">Gifts<br>柏でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180306hakone/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年3月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180306hakone/" target="_blank">エルサレム<br>箱根のホテルでロビーゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
