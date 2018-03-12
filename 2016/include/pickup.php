@@ -80,6 +80,13 @@
 </div>
 
 <div class="column-inner">
+<span>NEW</span>
+<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1803kokorogospelinfo.jpg"></a>
+<p class="block-date">日程：2018年4月30日</p>
+<p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 29th<br>座高円寺2　開演19時／開場18時30分<br>大人 前売 1500円  当日2000円<br>中高生 前売1000円 当日1400円</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1803tcm_digest.jpg"></a>
