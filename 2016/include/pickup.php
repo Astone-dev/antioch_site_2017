@@ -44,7 +44,7 @@
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('ハワイチーム聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年3月13、14日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('ハワイチーム聖会生中継');">ハワイチーム聖会生中継<br>日程：2018年3月13日 日本時間9：00頃<br></a>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('ハワイチーム聖会生中継');">ハワイチーム聖会生中継<br>日程：2018年3月13日 日本時間9：00頃／13：30頃<br>日程：2018年3月14日 日本時間9：00頃／13：30頃<br></a>
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
 </div>
 
