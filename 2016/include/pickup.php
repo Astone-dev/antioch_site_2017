@@ -44,7 +44,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
 <p class="block-date">日程：2018年3月16日〜17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank">春の光の中横浜、横須賀聖会を行く<br>関東聖会宣教の旅<br>日程：2018年3月5日〜7日</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank">春の光の中横浜、横須賀聖会を行く<br>関東宣教の旅<br>日程：2018年3月16日〜17日</a></p>
 </div>
 
 <!--<div class="column-inner">
