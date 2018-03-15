@@ -97,14 +97,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180313misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">日程：2018年3月13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180313misato/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1803kokorogospelinfo.jpg"></a>
 <p class="block-date">日程：2018年4月30日</p>
@@ -170,6 +162,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180313misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">日程：2018年3月13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180313misato/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
