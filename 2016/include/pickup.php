@@ -39,13 +39,13 @@
 <p class="block-title"><a href="http://blog.antioch.jp/1803hawaii/" target="_blank">ハワイチーム<br>最新情報写真集<br>(チーム日程：2018年3月12日～15日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank"><img src="/2016/images/top/1803shikoku.jpg"></a>
+<a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
 <p class="block-date">日程：2018年3月16日〜17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank">春の訪れを感じながら横浜・横須賀聖会を行く<br>横浜・横須賀聖会宣教の旅<br>日程：2018年3月5日〜7日</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank">春の光の中横浜、横須賀聖会を行く<br>関東聖会宣教の旅<br>日程：2018年3月5日〜7日</a></p>
+</div>
 
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
@@ -80,13 +80,13 @@
 <p class="block-title"><a href="http://astone.tv/events/2yobi1803z/" target="_blank">全国各教会の神学校<br>卒業する人、しない人春の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/uranos2017/180316shinyuri/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
 <p class="block-date">日程：2018年3月16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180316shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
