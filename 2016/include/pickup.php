@@ -34,9 +34,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
+<a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank"><img src="/2016/images/top/1801yokosuka.jpg"></a>
 <p class="block-date">日程：2018年3月16日〜17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank">春の光の中横浜、横須賀聖会を行く<br>関東宣教の旅<br>日程：2018年3月16日〜17日</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank">春の光の中<br>横浜、横須賀聖会を行く<br>関東宣教の旅<br>日程：2018年3月16日〜17日</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -64,7 +64,7 @@
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春を感じるほのぼのと<br>東京アンテオケ教会</p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gifts1803/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
@@ -77,8 +77,16 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/revival2017/180317night/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
 <p class="block-date">日程：2018年3月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180317night/" target="_blank">リバイバルナイト</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180317night/" target="_blank">3月Revival Nightの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年3月17日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年3月17日 18:30スタート)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -104,13 +112,13 @@
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180317iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">日程：2018年3月17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180317iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻デイケアでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span>NEW</span>
@@ -329,14 +337,6 @@
 <a href="/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
 <p class="block-date">毎週火曜日22:00〜23:00生中継</p>
 <p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>祈りによる恵みを受けるために<br></a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年2月17日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年2月17日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
