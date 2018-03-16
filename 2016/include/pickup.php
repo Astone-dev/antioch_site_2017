@@ -64,6 +64,22 @@
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春を感じるほのぼのと<br>東京アンテオケ教会</p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gifts1803/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+<p class="block-date">日程：2018年3月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gifts1803/" target="_blank">Gifts<br>福祉の講演会でゴスペルを歌う</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/revival2017/180317night/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
+<p class="block-date">日程：2018年3月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180317night/" target="_blank">リバイバルナイト</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -87,6 +103,14 @@
 <p class="block-date">動画ブログ：2018年3月12日～3月18日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180317iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">日程：2018年3月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180317iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻デイケアでゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
