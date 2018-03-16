@@ -216,14 +216,6 @@
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201803hakuba/" target="_blank">白馬スネルゴイキャンプ<br>ダイジェスト映像<br>(日程：2018年2月28日～3月2日)<br>再生時間 7:07</a></p>
 </div>
 
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1802tochari_digest.jpg"></a>
-<p class="block-date">日程：2018年2月4日(日)</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">2月東京カリスマ聖会<br>ダイジェスト映像<br>きれいな写真版</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/1803meeting/" target="_blank"><img src="/2016/images/top/1803kofu.jpg"></a>
@@ -250,76 +242,6 @@
 <a href="http://astone.tv/events/2017healing/180310healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
 <p class="block-date">日程：2018年3月10日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/180310healing/" target="_blank">3月いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/shikoku1803/" target="_blank"><img src="/2016/images/top/1803shikoku.jpg"></a>
-<p class="block-date">日程：2018年3月4日〜7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/shikoku1803/" target="_blank">春の訪れを感じながら四国を行く<br>四国宣教の旅<br>日程：2018年3月5日〜7日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1803kashiwa/" target="_blank"><img src="/2016/images/top/1709gifts.jpg"></a>
-<p class="block-date">日程：2018年3月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1803kashiwa/" target="_blank">Gifts<br>柏でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/tcm1803/" target="_blank"><img src="/2016/images/top/1803tcm.jpg"></a>
-<p class="block-date">日程：2018年3月3日〜4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/tcm1803/" target="_blank">春近し<br>東京カリスマ聖会<br>スタッフのドタバタ<br>日程：2018年3月4日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/faith1802a/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
-<p class="block-date">日程：2018年3月2日～3月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1802a/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2018年3月4日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/euqaristias/20180304shinjuku/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
-<p class="block-date">日程：2018年3月4日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180304shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル<br>日程：2018年3月4日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/gate1803/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-<p class="block-date">日程：2018年3月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gate1803/" target="_blank">The Gate of PraiseとJOHN<br>芦花公園ライブで歌う<br>日程：2018年3月4日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">日程：2018年3月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/0304koenji/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでコンサート<br>日程：2018年3月4日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/chiba1803/" target="_blank"><img src="/2016/images/top/1803chibaseikai.jpg"></a>
-<p class="block-date">日程：2018年3月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/chiba1803/" target="_blank">春の気配を感じながら千葉を行く<br>関東宣教の旅<br>日程：2018年3月3日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
-<p class="block-date">日程：2018年2月26日～3月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2hakuba1802a/" target="_blank">いよいよ本番！<br>白馬スネルゴイキャンプ<br>東京アンテオケ教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2hakuba1802za/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
-<p class="block-date">日程：2018年2月26日～3月2日</p>
-<p class="block-title"><a href="http://astone.tv/events/2hakuba1802za/" target="_blank">いよいよ本番！<br>白馬スネルゴイキャンプ<br>全国各教会<br>日程：2018年2月28日(水)～3月2日(金)</a></p>
 </div>
 
 <div class="column-inner">
