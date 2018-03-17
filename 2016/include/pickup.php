@@ -50,6 +50,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/2018women/201803/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
+<p class="block-date">日程：2018年3月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201803/" target="_blank">婦人会<br>おいなりさんを食べる</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20180318nerima/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
 <p class="block-date">日程：2018年3月18日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180318nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペルコンサート</a></p>
