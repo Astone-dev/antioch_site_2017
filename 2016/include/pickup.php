@@ -36,7 +36,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/chubu1803/" target="_blank"><img src="/2016/images/top/1801chubu.jpg"></a>
 <p class="block-date">日程：2018年3月18日〜24日</p>
-<p class="block-title"><a href="http://astone.tv/events/chubu1803/" target="_blank">春の柏を行く<br>中部宣教の旅<br>日程：2018年3月20日〜24日</a></p>
+<p class="block-title"><a href="http://astone.tv/events/chubu1803/" target="_blank">春色の風<br>中部宣教の旅<br>日程：2018年3月20日〜24日</a></p>
 </div>
 
 <div class="column-inner">
