@@ -66,6 +66,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date">日程：2018年3月18日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/" target="_blank">By His Spriit<br>世田谷のデイサービスと高円寺のレストランでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/2yobi1803z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
 <p class="block-date">日程：2018年3月12日～18日</p>
 <p class="block-title"><a href="http://astone.tv/events/2yobi1803z/" target="_blank">全国各教会の神学校<br>卒業する人、しない人春の一週間</a></p>
