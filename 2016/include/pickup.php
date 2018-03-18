@@ -23,37 +23,21 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/kashiwa1803/" target="_blank">春の柏を行く<br>関東宣教の旅<br>日程：2018年3月19日</a></p>
 </div>
 
+<<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/2yobi1803/" target="_blank"><img src="/2016/images/top/1703sakuraantioch.jpg"></a>
+<p class="block-date">日程：2018年3月19日～25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1803/" target="_blank">桜の咲くころ<br>アンテオケ教会のさわやか一週間</a></p>
+</div>
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/2yobi1803/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
-<p class="block-date">日程：2018年3月12日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/2yobi1803/" target="_blank">アンテオケ教会の神学校<br>卒業する人、しない人春の一週間</a></p>
+<a href="http://blog.antioch.jp/1803revival/" target="_blank"><img src="/2016/images/top/1703kansyatochokuzen.jpg"></a>
+<p class="block-date">日程：2018年3月19日～25日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1803revival/" target="_blank">感謝と賛美とリバイバルキャンプ<br>直前情報写真集<br>(日程：2018年3月26日〜31日)</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://blog.antioch.jp/1803revival/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
-<p class="block-date">日程：2018年3月19日～25日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1803revival/" target="_blank">感謝と賛美とリバイバルキャンプ</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/2yobi1803/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
-<p class="block-date">日程：2018年3月19日～25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1803/" target="_blank">桜の咲くころ <br>アンテオケ教会のさわやか一週間</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
-<p class="block-date">日程：2018年3月19日～21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank">中部賛美大会</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -61,22 +45,20 @@
 <a href="http://astone.tv/events/chubu1803/" target="_blank"><img src="/2016/images/top/1801chubu.jpg"></a>
 <p class="block-date">日程：2018年3月18日〜24日</p>
 <p class="block-title"><a href="http://astone.tv/events/chubu1803/" target="_blank">春色の風<br>中部宣教の旅<br>日程：2018年3月20日〜24日</a></p>
+</div><div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank"><img src="/2016/images/top/1704chubusanbitaikai.jpg"></a>
+<p class="block-date">日程：2018年3月19日～21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank">J.GOSPELコンテスト in 白馬<br>中部予選に向かってのドキドキ<br>(日程：2018年3月21日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年3月12日～3月18日</p>
+<p class="block-date">動画ブログ：2018年3月19日～3月25日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春を感じるほのぼのと<br>東京アンテオケ教会</p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2018women/201803/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
-<p class="block-date">日程：2018年3月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201803/" target="_blank">婦人会<br>おいなりさんを食べる</a></p>
 </div>
 
 <div class="column-inner">
@@ -89,50 +71,25 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20180318nerima/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
-<p class="block-date">日程：2018年3月18日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180318nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
-<p class="block-date">日程：2018年3月18日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/" target="_blank">By His Spriit<br>世田谷のデイサービスと高円寺のレストランでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2yobi1803z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
-<p class="block-date">日程：2018年3月12日～18日</p>
-<p class="block-title"><a href="http://astone.tv/events/2yobi1803z/" target="_blank">全国各教会の神学校<br>卒業する人、しない人春の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/faith1803z/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
+<a href="http://astone.tv/events/faith1803z/" target="_blank"><img src="/2016/images/top/1703sakurazenkoku.jpg"></a>
 <p class="block-date">日程：2018年3月19日～25日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1803z/" target="_blank">桜の咲くころ <br>全国各教会のふわっと一週間</a></p>
-</div>-->
-
+<p class="block-title"><a href="http://astone.tv/events/faith1803z/" target="_blank">桜の咲くころ<br>全国各教会のふわっと一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年3月12日～3月18日</p>
+<p class="block-date">動画ブログ：2018年3月19日～3月25日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180319misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">日程：2018年3月17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180319misato/" target="_blank">エルサレム<br>三郷市でゴスペル教室</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span>NEW</span>
@@ -200,6 +157,41 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/2yobi1803/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
+<p class="block-date">日程：2018年3月12日～18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/2yobi1803/" target="_blank">アンテオケ教会の神学校<br>卒業する人、しない人春の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2018women/201803/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
+<p class="block-date">日程：2018年3月18日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201803/" target="_blank">婦人会<br>おいなりさんを食べる</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20180318nerima/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
+<p class="block-date">日程：2018年3月18日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180318nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date">日程：2018年3月18日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/" target="_blank">By His Spriit<br>世田谷のデイサービスと高円寺のレストランでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2yobi1803z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
+<p class="block-date">日程：2018年3月12日～18日</p>
+<p class="block-title"><a href="http://astone.tv/events/2yobi1803z/" target="_blank">全国各教会の神学校<br>卒業する人、しない人春の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
