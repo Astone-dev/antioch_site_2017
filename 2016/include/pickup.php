@@ -86,6 +86,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>	
 <a href="http://antiochblog.jp/info/jerusalem2017/180319misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">日程：2018年3月17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180319misato/" target="_blank">エルサレム<br>三郷市でゴスペル教室</a></p>
