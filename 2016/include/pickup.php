@@ -18,9 +18,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/kashiwa1803/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
-<p class="block-date">日程：2018年3月18日〜19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kashiwa1803/" target="_blank">春の柏を行く<br>関東宣教の旅<br>日程：2018年3月19日</a></p>
+<a href="http://astone.tv/events/chubu1803/" target="_blank"><img src="/2016/images/top/1801chubu.jpg"></a>
+<p class="block-date">日程：2018年3月18日〜24日</p>
+<p class="block-title"><a href="http://astone.tv/events/chubu1803/" target="_blank">春色の風<br>中部宣教の旅<br>日程：2018年3月20日〜24日</a></p>
 </div>
 
 <<div class="column-inner">
@@ -40,12 +40,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/chubu1803/" target="_blank"><img src="/2016/images/top/1801chubu.jpg"></a>
-<p class="block-date">日程：2018年3月18日〜24日</p>
-<p class="block-title"><a href="http://astone.tv/events/chubu1803/" target="_blank">春色の風<br>中部宣教の旅<br>日程：2018年3月20日〜24日</a></p>
-</div><div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank"><img src="/2016/images/top/1704chubusanbitaikai.jpg"></a>
@@ -82,14 +76,6 @@
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年3月19日～3月25日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>	
-<a href="http://antiochblog.jp/info/jerusalem2017/180319misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">日程：2018年3月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180319misato/" target="_blank">エルサレム<br>三郷市でゴスペル教室</a></p>
 </div>
 
 <div class="column-inner">
@@ -158,6 +144,20 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/kashiwa1803/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
+<p class="block-date">日程：2018年3月18日〜19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kashiwa1803/" target="_blank">春の柏を行く<br>関東宣教の旅<br>日程：2018年3月19日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180319misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">日程：2018年3月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180319misato/" target="_blank">エルサレム<br>三郷市でゴスペル教室</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
