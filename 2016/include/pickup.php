@@ -43,8 +43,24 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank"><img src="/2016/images/top/1704chubusanbitaikai.jpg"></a>
-<p class="block-date">日程：2018年3月19日～21日</p>
+<p class="block-date">日程：2018年3月21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank">J.GOSPELコンテスト in 白馬<br>中部予選に向かってのドキドキ<br>(日程：2018年3月21日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1803syakaijin/" target="_blank"><img src="/2016/images/top/1701syakaijinkai.jpg"></a>
+<p class="block-date">日程：2018年3月21日</p>
+<p class="block-title"><a href="http://astone.tv/events/1803syakaijin/" target="_blank">社会人会<br>築地へ行く</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank"><img src="/2016/images/top/1803concert.jpg"></a>
+<p class="block-date">日程：2018年3月19日～21日</p>
+<p class="block-title"><a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank">エウカリスティアスとBy His Spirit<br>障害者施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -76,6 +92,14 @@
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年3月19日～3月25日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1803gracious/" target="_blank"><img src="/2016/images/top1704gracioustonai,jpg"></a>
+<p class="block-date">日程：2018年3月19日～21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1803gracious/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
