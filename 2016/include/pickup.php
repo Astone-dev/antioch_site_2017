@@ -97,7 +97,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1803gracious/" target="_blank"><img src="/2016/images/top1704gracioustonai,jpg"></a>
+<a href="http://antiochblog.jp/info/1803gracious/" target="_blank"><img src="/2016/images/top1704gracioustonai.jpg"></a>
 <p class="block-date">日程：2018年3月19日～21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1803gracious/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
 </div>
