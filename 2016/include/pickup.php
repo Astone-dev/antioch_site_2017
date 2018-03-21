@@ -26,17 +26,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank"><img src="/2016/images/top/1704chubusanbitaikai.jpg"></a>
-<p class="block-date">日程：2018年3月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank">J.GOSPELコンテスト in 白馬<br>中部予選に向かってのドキドキ<br>(日程：2018年3月21日)</a></p>
-</div>
-
-<<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/faith1803/" target="_blank"><img src="/2016/images/top/1703sakuraantioch.jpg"></a>
 <p class="block-date">日程：2018年3月19日～25日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1803/" target="_blank">桜の咲くころ<br>アンテオケ教会のさわやか一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank"><img src="/2016/images/top/1704chubusanbitaikai.jpg"></a>
+<p class="block-date">日程：2018年3月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank">J.GOSPELコンテスト in 白馬<br>中部予選に向かってのドキドキ<br>(日程：2018年3月21日)</a></p>
 </div>
 
 <div class="column-inner">
