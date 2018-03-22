@@ -10,25 +10,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/chubu1803/" target="_blank"><img src="/2016/images/top/1801chubu.jpg"></a>
-<p class="block-date">日程：2018年3月18日〜24日</p>
-<p class="block-title"><a href="http://astone.tv/events/chubu1803/" target="_blank">春色の風<br>中部宣教の旅<br>日程：2018年3月20日〜24日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/faith1803/" target="_blank"><img src="/2016/images/top/1703sakuraantioch.jpg"></a>
 <p class="block-date">日程：2018年3月19日～25日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1803/" target="_blank">桜の咲くころ<br>アンテオケ教会のさわやか一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank"><img src="/2016/images/top/1704chubusanbitaikai.jpg"></a>
-<p class="block-date">日程：2018年3月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank">J.GOSPELコンテスト in 白馬<br>中部予選に向かってのドキドキ<br>(日程：2018年3月21日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -42,25 +26,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1803syakaijin/" target="_blank"><img src="/2016/images/top/1701syakaijinkai.jpg"></a>
-<p class="block-date">日程：2018年3月21日</p>
-<p class="block-title"><a href="http://astone.tv/events/1803syakaijin/" target="_blank">社会人会<br>築地へ行く</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank"><img src="/2016/images/top/1803euqarishisetsu.jpg"></a>
-<p class="block-date">日程：2018年3月21日</p>
-<p class="block-title"><a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank">エウカリスティアスとBy His Spirit<br>障害者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">日程：2018年3月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
+<a href="http://astone.tv/events/chubu1803/" target="_blank"><img src="/2016/images/top/1801chubu.jpg"></a>
+<p class="block-date">日程：2018年3月18日〜24日</p>
+<p class="block-title"><a href="http://astone.tv/events/chubu1803/" target="_blank">春色の風<br>中部宣教の旅<br>日程：2018年3月20日〜24日</a></p>
 </div>
 
 <div class="column-inner">
@@ -97,9 +65,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1803gracious/" target="_blank"><img src="/2016/images/top/1704gracioustonai.jpg"></a>
-<p class="block-date">日程：2018年3月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1803gracious/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">日程：2018年3月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -176,6 +144,34 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank"><img src="/2016/images/top/1704chubusanbitaikai.jpg"></a>
+<p class="block-date">日程：2018年3月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank">J.GOSPELコンテスト in 白馬<br>中部予選に向かってのドキドキ<br>(日程：2018年3月21日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1803syakaijin/" target="_blank"><img src="/2016/images/top/1701syakaijinkai.jpg"></a>
+<p class="block-date">日程：2018年3月21日</p>
+<p class="block-title"><a href="http://astone.tv/events/1803syakaijin/" target="_blank">社会人会<br>築地へ行く</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank"><img src="/2016/images/top/1803euqarishisetsu.jpg"></a>
+<p class="block-date">日程：2018年3月21日</p>
+<p class="block-title"><a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank">エウカリスティアスとBy His Spirit<br>障害者施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1803gracious/" target="_blank"><img src="/2016/images/top/1704gracioustonai.jpg"></a>
+<p class="block-date">日程：2018年3月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1803gracious/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
