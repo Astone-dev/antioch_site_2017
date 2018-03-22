@@ -50,9 +50,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank"><img src="/2016/images/top/1803concert.jpg"></a>
+<a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank"><img src="/2016/images/top/1803euqarishisetsu.jpg"></a>
 <p class="block-date">日程：2018年3月21日</p>
 <p class="block-title"><a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank">エウカリスティアスとBy His Spirit<br>障害者施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">日程：2018年3月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
