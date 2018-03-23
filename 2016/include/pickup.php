@@ -10,6 +10,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/chubu1803/" target="_blank"><img src="/2016/images/top/1801chubu.jpg"></a>
+<p class="block-date">日程：2018年3月18日〜24日</p>
+<p class="block-title"><a href="http://astone.tv/events/chubu1803/" target="_blank">春色の風<br>中部宣教の旅<br>日程：2018年3月20日〜24日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/faith1803/" target="_blank"><img src="/2016/images/top/1703sakuraantioch.jpg"></a>
 <p class="block-date">日程：2018年3月19日～25日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1803/" target="_blank">桜の咲くころ<br>アンテオケ教会のさわやか一週間</a></p>
@@ -24,15 +32,7 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/chubu1803/" target="_blank"><img src="/2016/images/top/1801chubu.jpg"></a>
-<p class="block-date">日程：2018年3月18日〜24日</p>
-<p class="block-title"><a href="http://astone.tv/events/chubu1803/" target="_blank">春色の風<br>中部宣教の旅<br>日程：2018年3月20日〜24日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">動画</span>
+<span class="label-2"> 動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年3月19日～3月25日</p>
