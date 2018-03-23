@@ -70,14 +70,6 @@
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">日程：2018年3月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>
-
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -152,6 +144,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
+<p class="block-date">日程：2018年3月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
