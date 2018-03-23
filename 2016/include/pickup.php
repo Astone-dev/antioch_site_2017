@@ -40,6 +40,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1803nerima/" target="_blank"><img src="/2016/images/top/1607joyasagaya.jpg"></a>
+<p class="block-date">日程：2018年3月23日</p>
+<p class="block-title"><a href="http://astone.tv/events/1803nerima/" target="_blank">JOY <br>阿佐ヶ谷ドラムでコンサート</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201803-hawaii/" target="_blank"><img src="/2016/images/top/1803hawaii_dstmovie.jpg"></a>
