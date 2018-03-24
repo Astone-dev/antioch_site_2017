@@ -42,9 +42,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1803gate/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
+<a href="http://astone.tv/events/2017byhisspirit/180325/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
 <p class="block-date">日程：2018年3月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1803gate/" target="_blank">By His Spirit<br>練馬のデイサービスでコンサート</a></p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180325/" target="_blank">By His Spirit<br>練馬のデイサービスでコンサート</a></p>
 </div>
 
 <div class="column-inner">
