@@ -36,7 +36,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2017students/0325ga/" target="_blank"><img src="/2016/images/top/1701gakuseikai.jpg"></a>
 <p class="block-date">日程：2018年3月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/0325ga/" target="_blank">桜の咲くころ<br>全国各教会のふわっと一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/0325ga/" target="_blank">学生会<br>ピクニックに行く</a></p>
 </div>
 
 <div class="column-inner">
