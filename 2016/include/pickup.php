@@ -44,7 +44,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gospel2017/180324gospel/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
 <p class="block-date">日程：2018年3月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180324gospel/" target="_blank">3月ゴスペルの集いの一日</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180324gospel/" target="_blank">3月ゴスペルの集いの 一日</a></p>
 </div>
 
 <div class="column-inner">
