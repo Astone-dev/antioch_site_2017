@@ -11,16 +11,16 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1803revival/" target="_blank"><img src="/2016/images/top/1703kansyatochokuzen.jpg"></a>
-<p class="block-date">日程：2018年3月19日～25日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1803revival/" target="_blank">感謝と賛美とリバイバルキャンプ<br>直前情報写真集<br>(日程：2018年3月26日〜31日)</a></p>
+<p class="block-date">日程：2018年3月26日～31日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1803revival/" target="_blank">感謝と賛美とリバイバルキャンプ<br>最新情報写真集<br>(日程：2018年3月26日〜31日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1803/" target="_blank"><img src="/2016/images/top/1703sakuraantioch.jpg"></a>
-<p class="block-date">日程：2018年3月19日～25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1803/" target="_blank">桜の咲くころ<br>アンテオケ教会のさわやか一週間</a></p>
+<a href="http://antiochblog.jp/praise/thanks1803/" target="_blank"><img src="/2016/images/top/1803cherry_a.jpg"></a>
+<p class="block-date">日程：2018年3月26日～4月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1803/" target="_blank">まだまだ桜楽しめるぞ！<br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -34,25 +34,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017students/0325ga/" target="_blank"><img src="/2016/images/top/1701gakuseikai.jpg"></a>
-<p class="block-date">日程：2018年3月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/0325ga/" target="_blank">学生会<br>ピクニックに行く</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/180325/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
-<p class="block-date">日程：2018年3月25日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180325/" target="_blank">By His Spirit<br>練馬のデイサービスでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/faith1803z/" target="_blank"><img src="/2016/images/top/1703sakurazenkoku.jpg"></a>
-<p class="block-date">日程：2018年3月19日～25日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1803z/" target="_blank">桜の咲くころ<br>全国各教会のふわっと一週間</a></p>
+<a href="http://astone.tv/events/thanks1803z/" target="_blank"><img src="/2016/images/top/1803cherry_z.jpg"></a>
+<p class="block-date">日程：2018年3月26日～4月1日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1803z/" target="_blank">まだまだ桜楽しめるぞ！<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -136,6 +120,38 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/faith1803/" target="_blank"><img src="/2016/images/top/1703sakuraantioch.jpg"></a>
+<p class="block-date">日程：2018年3月19日～25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1803/" target="_blank">桜の咲くころ<br>アンテオケ教会のさわやか一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017students/0325ga/" target="_blank"><img src="/2016/images/top/1701gakuseikai.jpg"></a>
+<p class="block-date">日程：2018年3月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/0325ga/" target="_blank">学生会<br>ピクニックに行く</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/180325/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
+<p class="block-date">日程：2018年3月25日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180325/" target="_blank">By His Spirit<br>練馬のデイサービスでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/faith1803z/" target="_blank"><img src="/2016/images/top/1703sakurazenkoku.jpg"></a>
+<p class="block-date">日程：2018年3月19日～25日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1803z/" target="_blank">桜の咲くころ<br>全国各教会のふわっと一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
