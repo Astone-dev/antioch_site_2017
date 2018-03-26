@@ -62,14 +62,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201703revivalcamp/" target="_blank"><img src="/2016/images/top/1704revivalcampdigest_m.jpg"></a>
-<p class="block-date">日程：2018年3月26日(月)～3月31日(土)</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201703revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>紹介映像<br>(再生時間 5:09)</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank"><img src="/2016/images/top/1803yorimichi32.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
@@ -111,6 +103,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201703revivalcamp/" target="_blank"><img src="/2016/images/top/1704revivalcampdigest_m.jpg"></a>
+<p class="block-date">日程：2018年3月26日(月)～3月31日(土)</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201703revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>紹介映像<br>(再生時間 5:09)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
