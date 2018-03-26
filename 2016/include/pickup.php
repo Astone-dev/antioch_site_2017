@@ -49,24 +49,9 @@
 
 <div class="column-inner">
 <span>NEW</span>
-<span class="label-2">映像</span>
-<a href="http://tv.antioch.jp/digest/201803-hawaii/" target="_blank"><img src="/2016/images/top/1803hawaii_dstmovie.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-hawaii/" target="_blank">ハワイチーム<br>ダイジェスト映像<br>(日程：2018年3月12日～3月15日)<br>再生時間 3:00</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1803kokorogospelinfo.jpg"></a>
 <p class="block-date">日程：2018年4月30日</p>
 <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 29th<br>座高円寺2　開演19時／開場18時30分<br>大人 前売 1500円  当日2000円<br>中高生 前売1000円 当日1400円</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1803tcm_digest.jpg"></a>
-<p class="block-date">日程：2018年3月4日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">3月東京カリスマ聖会<br>ダイジェスト写真集<br>きれいな写真版</a></p>
 </div>
 
 <div class="column-inner">
@@ -128,8 +113,20 @@
 </div>-->
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201803-hawaii/" target="_blank"><img src="/2016/images/top/1803hawaii_dstmovie.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-hawaii/" target="_blank">ハワイチーム<br>ダイジェスト映像<br>(日程：2018年3月12日～3月15日)<br>再生時間 3:00</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
+<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1803tcm_digest.jpg"></a>
+<p class="block-date">日程：2018年3月4日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">3月東京カリスマ聖会<br>ダイジェスト写真集<br>きれいな写真版</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/faith1803/" target="_blank"><img src="/2016/images/top/1703sakuraantioch.jpg"></a>
 <p class="block-date">日程：2018年3月19日～25日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1803/" target="_blank">桜の咲くころ<br>アンテオケ教会のさわやか一週間</a></p>
@@ -137,7 +134,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/2017students/0325ga/" target="_blank"><img src="/2016/images/top/1701gakuseikai.jpg"></a>
 <p class="block-date">日程：2018年3月25日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/0325ga/" target="_blank">学生会<br>ピクニックに行く</a></p>
@@ -145,7 +141,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/2017byhisspirit/180325/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
 <p class="block-date">日程：2018年3月25日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180325/" target="_blank">By His Spirit<br>練馬のデイサービスでコンサート</a></p>
@@ -153,7 +148,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/faith1803z/" target="_blank"><img src="/2016/images/top/1703sakurazenkoku.jpg"></a>
 <p class="block-date">日程：2018年3月19日～25日</p>
 <p class="block-title"><a href="http://astone.tv/events/faith1803z/" target="_blank">桜の咲くころ<br>全国各教会のふわっと一週間</a></p>
