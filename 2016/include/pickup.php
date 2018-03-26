@@ -12,7 +12,7 @@
 <span>NEW</span>
 <a href="http://blog.antioch.jp/1803revival/" target="_blank"><img src="/2016/images/top/1703kansyatochokuzen.jpg"></a>
 <p class="block-date">日程：2018年3月26日～31日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1803revival/" target="_blank">感謝と賛美とリバイバルキャンプ<br>最新情報写真集<br>(日程：2018年3月26日〜31日)</a></p>
+<p class="block-title"><a href="http://blog.antioch.jp/1803revival/" target="_blank">いよいよ今日から<br>感謝と賛美とリバイバルキャンプ<br>最新情報写真集<br>(日程：2018年3月26日〜31日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -86,6 +86,12 @@
 
 <div class="column-inner">
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank"><img src="/2016/images/top/1801yorimichi31.jpg"></a>
+<p class="block-date">毎日7:00更新</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
+</div>
+
+<div class="column-inner">
 <a href="http://antiochblog.jp/info/godiswithus/" target="_blank"><img src="/2016/images/top/1801yorimichi31.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/godiswithus/" target="_blank">クリスチャンの寄り道 Vol.31<br>今回は「神さまがいてよかったと思った瞬間」のお話です</a></p>
