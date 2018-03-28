@@ -43,6 +43,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/1803kawaguchi" target="_blank"><img src="/2016/images/top/1704patlis.jpg"></a>
+<p class="block-date">日程：2018年3月29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1803kawaguchi" target="_blank">PATOLIS<br>川口の病院でのコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/thanks1803z/" target="_blank"><img src="/2016/images/top/1803cherry_z.jpg"></a>
 <p class="block-date">日程：2018年3月26日～4月1日</p>
 <p class="block-title"><a href="http://astone.tv/events/thanks1803z/" target="_blank">まだまだ桜楽しめるぞ！<br>全国各教会の一週間</a></p>
