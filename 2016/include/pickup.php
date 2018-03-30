@@ -40,20 +40,12 @@
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春を感じるほのぼのと<br>東京アンテオケ教会</p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/seminary1803/" target="_blank"><img src="/2016/images/top/1704shingakkousotugyo.jpg"></a>
 <p class="block-date">日程：2018年3月31日</p>
-<p class="block-title"><a href="http://astone.tv/events/seminary1803/" target="_blank">神学校卒業式</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1803kawaguchi" target="_blank"><img src="/2016/images/top/1704patlis.jpg"></a>
-<p class="block-date">日程：2018年3月29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1803kawaguchi" target="_blank">PATOLIS<br>川口の病院でのコンサート</a></p>
+<p class="block-title"><a href="http://astone.tv/events/seminary1803/" target="_blank">桜咲く<br>神学校の卒業式</a></p>
 </div>
 
 <div class="column-inner">
@@ -122,6 +114,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1803kawaguchi" target="_blank"><img src="/2016/images/top/1704patlis.jpg"></a>
+<p class="block-date">日程：2018年3月29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1803kawaguchi" target="_blank">PATOLIS<br>川口の病院でのコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
