@@ -40,6 +40,14 @@
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春を感じるほのぼのと<br>東京アンテオケ教会</p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/seminary1803/" target="_blank"><img src="/2016/images/top/1704shingakkousotugyo.jpg"></a>
+<p class="block-date">日程：2018年3月31日</p>
+<p class="block-title"><a href="http://astone.tv/events/seminary1803/" target="_blank">神学校卒業式</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
