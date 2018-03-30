@@ -86,12 +86,6 @@
 </div>
 
 <div class="column-inner">
-<a href="http://antiochblog.jp/info/godiswithus/" target="_blank"><img src="/2016/images/top/1801yorimichi31.jpg"></a>
-<p class="block-date">毎日7:00更新</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/godiswithus/" target="_blank">クリスチャンの寄り道 Vol.31<br>今回は「神さまがいてよかったと思った瞬間」のお話です</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/yorimichi/result-alacarte.html" target="_blank"><img src="/2016/images/top/1801yorimichi30kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-alacarte.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.30<br>「祝福のアラカルト」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
@@ -120,13 +114,6 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://tv.antioch.jp/digest/201703revivalcamp/" target="_blank"><img src="/2016/images/top/1704revivalcampdigest_m.jpg"></a>
-<p class="block-date">日程：2018年3月26日(月)～3月31日(土)</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201703revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>紹介映像<br>(再生時間 5:09)</a></p>
-</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -195,125 +182,6 @@
 <a href="http://astone.tv/events/1803nerima/" target="_blank"><img src="/2016/images/top/1607joyasagaya.jpg"></a>
 <p class="block-date">日程：2018年3月23日</p>
 <p class="block-title"><a href="http://astone.tv/events/1803nerima/" target="_blank">JOY <br>阿佐ヶ谷ドラムでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">日程：2018年3月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180322nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank"><img src="/2016/images/top/1704chubusanbitaikai.jpg"></a>
-<p class="block-date">日程：2018年3月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chubusanbi1803/" target="_blank">J.GOSPELコンテスト in 白馬<br>中部予選に向かってのドキドキ<br>(日程：2018年3月21日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1803syakaijin/" target="_blank"><img src="/2016/images/top/1701syakaijinkai.jpg"></a>
-<p class="block-date">日程：2018年3月21日</p>
-<p class="block-title"><a href="http://astone.tv/events/1803syakaijin/" target="_blank">社会人会<br>築地へ行く</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank"><img src="/2016/images/top/1803euqarishisetsu.jpg"></a>
-<p class="block-date">日程：2018年3月21日</p>
-<p class="block-title"><a href="http://astone.tv/events/20180321euqaribyhis/" target="_blank">エウカリスティアスとBy His Spirit<br>障害者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1803gracious/" target="_blank"><img src="/2016/images/top/1704gracioustonai.jpg"></a>
-<p class="block-date">日程：2018年3月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1803gracious/" target="_blank">GRACIOUS DOORS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/kashiwa1803/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
-<p class="block-date">日程：2018年3月18日〜19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kashiwa1803/" target="_blank">春の柏を行く<br>関東宣教の旅<br>日程：2018年3月19日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180319misato/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">日程：2018年3月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180319misato/" target="_blank">エルサレム<br>三郷市でゴスペル教室</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/2yobi1803/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
-<p class="block-date">日程：2018年3月12日～18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/2yobi1803/" target="_blank">アンテオケ教会の神学校<br>卒業する人、しない人春の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2018women/201803/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
-<p class="block-date">日程：2018年3月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201803/" target="_blank">婦人会<br>おいなりさんを食べる</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/euqaristias/20180318nerima/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
-<p class="block-date">日程：2018年3月18日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180318nerima/" target="_blank">エウカリスティアス<br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017byhisspirit/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
-<p class="block-date">日程：2018年3月18日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/" target="_blank">By His Spriit<br>世田谷のデイサービスと高円寺のレストランでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2yobi1803z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
-<p class="block-date">日程：2018年3月12日～18日</p>
-<p class="block-title"><a href="http://astone.tv/events/2yobi1803z/" target="_blank">全国各教会の神学校<br>卒業する人、しない人春の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank"><img src="/2016/images/top/1801yokosuka.jpg"></a>
-<p class="block-date">日程：2018年3月16日〜17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1803kanagawa/" target="_blank">春の光の中<br>横浜、横須賀聖会を行く<br>関東宣教の旅<br>日程：2018年3月16日〜17日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gifts1803/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
-<p class="block-date">日程：2018年3月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gifts1803/" target="_blank">Gifts<br>福祉の講演会でゴスペルを歌う</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/revival2017/180317night/" target="_blank"><img src="/2016/images/top/1703revivalnight.jpg"></a>
-<p class="block-date">日程：2018年3月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180317night/" target="_blank">3月Revival Nightの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180316shinyuri/" target="_blank"><img src="/2016/images/top/1705uranosuconcert.jpg"></a>
-<p class="block-date">日程：2018年3月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180316shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180317iwatsuki/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">日程：2018年3月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180317iwatsuki/" target="_blank">エルサレム<br>さいたま市岩槻デイケアでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
