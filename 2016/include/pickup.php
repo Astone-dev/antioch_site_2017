@@ -10,9 +10,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://blog.antioch.jp/1803revival/" target="_blank"><img src="/2016/images/top/1703kansyatochokuzen.jpg"></a>
-<p class="block-date">日程：2018年3月26日～31日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1803revival/" target="_blank">いよいよ今日から<br>感謝と賛美とリバイバルキャンプ<br>最新情報写真集<br>(日程：2018年3月26日〜31日)</a></p>
+<a href="http://astone.tv/events/okinawa1804/" target="_blank"><img src="/2016/images/top/1804okinawa.jpg"></a>
+<p class="block-date">日程：2018年4月1日～4月4日</p>
+<p class="block-title"><a href="http://astone.tv/events/okinawa1804/" target="_blank">華やぐ季節の沖縄を行く<br>沖縄宣教の旅<br>(日程：2018年4月2日〜4日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -34,10 +34,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/seminary1803/" target="_blank"><img src="/2016/images/top/1704shingakkousotugyo.jpg"></a>
-<p class="block-date">日程：2018年3月31日</p>
-<p class="block-title"><a href="http://astone.tv/events/seminary1803/" target="_blank">桜咲く<br>神学校の卒業式</a></p>
+<a href="http://astone.tv/events/happyday2017/2018041/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
+<p class="block-date">日程：2018年4月1日</p>
+<p class="block-title"><a href="http://astone.tv/events/happyday2017/2018041/" target="_blank">OH HAPPY DAY!<br>進級、進学おめでとう！</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1803merlin.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">ハワイチーム<br>ダイジェスト映像<br>(日程：2018年3月12日～3月15日)<br>再生時間 3:00</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -54,13 +61,6 @@
 <p class="block-date">動画ブログ：2018年3月26日～4月1日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1803merlin.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">ハワイチーム<br>ダイジェスト映像<br>(日程：2018年3月12日～3月15日)<br>再生時間 3:00</a></p>
-</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
@@ -112,6 +112,20 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1803revival/" target="_blank"><img src="/2016/images/top/1703kansyatochokuzen.jpg"></a>
+<p class="block-date">日程：2018年3月26日～31日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1803revival/" target="_blank">いよいよ今日から<br>感謝と賛美とリバイバルキャンプ<br>写真集<br>(じっくり全てを知りたい人のために)<br>(日程：2018年3月26日〜31日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/seminary1803/" target="_blank"><img src="/2016/images/top/1704shingakkousotugyo.jpg"></a>
+<p class="block-date">日程：2018年3月31日</p>
+<p class="block-title"><a href="http://astone.tv/events/seminary1803/" target="_blank">桜咲く<br>神学校の卒業式</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
