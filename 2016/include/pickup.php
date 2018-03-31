@@ -7,13 +7,13 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
 </div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/okinawa1804/" target="_blank"><img src="/2016/images/top/1804okinawa.jpg"></a>
 <p class="block-date">日程：2018年4月1日～4月4日</p>
 <p class="block-title"><a href="http://astone.tv/events/okinawa1804/" target="_blank">華やぐ季節の沖縄を行く<br>沖縄宣教の旅<br>(日程：2018年4月2日〜4日)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -39,12 +39,12 @@
 <p class="block-title"><a href="http://astone.tv/events/happyday2017/2018041/" target="_blank">OH HAPPY DAY!<br>進級、進学おめでとう！</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1803merlin.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">ハワイチーム<br>ダイジェスト映像<br>(日程：2018年3月12日～3月15日)<br>再生時間 3:00</a></p>
-</div>-->
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">マーリンさんを偲ぶ会<br>映像<br>(日程：2018年3月12日～3月15日)<br>再生時間 3:00</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
