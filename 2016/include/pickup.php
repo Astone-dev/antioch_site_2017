@@ -33,7 +33,7 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2"> 動画</span>
+<span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年3月26日～4月1日</p>
