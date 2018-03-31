@@ -56,6 +56,13 @@
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1803merlin.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">ハワイチーム<br>ダイジェスト映像<br>(日程：2018年3月12日～3月15日)<br>再生時間 3:00</a></p>
+</div>-->
+
 <div class="column-inner">
 <span>NEW</span>
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1803kokorogospelinfo.jpg"></a>
@@ -125,6 +132,15 @@
 <a href="http://tv.antioch.jp/digest/201803-hawaii/" target="_blank"><img src="/2016/images/top/1803hawaii_dstmovie.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201803-hawaii/" target="_blank">ハワイチーム<br>ダイジェスト映像<br>(日程：2018年3月12日～3月15日)<br>再生時間 3:00</a></p>
 </div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1803hawaii/category/hawaii1803dst/
+" target="_blank"><img src="/2016/images/top/1803hawaii_d_p.jpg"></a>
+<p class="block-date">日程：2018年3月12日～3月15日</p>
+<p class="block-title"><a href="http://blog.antioch.jp/1803hawaii/category/hawaii1803dst/" target="_blank">ハワイチーム<br>ダイジェスト写真集<br>きれいな写真版</a></p>
+</div>
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
