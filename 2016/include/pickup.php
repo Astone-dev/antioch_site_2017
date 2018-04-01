@@ -18,18 +18,18 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/thanks1803/" target="_blank"><img src="/2016/images/top/1803cherry_a.jpg"></a>
-<p class="block-date">日程：2018年3月26日～4月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1803/" target="_blank">まだまだ桜楽しめるぞ！<br>アンテオケ教会の一週間</a></p>
+<a href="http://antiochblog.jp/praise/yobi1804/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
+<p class="block-date">日程：2018年4月2日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1804/" target="_blank">新入生、在学生、卒業生の一週間<br>アンテオケ教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/yobi1804/" target="_blank"><img src="/2016/images/top/1803cherry_a.jpg"></a>
-<p class="block-date">日程：2018年3月26日～4月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1804/" target="_blank">新入生、在学生、卒業生の一週間<br>アンテオケ教会の一週間</a></p>
-</div>-->
+<a href="http://antiochblog.jp/info/spring1804/" target="_blank"><img src="/2016/images/top/1804spring_a.jpg"></a>
+<p class="block-date">日程：2018年4月2日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/spring1804/" target="_blank">爽やかな春風の季節<br>アンテオケ教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -37,14 +37,6 @@
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年3月26日～4月1日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春を感じるほのぼのと <br>東京アンテオケ教会</p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/happyday2017/2018041/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
-<p class="block-date">日程：2018年4月1日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/2018041/" target="_blank">OH HAPPY DAY!<br>進級、進学おめでとう！</a></p>
 </div>
 
 <div class="column-inner">
@@ -57,18 +49,18 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/thanks1803z/" target="_blank"><img src="/2016/images/top/1803cherry_z.jpg"></a>
-<p class="block-date">日程：2018年3月26日～4月1日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1803z/" target="_blank">まだまだ桜楽しめるぞ！<br>全国各教会の一週間</a></p>
+<a href="http://astone.tv/events/yobi1804z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
+<p class="block-date">日程：2018年4月2日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/yobi1804z/" target="_blank">新入生、在学生、卒業生の一週間<br>全国各教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/yobi1804z/" target="_blank"><img src="/2016/images/top/1803cherry_z.jpg"></a>
-<p class="block-date">日程：2018年3月26日～4月1日</p>
-<p class="block-title"><a href="http://astone.tv/events/yobi1804z/" target="_blank">新入生、在学生、卒業生の一週間<br>全国各教会の一週間</a></p>
-</div>-->
+<a href="http://antiochblog.jp/praise/spring1804z/" target="_blank"><img src="/2016/images/top/1804spring_z.jpg"></a>
+<p class="block-date">日程：2018年4月2日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/spring1804z/" target="_blank">爽やかな春風の季節<br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -128,6 +120,31 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/thanks1803/" target="_blank"><img src="/2016/images/top/1803cherry_a.jpg"></a>
+<p class="block-date">日程：2018年3月26日～4月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1803/" target="_blank">まだまだ桜楽しめるぞ！<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/happyday2017/2018041/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
+<p class="block-date">日程：2018年4月1日</p>
+<p class="block-title"><a href="http://astone.tv/events/happyday2017/2018041/" target="_blank">OH HAPPY DAY!<br>進級、進学おめでとう！</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/thanks1803z/" target="_blank"><img src="/2016/images/top/1803cherry_z.jpg"></a>
+<p class="block-date">日程：2018年3月26日～4月1日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1803z/" target="_blank">まだまだ桜楽しめるぞ！<br>全国各教会の一週間</a></p>
+</div>
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
