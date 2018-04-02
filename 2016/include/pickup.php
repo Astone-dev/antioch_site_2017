@@ -93,8 +93,8 @@
 
 <div class="column-inner">
 <span>NEW</span>
-<a href="http://tokyo.antioch.jp/yorimichi/result-alacarte.html" target="_blank"><img src="/2016/images/top/1801yorimichi30kekka.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-alacarte.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.30<br>「祝福のアラカルト」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+<a href="http://tokyo.antioch.jp/yorimichi/result-yokatta.html" target="_blank"><img src="/2016/images/top/1804yorimichi31kekka.jpg"></a>
+<p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-yokatta.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.31<br>「神様がいてよかったと思った瞬間」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
 
 <div class="column-inner">
