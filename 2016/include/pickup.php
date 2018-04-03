@@ -70,6 +70,13 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/20180403/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2018年4月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180403/" target="_blank">エルサレム<br>岩槻のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
@@ -246,7 +253,7 @@
 <span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/1803nerima/" target="_blank"><img src="/2016/images/top/1607joyasagaya.jpg"></a>
 <p class="block-date">日程：2018年3月23日</p>
-<p class="block-title"><a href="http://astone.tv/events/1803nerima/" target="_blank">JOY <br>阿佐ヶ谷ドラムでコンサート</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1803nerima/" target="_blank">JOY<br>阿佐ヶ谷ドラムでコンサート</a></p>
 </div>
 
 <div class="column-inner">
