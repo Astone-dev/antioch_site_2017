@@ -36,7 +36,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1804it/" target="_blank"><img src="/2016/images/top/1804aiitresearch.jpg"></a>
 <p class="block-date">日程：2018年4月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804it/" target="_blank">IT・AI展示会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1804it/" target="_blank">最新技術をリサーチ！<br>インターネット委員会メンバー<br>IT・AI展示会へ</a></p>
 </div>
 
 <div class="column-inner">
@@ -44,7 +44,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/concert1804/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
 <p class="block-date">日程：2018年4月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/concert1804/" target="_blank">オーケストラ、クワイア<br>施設でコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/concert1804/" target="_blank">オーケストラ、クワイア<br>杉並の施設でコンサート<br>(日程：2018年4月7日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -59,14 +59,14 @@
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank"><img src="/2016/images/top/1804thanks_dstmovie.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェスト映像<br>再生時間 10:03</a></p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェスト映像<br>(再生時間 10:03)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1803merlin.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">マーリンさんを偲ぶ会<br>映像<br>再生時間 10:35</a></p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">マーリンさんを偲ぶ会<br>映像<br>(再生時間 10:35)</a></p>
 </div>
 
 <div class="column-inner">
@@ -107,12 +107,12 @@
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank"><img src="/2016/images/top/1804concert.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank">こころごすぺる<br>紹介映像<br>再生時間 10:03</a></p>
-</div>-->
+<a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1804concert.jpg"></a>
+<p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺる<br>紹介映像<br>(再生時間 10:03)</a></p>
+</div>
 
 <div class="column-inner">
 <span>NEW</span>
