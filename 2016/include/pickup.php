@@ -79,6 +79,13 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://blog.antioch.jp/1803revival/category/1803dst/" target="_blank"><img src="/2016/images/top/1804thanks_d_b.jpg"></a>
+<p class="block-title"><a href="http://blog.antioch.jp/1803revival/category/1803dst/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェストブログ</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/yobi1804z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
 <p class="block-date">日程：2018年4月2日～8日</p>
 <p class="block-title"><a href="http://astone.tv/events/yobi1804z/" target="_blank">新入生、在学生、卒業生の一週間<br>全国各教会の一週間</a></p>
