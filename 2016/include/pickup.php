@@ -31,21 +31,21 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/spring1804/" target="_blank">爽やかな春風の季節<br>アンテオケ教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1804it/" target="_blank"><img src="/2016/images/top/1804aiitresearch.jpg"></a>
 <p class="block-date">日程：2018年4月5日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1804it/" target="_blank">IT・AI展示会</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/concert1804/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
 <p class="block-date">日程：2018年4月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/concert1804/" target="_blank">オーケストラ、クワイア<br>施設でコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -54,13 +54,6 @@
 <p class="block-date">動画ブログ：2018年4月2日～8日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春を感じるほのぼのと <br>東京アンテオケ教会</p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank"><img src="/2016/images/top/1804concert.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank">こころごすぺる<br>紹介映像<br>再生時間 10:03</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -113,6 +106,13 @@
 <p class="block-date">動画ブログ：2018年4月2日～4月8日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank"><img src="/2016/images/top/1804concert.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank">こころごすぺる<br>紹介映像<br>再生時間 10:03</a></p>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
