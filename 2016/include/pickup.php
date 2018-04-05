@@ -34,9 +34,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1804it/" target="_blank"><img src="/2016/images/top/1804aiitresearch.jpg"></a>
-<p class="block-date">日程：2018年4月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804it/" target="_blank">最新技術をリサーチ！<br>インターネット委員会メンバー<br>IT・AI展示会へ</a></p>
+<a href="http://astone.tv/events/gifts1804/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+<p class="block-date">日程：2018年4月6日</p>
+<p class="block-title"><a href="http://astone.tv/events/gifts1804/" target="_blank">Gifts<br>春の船橋を行く<br>路上ライブとミニコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -157,6 +157,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1804it/" target="_blank"><img src="/2016/images/top/1804aiitresearch.jpg"></a>
+<p class="block-date">日程：2018年4月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1804it/" target="_blank">最新技術をリサーチ！<br>インターネット委員会メンバー<br>IT・AI展示会へ</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
