@@ -7,13 +7,6 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
 </div>-->
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/okinawa1804/" target="_blank"><img src="/2016/images/top/1804okinawa.jpg"></a>
-<p class="block-date">日程：2018年4月1日～4月4日</p>
-<p class="block-title"><a href="http://astone.tv/events/okinawa1804/" target="_blank">華やぐ季節の沖縄を行く<br>沖縄宣教の旅<br>(日程：2018年4月2日〜4日)</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -34,17 +27,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/gifts1804/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
-<p class="block-date">日程：2018年4月6日</p>
-<p class="block-title"><a href="http://astone.tv/events/gifts1804/" target="_blank">Gifts<br>春の船橋を行く<br>路上ライブとミニコンサート</a></p>
+<a href="http://antiochblog.jp/info/concert1804/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
+<p class="block-date">日程：2018年4月7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/concert1804/" target="_blank">オーケストラ、クワイア<br>杉並の施設でコンサート<br>(日程：2018年4月7日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/concert1804/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
-<p class="block-date">日程：2018年4月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/concert1804/" target="_blank">オーケストラ、クワイア<br>杉並の施設でコンサート<br>(日程：2018年4月7日)</a></p>
+<a href="http://antiochblog.jp/praise/gospel1804/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
+<p class="block-date">日程：2018年4月7日〜15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel1804/" target="_blank">こころごすぺるに向かって<br>出演者、スタッフの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -157,6 +150,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/gifts1804/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+<p class="block-date">日程：2018年4月6日</p>
+<p class="block-title"><a href="http://astone.tv/events/gifts1804/" target="_blank">Gifts<br>春の船橋を行く<br>路上ライブとミニコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
